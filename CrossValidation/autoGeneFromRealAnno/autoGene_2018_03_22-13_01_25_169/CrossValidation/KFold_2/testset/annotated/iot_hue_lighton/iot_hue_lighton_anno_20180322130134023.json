@@ -1,0 +1,32 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "hey turn on disco lights in my apartment and let the party begin",
+      "intent": "iot_hue_lighton",
+      "entities": [
+        {
+          "start": 12,
+          "end": 24,
+          "value": "disco lights",
+          "entity": "device_type"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "value": "apartment",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "overhead lights on please",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "switch on light",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "add appointment in the list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 4,
+          "end": 15,
+          "value": "appointment",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "add new items in the remainder list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 21,
+          "end": 30,
+          "value": "remainder",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "help me start my kitchen list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "kitchen",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "reopen groceries and add milk",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "please add list of things to buy for party",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 37,
+          "end": 42,
+          "value": "party",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "pick up dry cleaning tomorrow",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "create a list for the following",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "add new item to list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "enter this to a list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "prepare a new list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "set list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "select the item",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "create a list for today's tasks",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 18,
+          "end": 31,
+          "value": "today's tasks",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "put the item on the list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "add grocery shopping to today's to do list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 24,
+          "end": 29,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "make a list of numbers for me",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "numbers",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add new songs to playlist",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 4,
+          "end": 13,
+          "value": "new songs",
+          "entity": "music_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "new list please",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "please create a list of due payment those who not received more then ten months",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "add to my groceries",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 10,
+          "end": 19,
+          "value": "groceries",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add spent five dollars in my expenses list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 29,
+          "end": 37,
+          "value": "expenses",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "make a list about selena gomez concert schedule",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 18,
+          "end": 30,
+          "value": "selena gomez",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "start a list of dog names",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 16,
+          "end": 25,
+          "value": "dog names",
+          "entity": "list_name"
+        }
+      ]
+    }
+  ]
+}

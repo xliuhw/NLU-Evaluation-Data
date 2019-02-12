@@ -1,0 +1,127 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is your prescription for long and healthy life",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what are the details on umf",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 24,
+          "end": 27,
+          "value": "umf",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "explain quantum physics to me in language i understand",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "journal entry for today",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "are you happy today",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i need my tire pressure checked",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "can you tell me a little about yourself",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "amazon deals",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "hey whatsapp",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i took my truck to the shop",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "check the status of my power usage",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "see you",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "has it been a busy day",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what's next",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "recent advice concerning google seo",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "please tell me who is going to win the nba championship",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "find recent events of the celebrity",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "horoscope",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "today i had a record breaking sale",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

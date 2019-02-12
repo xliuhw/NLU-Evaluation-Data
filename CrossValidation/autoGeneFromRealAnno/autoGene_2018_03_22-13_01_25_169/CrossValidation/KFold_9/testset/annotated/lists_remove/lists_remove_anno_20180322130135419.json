@@ -1,0 +1,140 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "remove event from my list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete all lists",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "the list should not contain all food items with the prefix dry",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "get rid of bananas on the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete the list brads appointments",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 16,
+          "end": 34,
+          "value": "brads appointments",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete my to do's for this week",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "to do",
+          "entity": "list_name"
+        },
+        {
+          "start": 22,
+          "end": 31,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "delete out item",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "trash the open list google",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove list item",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "please clear the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "list remove",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "i don't need tesco item any more delete it",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "tesco",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "delete my shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please remove the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete my list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove events from my list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove the bank transaction list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 27,
+          "value": "bank transaction",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "erase that item from my list",
+      "intent": "lists_remove",
+      "entities": []
+    }
+  ]
+}

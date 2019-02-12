@@ -1,0 +1,308 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "open events this week",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i have any calendar events this month",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 40,
+          "value": "this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what are my reminders for this week",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 35,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i have any appointments scheduled for march twenty four two thousand and seventeen",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 26,
+          "value": "appointments",
+          "entity": "event_name"
+        },
+        {
+          "start": 41,
+          "end": 85,
+          "value": "march twenty four two thousand and seventeen",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me about my meetings next week",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "meetings",
+          "entity": "event_name"
+        },
+        {
+          "start": 34,
+          "end": 43,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is the anniversary event on twenty second of this month true",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 18,
+          "value": "anniversary",
+          "entity": "event_name"
+        },
+        {
+          "start": 28,
+          "end": 55,
+          "value": "twenty second of this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what events are going to happen in my city between two four pm today",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 38,
+          "end": 42,
+          "value": "city",
+          "entity": "place_name"
+        },
+        {
+          "start": 51,
+          "end": 54,
+          "value": "two",
+          "entity": "time"
+        },
+        {
+          "start": 55,
+          "end": 62,
+          "value": "four pm",
+          "entity": "time"
+        },
+        {
+          "start": 63,
+          "end": 68,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is the balloon festival this weekend",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 23,
+          "value": "balloon festival",
+          "entity": "event_name"
+        },
+        {
+          "start": 24,
+          "end": 36,
+          "value": "this weekend",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "who is scheduled for tomorrow's meeting",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what is next in my calendar",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "does my calendar say i'm free on april one two thousand and seventeen",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 69,
+          "value": "april one two thousand and seventeen",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "from four to six when do i have a free break",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "four",
+          "entity": "time"
+        },
+        {
+          "start": 13,
+          "end": 16,
+          "value": "six",
+          "entity": "time"
+        },
+        {
+          "start": 34,
+          "end": 44,
+          "value": "free break",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "are there any meetings set for next wednesday",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 22,
+          "value": "meetings",
+          "entity": "event_name"
+        },
+        {
+          "start": 36,
+          "end": 45,
+          "value": "wednesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is my schedule for tomorrow morning",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 32,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 33,
+          "end": 40,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "is mary's birthday party tonight",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 7,
+          "value": "mary",
+          "entity": "person"
+        },
+        {
+          "start": 10,
+          "end": 24,
+          "value": "birthday party",
+          "entity": "event_name"
+        },
+        {
+          "start": 25,
+          "end": 32,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "tell me what's happening this week",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 34,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i have a busy day today",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what are meeting scheduled for today",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 31,
+          "end": 36,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is my next event",
+      "intent": "calendar_query",
+      "entities": []
+    }
+  ]
+}

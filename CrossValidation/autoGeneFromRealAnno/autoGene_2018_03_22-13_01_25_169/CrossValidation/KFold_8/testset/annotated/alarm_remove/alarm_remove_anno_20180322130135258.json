@@ -1,0 +1,100 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "change the alarm weekly settings",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "remove my early alarms",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "please remove my alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "turn off the six am alarm for Wednesday",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 13,
+          "end": 19,
+          "value": "six am",
+          "entity": "time"
+        },
+        {
+          "start": 30,
+          "end": 39,
+          "value": "Wednesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "get rid of the five pm alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "five pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "disable the first alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "i would like this alarm permanently removed",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "remove all alarms if any",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "i no longer need the daily five pm alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 27,
+          "end": 34,
+          "value": "five pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remove the alarm set for four hundred am",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 25,
+          "end": 40,
+          "value": "four hundred am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "stop seven am alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 5,
+          "end": 13,
+          "value": "seven am",
+          "entity": "time"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "set alarm on twenty fifth may at five pm",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 25,
+          "value": "twenty fifth",
+          "entity": "date"
+        },
+        {
+          "start": 26,
+          "end": 29,
+          "value": "may",
+          "entity": "date"
+        },
+        {
+          "start": 33,
+          "end": 40,
+          "value": "five pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please wake me up at seven thirty am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 21,
+          "end": 36,
+          "value": "seven thirty am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set an alarm for eight am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "eight am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "alarm five pm tuesday",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "five pm",
+          "entity": "time"
+        },
+        {
+          "start": 14,
+          "end": 21,
+          "value": "tuesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "wake me up at five thirty",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 14,
+          "end": 25,
+          "value": "five thirty",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set my alarm for eight am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "eight am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set my alarm for six thirty in the morning tomorrow",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 27,
+          "value": "six thirty",
+          "entity": "time"
+        },
+        {
+          "start": 35,
+          "end": 42,
+          "value": "morning",
+          "entity": "timeofday"
+        },
+        {
+          "start": 43,
+          "end": 51,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "set the time",
+      "intent": "alarm_set",
+      "entities": []
+    },
+    {
+      "text": "i need an alarm",
+      "intent": "alarm_set",
+      "entities": []
+    },
+    {
+      "text": "wake me up",
+      "intent": "alarm_set",
+      "entities": []
+    },
+    {
+      "text": "i need a six am wakeup call",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "six am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "wake me up at five am this week",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 14,
+          "end": 21,
+          "value": "five am",
+          "entity": "time"
+        },
+        {
+          "start": 22,
+          "end": 31,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "set alarm for saturday morning soccer practice at eight am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 14,
+          "end": 22,
+          "value": "saturday",
+          "entity": "date"
+        },
+        {
+          "start": 23,
+          "end": 30,
+          "value": "morning",
+          "entity": "timeofday"
+        },
+        {
+          "start": 31,
+          "end": 46,
+          "value": "soccer practice",
+          "entity": "event_name"
+        },
+        {
+          "start": 50,
+          "end": 58,
+          "value": "eight am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please set the alarm for next morning to seven am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 25,
+          "end": 37,
+          "value": "next morning",
+          "entity": "timeofday"
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "value": "seven am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "can you set my alarm for seven thirty am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 25,
+          "end": 40,
+          "value": "seven thirty am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set alarm at two am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 19,
+          "value": "two am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please set the alarm for eight pm wednesday evening",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "eight pm",
+          "entity": "time"
+        },
+        {
+          "start": 34,
+          "end": 43,
+          "value": "wednesday",
+          "entity": "date"
+        },
+        {
+          "start": 44,
+          "end": 51,
+          "value": "evening",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "could you please set an alarm at six am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 33,
+          "end": 39,
+          "value": "six am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set an alarm for four in the afternoon",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "four",
+          "entity": "time"
+        },
+        {
+          "start": 29,
+          "end": 38,
+          "value": "afternoon",
+          "entity": "timeofday"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "latest updates",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "hey olly tell my today's top news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is there any new environmental news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 30,
+          "value": "environmental",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "hackernews",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 10,
+          "value": "hackernews",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "look up news articles about trump",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "trump",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "headline news for texas",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "texas",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the winning numbers to the powerball lottery",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 52,
+          "value": "winning numbers to the powerball lottery",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "dea guam prescription drug abuse on the rise",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 44,
+          "value": "dea guam prescription drug abuse on the rise",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what is the latest news from cbs",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 32,
+          "value": "cbs",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what's going on at the capitol",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 30,
+          "value": "capitol",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please find me the pe most recent news on",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "what is new news for today",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what are the most recent headlines on cnn",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 38,
+          "end": 41,
+          "value": "cnn",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "is anything different today about blank",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 34,
+          "end": 39,
+          "value": "blank",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what's happening today",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "search for the latest news about iphone",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 39,
+          "value": "iphone",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what is new in politics today can you filter out trump news though",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "politics",
+          "entity": "news_topic"
+        },
+        {
+          "start": 24,
+          "end": 29,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 49,
+          "end": 54,
+          "value": "trump",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what went on in the world today",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how are things in the world",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "world",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

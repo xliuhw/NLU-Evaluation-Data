@@ -1,0 +1,134 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what kind of lists do i have",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "display available lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "how many lists do i have in contacts",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "give me the names of my lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what list do i have",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "tell me what is on the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "check out my to do list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "lists i have",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "tell me what's on my shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "do i have banana in my shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 31,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what are the names of the lists that i have created",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "list the lists i have",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "can i have my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "do i have anything planned for today",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 36,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what are the titles of the lists in contacts",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what is my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "read me back whats on my shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what on my play list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "describe your list",
+      "intent": "lists_query",
+      "entities": []
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "shuffle this playlist",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "repeat this song when it ends",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "cut the songs in this musics",
+      "intent": "music_settings",
+      "entities": []
+    },
+    {
+      "text": "repeat previous song",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "please repeat that music again of akon",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 7,
+          "end": 13,
+          "value": "repeat",
+          "entity": "player_setting"
+        },
+        {
+          "start": 34,
+          "end": 38,
+          "value": "akon",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "repeat this song",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "repeat same song for ten times",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        },
+        {
+          "start": 12,
+          "end": 16,
+          "value": "song",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

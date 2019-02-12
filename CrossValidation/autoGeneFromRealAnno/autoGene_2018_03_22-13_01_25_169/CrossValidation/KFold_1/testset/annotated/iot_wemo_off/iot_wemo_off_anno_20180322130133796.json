@@ -1,0 +1,111 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "deactive the socket",
+      "intent": "iot_wemo_off",
+      "entities": []
+    },
+    {
+      "text": "turn off the rice cooker socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 13,
+          "end": 31,
+          "value": "rice cooker socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "power off wemo plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 10,
+          "end": 26,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please switch off on the wemo plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 25,
+          "end": 41,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "shut the smart socket down",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 9,
+          "end": 21,
+          "value": "smart socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "i do not want to use the socket anymore",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 25,
+          "end": 31,
+          "value": "socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off my smart plug in thirty minutes",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 12,
+          "end": 22,
+          "value": "smart plug",
+          "entity": "device_type"
+        },
+        {
+          "start": 23,
+          "end": 40,
+          "value": "in thirty minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "turn off wifi when you leave home to save power",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "wifi",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please turn off my smart plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 19,
+          "end": 36,
+          "value": "smart plug socket",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

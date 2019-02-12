@@ -1,0 +1,387 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "read the ticket for tesla",
+      "intent": "transport_ticket",
+      "entities": []
+    },
+    {
+      "text": "buy a train ticket to cleveland for april fourteenth",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 22,
+          "end": 31,
+          "value": "cleveland",
+          "entity": "place_name"
+        },
+        {
+          "start": 36,
+          "end": 52,
+          "value": "april fourteenth",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "book a rajdhani train ticket from mumbai to ahmedabad",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 34,
+          "end": 53,
+          "value": "mumbai to ahmedabad",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book for me a train ticket to california",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 30,
+          "end": 40,
+          "value": "california",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book me a train ticket to atlanta please",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "atlanta",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book a train ticket for friday april fourteenth for boston",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 24,
+          "end": 47,
+          "value": "friday april fourteenth",
+          "entity": "date"
+        },
+        {
+          "start": 52,
+          "end": 58,
+          "value": "boston",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book me a train ride covering five destinations to see in new york",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 21,
+          "end": 47,
+          "value": "covering five destinations",
+          "entity": "transport_descriptor"
+        },
+        {
+          "start": 58,
+          "end": 66,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i need to leave on the five pm train to rockville",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 23,
+          "end": 30,
+          "value": "five pm",
+          "entity": "time"
+        },
+        {
+          "start": 31,
+          "end": 36,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 40,
+          "end": 49,
+          "value": "rockville",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book me a train ticket at earliest time tomorrow",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 40,
+          "end": 48,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "repurchase last train ticket to phillyx",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "value": "phillyx",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book a ticket to paris on eurostar at five pm this Friday",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "paris",
+          "entity": "place_name"
+        },
+        {
+          "start": 26,
+          "end": 34,
+          "value": "eurostar",
+          "entity": "transport_name"
+        },
+        {
+          "start": 38,
+          "end": 45,
+          "value": "five pm",
+          "entity": "time"
+        },
+        {
+          "start": 46,
+          "end": 57,
+          "value": "this Friday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "buy me a ticket to take the train to atlanta",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 37,
+          "end": 44,
+          "value": "atlanta",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "buy me today train ticket to city leeds",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 13,
+          "end": 18,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 34,
+          "end": 39,
+          "value": "leeds",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book a train ticket with a berth seat to lucknow for next week",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 27,
+          "end": 37,
+          "value": "berth seat",
+          "entity": "transport_descriptor"
+        },
+        {
+          "start": 41,
+          "end": 48,
+          "value": "lucknow",
+          "entity": "place_name"
+        },
+        {
+          "start": 53,
+          "end": 62,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "open train ticket app",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book me a train for the next available train",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book a first class ticket in the next train to miami",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 18,
+          "value": "first class",
+          "entity": "transport_descriptor"
+        },
+        {
+          "start": 38,
+          "end": 43,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 47,
+          "end": 52,
+          "value": "miami",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i need you to book a train ticket that leaves at two pm",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 49,
+          "end": 55,
+          "value": "two pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "book a train ticket to mumbai for tomorrow",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 23,
+          "end": 29,
+          "value": "mumbai",
+          "entity": "place_name"
+        },
+        {
+          "start": 34,
+          "end": 42,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

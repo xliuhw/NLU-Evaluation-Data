@@ -1,0 +1,80 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "and the darkness has fallen",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "can you put the lights on the high setting",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "lights on",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "switch on the lights",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "turn all lights on",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "It's too dark in here",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "please turn on my balcony lights",
+      "intent": "iot_hue_lighton",
+      "entities": [
+        {
+          "start": 18,
+          "end": 25,
+          "value": "balcony",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "turn corner light on",
+      "intent": "iot_hue_lighton",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "corner",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "turn on all upstairs lights",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "it's awfully dark here",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "put the disco lights on",
+      "intent": "iot_hue_lighton",
+      "entities": [
+        {
+          "start": 8,
+          "end": 20,
+          "value": "disco lights",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

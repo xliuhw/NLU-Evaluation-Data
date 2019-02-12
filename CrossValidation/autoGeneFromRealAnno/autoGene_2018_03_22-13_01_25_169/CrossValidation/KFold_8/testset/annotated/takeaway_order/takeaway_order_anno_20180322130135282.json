@@ -1,0 +1,304 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "find hotel order food name",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "hotel",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the best pizza near me that delivers",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 36,
+          "end": 44,
+          "value": "delivers",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "please order me pizza and wings from papa johns now",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 16,
+          "end": 31,
+          "value": "pizza and wings",
+          "entity": "food_type"
+        },
+        {
+          "start": 37,
+          "end": 47,
+          "value": "papa johns",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "i need two pizzas stat",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 11,
+          "end": 22,
+          "value": "pizzas stat",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "find and order rasgulla of janta sweet home pvt ltd",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "rasgulla",
+          "entity": "food_type"
+        },
+        {
+          "start": 27,
+          "end": 51,
+          "value": "janta sweet home pvt ltd",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "call the closest mexican restaurant",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "mexican",
+          "entity": "food_type"
+        },
+        {
+          "start": 25,
+          "end": 35,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "it's time for junk food",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 14,
+          "end": 23,
+          "value": "junk food",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "checkout domino centre near me and order cheese pizza",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "domino",
+          "entity": "business_name"
+        },
+        {
+          "start": 41,
+          "end": 53,
+          "value": "cheese pizza",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "get large pizza with pepperoni",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 10,
+          "end": 30,
+          "value": "pizza with pepperoni",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "order the best priced general tofu in nyack",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 30,
+          "end": 34,
+          "value": "tofu",
+          "entity": "food_type"
+        },
+        {
+          "start": 38,
+          "end": 43,
+          "value": "nyack",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "order me chinese food",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "chinese",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "order a meal from a nice restaurant",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 25,
+          "end": 35,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "open grubhub",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "grubhub",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "order a medium pizza with pepperoni and bacon on its",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 26,
+          "end": 45,
+          "value": "pepperoni and bacon",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "order two medium cheese and one medium pepperoni pizza from dominoes",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 17,
+          "end": 23,
+          "value": "cheese",
+          "entity": "food_type"
+        },
+        {
+          "start": 39,
+          "end": 54,
+          "value": "pepperoni pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 60,
+          "end": 68,
+          "value": "dominoes",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "show me nearby takeout restaurants",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "takeout",
+          "entity": "order_type"
+        },
+        {
+          "start": 23,
+          "end": 34,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "please order me some takeout",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "can you please order me some mcdonalds",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 29,
+          "end": 38,
+          "value": "mcdonalds",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tell the golden fork that i want their fish risotto delivered",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 20,
+          "value": "the golden fork",
+          "entity": "business_name"
+        },
+        {
+          "start": 39,
+          "end": 51,
+          "value": "fish risotto",
+          "entity": "food_type"
+        },
+        {
+          "start": 52,
+          "end": 61,
+          "value": "delivered",
+          "entity": "order_type"
+        }
+      ]
+    }
+  ]
+}

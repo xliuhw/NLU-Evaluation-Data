@@ -1,0 +1,209 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is the last email i received",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "refresh the inbox and update about any unread mails",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "check inbox for mail from sarah",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "inbox",
+          "entity": "email_folder"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "value": "sarah",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "any recent emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "have i gotten any emails from mom lately",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 33,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "tell me when i get new emails from principal lowry",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 35,
+          "end": 50,
+          "value": "principal lowry",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "are there any unread messages in my inbox",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 41,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "what did the clinic say about my exams",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 19,
+          "value": "clinic",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "are there any unread emails from patrick",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 40,
+          "value": "patrick",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "list new emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "have i gotten any new emails from mary",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 38,
+          "value": "mary",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "did bert write me today",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "bert",
+          "entity": "person"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please check recent emails from new contact",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "please check if there is a new email on the inbox",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 44,
+          "end": 49,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "have i received any emails since noon",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 37,
+          "value": "noon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "read new messages from my wife",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 30,
+          "value": "wife",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "check if there any new email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "what new emails do i have form amie",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 35,
+          "value": "amie",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell me who send the email about the boss yesterday",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 42,
+          "end": 51,
+          "value": "yesterday",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

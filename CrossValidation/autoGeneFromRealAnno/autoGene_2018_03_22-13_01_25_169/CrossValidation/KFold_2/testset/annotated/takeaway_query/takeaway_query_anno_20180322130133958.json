@@ -1,0 +1,281 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "call pizza hut and find out if my order is ready",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "pizza hut",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "find a pizza restaurant open until noon",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 13,
+          "end": 23,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 35,
+          "end": 39,
+          "value": "noon",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "does my favourite pizza place available for takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 44,
+          "end": 52,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "do the restaurant deliver",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 17,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 18,
+          "end": 25,
+          "value": "deliver",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does pf changs do takeout",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "pf changs",
+          "entity": "business_name"
+        },
+        {
+          "start": 18,
+          "end": 25,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "find my thai takeaways around grassmarket",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "thai",
+          "entity": "food_type"
+        },
+        {
+          "start": 13,
+          "end": 22,
+          "value": "takeaways",
+          "entity": "order_type"
+        },
+        {
+          "start": 30,
+          "end": 41,
+          "value": "grassmarket",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "look to see if luigi's has takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "luigi",
+          "entity": "business_name"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does john's pizza have takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "john",
+          "entity": "person"
+        },
+        {
+          "start": 12,
+          "end": 17,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "can i get takeout from pf changs",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "takeout",
+          "entity": "order_type"
+        },
+        {
+          "start": 23,
+          "end": 32,
+          "value": "pf changs",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "where is an olive garden that does takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 24,
+          "value": "olive garden",
+          "entity": "business_name"
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "how much time it will take to prepare the order",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "when i will get the delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 28,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "when is my takeaway going to get here",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "when will my food be ready",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "does restaurant have takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 21,
+          "end": 29,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "can i get delivery from this restaurant",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "delivery",
+          "entity": "order_type"
+        },
+        {
+          "start": 29,
+          "end": 39,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the status of my order",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "when do i need to leave to pick up my order",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "prepare the order as soon as possible",
+      "intent": "takeaway_query",
+      "entities": []
+    }
+  ]
+}

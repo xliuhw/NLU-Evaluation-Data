@@ -1,0 +1,91 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i want the smart socket off now",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 11,
+          "end": 23,
+          "value": "smart socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "power down the plug socket one",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 15,
+          "end": 30,
+          "value": "plug socket one",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "power off on",
+      "intent": "iot_wemo_off",
+      "entities": []
+    },
+    {
+      "text": "switch off the plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 15,
+          "end": 26,
+          "value": "plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please make the smart socket turn off",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 16,
+          "end": 28,
+          "value": "smart socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off bedroom fan",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "bedroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "turn off my wifi",
+      "intent": "iot_wemo_off",
+      "entities": []
+    },
+    {
+      "text": "i'd like you to shut off my smart plug socket now please",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 28,
+          "end": 45,
+          "value": "smart plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please power down",
+      "intent": "iot_wemo_off",
+      "entities": []
+    }
+  ]
+}

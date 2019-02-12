@@ -1,0 +1,241 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "when is the school dance junction marked",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 33,
+          "value": "school dance junction",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what is my schedule for tomorrow",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 32,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "am i available at five pm on sunday",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 25,
+          "value": "five pm",
+          "entity": "time"
+        },
+        {
+          "start": 29,
+          "end": 35,
+          "value": "sunday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i have any notifications from social media",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "what do i have scheduled for next week",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 38,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "tell me the meetings i have for the week",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "meetings",
+          "entity": "event_name"
+        },
+        {
+          "start": 36,
+          "end": 40,
+          "value": "week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i have any openings on my schedule for tomorrow",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 42,
+          "end": 50,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i need to pick up the kids from anything today",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 44,
+          "end": 49,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is there anything i need to be aware of",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "do i have any undone tasks",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 20,
+          "value": "undone",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what is left for today",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "list out my upcoming events",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "one thousand two hundred and thirty pm already you will have a meeting in ten mins",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 38,
+          "value": "one thousand two hundred and thirty pm",
+          "entity": "time"
+        },
+        {
+          "start": 63,
+          "end": 70,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 74,
+          "end": 82,
+          "value": "ten mins",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "is the meeting scheduled for tomorrow",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 29,
+          "end": 37,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "when the birthday will be",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 17,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "when is my next appointment and who do i contact to reschedule",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 27,
+          "value": "appointment",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the plan for tonight",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "what day of the week is my birthday this year",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 35,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what is my schedule for june fourteenth two thousand and seventeen",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 66,
+          "value": "june fourteenth two thousand and seventeen",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

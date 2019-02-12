@@ -1,0 +1,120 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "remove my six am alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 16,
+          "value": "six am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "snooze all today's alarms permanently",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remove my work alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "one pm removed",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "one pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "olly cancel yoga alarms",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "do not wake me up on weekends",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "weekends",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remove wake up calls for this week",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "wake up",
+          "entity": "alarm_type"
+        },
+        {
+          "start": 25,
+          "end": 34,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "cancel my alarm for tomorrow morning",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 20,
+          "end": 28,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 29,
+          "end": 36,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "reset the alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "remove tomorrow's alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "set the alarm off",
+      "intent": "alarm_remove",
+      "entities": []
+    }
+  ]
+}

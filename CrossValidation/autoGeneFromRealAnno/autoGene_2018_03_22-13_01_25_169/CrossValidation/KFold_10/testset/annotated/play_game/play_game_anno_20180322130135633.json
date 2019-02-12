@@ -1,0 +1,266 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "open solitaire play with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "solitaire",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "start the league of legends game",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 10,
+          "end": 27,
+          "value": "league of legends",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "how about a nice game of chess",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play fmod",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "fmod",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play i spy with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "i spy",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "start play spider",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 17,
+          "value": "spider",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "co play game monopoly",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 13,
+          "end": 21,
+          "value": "monopoly",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "start candy crush",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 6,
+          "end": 17,
+          "value": "candy crush",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "how about a game of snakes and ladders",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 20,
+          "end": 38,
+          "value": "snakes and ladders",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "will play chess",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "would you like to play never have i ever",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 23,
+          "end": 40,
+          "value": "never have i ever",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "please run this game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "start play fifa seventeen",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 25,
+          "value": "fifa seventeen",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play snake with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "snake",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let us play millionaires",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 12,
+          "end": 24,
+          "value": "millionaires",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play racing",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "racing",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "create a playing teams and play with them",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "i'd like to play monopoly",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "monopoly",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play a game of trivia",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 21,
+          "end": 27,
+          "value": "trivia",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play checkers",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "checkers",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play golf",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "golf",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "i wish i could play video games together",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "video",
+          "entity": "game_type"
+        }
+      ]
+    },
+    {
+      "text": "angry bird",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 0,
+          "end": 10,
+          "value": "angry bird",
+          "entity": "game_name"
+        }
+      ]
+    }
+  ]
+}

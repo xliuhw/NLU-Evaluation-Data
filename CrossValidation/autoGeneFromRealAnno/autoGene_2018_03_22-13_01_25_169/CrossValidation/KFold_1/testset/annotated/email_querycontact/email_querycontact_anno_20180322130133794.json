@@ -1,0 +1,315 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is sarah's number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "sarah",
+          "entity": "person"
+        },
+        {
+          "start": 16,
+          "end": 22,
+          "value": "number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "can you give me details on john",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 27,
+          "end": 31,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "have you responded my phone calls",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 22,
+          "end": 33,
+          "value": "phone calls",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what is jeff's number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "jeff",
+          "entity": "person"
+        },
+        {
+          "start": 15,
+          "end": 21,
+          "value": "number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "how many contacts are there named john",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 34,
+          "end": 38,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell me the contact details of my brother",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 12,
+          "end": 27,
+          "value": "contact details",
+          "entity": "personal_info"
+        },
+        {
+          "start": 34,
+          "end": 41,
+          "value": "brother",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "show mobile number of john",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "mobile number",
+          "entity": "personal_info"
+        },
+        {
+          "start": 22,
+          "end": 26,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "does contact mona has an email as well",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 13,
+          "end": 17,
+          "value": "mona",
+          "entity": "person"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "value": "email",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "show number and contact email of rehan",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "number",
+          "entity": "personal_info"
+        },
+        {
+          "start": 24,
+          "end": 29,
+          "value": "email",
+          "entity": "personal_info"
+        },
+        {
+          "start": 33,
+          "end": 38,
+          "value": "rehan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "look up for the residential address of my team leader",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 16,
+          "end": 35,
+          "value": "residential address",
+          "entity": "personal_info"
+        },
+        {
+          "start": 42,
+          "end": 53,
+          "value": "team leader",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "what is my wife's email",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "my wife",
+          "entity": "relation"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "value": "email",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "select the contact",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "is this my sisters cellphone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "sisters",
+          "entity": "relation"
+        },
+        {
+          "start": 19,
+          "end": 35,
+          "value": "cellphone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "how old is mary s.",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 7,
+          "value": "old",
+          "entity": "personal_info"
+        },
+        {
+          "start": 11,
+          "end": 18,
+          "value": "mary s.",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "did mom text me",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 7,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "please let me know where david is travelling",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "david",
+          "entity": "person"
+        },
+        {
+          "start": 34,
+          "end": 44,
+          "value": "travelling",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "is hayden still living on turnpike lane",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 3,
+          "end": 9,
+          "value": "hayden",
+          "entity": "person"
+        },
+        {
+          "start": 16,
+          "end": 22,
+          "value": "living",
+          "entity": "personal_info"
+        },
+        {
+          "start": 26,
+          "end": 39,
+          "value": "turnpike lane",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "add rebecca green to my list of favorite contacts",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 17,
+          "value": "rebecca green",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is jill's home phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "jill",
+          "entity": "person"
+        },
+        {
+          "start": 15,
+          "end": 32,
+          "value": "home phone number",
+          "entity": "personal_info"
+        }
+      ]
+    }
+  ]
+}

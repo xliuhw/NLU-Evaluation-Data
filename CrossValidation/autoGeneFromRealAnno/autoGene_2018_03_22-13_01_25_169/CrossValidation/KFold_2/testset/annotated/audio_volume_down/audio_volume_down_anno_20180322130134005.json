@@ -1,0 +1,72 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "decrease the volume",
+      "intent": "audio_volume_down",
+      "entities": []
+    },
+    {
+      "text": "lower volume to half",
+      "intent": "audio_volume_down",
+      "entities": [
+        {
+          "start": 13,
+          "end": 20,
+          "value": "to half",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "decrease the volume to ten percent",
+      "intent": "audio_volume_down",
+      "entities": [
+        {
+          "start": 20,
+          "end": 34,
+          "value": "to ten percent",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "could you please lower your volume",
+      "intent": "audio_volume_down",
+      "entities": []
+    },
+    {
+      "text": "turn down the speakers",
+      "intent": "audio_volume_down",
+      "entities": []
+    },
+    {
+      "text": "please slow down volume of speaker",
+      "intent": "audio_volume_down",
+      "entities": []
+    },
+    {
+      "text": "start the radio now on low volume",
+      "intent": "audio_volume_down",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "radio",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "set the volume to low",
+      "intent": "audio_volume_down",
+      "entities": [
+        {
+          "start": 15,
+          "end": 21,
+          "value": "to low",
+          "entity": "change_amount"
+        }
+      ]
+    }
+  ]
+}

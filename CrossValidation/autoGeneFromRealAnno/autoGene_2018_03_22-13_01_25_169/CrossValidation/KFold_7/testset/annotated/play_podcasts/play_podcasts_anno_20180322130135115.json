@@ -1,0 +1,203 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please continue with the next podcast episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "continue",
+          "entity": "player_setting"
+        },
+        {
+          "start": 25,
+          "end": 37,
+          "value": "next podcast",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "please start the podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "play stuff you should know",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "please play the next episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 16,
+          "end": 28,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play the podcast of barack obama saved in device",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 20,
+          "end": 32,
+          "value": "barack obama",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "play that podcast i was listening to yesterday",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 24,
+          "end": 46,
+          "value": "listening to yesterday",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play latest reason podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "reason",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "start playlist for podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "go back",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "start the podcast over that i started last night",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 30,
+          "end": 48,
+          "value": "started last night",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play me the bbc radio podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "bbc radio",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "play compassionate cook episode twenty three",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 5,
+          "end": 23,
+          "value": "compassionate cook",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to listen to the podcast of the super bowl this past year",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 50,
+          "end": 64,
+          "value": "this past year",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "play today's podcast from the mi",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "find me the latest podcast about president trump and his immigration ban",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 33,
+          "end": 72,
+          "value": "president trump and his immigration ban",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "i'd like to continue to the next episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 28,
+          "end": 40,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "please play the next episode in the podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 16,
+          "end": 28,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "start playing my most played podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "next episode please",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    }
+  ]
+}

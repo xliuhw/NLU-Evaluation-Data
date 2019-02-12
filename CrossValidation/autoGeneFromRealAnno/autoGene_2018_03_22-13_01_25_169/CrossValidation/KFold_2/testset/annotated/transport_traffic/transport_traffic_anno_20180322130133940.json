@@ -1,0 +1,181 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "is there any stopped traffic on route eighty today",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 32,
+          "end": 44,
+          "value": "route eighty",
+          "entity": "place_name"
+        },
+        {
+          "start": 45,
+          "end": 50,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "traffic alert",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what is the traffic now",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how is the traffic now",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "will traffic be good when i leave in five minutes",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 37,
+          "end": 49,
+          "value": "five minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "how bad is traffic this morning",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "is the traffic bad enough that i should leave early",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "show traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "is it bumper to bumper",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "is the road in some particular area wide or narrow",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "do you have a traffic update",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "give me current information about traffic at central park road",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 45,
+          "end": 62,
+          "value": "central park road",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how is the traffic on I twenty five",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 22,
+          "end": 35,
+          "value": "I twenty five",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "are there any accidents on harvard",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 27,
+          "end": 34,
+          "value": "harvard",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is traffic light",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "are there any accidents today",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 14,
+          "end": 23,
+          "value": "accidents",
+          "entity": "event_name"
+        },
+        {
+          "start": 24,
+          "end": 29,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "should i go through the valley or on the ten to get to westwood",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 55,
+          "end": 63,
+          "value": "westwood",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the traffic today",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is level of traffic at washington",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 28,
+          "end": 38,
+          "value": "washington",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

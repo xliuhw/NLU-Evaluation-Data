@@ -1,0 +1,290 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "start over the book legacy",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 10,
+          "value": "start over",
+          "entity": "player_setting"
+        },
+        {
+          "start": 11,
+          "end": 26,
+          "value": "the book legacy",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "read to me",
+      "intent": "play_audiobook",
+      "entities": []
+    },
+    {
+      "text": "resume playing the miniaturist",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 14,
+          "value": "resume playing",
+          "entity": "player_setting"
+        },
+        {
+          "start": 15,
+          "end": 30,
+          "value": "the miniaturist",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "open the davinci code where i left off",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 9,
+          "end": 21,
+          "value": "davinci code",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "open the books and play brains book from chap nine",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 24,
+          "end": 35,
+          "value": "brains book",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "start from last time on my audio book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 20,
+          "value": "start from last time",
+          "entity": "player_setting"
+        },
+        {
+          "start": 27,
+          "end": 37,
+          "value": "audio book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "i would like to continue my audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "continue",
+          "entity": "player_setting"
+        },
+        {
+          "start": 28,
+          "end": 37,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "resuming playing my current audio book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "resuming",
+          "entity": "player_setting"
+        },
+        {
+          "start": 28,
+          "end": 38,
+          "value": "audio book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "pause the book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "pause",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "resume the audiobook i listened to last",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "play the client by john grisham",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "the client",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 19,
+          "end": 31,
+          "value": "john grisham",
+          "entity": "audiobook_author"
+        }
+      ]
+    },
+    {
+      "text": "play audiobook snow white",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "audiobook",
+          "entity": "media_type"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "value": "snow white",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "resume the playback of a child called it",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "continue audiobook playback",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "continue",
+          "entity": "player_setting"
+        },
+        {
+          "start": 9,
+          "end": 18,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "resume audiobook please",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 16,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "resume the art of war",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 21,
+          "value": "the art of war",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "read me some more deadly death killers",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "read",
+          "entity": "player_setting"
+        },
+        {
+          "start": 18,
+          "end": 38,
+          "value": "deadly death killers",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play fault in our stars on audible",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 23,
+          "value": "fault in our stars",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 27,
+          "end": 34,
+          "value": "audible",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "start playing from where i left off on the goblet of fire",
+      "intent": "play_audiobook",
+      "entities": []
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+answerid;scenario;intent;answer_annotation;answer_from_anno;answer_from_user
+2165;datetime;convert;"if it is [timeofday : noon] in [place_name : virginia] what time is it in [place_name : california]";"if it is noon in virginia what time is it in california";"If it is noon in Virginia, what time is it in California?"
+21839;datetime;convert;"switch to [time_zone : eastern] time zone";"switch to eastern time zone";"Switch to X time zone"
+13245;datetime;convert;"please change time zone to [place_name : india]";"please change time zone to india";"pls change timezone to india"
+4993;datetime;convert;"change this time to [time_zone : ist]";"change this time to ist";"Change this time to IST"
+2937;datetime;convert;"please convert the time of here at [time : nine pm] to [place_name : brasil] time zone";"please convert the time of here at nine pm to brasil time zone";"please convert the time of here at 9 pm to Brasil  timezone"
+13055;datetime;convert;"it is [time : nine] here what time is it in [place_name : california]";"it is nine here what time is it in california";"It is 9:00 here. What time is it in California?"
+5060;datetime;convert;"what the time difference from here to [place_name : ottawa]";"what the time difference from here to ottawa";"PDA what the time difference from here to Ottawa?"
+2166;datetime;convert;"what is the time difference between [time_zone : eastern] time and [time_zone : pacific time]";"what is the time difference between eastern time and pacific time";"What is the time difference between Eastern time and Pacific time?"

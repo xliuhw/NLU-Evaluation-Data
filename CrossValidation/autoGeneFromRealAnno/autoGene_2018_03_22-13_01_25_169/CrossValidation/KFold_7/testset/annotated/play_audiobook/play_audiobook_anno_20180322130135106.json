@@ -1,0 +1,303 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "resume mind reading book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 24,
+          "value": "mind reading book",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "resume harry potter book five",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 29,
+          "value": "harry potter book five",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "resume audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "resume last played audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 19,
+          "end": 28,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "resume inkheart",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 15,
+          "value": "inkheart",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play this audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 10,
+          "end": 19,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play audiobook where we left off",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "open the two towers",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 19,
+          "value": "the two towers",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play the davinci code",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 9,
+          "end": 21,
+          "value": "davinci code",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "please play back some important points summary",
+      "intent": "play_audiobook",
+      "entities": []
+    },
+    {
+      "text": "start my audio book from where i left off",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "start",
+          "entity": "player_setting"
+        },
+        {
+          "start": 9,
+          "end": 19,
+          "value": "audio book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play the circle",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "the circle",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play audiobook of jacob",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "audiobook",
+          "entity": "media_type"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "value": "jacob",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "can you continue audiobook the circle",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "continue",
+          "entity": "player_setting"
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "value": "audiobook",
+          "entity": "media_type"
+        },
+        {
+          "start": 27,
+          "end": 37,
+          "value": "the circle",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "please continue reading audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 7,
+          "end": 23,
+          "value": "continue reading",
+          "entity": "player_setting"
+        },
+        {
+          "start": 24,
+          "end": 33,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "base on my audiobook collection get me recommendation related audio book i should listen get and play me the resume",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 11,
+          "end": 20,
+          "value": "audiobook",
+          "entity": "media_type"
+        },
+        {
+          "start": 21,
+          "end": 31,
+          "value": "collection",
+          "entity": "list_name"
+        },
+        {
+          "start": 62,
+          "end": 72,
+          "value": "audio book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "resume story",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 12,
+          "value": "story",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "book swan play",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "swan",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to listen to be more chill by ned vizzini",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 20,
+          "end": 33,
+          "value": "be more chill",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 37,
+          "end": 48,
+          "value": "ned vizzini",
+          "entity": "audiobook_author"
+        }
+      ]
+    }
+  ]
+}

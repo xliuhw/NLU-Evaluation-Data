@@ -1,0 +1,273 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what does a soccer ball look like",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 12,
+          "end": 23,
+          "value": "soccer ball",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what an umbrella means",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "umbrella",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "define organism",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "organism",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does the word hypocrisy mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 19,
+          "end": 28,
+          "value": "hypocrisy",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "describe the empire state building",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 9,
+          "end": 34,
+          "value": "the empire state building",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is the meaning of the word sanctimonious",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 32,
+          "end": 45,
+          "value": "sanctimonious",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "how would the volkswagen golf car look like",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 14,
+          "end": 33,
+          "value": "volkswagen golf car",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "define and describe an ultraviolet ray",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 23,
+          "end": 38,
+          "value": "ultraviolet ray",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "how would you describe a tennis ball",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 25,
+          "end": 36,
+          "value": "tennis ball",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does joke mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "joke",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does formidable mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 20,
+          "value": "formidable",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what i can do with laptop",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "laptop",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "how do you describe a capabara",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "capabara",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "define forensic",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "forensic",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "tell me what a workhouse is",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 15,
+          "end": 24,
+          "value": "workhouse",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is the definition of god",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 26,
+          "end": 29,
+          "value": "god",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does a baguette look like",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "baguette",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "look up the meaning of logic",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 23,
+          "end": 28,
+          "value": "logic",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "describe to me what a ball looks like",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 22,
+          "end": 26,
+          "value": "ball",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does session mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "session",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "hey what does incite mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 14,
+          "end": 20,
+          "value": "incite",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "Explain object",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "define session",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "session",
+          "entity": "definition_word"
+        }
+      ]
+    }
+  ]
+}

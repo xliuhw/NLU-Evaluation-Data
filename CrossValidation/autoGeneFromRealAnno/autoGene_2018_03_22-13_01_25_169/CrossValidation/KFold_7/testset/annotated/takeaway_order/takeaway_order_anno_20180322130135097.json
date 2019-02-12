@@ -1,0 +1,291 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i am really craving for chinese food right now please let me order take out",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "chinese",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "places to order takeaway food",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "order me postmates of mcdonald",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "postmates",
+          "entity": "food_type"
+        },
+        {
+          "start": 22,
+          "end": 30,
+          "value": "mcdonald",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can you order me takeout",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "call the nearest thai restaurant with delivery",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "thai",
+          "entity": "food_type"
+        },
+        {
+          "start": 22,
+          "end": 32,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 38,
+          "end": 46,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "pull up peking garden online",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 8,
+          "end": 21,
+          "value": "peking garden",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "order two pizzas from dominoes",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 10,
+          "end": 16,
+          "value": "pizzas",
+          "entity": "food_type"
+        },
+        {
+          "start": 22,
+          "end": 30,
+          "value": "dominoes",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "order takeout pizza from domino's for seven pm",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 25,
+          "end": 31,
+          "value": "domino",
+          "entity": "business_name"
+        },
+        {
+          "start": 38,
+          "end": 46,
+          "value": "seven pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "grubhub order",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "grubhub",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "i need to order some food from papa john's",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 31,
+          "end": 40,
+          "value": "papa john",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can i order takeaway dinner from byron's",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 21,
+          "end": 27,
+          "value": "dinner",
+          "entity": "meal_type"
+        },
+        {
+          "start": 33,
+          "end": 38,
+          "value": "byron",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "order takeout",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "get me some food",
+      "intent": "takeaway_order",
+      "entities": []
+    },
+    {
+      "text": "order a twelve piece honey mustard wing combo with seasonimg altnon the fries and a sprite as the drink",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 21,
+          "end": 45,
+          "value": "honey mustard wing combo",
+          "entity": "food_type"
+        },
+        {
+          "start": 84,
+          "end": 90,
+          "value": "sprite",
+          "entity": "drink_type"
+        }
+      ]
+    },
+    {
+      "text": "is is taco o'clock yet",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 6,
+          "end": 18,
+          "value": "taco o'clock",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "i would like to order some takeout",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 27,
+          "end": 34,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "schedule pizza takeout for seven pm",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "value": "seven pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "i would like to have a sushi can you order me a lunch",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 23,
+          "end": 28,
+          "value": "sushi",
+          "entity": "food_type"
+        },
+        {
+          "start": 48,
+          "end": 53,
+          "value": "lunch",
+          "entity": "meal_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to order some pizza",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "pizza",
+          "entity": "food_type"
+        }
+      ]
+    }
+  ]
+}

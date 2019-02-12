@@ -1,0 +1,196 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how many countries are in europe",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 26,
+          "end": 32,
+          "value": "europe",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "Where is miami",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "miami",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the highest mountain in the world",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 36,
+          "end": 41,
+          "value": "world",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the deepest point on earth",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "how many oscars does morgan freeman have",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 21,
+          "end": 35,
+          "value": "morgan freeman",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what awards did erica grebe win last night",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 16,
+          "end": 27,
+          "value": "erica grebe",
+          "entity": "person"
+        },
+        {
+          "start": 32,
+          "end": 42,
+          "value": "last night",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "tell me about donald trump",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 14,
+          "end": 26,
+          "value": "donald trump",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "get more information on geographic information about this place",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "what is hair made up of",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "how many people live in los angeles",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 24,
+          "end": 35,
+          "value": "los angeles",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how old are kim kardashian's children",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 12,
+          "end": 26,
+          "value": "kim kardashian",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "is it true the gym is seven miles away",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "where is steven spielberg living",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 9,
+          "end": 25,
+          "value": "steven spielberg",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "info of rowan atkinson",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 8,
+          "end": 22,
+          "value": "rowan atkinson",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell me who the thirty second president is",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "who is the president of america",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "america",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the geographic info of a pop singer rahman",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 44,
+          "end": 50,
+          "value": "rahman",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "where was steve jobs born",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 10,
+          "end": 20,
+          "value": "steve jobs",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how many countries are in the european union",
+      "intent": "qa_factoid",
+      "entities": []
+    }
+  ]
+}

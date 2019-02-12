@@ -1,0 +1,2958 @@
+{
+  "userSays": [
+    {
+      "id": "50c09db1-f27f-4b63-ab2f-ef4002a29cf7",
+      "data": [
+        {
+          "text": "please tell me the date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ad869af7-1792-40e2-9c7a-812230e4de2b",
+      "data": [
+        {
+          "text": "date "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8b20e244-a940-46d5-872d-1eb6c07ba6e3",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a0a04bbf-3e2f-4b19-801a-3deefa798dea",
+      "data": [
+        {
+          "text": "what is the time in "
+        },
+        {
+          "text": "geneva",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d0332176-2101-4640-a61f-9e1de27968e5",
+      "data": [
+        {
+          "text": "let me know the time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ec7e4409-8ef5-4a88-b9c3-846aa7b685bf",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " time please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bc0ff524-4976-435b-890a-b5b574d2350f",
+      "data": [
+        {
+          "text": "what is the time difference between here and "
+        },
+        {
+          "text": "dakar",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1e4cc7de-aa38-4a51-a720-7b6f79613581",
+      "data": [
+        {
+          "text": "let me know the time in "
+        },
+        {
+          "text": "india",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fc980eae-2d7d-43f2-820e-08048ae4c7e3",
+      "data": [
+        {
+          "text": "tell me the time in "
+        },
+        {
+          "text": "this time zone",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "34288d50-e17f-49e5-8f3c-7b2ee1c73684",
+      "data": [
+        {
+          "text": "which date is on next "
+        },
+        {
+          "text": "monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bd3fc466-00e3-404f-a5e1-fa6f2d5e3c3e",
+      "data": [
+        {
+          "text": "tell me what time it is in "
+        },
+        {
+          "text": "dallas texas",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3099b625-f9fa-41a1-ae5a-3fba4123c928",
+      "data": [
+        {
+          "text": "what time is it in the "
+        },
+        {
+          "text": "other time zones",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "472b92dc-047c-4d03-ac76-cd129f643412",
+      "data": [
+        {
+          "text": "hey what's the current time in "
+        },
+        {
+          "text": "austin",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7fccb181-2c92-447c-b1b6-116a97932ce8",
+      "data": [
+        {
+          "text": "hey what is the time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff4505fc-9071-4664-b902-7e10b80cc0b0",
+      "data": [
+        {
+          "text": "could you tell me what time it is"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b4a23801-5315-43a8-b22a-62c7f558204a",
+      "data": [
+        {
+          "text": "what day of the week does the "
+        },
+        {
+          "text": "next holiday",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " fall on"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff85f87b-37fb-440b-b7e7-f8cf70dfee82",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "august fifteenth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is what day of the week"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ad5f33c7-3e85-4a7c-8cbb-1eefa61112dd",
+      "data": [
+        {
+          "text": "can you tell me the date "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5b00c5ee-8ccc-4a6f-ad42-61b530bb5e76",
+      "data": [
+        {
+          "text": "hey what's "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a74cd341-a65b-4fa9-8ed7-d6016fccaa09",
+      "data": [
+        {
+          "text": "give me time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "28092b26-fa0b-4df4-b774-58deb153eb1a",
+      "data": [
+        {
+          "text": "could you please tell me what time is in "
+        },
+        {
+          "text": "singapore",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d93e3a52-eeee-460f-a052-19f81cdde218",
+      "data": [
+        {
+          "text": "report the current time in "
+        },
+        {
+          "text": "oakland",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fd39d55b-c6fa-40ac-9088-a2bba3794055",
+      "data": [
+        {
+          "text": "the "
+        },
+        {
+          "text": "twenty second",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is on what day of the week"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ec2e8a2e-eb85-4810-ad37-0576bec54009",
+      "data": [
+        {
+          "text": "what week of the year does the "
+        },
+        {
+          "text": "summer season",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " start"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e9b9a24d-f5f2-43b1-bf1d-4c609d96a678",
+      "data": [
+        {
+          "text": "what is the correct time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff1f2dd1-94c9-4c53-b657-17ba31336d04",
+      "data": [
+        {
+          "text": "what is the time in "
+        },
+        {
+          "text": "beijing",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "42d51afb-cc4e-43d0-8a65-7362d18be819",
+      "data": [
+        {
+          "text": "is there a national holiday on "
+        },
+        {
+          "text": "fifth december",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba57e7c1-18ff-4aff-950e-53c03b45211a",
+      "data": [
+        {
+          "text": "the "
+        },
+        {
+          "text": "last friday of the month",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " lands on what day"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ea2ab804-4d15-4d92-8a75-f5dcfe2b97bb",
+      "data": [
+        {
+          "text": "what time in "
+        },
+        {
+          "text": "las vegas",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7446ce21-8031-4751-9db5-7b1c6eab99eb",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "mondays",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " actual date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bb4402a6-05a3-4750-b47e-e7ea32f48aea",
+      "data": [
+        {
+          "text": "give me the time in "
+        },
+        {
+          "text": "phoenix az",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "268c32c9-6126-4daa-8921-e15a431e6140",
+      "data": [
+        {
+          "text": "what is the time in "
+        },
+        {
+          "text": "china",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e4dd4f6b-80c3-4b84-ad27-f1d51bbe1828",
+      "data": [
+        {
+          "text": "what is the current time in "
+        },
+        {
+          "text": "chennai",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "948159cd-6055-4c7b-8d58-ea4f6d611da6",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9b5857e3-e821-4cee-88ad-5b4f1e95f4dd",
+      "data": [
+        {
+          "text": "what time is it in "
+        },
+        {
+          "text": "central",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        },
+        {
+          "text": " time zone"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4bf9a0ff-583f-44ac-b5aa-47c431d6dc93",
+      "data": [
+        {
+          "text": "can you tell me the time in "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "16b828c9-c7d5-48ad-8e11-c8f4d489a682",
+      "data": [
+        {
+          "text": "what's the time in "
+        },
+        {
+          "text": "this time zone",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "79f79490-f114-40e9-9822-7ceecac51446",
+      "data": [
+        {
+          "text": "what is time now in "
+        },
+        {
+          "text": "california",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c678527a-6cba-4105-980a-39c41e2edd9e",
+      "data": [
+        {
+          "text": "what time is it in "
+        },
+        {
+          "text": "this city",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9e25c8f3-281d-491d-a738-5531457c49dd",
+      "data": [
+        {
+          "text": "can you tell me the current time in "
+        },
+        {
+          "text": "dallas texas",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d883bca5-9640-4015-897d-94eb9f46be00",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "march tenth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " lands on what day of the week"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c0dc6acd-1cad-4530-b392-0381ba320e4f",
+      "data": [
+        {
+          "text": "what time of day is it in "
+        },
+        {
+          "text": "london",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d02c3d56-859d-4542-9a2e-94eedb1c4646",
+      "data": [
+        {
+          "text": "can i get the time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6b177d31-c2ba-41d8-8ed3-3c8bed9e2542",
+      "data": [
+        {
+          "text": "how time is it"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ba6fff9-d48d-4d96-97a9-cc6e707eb010",
+      "data": [
+        {
+          "text": "when is "
+        },
+        {
+          "text": "easter",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " in the year "
+        },
+        {
+          "text": "two thousand and eighteen",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "751cda7a-368f-434a-9f00-b18fb0e426ec",
+      "data": [
+        {
+          "text": "what day of the week does the "
+        },
+        {
+          "text": "fifteenth of march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " fall on"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b0ea335d-0aec-47bc-b1c9-f62b428a63f1",
+      "data": [
+        {
+          "text": "what's the time for "
+        },
+        {
+          "text": "neighboring city",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e9cbf597-7703-47dd-b1ff-c617a93e586d",
+      "data": [
+        {
+          "text": "time and date of "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "75226512-8d17-4d3f-bc6d-b4e5bbd98d1b",
+      "data": [
+        {
+          "text": "what day does "
+        },
+        {
+          "text": "my birthday",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " fall on "
+        },
+        {
+          "text": "next year",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fd305e41-47dc-4487-ad3b-9cb4f44723f1",
+      "data": [
+        {
+          "text": "what does the clock say"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a3520ab0-f683-46b6-822c-bcc443c2ae57",
+      "data": [
+        {
+          "text": "what day is "
+        },
+        {
+          "text": "christmas",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b28f3fc3-7afc-429f-814e-9b8cbb26dc4e",
+      "data": [
+        {
+          "text": "let me know "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s date in american format"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "97650cb5-d84a-439f-9616-95dcd2742590",
+      "data": [
+        {
+          "text": "what is the time in "
+        },
+        {
+          "text": "hyderabad",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f978f89f-deaa-427d-bc98-3f9f5652d2cb",
+      "data": [
+        {
+          "text": "what is the time in "
+        },
+        {
+          "text": "bangalore",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "10d81547-dd8f-40e0-99c5-6d82e84b64a1",
+      "data": [
+        {
+          "text": "what's the time in "
+        },
+        {
+          "text": "dubai",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1d07551e-9322-48f9-be7f-ce76a24e3564",
+      "data": [
+        {
+          "text": "is it "
+        },
+        {
+          "text": "noon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "paris",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7cc1c1f0-ff8e-4e82-8063-84fa25f16271",
+      "data": [
+        {
+          "text": "whats the date "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a159a4bd-f52f-41ea-bb57-288d0e2fe8a1",
+      "data": [
+        {
+          "text": "show me the time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "793cb487-06ea-42fd-9932-fe029be9bf5f",
+      "data": [
+        {
+          "text": "what is the date "
+        },
+        {
+          "text": "easter",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " falls on"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "54ed6d2d-8ca0-4a84-9af4-3d3880c66825",
+      "data": [
+        {
+          "text": "what day of the week is the "
+        },
+        {
+          "text": "twenty second march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c3507f72-f057-4da0-9a02-a0726adbdf34",
+      "data": [
+        {
+          "text": "what time is it in the "
+        },
+        {
+          "text": "eastern",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        },
+        {
+          "text": " half of the us right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a20bbe69-18e7-4f59-8391-5dac18d9c764",
+      "data": [
+        {
+          "text": "what day of the "
+        },
+        {
+          "text": "month",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is next "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ae1b53ef-70e4-4b0f-b753-edab92a57c1d",
+      "data": [
+        {
+          "text": "what time is it in "
+        },
+        {
+          "text": "another city",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "57c98cb6-a347-4b5e-b9c8-ebfbd420385e",
+      "data": [
+        {
+          "text": "current time please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "81a7018b-1013-4044-96a3-d478403df040",
+      "data": [
+        {
+          "text": "what day is it on "
+        },
+        {
+          "text": "fifth december",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ca907fcd-ea22-4868-bfdb-a4fc091312ca",
+      "data": [
+        {
+          "text": "what is the current time right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2db4708b-d444-4ea3-be5a-e38b6aa00e41",
+      "data": [
+        {
+          "text": "what day is "
+        },
+        {
+          "text": "the fifteenth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b68582a2-a245-4344-bf0b-1e52e56e745b",
+      "data": [
+        {
+          "text": "what day of the week is "
+        },
+        {
+          "text": "june twenty seventh",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " on this year"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eadfea0c-edcf-4497-9d4a-5127aad45ace",
+      "data": [
+        {
+          "text": "uh what does the current date happen to be"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7df2df74-1c29-41c5-a765-ece23cd1482b",
+      "data": [
+        {
+          "text": "what is the current time in "
+        },
+        {
+          "text": "delhi",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ae0ec50-e94b-4f08-b245-52258fde493f",
+      "data": [
+        {
+          "text": "what day "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "98390e28-e66e-4e0a-a647-3698f4b9b525",
+      "data": [
+        {
+          "text": "what is the day on "
+        },
+        {
+          "text": "twenty third march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fb2822f7-d888-4ce5-a04f-54a63502d76e",
+      "data": [
+        {
+          "text": "i want exact time in "
+        },
+        {
+          "text": "washington",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4143f42c-7b89-4617-8408-c6feff4bbe0e",
+      "data": [
+        {
+          "text": "what day is it "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5c341cfd-399b-4633-a983-2fa3b6321215",
+      "data": [
+        {
+          "text": "show me what day "
+        },
+        {
+          "text": "the thirty first",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is on"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fe605c7e-1ecc-47b4-b6a6-b2d1899c1ffc",
+      "data": [
+        {
+          "text": "give me the current time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cfe26e73-98ac-4e12-90f0-7604ea76712a",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "twenty second april",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " day"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba16e01f-7643-46a4-a1e6-e7015e5ebe12",
+      "data": [
+        {
+          "text": "what is the time in "
+        },
+        {
+          "text": "london",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "867fc813-df11-4fb2-a196-d76bb80551dc",
+      "data": [
+        {
+          "text": "what day does "
+        },
+        {
+          "text": "april sixteenth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " fall on"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9793af00-4037-4ea3-81eb-122e32725df8",
+      "data": [
+        {
+          "text": "what day is "
+        },
+        {
+          "text": "easter",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8e4fd1fd-7800-4dce-bd4e-3844880dc83f",
+      "data": [
+        {
+          "text": "mention the time in "
+        },
+        {
+          "text": "canada",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cf52dcc5-1c34-4367-8f7d-a1d150071779",
+      "data": [
+        {
+          "text": "tell me what time it is right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1dc72289-c818-4420-9bd0-8d1e6788d557",
+      "data": [
+        {
+          "text": "the time in "
+        },
+        {
+          "text": "cairo",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f2af4a2c-9955-4455-9025-0662034851c3",
+      "data": [
+        {
+          "text": "which week is "
+        },
+        {
+          "text": "twenty third",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6063bfe3-654d-4266-9229-77d0573bb9ce",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "684b3ac1-0248-49b5-af47-91c50da9b1ea",
+      "data": [
+        {
+          "text": "what day of the week does "
+        },
+        {
+          "text": "christmas",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " fall on "
+        },
+        {
+          "text": "this year",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2039964b-409b-45e0-beae-45261fbdb5d6",
+      "data": [
+        {
+          "text": "what is the time in "
+        },
+        {
+          "text": "ajmer",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1750db1a-58a9-47d9-868d-4970397c92cf",
+      "data": [
+        {
+          "text": "show me the time in "
+        },
+        {
+          "text": "new york city",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a1b7b30-fd7e-4958-992a-f3c9929e4b58",
+      "data": [
+        {
+          "text": "what is the time in "
+        },
+        {
+          "text": "australia",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4b7d8ab3-07f0-42a3-a037-f1251d75aa26",
+      "data": [
+        {
+          "text": "what day of the week is "
+        },
+        {
+          "text": "first april",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "27cc4163-1e89-42a6-ba0a-5fae2f92fd38",
+      "data": [
+        {
+          "text": "how many "
+        },
+        {
+          "text": "birthday",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": "'s are on "
+        },
+        {
+          "text": "twenty third",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8461296d-0837-4009-ae87-bccef2f6fdb1",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "tomorrows",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2b5c8e7d-32fa-48f6-b0df-29b1cd9309ca",
+      "data": [
+        {
+          "text": "what day of the week is the "
+        },
+        {
+          "text": "first of march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0da2bf01-0c04-4867-98a6-51b78d3f7c8f",
+      "data": [
+        {
+          "text": "i need to know what is the date "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4352f5c1-0c64-4b90-910b-bc8cb0bf463d",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "eastern",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        },
+        {
+          "text": " standard time right noe"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2a7734c1-ef96-454d-b9bf-a019569a4c1d",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "twenty ninth march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " comes on what day"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ea20010-417c-457b-98ef-45dabfe021ba",
+      "data": [
+        {
+          "text": "what date is "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "604ffc50-b93c-4fcd-abbd-87c8424b5b06",
+      "data": [
+        {
+          "text": "whats "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69480cfb-5dd9-405d-8b75-a1a67c56896e",
+      "data": [
+        {
+          "text": "please provide current time in "
+        },
+        {
+          "text": "india",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "704cd375-563b-47cd-938b-469208cce6f0",
+      "data": [
+        {
+          "text": "please tell me the current "
+        },
+        {
+          "text": "date",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b4bdb9dd-29ce-437a-b429-8827d3a16436",
+      "data": [
+        {
+          "text": "is there "
+        },
+        {
+          "text": "christmas",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "twenty second",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "394f2389-4421-4b01-82a1-2ba95ebe16b1",
+      "data": [
+        {
+          "text": "what is the current date "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7ef172aa-4e52-41c1-8479-195c9d3b58d5",
+      "data": [
+        {
+          "text": "give me the time in "
+        },
+        {
+          "text": "london",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6432df24-5f18-4277-8bd6-f4106b74522c",
+      "data": [
+        {
+          "text": "what's the date is currently"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "38e0aae0-15ef-483b-9fae-7b9582dffa71",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "todays",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " a lovely day what the date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ef3228e9-5c99-4af2-a5d8-f74856099cfd",
+      "data": [
+        {
+          "text": "can you tell me "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "44d86919-44cc-411d-9b7f-ce2c12f3de68",
+      "data": [
+        {
+          "text": "what is the current "
+        },
+        {
+          "text": "central",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        },
+        {
+          "text": " time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a9885906-cee3-44cf-bc6b-3505225c3247",
+      "data": [
+        {
+          "text": "how many days are in "
+        },
+        {
+          "text": "this month",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e318ff9a-8360-401e-accd-fa50933798b0",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is which date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bb50c7aa-da72-4983-a820-0f171a204352",
+      "data": [
+        {
+          "text": "is today "
+        },
+        {
+          "text": "march sixth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b181efc1-73bf-48f9-940a-2a971ad126b6",
+      "data": [
+        {
+          "text": "what time is it in "
+        },
+        {
+          "text": "karachi",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2a2908e9-9ae6-4205-9e82-02e727584abe",
+      "data": [
+        {
+          "text": "please alert me to the time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "09877595-4c6f-47b5-a4d5-f120abd7c929",
+      "data": [
+        {
+          "text": "what time is it in "
+        },
+        {
+          "text": "singapore",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "88642213-5fdf-4ac6-bd1f-39d075fbb56d",
+      "data": [
+        {
+          "text": "what date is the third "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "this month",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8344ba27-65b8-4295-873d-fea2cb026c0e",
+      "data": [
+        {
+          "text": "tell me current time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "141dc95a-d370-4f8c-8b39-bb4fdab1d402",
+      "data": [
+        {
+          "text": "can you tell me the time at "
+        },
+        {
+          "text": "san francisco",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aa139eeb-a778-4144-bf69-c16858b70419",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "may twenty two",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is my "
+        },
+        {
+          "text": "birthdate",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " and i want to know the what day is "
+        },
+        {
+          "text": "twenty third may",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07da3344-53c8-49f4-8173-b62279745be5",
+      "data": [
+        {
+          "text": "report the time in "
+        },
+        {
+          "text": "miami",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "065f5c90-268d-423e-b6b5-d4244263613c",
+      "data": [
+        {
+          "text": "whats the time now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dd8f672b-16df-49ff-bd6e-b163614bc3e7",
+      "data": [
+        {
+          "text": "what is the current time in "
+        },
+        {
+          "text": "lagos nigeria",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1698c920-c535-4a98-bda7-eeb456808580",
+      "data": [
+        {
+          "text": "when is "
+        },
+        {
+          "text": "the third monday of this month",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "50b3b015-d567-4094-b445-a72dda4f73a1",
+      "data": [
+        {
+          "text": "what's "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9636e028-4f8d-4631-9ed1-f523845b543d",
+      "data": [
+        {
+          "text": "please give me the time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2a76e823-6be8-4437-b643-febe3ce67645",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s day"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e4b5539f-5e6e-4b0b-8184-6f23f85151aa",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is it"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2913c274-800c-45e8-a708-d31b9cae7fdb",
+      "data": [
+        {
+          "text": "what day of the week does the "
+        },
+        {
+          "text": "twenty second",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " fall on "
+        },
+        {
+          "text": "this month",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5213def6-f127-4cd8-89a9-6fa3edf51f1f",
+      "data": [
+        {
+          "text": "what is the date and month "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f5f183a9-8766-4ac2-ae40-e5de1dcd996b",
+      "data": [
+        {
+          "text": "what is the date for next "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5b139fd1-d6d4-47f8-a813-f0036598d595",
+      "data": [
+        {
+          "text": "what time is it on the "
+        },
+        {
+          "text": "east coast",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        },
+        {
+          "text": " of the "
+        },
+        {
+          "text": "united states",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f02f53a0-b3b5-47bc-9c85-8e80d2bfe86d",
+      "data": [
+        {
+          "text": "what time is it in "
+        },
+        {
+          "text": "england",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "994daaed-c9e1-48cc-9b5b-c12472a42d53",
+      "data": [
+        {
+          "text": "tell me the current time in "
+        },
+        {
+          "text": "san paulo",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "brazil",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "884638dc-7965-4723-94df-ad1d197cc5c2",
+      "data": [
+        {
+          "text": "what is the time in "
+        },
+        {
+          "text": "canada",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9e1c5fd4-f4db-4355-9cfa-88fb3ba08804",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "date",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fc378e8e-9d38-4ec0-a315-a78086903084",
+      "data": [
+        {
+          "text": "current date please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "25b7a534-c5d7-43d7-a5cf-99f663f21a61",
+      "data": [
+        {
+          "text": "what time is it on the "
+        },
+        {
+          "text": "west coast",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c2f5e022-f241-4d27-a3ee-3dfc34fe5031",
+      "data": [
+        {
+          "text": "how me the time now in "
+        },
+        {
+          "text": "boston",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f08ae9f3-1a6c-4276-a09e-dc12326e0da7",
+      "data": [
+        {
+          "text": "date and time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "041821d2-568d-4c35-9a84-a19d6424c9b1",
+      "data": [
+        {
+          "text": "what time is it in "
+        },
+        {
+          "text": "a city",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d8345b23-f063-43b7-9412-d7469756b768",
+      "data": [
+        {
+          "text": "i want the time for "
+        },
+        {
+          "text": "another city outside us",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ab390699-71e3-4d44-829a-a39244660124",
+      "data": [
+        {
+          "text": "hello what time it is now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "29d725f7-cdf1-41e8-bf07-9e0506eef298",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "ten past seven",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f96cee97-4f8a-4bf7-937b-cd580e1231b2",
+      "data": [
+        {
+          "text": "give me the time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1299553e-40d8-42bb-811a-f514bfe8aa1c",
+      "data": [
+        {
+          "text": "what is the current time in "
+        },
+        {
+          "text": "california",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0aa76e3d-c20c-4752-b511-76ddcad16672",
+      "data": [
+        {
+          "text": "show me the current time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1e5a49a-f7d1-4009-8f0f-7dd40c705433",
+      "data": [
+        {
+          "text": "can you give me the time in "
+        },
+        {
+          "text": "this time zone",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d159aff0-adf3-43ff-b8c5-7eaf6502b011",
+      "data": [
+        {
+          "text": "do you know what day it is"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fcd390e6-cde9-487e-a23b-116bb6480c94",
+      "data": [
+        {
+          "text": "tell me the time now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2359edce-fe9a-4240-9217-458022baaea4",
+      "data": [
+        {
+          "text": "what is the time in "
+        },
+        {
+          "text": "milwaukee",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "57a6c930-3610-4708-aa39-d683419bc6fe",
+      "data": [
+        {
+          "text": "please show me "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f1cef9d4-6c8f-4cb0-84aa-0d8a66a1e5c2",
+      "data": [
+        {
+          "text": "what's the time in "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c1b9891a-03c6-44b0-af42-a84cb15323f9",
+      "data": [
+        {
+          "text": "what is the current time in "
+        },
+        {
+          "text": "london",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ddfacf1-3e8c-4bc6-9067-96c7fabbf831",
+      "data": [
+        {
+          "text": "what time is it in "
+        },
+        {
+          "text": "london",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "664d8e4b-e391-492d-8b7e-e0724d0a66af",
+      "data": [
+        {
+          "text": "what time is it "
+        },
+        {
+          "text": "eastern",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2ded2814-2ab2-4254-82f5-5e40e23ddaa0",
+      "data": [
+        {
+          "text": "can you give me the time in "
+        },
+        {
+          "text": "new delhi",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3dbf3e0d-6224-4acc-8a05-79fd3f88e492",
+      "data": [
+        {
+          "text": "tell me the time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2afd1824-f7f7-47ac-bba8-289dfd8ec3bd",
+      "data": [
+        {
+          "text": "what is the date "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d9a0779c-e997-4b9f-bc3e-ffa40cd1e4d3",
+      "data": [
+        {
+          "text": "what date is "
+        },
+        {
+          "text": "easter sunday",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this year",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "95d9ef9c-44e3-49e2-91dd-67478add5c53",
+      "data": [
+        {
+          "text": "what is the time for the "
+        },
+        {
+          "text": "eastern",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        },
+        {
+          "text": " time zone"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69007ce8-d3db-4199-b172-4d27ae6bffa6",
+      "data": [
+        {
+          "text": "what's the time in "
+        },
+        {
+          "text": "china",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "33e0f48e-979f-4cae-9b5a-4dbe781b7f4e",
+      "data": [
+        {
+          "text": "what will be the time now in "
+        },
+        {
+          "text": "washington",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "754c23b0-52b6-499b-9d3f-a256c40cf4a8",
+      "data": [
+        {
+          "text": "what day of the week is it"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7a22f13-02ac-4cff-bdf6-9e35ed97aad2",
+      "data": [
+        {
+          "text": "whats the time in "
+        },
+        {
+          "text": "denver",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2b9e80cc-55f2-4a58-a999-b52c43eead2d",
+      "data": [
+        {
+          "text": "what is the "
+        },
+        {
+          "text": "day",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6f5740a9-fd9a-4220-86e9-25f8c0d3e818",
+      "data": [
+        {
+          "text": "what is the current day month and year"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "160d644e-83a5-4595-bbbd-4185ee977d11",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s current date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1dbeacbf-1f61-4128-9671-89e1b206c67d",
+      "data": [
+        {
+          "text": "please let me know "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "27cdbff5-6b70-453c-8c20-6af1a567f3d1",
+      "data": [
+        {
+          "text": "what is the month day and year"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "78972191-2371-4ca4-95ce-cf34b57e5bb9",
+      "data": [
+        {
+          "text": "show time in "
+        },
+        {
+          "text": "china",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e067324d-69fc-4f75-9642-9c312c654db0",
+      "data": [
+        {
+          "text": "give me "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": "'s current time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "52f1f76d-b6c0-4ac5-bda6-0d244524d9b1",
+      "data": [
+        {
+          "text": "current "
+        },
+        {
+          "text": "time",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "29b1360c-3d60-48b4-ae4d-d1ae92f5a79a",
+      "data": [
+        {
+          "text": "be my clock"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cd320c6a-ee88-4d70-be9e-3c0d8efeaaf7",
+      "data": [
+        {
+          "text": "give me the time in "
+        },
+        {
+          "text": "pst",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9c4713b6-3e07-467b-a966-d1fd89e67840",
+      "data": [
+        {
+          "text": "what time is it in "
+        },
+        {
+          "text": "new york city",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ef542d2a-b6de-465d-a8bf-ec9100133691",
+      "data": [
+        {
+          "text": "please give me "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "33caf779-c1ef-45f7-b084-26781e0b44df",
+      "data": [
+        {
+          "text": "what time i sit in "
+        },
+        {
+          "text": "china",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "e3ce5f0b-a141-4c8b-b408-c1cf76c2db68",
+  "name": "datetime_query",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@date",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "dataType": "@event_name",
+          "name": "event_name",
+          "value": "$event_name"
+        },
+        {
+          "dataType": "@place_name",
+          "name": "place_name",
+          "value": "$place_name"
+        },
+        {
+          "dataType": "@time",
+          "name": "time",
+          "value": "$time"
+        },
+        {
+          "dataType": "@time_zone",
+          "name": "time_zone",
+          "value": "$time_zone"
+        },
+        {
+          "dataType": "@timeofday",
+          "name": "timeofday",
+          "value": "$timeofday"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

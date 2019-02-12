@@ -1,0 +1,215 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "The latest climate and weather news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 30,
+          "value": "climate and weather",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "cnn",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 3,
+          "value": "cnn",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what's the news in politics",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "politics",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "celeb news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "what's the news in politics on cnn",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "politics",
+          "entity": "news_topic"
+        },
+        {
+          "start": 31,
+          "end": 34,
+          "value": "cnn",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what's the news from source",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 27,
+          "value": "source",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "pull up the headlines please",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "entertainment news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "entertainment",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "olly schedule a news update for tomorrow morning at seven am",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 40,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 41,
+          "end": 60,
+          "value": "morning at seven am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "i want to see the news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "tell me the latest news from bbc sports",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 39,
+          "value": "bbc sports",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "how about the latest news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "what are the results of the election",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 36,
+          "value": "election",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "cnn world news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 3,
+          "value": "cnn",
+          "entity": "media_type"
+        },
+        {
+          "start": 4,
+          "end": 9,
+          "value": "world",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "get me the latest on current events going on in the world",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 52,
+          "end": 57,
+          "value": "world",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what's going around in the world these days",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "world",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the morning news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 24,
+          "value": "morning news",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "economic affairs",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "provide wall street journal news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 27,
+          "value": "wall street journal",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

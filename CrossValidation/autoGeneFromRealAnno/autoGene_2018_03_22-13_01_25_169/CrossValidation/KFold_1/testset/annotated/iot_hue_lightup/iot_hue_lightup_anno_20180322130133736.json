@@ -1,0 +1,116 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "light up",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "lighten the light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "i need the lights in here to be turned up to seven",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 45,
+          "end": 50,
+          "value": "seven",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "increase brightness by twenty percent",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 20,
+          "end": 37,
+          "value": "by twenty percent",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "increase the light in the room",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 26,
+          "end": 30,
+          "value": "room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "can you turn up the lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "i would like all the lights on when i enter",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "please arrange to make all lights to show brighter",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 23,
+          "end": 33,
+          "value": "all lights",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "brighten living room lights",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 9,
+          "end": 20,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "raise all the lights on",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "raise the lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "brighten the light at seventy percent",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 19,
+          "end": 37,
+          "value": "at seventy percent",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "increase",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "brighten the lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    }
+  ]
+}

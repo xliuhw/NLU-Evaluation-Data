@@ -1,0 +1,290 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please call china wok and order number seven",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "china wok",
+          "entity": "business_name"
+        },
+        {
+          "start": 32,
+          "end": 44,
+          "value": "number seven",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "place order to pizza takeout for seven pm",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "value": "seven pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "can i order out",
+      "intent": "takeaway_order",
+      "entities": []
+    },
+    {
+      "text": "order two large pizzas and pieces of hot wings from dominoes",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 16,
+          "end": 46,
+          "value": "pizzas and pieces of hot wings",
+          "entity": "food_type"
+        },
+        {
+          "start": 52,
+          "end": 60,
+          "value": "dominoes",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "order me a bowl from chipotle takeout",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "chipotle",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "order a pizza for me",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "pizza",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "place order for a chicken manchow soup from wangs kitchen restaurant",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 18,
+          "end": 38,
+          "value": "chicken manchow soup",
+          "entity": "food_type"
+        },
+        {
+          "start": 44,
+          "end": 57,
+          "value": "wangs kitchen",
+          "entity": "business_name"
+        },
+        {
+          "start": 58,
+          "end": 68,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "hey order a pizza pie with extra cheese",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 12,
+          "end": 39,
+          "value": "pizza pie with extra cheese",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to order food",
+      "intent": "takeaway_order",
+      "entities": []
+    },
+    {
+      "text": "call for takeout",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "is there any good chinese takeout that's open late",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 18,
+          "end": 25,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "i would like to pickup a veggie sub with a cookie from subway",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "pickup",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "pull up the menu for the closest mexican restaurant",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 33,
+          "end": 40,
+          "value": "mexican",
+          "entity": "food_type"
+        },
+        {
+          "start": 41,
+          "end": 51,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what takeout places are near me",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "place order of one pizza",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "pizza",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "find me the nearest chinese for delivery",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 32,
+          "end": 40,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "order a pizza from pizza express",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 19,
+          "end": 32,
+          "value": "pizza express",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "get me a turkey jimmy johns sub and set it to be delivered at five pm tonight",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 9,
+          "end": 31,
+          "value": "turkey jimmy johns sub",
+          "entity": "food_type"
+        },
+        {
+          "start": 62,
+          "end": 69,
+          "value": "five pm",
+          "entity": "time"
+        },
+        {
+          "start": 70,
+          "end": 77,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "order a smoked meat platter from beanos",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 8,
+          "end": 27,
+          "value": "smoked meat platter",
+          "entity": "food_type"
+        },
+        {
+          "start": 33,
+          "end": 39,
+          "value": "beanos",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

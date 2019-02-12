@@ -1,0 +1,200 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is the status quo for traffic right now",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what is current traffic in ohio",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 27,
+          "end": 31,
+          "value": "ohio",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please give me the road forecast for i95 sb",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how is the traffic situation in houston street",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 32,
+          "end": 46,
+          "value": "houston street",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is traffic to work now",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what's traffic likexchange on four hundred and forty one",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 30,
+          "end": 56,
+          "value": "four hundred and forty one",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is there heavy traffic on the I fifteen in las vegas right now",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 30,
+          "end": 39,
+          "value": "I fifteen",
+          "entity": "place_name"
+        },
+        {
+          "start": 43,
+          "end": 52,
+          "value": "las vegas",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the traffic situation at the bazaar highway",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 37,
+          "end": 51,
+          "value": "bazaar highway",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the traffic like now",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how much traffic is there right now in bowery street",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 39,
+          "end": 52,
+          "value": "bowery street",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what are the traffic conditions currently",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "are there any traffic restrictions due to the president's visit",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how heavy is the traffic on the i fifteen in las vegas this hour",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 32,
+          "end": 41,
+          "value": "i fifteen",
+          "entity": "place_name"
+        },
+        {
+          "start": 45,
+          "end": 54,
+          "value": "las vegas",
+          "entity": "place_name"
+        },
+        {
+          "start": 55,
+          "end": 64,
+          "value": "this hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "how bad is the traffic near the airport",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 32,
+          "end": 39,
+          "value": "airport",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the traffic on the one hundred and one",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 26,
+          "end": 45,
+          "value": "one hundred and one",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is there traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what does the traffic look like on my usual route to work",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "in delhi traffic level too high",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 3,
+          "end": 8,
+          "value": "delhi",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "Show me a traffic map from kamycka to dejvicka",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 27,
+          "end": 34,
+          "value": "kamycka",
+          "entity": "place_name"
+        },
+        {
+          "start": 38,
+          "end": 46,
+          "value": "dejvicka",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

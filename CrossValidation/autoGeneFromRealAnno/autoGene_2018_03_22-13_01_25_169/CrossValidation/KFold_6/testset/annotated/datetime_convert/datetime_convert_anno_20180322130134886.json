@@ -1,0 +1,153 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "it's eight at night in france what time is it in new york",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "eight",
+          "entity": "time"
+        },
+        {
+          "start": 14,
+          "end": 19,
+          "value": "night",
+          "entity": "time"
+        },
+        {
+          "start": 23,
+          "end": 29,
+          "value": "france",
+          "entity": "place_name"
+        },
+        {
+          "start": 49,
+          "end": 57,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you convert my time zone to the time zone i'm currently in",
+      "intent": "datetime_convert",
+      "entities": []
+    },
+    {
+      "text": "it is five forty five am in liverpool what time is now new york",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 6,
+          "end": 24,
+          "value": "five forty five am",
+          "entity": "time"
+        },
+        {
+          "start": 28,
+          "end": 37,
+          "value": "liverpool",
+          "entity": "place_name"
+        },
+        {
+          "start": 55,
+          "end": 63,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "now it's five thirty pm in india what about the time in ivory coast",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 9,
+          "end": 23,
+          "value": "five thirty pm",
+          "entity": "time"
+        },
+        {
+          "start": 27,
+          "end": 32,
+          "value": "india",
+          "entity": "place_name"
+        },
+        {
+          "start": 56,
+          "end": 67,
+          "value": "ivory coast",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how many hours distance is between my location and new york",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 51,
+          "end": 59,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "if it is twelve hours ahead of eastern standard centaur time what's the time in the philippines now",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 9,
+          "end": 21,
+          "value": "twelve hours",
+          "entity": "time"
+        },
+        {
+          "start": 31,
+          "end": 38,
+          "value": "eastern",
+          "entity": "time_zone"
+        },
+        {
+          "start": 84,
+          "end": 95,
+          "value": "philippines",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "time between us and canada",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 13,
+          "end": 15,
+          "value": "us",
+          "entity": "place_name"
+        },
+        {
+          "start": 20,
+          "end": 26,
+          "value": "canada",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the time difference between here and japan",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 45,
+          "end": 50,
+          "value": "japan",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

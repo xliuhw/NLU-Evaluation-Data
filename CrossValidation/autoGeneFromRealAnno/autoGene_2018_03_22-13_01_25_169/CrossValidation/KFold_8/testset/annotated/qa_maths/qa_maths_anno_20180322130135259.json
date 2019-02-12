@@ -1,0 +1,87 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how to calculate trigonametry",
+      "intent": "qa_maths",
+      "entities": []
+    },
+    {
+      "text": "how many cm make one foot",
+      "intent": "qa_maths",
+      "entities": []
+    },
+    {
+      "text": "what is fourteen divided by two",
+      "intent": "qa_maths",
+      "entities": []
+    },
+    {
+      "text": "if a pencil cost four dollars and a book ten dollars cost how much i should pay if i buy two pencil and three book",
+      "intent": "qa_maths",
+      "entities": []
+    },
+    {
+      "text": "what is the answer to two by two",
+      "intent": "qa_maths",
+      "entities": []
+    },
+    {
+      "text": "whats two hundred divided by five",
+      "intent": "qa_maths",
+      "entities": []
+    },
+    {
+      "text": "what is three hundred and four plus one",
+      "intent": "qa_maths",
+      "entities": []
+    },
+    {
+      "text": "one plus two equal",
+      "intent": "qa_maths",
+      "entities": []
+    },
+    {
+      "text": "what's one plus one",
+      "intent": "qa_maths",
+      "entities": []
+    },
+    {
+      "text": "what is twenty three times fifty two",
+      "intent": "qa_maths",
+      "entities": []
+    },
+    {
+      "text": "what is two hundred divided by ten",
+      "intent": "qa_maths",
+      "entities": []
+    },
+    {
+      "text": "what is one hundred and twenty three times one hundred and twenty three",
+      "intent": "qa_maths",
+      "entities": []
+    },
+    {
+      "text": "i've got dollars for the month how much can i spend every day this month",
+      "intent": "qa_maths",
+      "entities": [
+        {
+          "start": 52,
+          "end": 61,
+          "value": "every day",
+          "entity": "general_frequency"
+        },
+        {
+          "start": 62,
+          "end": 72,
+          "value": "this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is three plus four",
+      "intent": "qa_maths",
+      "entities": []
+    }
+  ]
+}

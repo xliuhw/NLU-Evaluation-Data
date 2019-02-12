@@ -1,0 +1,290 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "tell me which catering packages are available",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "hey does that restaurant have takeout",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 24,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 30,
+          "end": 37,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "is the restaurant having delivery facility",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 17,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 25,
+          "end": 33,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me when taco bell can deliver my dinner",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 22,
+          "value": "taco bell",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "most rated delivery options for chinese food",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "delivery",
+          "entity": "order_type"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "value": "chinese",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "is gus's a take out place",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 6,
+          "value": "gus",
+          "entity": "business_name"
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "value": "take out",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does lechateau have delivery service or only takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "lechateau",
+          "entity": "business_name"
+        },
+        {
+          "start": 20,
+          "end": 28,
+          "value": "delivery",
+          "entity": "order_type"
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "can i take food home here",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "can i get takeaway from pings",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 24,
+          "end": 29,
+          "value": "pings",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "does charley's steakhouse deliver",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 25,
+          "value": "charley's steakhouse",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "does the nearby dominos have delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "dominos",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "does that restaurant allow take out orders",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 20,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "value": "take out",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "search if the restaurant does take out",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 24,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 30,
+          "end": 38,
+          "value": "take out",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me if taco bell delivers",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 20,
+          "value": "taco bell",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "find if takeaway possible in restaurant pizzahouse",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 29,
+          "end": 39,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 40,
+          "end": 50,
+          "value": "pizzahouse",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what happened to my pizza order it has been an hour since i ordered",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 47,
+          "end": 51,
+          "value": "hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "maximum kilometer to delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "what time can i pick up my food",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "pick up",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "where is the closest spot to order food for pickup",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 44,
+          "end": 50,
+          "value": "pickup",
+          "entity": "order_type"
+        }
+      ]
+    }
+  ]
+}

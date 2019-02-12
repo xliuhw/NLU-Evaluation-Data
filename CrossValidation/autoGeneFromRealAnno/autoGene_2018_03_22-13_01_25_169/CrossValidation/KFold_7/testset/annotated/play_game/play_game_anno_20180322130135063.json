@@ -1,0 +1,197 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "could you play poker with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "poker",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play poker with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "poker",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play mindsweeper with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "mindsweeper",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "do you want to play solitaire",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "solitaire",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "video games",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "load a fun game that i can play with you",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "play for me the game harry potter and the chamber of secrets",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 21,
+          "end": 60,
+          "value": "harry potter and the chamber of secrets",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play a game of truth or dare",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 21,
+          "end": 34,
+          "value": "truth or dare",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "lets go nazi hunting",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "launch super mario",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 7,
+          "end": 18,
+          "value": "super mario",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play my game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "play cricket",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "cricket",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "start play road rash",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 20,
+          "value": "road rash",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "get the duet game",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "duet",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play game with me",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "play real racing three game",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 22,
+          "value": "real racing three",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play super mario brothers game with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 25,
+          "value": "super mario brothers",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "start a match of chess",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play a game of chess",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    }
+  ]
+}

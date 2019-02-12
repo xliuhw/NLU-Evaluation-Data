@@ -1,0 +1,4789 @@
+{
+  "userSays": [
+    {
+      "id": "44387baf-8e54-46bf-a78d-6f982459864d",
+      "data": [
+        {
+          "text": "set a reminder for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "evening",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "557d5185-49e3-4822-81d2-452f7f8336ab",
+      "data": [
+        {
+          "text": "notify me when the event is going to take place"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d11423b5-aa4c-4cab-8f82-e1b92a72ef2f",
+      "data": [
+        {
+          "text": "add "
+        },
+        {
+          "text": "jim",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "jerry",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " to event"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "974fdbcb-0add-422c-9d3a-5879314f0715",
+      "data": [
+        {
+          "text": "make a repeating reminder for my "
+        },
+        {
+          "text": "yoga practice",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "every day",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "noon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7c158ec-c75f-4a40-950a-c1ec74faa605",
+      "data": [
+        {
+          "text": "i have a meeting with "
+        },
+        {
+          "text": "sean",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "four pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " can you remind me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a3bcf82f-ae61-464d-a8c3-e5501d1e28e0",
+      "data": [
+        {
+          "text": "create an event "
+        },
+        {
+          "text": "gym",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " day on "
+        },
+        {
+          "text": "monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " and set it to "
+        },
+        {
+          "text": "repeat",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "35469cdc-120b-4ed5-b7df-1e8135722f1c",
+      "data": [
+        {
+          "text": "blot me all the "
+        },
+        {
+          "text": "phone calls",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " planned for the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "twenty three march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ca1fdc6f-bd4e-4079-ab2a-bfeb21c6c016",
+      "data": [
+        {
+          "text": "can you remind me about my "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "059bf802-a57c-4951-9dcb-c116e9a3d227",
+      "data": [
+        {
+          "text": "repeat reminder for my schedule for "
+        },
+        {
+          "text": "christmas",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a3e6f8c2-92fc-4290-9c3c-faeabeb11321",
+      "data": [
+        {
+          "text": "remind me to "
+        },
+        {
+          "text": "call my grandma",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " this "
+        },
+        {
+          "text": "Sunday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9b650425-ba2b-4f72-bf6e-fc7ff2903da7",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "next week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " my "
+        },
+        {
+          "text": "uncle birthday",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8920b6ec-ae98-428c-a38e-89f0244b2300",
+      "data": [
+        {
+          "text": "add "
+        },
+        {
+          "text": "running",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " to my calendar for "
+        },
+        {
+          "text": "thursday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "60eeb5c6-c99d-4f54-bf1c-fb23232b61f5",
+      "data": [
+        {
+          "text": "i would like to "
+        },
+        {
+          "text": "attend church",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "every sunday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eleven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f79b2b32-01b0-42df-93df-396a0b781d73",
+      "data": [
+        {
+          "text": "see if "
+        },
+        {
+          "text": "john",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " is available for a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "Monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6b258a6a-57c1-4e42-aec9-76648c632181",
+      "data": [
+        {
+          "text": "remind me about the "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cac6a9c1-1788-414b-9eac-659d61c2cbb7",
+      "data": [
+        {
+          "text": "set the alarm in my calendar events "
+        },
+        {
+          "text": "before five mins",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b638202b-c28a-42c8-8c10-03fc4051df01",
+      "data": [
+        {
+          "text": "activate a one week notification before my "
+        },
+        {
+          "text": "anniversary",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2810b97d-7fd4-4b0d-8432-138defd2917e",
+      "data": [
+        {
+          "text": "could you please schedule a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with this person"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a684b295-d23d-4f42-99f9-587b552082ed",
+      "data": [
+        {
+          "text": "i have a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "al",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "march twenty first",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "ten",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "98b2c2c0-03c7-41ba-8f9f-b216ba64a032",
+      "data": [
+        {
+          "text": "write down that i am going to meet with "
+        },
+        {
+          "text": "jenny",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " on the "
+        },
+        {
+          "text": "third",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " okay"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aab732c2-b0e9-423b-beb2-1a3f4e6c3dec",
+      "data": [
+        {
+          "text": "on "
+        },
+        {
+          "text": "third april",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " we will go to "
+        },
+        {
+          "text": "watch j llb movie",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " set it"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "77998ae8-e945-4cbc-8350-3443fbc81ef0",
+      "data": [
+        {
+          "text": "schedule a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "al",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "815c045d-2435-4095-b476-d812349a40d4",
+      "data": [
+        {
+          "text": "remind me the upcoming "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "four am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0ef0db53-e84d-41d3-bb39-30ae24edc49f",
+      "data": [
+        {
+          "text": "reminder about "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "twelve pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "02d04cd7-6221-4eae-936d-37272ce6e6c8",
+      "data": [
+        {
+          "text": "new reminder at "
+        },
+        {
+          "text": "three pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7275cf0a-d3b3-4756-ac35-05f65a796912",
+      "data": [
+        {
+          "text": "set "
+        },
+        {
+          "text": "rotating event",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8b1729fa-cf64-4305-af7d-9090a4666c46",
+      "data": [
+        {
+          "text": "i have a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "noon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "519de7a3-9bb0-4020-8513-e057431ea0c7",
+      "data": [
+        {
+          "text": "schedule "
+        },
+        {
+          "text": "lunch",
+          "alias": "meal_type",
+          "meta": "@meal_type",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "tomo in arcata california",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "noon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "72eb68ff-3e68-442b-a883-2c150b8f8555",
+      "data": [
+        {
+          "text": "add event to calendar"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "29345b20-2dc3-4bf3-9932-f6cab9926802",
+      "data": [
+        {
+          "text": "set a reminder for "
+        },
+        {
+          "text": "two days",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " prior of the event"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6b7fb061-6152-4ab8-8a79-1e4ba365b2f4",
+      "data": [
+        {
+          "text": "remind me "
+        },
+        {
+          "text": "everyday",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "two pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "lunch",
+          "alias": "meal_type",
+          "meta": "@meal_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9a507cfd-5bac-4cef-9990-e0f998573ee5",
+      "data": [
+        {
+          "text": "remind me to "
+        },
+        {
+          "text": "eat",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " when "
+        },
+        {
+          "text": "i get home",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "753cd910-da42-48ba-b263-9cf65617b5c1",
+      "data": [
+        {
+          "text": "i need to set up a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "the ceo",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b5d8b660-38a6-451d-a06c-89b7f2bf1e35",
+      "data": [
+        {
+          "text": "create a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " event in my calendar"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2def515b-c14d-4a5d-8bd6-12f13074ac1a",
+      "data": [
+        {
+          "text": "make "
+        },
+        {
+          "text": "appointment",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " for next "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "670a9ab9-c313-4199-8be1-af07354366a3",
+      "data": [
+        {
+          "text": "latest reminder about "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6d47c877-3ba8-43e2-81d6-e2bc73eb649f",
+      "data": [
+        {
+          "text": "set a reminder for my "
+        },
+        {
+          "text": "shopping trip",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "88189863-15cd-4041-a504-b468ea4ebdbf",
+      "data": [
+        {
+          "text": "remind me "
+        },
+        {
+          "text": "every year",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        },
+        {
+          "text": " on this date of"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "68a5b04f-60f9-4cca-8046-493c1b182f98",
+      "data": [
+        {
+          "text": "set reminder notification for "
+        },
+        {
+          "text": "three",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " o'clock"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3f852014-f1e4-4670-b393-ccd058fba5a5",
+      "data": [
+        {
+          "text": "reminders"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3dfbae61-e1c0-4e35-8aed-fa1895a7b7f6",
+      "data": [
+        {
+          "text": "notify me an hour before my "
+        },
+        {
+          "text": "two pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "appointment",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at the car dealership"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69f7ae79-9e23-41dc-8fd7-969afbe047db",
+      "data": [
+        {
+          "text": "i need you to mark next "
+        },
+        {
+          "text": "monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a28ba545-138b-4f95-805a-23afaec545e0",
+      "data": [
+        {
+          "text": "let me know when my "
+        },
+        {
+          "text": "meetings",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " are on "
+        },
+        {
+          "text": "monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "66630fa1-0939-46c3-a9bb-4e7d7914fa14",
+      "data": [
+        {
+          "text": "set a reminder for "
+        },
+        {
+          "text": "john",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "birthday",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "next week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "73391eb8-9357-4938-9868-2e443dfcdc24",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "every wednesday",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        },
+        {
+          "text": " night at "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " remind me to meet "
+        },
+        {
+          "text": "phil",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6d714652-bed4-4695-a7c8-c5ad3b8c23df",
+      "data": [
+        {
+          "text": "set a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "hongbin",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4f38598c-03af-4c2d-8a92-f277174a5d9c",
+      "data": [
+        {
+          "text": "invite people to the calendar event"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3b8e76dd-f440-40b1-9c3f-fdefafcd11a2",
+      "data": [
+        {
+          "text": "remind me "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "four",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " about an event"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a52aa810-adef-421a-be36-5b318d0c79d6",
+      "data": [
+        {
+          "text": "add practice to calendar on "
+        },
+        {
+          "text": "feb four",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "king's park",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "two pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dfe87c0f-71c8-4e62-8258-68d5253758ed",
+      "data": [
+        {
+          "text": "set a two day notification before "
+        },
+        {
+          "text": "maria",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "birthday",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3160386f-5532-4efa-9fbd-017098ef70ea",
+      "data": [
+        {
+          "text": "let me know of the "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "416a7069-4e1a-4048-8163-8935084ddf2b",
+      "data": [
+        {
+          "text": "meeting update my calendar to "
+        },
+        {
+          "text": "reflect meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8db304d1-6c21-49ec-9e0c-9f45e92260bb",
+      "data": [
+        {
+          "text": "remind me at the start of "
+        },
+        {
+          "text": "each month",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6105cb8b-d855-49bc-90c7-d5bde53f39c8",
+      "data": [
+        {
+          "text": "add my "
+        },
+        {
+          "text": "car payment",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " on the "
+        },
+        {
+          "text": "twelfth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " in my calendar"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7f33d905-f146-43d8-b854-05f202c5be3d",
+      "data": [
+        {
+          "text": "give me an update on the "
+        },
+        {
+          "text": "election",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "one hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b9aaa7f2-1899-4a57-ba91-f9d893a28b6a",
+      "data": [
+        {
+          "text": "on "
+        },
+        {
+          "text": "february fourteenth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " make "
+        },
+        {
+          "text": "dinner",
+          "alias": "meal_type",
+          "meta": "@meal_type",
+          "userDefined": true
+        },
+        {
+          "text": " reservations at the "
+        },
+        {
+          "text": "restaurant",
+          "alias": "business_type",
+          "meta": "@business_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b3f765da-ecf5-424a-89e8-4ff4e25f3d85",
+      "data": [
+        {
+          "text": "repeating event "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "mondays",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8bf37022-ceb2-4e82-ac19-b6bb3e54bf01",
+      "data": [
+        {
+          "text": "please set reminder"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2fd11abd-85e7-40e1-bb1f-4ecc6834ea76",
+      "data": [
+        {
+          "text": "remind me if i miss my "
+        },
+        {
+          "text": "evening walk routine",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2061a155-2b30-4c28-b39d-8914403c0298",
+      "data": [
+        {
+          "text": "please remind me about the event later "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1debf15-1f57-4df0-b724-08c2e2bec352",
+      "data": [
+        {
+          "text": "schedule a reminder on "
+        },
+        {
+          "text": "fifteenth march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " and input name as "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1a9d31e8-7a2e-46f2-93c8-c7d521acfccb",
+      "data": [
+        {
+          "text": "tell me when my next "
+        },
+        {
+          "text": "doctors appointment",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " is"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "50c9eab3-5cef-4651-a266-b658e0eaa96a",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " this "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f5264df2-0184-4106-b14d-a369da4fa220",
+      "data": [
+        {
+          "text": "set a reminder on "
+        },
+        {
+          "text": "fifteenth march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " as "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c21f8033-0e07-48e9-83c3-d6b34166ee61",
+      "data": [
+        {
+          "text": "set "
+        },
+        {
+          "text": "generic calendar event",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " for next "
+        },
+        {
+          "text": "saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "ten am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "49f454ae-4076-4725-bbda-b06c31b4c1fa",
+      "data": [
+        {
+          "text": "add a reminder to "
+        },
+        {
+          "text": "april fourth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " to go to the "
+        },
+        {
+          "text": "dentist",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f8280505-5505-4928-99f1-48f346a2c11f",
+      "data": [
+        {
+          "text": "remind me to move so there is no weight gain"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c1b574ce-4ccd-49d6-8144-9e859fc4206a",
+      "data": [
+        {
+          "text": "set a reminder for "
+        },
+        {
+          "text": "twelve thirty",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with the "
+        },
+        {
+          "text": "boss",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4bf49528-5ebe-46f2-8d7e-d5b30b698cb3",
+      "data": [
+        {
+          "text": "remind me of my "
+        },
+        {
+          "text": "appointment",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " on the "
+        },
+        {
+          "text": "fifteenth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b4430ec-9004-4ffc-8b72-7a8d34a5e0e7",
+      "data": [
+        {
+          "text": "remind me to "
+        },
+        {
+          "text": "pay the electricity bill",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " on this "
+        },
+        {
+          "text": "weekend",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "nine am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "63dc89a0-fe95-46fb-a95c-401839c95d04",
+      "data": [
+        {
+          "text": "schedule a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "reeta",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "evening at five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5a677045-09ae-4ac0-bab9-426e01e53bd9",
+      "data": [
+        {
+          "text": "open calendar schedule event "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "73f75b35-cbcb-4a29-a3d6-08db4868b838",
+      "data": [
+        {
+          "text": "can you remind me of "
+        },
+        {
+          "text": "sunday gym",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "every saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "evening",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e9cc82df-1e7d-4dc4-b3f9-1555177de863",
+      "data": [
+        {
+          "text": "remind me about "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "ten am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dfa93fac-40e8-4fd2-9982-3da9d6d29997",
+      "data": [
+        {
+          "text": "hi please remind the next "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with my "
+        },
+        {
+          "text": "boss",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": " it will be at "
+        },
+        {
+          "text": "eleven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " next "
+        },
+        {
+          "text": "monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ab2ad996-62f2-404a-9617-cb26a54a2299",
+      "data": [
+        {
+          "text": "please remind me for the "
+        },
+        {
+          "text": "function",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "miami",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a761c659-d4c4-440a-9844-778f7cac4bfe",
+      "data": [
+        {
+          "text": "put a "
+        },
+        {
+          "text": "seven pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " time down for "
+        },
+        {
+          "text": "march fourteenth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4dec57f3-7359-4ab1-be8f-0e43862912be",
+      "data": [
+        {
+          "text": "remember "
+        },
+        {
+          "text": "dinner",
+          "alias": "meal_type",
+          "meta": "@meal_type",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "thursday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "bistro italia",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "18a2c226-8403-408a-ad90-51118e7f39f1",
+      "data": [
+        {
+          "text": "remind me after a "
+        },
+        {
+          "text": "month",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5f6368d9-da99-4244-af47-b264e0eea975",
+      "data": [
+        {
+          "text": "in the "
+        },
+        {
+          "text": "following week",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " repeat this event at "
+        },
+        {
+          "text": "ten am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "every day",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "32aa6b78-67f6-4482-972f-1a775bcca0f9",
+      "data": [
+        {
+          "text": "can you notify the event in my calendar"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ec8a4eab-dc4e-45a0-bee7-0327b01cb258",
+      "data": [
+        {
+          "text": "add event "
+        },
+        {
+          "text": "baseball practice",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b11c28e1-6eb3-4ec1-b758-dced650f2d08",
+      "data": [
+        {
+          "text": "remind me of my "
+        },
+        {
+          "text": "twelve",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " oclock "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " by eleven thirty"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fd6aa988-d4bf-483f-a905-6dec3cd0d740",
+      "data": [
+        {
+          "text": "calendar event send invite "
+        },
+        {
+          "text": "bill malinda",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ec5a87dc-966f-4c61-8041-f4e589478964",
+      "data": [
+        {
+          "text": "add "
+        },
+        {
+          "text": "dentist appointment",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "five",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2335a9ed-e085-441f-b88f-933ba4de2fd2",
+      "data": [
+        {
+          "text": "my calendar is to be updated with all "
+        },
+        {
+          "text": "rccg",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " event in "
+        },
+        {
+          "text": "march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "973354bf-8789-48b3-932f-6dccd6c0e5d7",
+      "data": [
+        {
+          "text": "please remind to "
+        },
+        {
+          "text": "sleep",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "nine pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b0922bd8-0249-4722-8792-4afde4381140",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "church",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "mom",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "dad",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "sunday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5fa0ef0c-231e-442a-9690-d887be03c938",
+      "data": [
+        {
+          "text": "can you sync my calendar with "
+        },
+        {
+          "text": "mark",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3606980c-fd98-4a94-943d-edf601b06e33",
+      "data": [
+        {
+          "text": "hey turn on your reminders for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s meeting at "
+        },
+        {
+          "text": "ten am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c1fb8988-ab29-40a8-ac80-4796e5aa031a",
+      "data": [
+        {
+          "text": "add a reminder to my calendar "
+        },
+        {
+          "text": "every year",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        },
+        {
+          "text": " on this date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d251fe08-f4e0-43ba-ae26-ee1b3957d80a",
+      "data": [
+        {
+          "text": "remind me to "
+        },
+        {
+          "text": "water my plants",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "every tuesday thursday and saturday",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5af96fff-d0b8-47f0-824b-ff9a967cb74a",
+      "data": [
+        {
+          "text": "on "
+        },
+        {
+          "text": "twenty third february",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "rahul",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " will come with me on "
+        },
+        {
+          "text": "india cricket match",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "29b256d0-f5a9-4e32-ac73-3d843e553345",
+      "data": [
+        {
+          "text": "i have to go to a meting on "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "noon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " can you remind me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5cf312e7-d55a-4ee2-906b-97bfa7c4ac4d",
+      "data": [
+        {
+          "text": "set the event to recur on the "
+        },
+        {
+          "text": "first monday of the month",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "01812dfa-7cb1-440e-a119-a8c04d504ff3",
+      "data": [
+        {
+          "text": "alert me at the time of the event"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "98c2367c-1865-4286-89e6-4f3bd4c19507",
+      "data": [
+        {
+          "text": "please add the "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "ms boland",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "eight hundred am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " to my calendar"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ef7096aa-cda5-4a42-8093-08e61ef90b5f",
+      "data": [
+        {
+          "text": "set a "
+        },
+        {
+          "text": "neighbor party",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "next week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f673830e-a46b-4f3c-a59e-80b1ac6f581f",
+      "data": [
+        {
+          "text": "please add "
+        },
+        {
+          "text": "dinner with mary",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " to my calendar on "
+        },
+        {
+          "text": "saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bf9d7afe-b19c-44bc-b22b-4df3f3a48f7a",
+      "data": [
+        {
+          "text": "don't let me forget "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "sheila",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ac2bc822-a6c7-424c-80eb-8b1a6fef3e0d",
+      "data": [
+        {
+          "text": "please set a "
+        },
+        {
+          "text": "monthly",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        },
+        {
+          "text": " reminder for "
+        },
+        {
+          "text": "paying rent",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4da8665a-df2a-4d74-9bea-04bdded7231d",
+      "data": [
+        {
+          "text": "add "
+        },
+        {
+          "text": "lunch appointment",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "lisa",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "january second",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "twelve thirty pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7bfa6b0e-a7a5-4ba3-98ca-2cc588a06aaa",
+      "data": [
+        {
+          "text": "make a calendar entry for next "
+        },
+        {
+          "text": "saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "ten am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e6605e65-5af1-4cff-8c16-f4488340cdde",
+      "data": [
+        {
+          "text": "remind me to "
+        },
+        {
+          "text": "pick up john from the airport",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eight",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d84c1123-f4c9-434d-8ad4-bd471b1b6005",
+      "data": [
+        {
+          "text": "remind me about calendar"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a58efd85-fcd5-41a2-ab11-09d2c1283602",
+      "data": [
+        {
+          "text": "add to calendar an "
+        },
+        {
+          "text": "medical appointment",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " for the "
+        },
+        {
+          "text": "first day of the next five months",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "df3b53ac-ff94-49ba-8c8b-f1cc2db6f46c",
+      "data": [
+        {
+          "text": "remind me about my "
+        },
+        {
+          "text": "biology test",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "fsu",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7bef594e-404f-41d4-8a96-eab17aa13043",
+      "data": [
+        {
+          "text": "add meet with "
+        },
+        {
+          "text": "dave",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "subway",
+          "alias": "business_name",
+          "meta": "@business_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "weber",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "four april",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7901d200-2862-4845-bde4-b6d8168080c6",
+      "data": [
+        {
+          "text": "set a reminder for "
+        },
+        {
+          "text": "fifteen minutes",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "change laundry loads",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "178e3e90-a71a-4e39-b1ea-aabe2fee429c",
+      "data": [
+        {
+          "text": "can you remind me about the "
+        },
+        {
+          "text": "gym class",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in two hours",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "529e4e15-1a8d-405a-8b43-e83328006a9b",
+      "data": [
+        {
+          "text": "set a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "tom",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "seven pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "31b59345-815d-4c3b-86ad-239fef3df203",
+      "data": [
+        {
+          "text": "can you set a reminder for "
+        },
+        {
+          "text": "wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "one pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " for my meeting"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69446d0f-45fe-452f-b0a5-9119d70ba3c4",
+      "data": [
+        {
+          "text": "remind me to meet "
+        },
+        {
+          "text": "joe",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "lunch",
+          "alias": "meal_type",
+          "meta": "@meal_type",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bf06e39b-680f-4415-83c3-158863f2b552",
+      "data": [
+        {
+          "text": "write down "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "seven pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d1f40460-b87a-43e0-9021-c5a8e2438265",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "twelveth july",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "bola",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "birthday",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " and my calendar to be updated with this date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4b55e685-1d85-4b91-963c-ca2917ebcb5c",
+      "data": [
+        {
+          "text": "set reminder for "
+        },
+        {
+          "text": "tennis game",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "peter",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "Sunday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "four pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "828679f6-3fd7-4697-8a93-992a3374327c",
+      "data": [
+        {
+          "text": "please block off "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " on my calendar"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ebb298ee-0e0a-4e02-8da7-931950863d43",
+      "data": [
+        {
+          "text": "all "
+        },
+        {
+          "text": "rccg",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " event is to be added to my calendar"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ac5211b-cd73-40ab-ba5f-5e2c708cc55d",
+      "data": [
+        {
+          "text": "add "
+        },
+        {
+          "text": "valia's wedding",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " the next "
+        },
+        {
+          "text": "saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eight o clock",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "47db5007-7cd2-48b2-bcd3-f9c45895e936",
+      "data": [
+        {
+          "text": "i have a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "ten",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " please remind me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "36bd0a65-e557-4d4e-ab2a-803fde1a8142",
+      "data": [
+        {
+          "text": "i need you to remind me to go to store "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1b2316f9-bb13-4b18-832e-ccba729c5eb2",
+      "data": [
+        {
+          "text": "remind me of this "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " soon"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "92eee35c-fdde-44a7-9ca4-f0e69e106cdf",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "dentist appointment",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "nine am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "10aaff4b-4830-4449-b80a-adbe2218fc9e",
+      "data": [
+        {
+          "text": "create a "
+        },
+        {
+          "text": "repeating",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        },
+        {
+          "text": " event on "
+        },
+        {
+          "text": "mondays",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "seven pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dbee86db-0ae3-4d71-b431-1f388c963246",
+      "data": [
+        {
+          "text": "remind me of "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "five minutes before",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fce64e05-37d5-4a2c-8449-0ec0245f234f",
+      "data": [
+        {
+          "text": "remind me to "
+        },
+        {
+          "text": "meet with steve",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "one pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "282bf3c7-ad2d-4251-9ac6-402b91674029",
+      "data": [
+        {
+          "text": "add "
+        },
+        {
+          "text": "new year",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "family",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "next week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a63d12d7-c86f-49c2-a453-66e9b23822f4",
+      "data": [
+        {
+          "text": "schedule a "
+        },
+        {
+          "text": "lunch meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "brent",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "Wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "noon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "31406f84-a8c7-437c-98b5-414c2f664b18",
+      "data": [
+        {
+          "text": "call me for this "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1bfe381d-6a76-48b8-8fd0-61b38683bcde",
+      "data": [
+        {
+          "text": "schedule "
+        },
+        {
+          "text": "dinner",
+          "alias": "meal_type",
+          "meta": "@meal_type",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "sara",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "jamie",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "654422eb-59a0-4350-bb88-4c4bb28f1b52",
+      "data": [
+        {
+          "text": "remind me later"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f59133ab-de18-4464-8676-658782272fbf",
+      "data": [
+        {
+          "text": "just set me reminders about "
+        },
+        {
+          "text": "pending payment of children school fees",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4469e12e-9560-4c4c-b9d0-7af4fe84c42a",
+      "data": [
+        {
+          "text": "add a reminder for "
+        },
+        {
+          "text": "april twenty",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " as my "
+        },
+        {
+          "text": "bro",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "birthday",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a2fb1dfb-fc1f-4f1a-afed-9b5fefbc0d67",
+      "data": [
+        {
+          "text": "don't let me forget i have a "
+        },
+        {
+          "text": "parent teacher conference",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " this "
+        },
+        {
+          "text": "monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "four hundred pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c29999a4-de27-43a8-94a2-737c7beffc72",
+      "data": [
+        {
+          "text": "alter "
+        },
+        {
+          "text": "lunch",
+          "alias": "meal_type",
+          "meta": "@meal_type",
+          "userDefined": true
+        },
+        {
+          "text": " event to repeat "
+        },
+        {
+          "text": "every friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3cca1a1b-89da-49ff-8a09-859d11e8609e",
+      "data": [
+        {
+          "text": "add event book "
+        },
+        {
+          "text": "club debbie's house",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "67391ef6-9ca9-4f94-ba94-20cf25a46f44",
+      "data": [
+        {
+          "text": "set a reminder alert for "
+        },
+        {
+          "text": "saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nine am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " towards "
+        },
+        {
+          "text": "payment of electricity bill",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3e914d3b-2c90-4888-b1ba-8fac47414aeb",
+      "data": [
+        {
+          "text": "please remind me of all the nba scores in a week"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "df952db8-48db-48ae-bd84-f165f3372ab2",
+      "data": [
+        {
+          "text": "remind me to take out the trash"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8833b593-824f-4053-a776-f5f985028650",
+      "data": [
+        {
+          "text": "set on "
+        },
+        {
+          "text": "second january",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " about "
+        },
+        {
+          "text": "soccer match",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "manchester",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1ad02ad-62e6-4cc6-928f-256a9803f19d",
+      "data": [
+        {
+          "text": "remind me clock that i have a event"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e8ca42f4-ac3c-43cb-b634-ff25439f7d28",
+      "data": [
+        {
+          "text": "can you remind my next "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with my "
+        },
+        {
+          "text": "boss",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "one hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " before it will happen"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ddee5e95-cbc7-49b4-bd65-88aaeecaaa1e",
+      "data": [
+        {
+          "text": "set a notification for "
+        },
+        {
+          "text": "june fifth every year",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a2c8441f-8301-4918-9370-9cbac137183a",
+      "data": [
+        {
+          "text": "plan a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " in office with all employees "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning at eight",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5ffcef77-e4b0-48ec-bc5a-bb723c81773f",
+      "data": [
+        {
+          "text": "set a "
+        },
+        {
+          "text": "thanks giving",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " event for "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c6091d69-35b3-4174-b8cd-e1bf47c3a96b",
+      "data": [
+        {
+          "text": "remind me about my "
+        },
+        {
+          "text": "anniversary",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in one day advance",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "18acdde2-9fc9-4601-b5ba-91a87e5b965e",
+      "data": [
+        {
+          "text": "on "
+        },
+        {
+          "text": "every tuesday",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        },
+        {
+          "text": " remind me to go shopping"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "95a4086b-3cd9-4609-97a6-b0eef6026990",
+      "data": [
+        {
+          "text": "set event on recurring"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c55bec8f-e0fe-437b-8678-e478aedc14ac",
+      "data": [
+        {
+          "text": "schedule a "
+        },
+        {
+          "text": "sales meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eleven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "80b38f65-f065-493e-bd5e-57b7a12e704a",
+      "data": [
+        {
+          "text": "please tell me to "
+        },
+        {
+          "text": "take my umbrella",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " because it will be very hot "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "254a4547-ecca-4ee8-9671-b8ff4e560355",
+      "data": [
+        {
+          "text": "remind me to go grocery shopping "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "929a7070-f8ff-45c1-8306-395e61dc1956",
+      "data": [
+        {
+          "text": "set a notification on "
+        },
+        {
+          "text": "third march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " about "
+        },
+        {
+          "text": "company meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "deb795e7-cffe-4394-a63d-a30ce3adbae6",
+      "data": [
+        {
+          "text": "put my "
+        },
+        {
+          "text": "brother",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "birthday",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " in my calendar for "
+        },
+        {
+          "text": "july fourth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eaade3ee-1f8b-4752-b014-abb1378d1379",
+      "data": [
+        {
+          "text": "add "
+        },
+        {
+          "text": "jane",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "birthday party",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "one hundred and twenty three main for two pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " on my calendar"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e29b9a31-0e36-4f89-a066-18db3205e352",
+      "data": [
+        {
+          "text": "schedule my "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with my "
+        },
+        {
+          "text": "girlfriend lisa",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": " in the night "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "nine pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8071c1e9-5087-4b54-b7dd-f7e7000f5bec",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "march fifth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "john",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "birthday",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " please place this on the calendar"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4342dad9-e4e6-44ba-a273-cf286fecb9b6",
+      "data": [
+        {
+          "text": "take note of "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " as "
+        },
+        {
+          "text": "my first date with bob",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5b778c96-b6fb-46cd-8995-ae10eee67b1f",
+      "data": [
+        {
+          "text": "remember to remind me about "
+        },
+        {
+          "text": "client meet",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "four pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "68d542dd-9e58-42c0-84c5-16008170a165",
+      "data": [
+        {
+          "text": "set reminder for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " for this item"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fe320919-d489-48da-a03d-1ba4d671cbeb",
+      "data": [
+        {
+          "text": "can you remind me to "
+        },
+        {
+          "text": "check my clothes",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in a hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a2059908-2e4c-4807-95fc-0f5e3ee0d776",
+      "data": [
+        {
+          "text": "give me the list of all events coming up in the "
+        },
+        {
+          "text": "next month",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " and set notifications for all of them"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "01d36375-b680-44ce-a8ec-57a4b0c9a406",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "thirteenth june",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is a day of "
+        },
+        {
+          "text": "election result",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " please set it"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fe58e71b-dd8a-44ea-92d9-6f82dc294b5e",
+      "data": [
+        {
+          "text": "add my "
+        },
+        {
+          "text": "spin class",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " to the calendar for "
+        },
+        {
+          "text": "Saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5a06d74e-9aa2-4fbc-9156-db60c1f10a99",
+      "data": [
+        {
+          "text": "please set this date to repeat"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d3ec9b6c-c06b-454b-bf9e-f2d3dbffa375",
+      "data": [
+        {
+          "text": "make a repeating reminder for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "652983f0-490d-4e0e-9bec-812e257a498e",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "thursday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "three pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " there is a "
+        },
+        {
+          "text": "teachers meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " i need to be reminded of"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6d94628f-03d2-416d-a012-e66885676f9c",
+      "data": [
+        {
+          "text": "remind me to have "
+        },
+        {
+          "text": "launch with boss",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "one pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3989a43e-3745-4538-a049-2d77d5561b5e",
+      "data": [
+        {
+          "text": "remind me to "
+        },
+        {
+          "text": "take the casserole out of the oven",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "seven hundred and forty five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "441e2aa8-9c1d-4d1a-8643-8c1c36a4e37e",
+      "data": [
+        {
+          "text": "please remind me that i have a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ten",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "901935b4-de5e-4e3d-b98f-efd1e48ba355",
+      "data": [
+        {
+          "text": "add to calendar "
+        },
+        {
+          "text": "may two",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "mary",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "birthday",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " repeat "
+        },
+        {
+          "text": "every year",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "924d43a8-c059-47ee-86a4-9b9bd1c98005",
+      "data": [
+        {
+          "text": "call "
+        },
+        {
+          "text": "sarah",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ebbde900-2528-41a3-a58b-cb76b5e9b6ea",
+      "data": [
+        {
+          "text": "send me notice of "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "nine am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ce6fe3eb-fb55-4ce7-8a8b-caf28c2afbd8",
+      "data": [
+        {
+          "text": "the location is my "
+        },
+        {
+          "text": "office",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b32e04a8-6929-419e-90c8-6c9e3bf60021",
+      "data": [
+        {
+          "text": "on "
+        },
+        {
+          "text": "january twenty five",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " set "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "twelve",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "677dce79-fc7d-4067-8f5e-7e1fe660bd47",
+      "data": [
+        {
+          "text": "please put me your input to know my schedule"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "e140dbc0-52ca-4dd8-8d56-1ff6e1a9c863",
+  "name": "calendar_set",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@business_name",
+          "name": "business_name",
+          "value": "$business_name"
+        },
+        {
+          "dataType": "@business_type",
+          "name": "business_type",
+          "value": "$business_type"
+        },
+        {
+          "dataType": "@date",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "dataType": "@event_name",
+          "name": "event_name",
+          "value": "$event_name"
+        },
+        {
+          "dataType": "@general_frequency",
+          "name": "general_frequency",
+          "value": "$general_frequency"
+        },
+        {
+          "dataType": "@meal_type",
+          "name": "meal_type",
+          "value": "$meal_type"
+        },
+        {
+          "dataType": "@person",
+          "name": "person",
+          "value": "$person"
+        },
+        {
+          "dataType": "@place_name",
+          "name": "place_name",
+          "value": "$place_name"
+        },
+        {
+          "dataType": "@relation",
+          "name": "relation",
+          "value": "$relation"
+        },
+        {
+          "dataType": "@time",
+          "name": "time",
+          "value": "$time"
+        },
+        {
+          "dataType": "@timeofday",
+          "name": "timeofday",
+          "value": "$timeofday"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

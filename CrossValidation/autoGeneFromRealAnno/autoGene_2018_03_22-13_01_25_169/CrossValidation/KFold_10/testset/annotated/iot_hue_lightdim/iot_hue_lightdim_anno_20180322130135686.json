@@ -1,0 +1,136 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "reduce light intensity",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower the intensity of light",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower the overhead lights",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "overhead",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "dim the lights in the bathroom",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "bathroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "lower the lights in the living room",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 24,
+          "end": 35,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "dim the lights down a bit",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "darken",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "please dim the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "may i ask you to dim the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower the lights a little more",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 17,
+          "end": 30,
+          "value": "a little more",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "please dim the lights in the bedroom",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 29,
+          "end": 36,
+          "value": "bedroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "attenuate the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "could you dim the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "show me the dim colour",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "darker lights please",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "make a room darker",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "dim lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "nighttime mode",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    }
+  ]
+}

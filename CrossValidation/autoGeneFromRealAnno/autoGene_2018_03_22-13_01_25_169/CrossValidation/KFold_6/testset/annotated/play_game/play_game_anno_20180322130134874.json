@@ -1,0 +1,183 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "tag you're it",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "tag you're it",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play a game together",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "play ping pong",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "ping pong",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "open chess game",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "open saga",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "saga",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "i want you to play this game for me",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "i challenge you to a game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "lets play battleship",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 10,
+          "end": 20,
+          "value": "battleship",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play global thermonuclear war",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 35,
+          "value": "global thermonuclear war",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "start a game and play with me",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "let's play canasta",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "canasta",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "start the poker game",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "poker",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play some pong",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "pong",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "please play clash of clans",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 12,
+          "end": 26,
+          "value": "clash of clans",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "lets play tic tac toe",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 10,
+          "end": 21,
+          "value": "tic tac toe",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to play a game with you",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "please choose a game that you can play with me",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "please open and play chess with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "open this game",
+      "intent": "play_game",
+      "entities": []
+    }
+  ]
+}

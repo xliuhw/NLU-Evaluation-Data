@@ -1,0 +1,9 @@
+answerid;scenario;intent;answer_annotation;answer_from_anno;answer_from_user
+2164;datetime;convert;"what time is [time : twelve pm] [time_zone : eastern] time in [time_zone : pacific] time";"what time is twelve pm eastern time in pacific time";"What time is 12PM Eastern Time in Pacific Time?"
+26097;datetime;convert;"how many hours difference is there between [place_name : london] and [place_name : new york]";"how many hours difference is there between london and new york";"How many hours difference is there between London and New York?"
+17781;datetime;convert;"can you change my time zone to [time_zone : central]";"can you change my time zone to central";"Olly can you change my timezone to central?"
+16055;datetime;convert;"change my clock to [time_zone : central] time zone from [time_zone : my current zone]";"change my clock to central time zone from my current zone";"change my clock to central time zone from my current zone"
+81;datetime;convert;"tell me the time in [time_zone : g. m. t. plus five]";"tell me the time in g. m. t. plus five";"tell me the time in GMT plus 5"
+2935;datetime;convert;"please can i know what time will it be at [time : six pm] here in [place_name : australia]";"please can i know what time will it be at six pm here in australia";"please Can i know what time will it be at 6 pm here in Australia?"
+8576;datetime;convert;"when it's [time : ten pm] here what time is it in [place_name : brisbane]";"when it's ten pm here what time is it in brisbane";"When it's 10 pm here what time is it in Brisbane?"
+22709;datetime;convert;"what is the time difference between [place_name : california] and [place_name : new york]";"what is the time difference between california and new york";"What is the time difference between California and New York?"

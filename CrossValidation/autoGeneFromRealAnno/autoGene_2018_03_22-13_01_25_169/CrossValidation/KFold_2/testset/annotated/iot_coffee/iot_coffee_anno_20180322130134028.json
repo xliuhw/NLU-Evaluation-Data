@@ -1,0 +1,167 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please activate my coffee pot for me",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 19,
+          "end": 29,
+          "value": "coffee pot",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "i need a drink",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "make us a brew",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "brew",
+          "entity": "coffee_type"
+        }
+      ]
+    },
+    {
+      "text": "please make me a coffee using the coffee machine",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 34,
+          "end": 48,
+          "value": "coffee machine",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "i want coffee everyday",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 14,
+          "end": 22,
+          "value": "everyday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please get the coffee machine to make me some coffee",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 15,
+          "end": 29,
+          "value": "coffee machine",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "i want a coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "instruct the coffee maker to make a filter coffee ready in ten minutes",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 13,
+          "end": 25,
+          "value": "coffee maker",
+          "entity": "device_type"
+        },
+        {
+          "start": 36,
+          "end": 42,
+          "value": "filter",
+          "entity": "coffee_type"
+        },
+        {
+          "start": 56,
+          "end": 70,
+          "value": "in ten minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "will you please get the coffee machine to make some coffee",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 24,
+          "end": 38,
+          "value": "coffee machine",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "make me a coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "prepare my coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "get me a coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "i need some coffee please",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "start coffee machine",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 6,
+          "end": 20,
+          "value": "coffee machine",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "make a coffee for me",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "cook some coffees",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "make coffee for me",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "cup of coffee please",
+      "intent": "iot_coffee",
+      "entities": []
+    }
+  ]
+}

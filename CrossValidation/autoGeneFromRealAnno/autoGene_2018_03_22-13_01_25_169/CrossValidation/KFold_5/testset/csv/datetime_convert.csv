@@ -1,0 +1,9 @@
+answerid;scenario;intent;answer_annotation;answer_from_anno;answer_from_user
+12475;datetime;convert;"what is the time difference between [time_zone : pacific] and [time_zone : central]";"what is the time difference between pacific and central";"What is the time difference between pacific and central"
+22864;datetime;convert;"convert [time : twenty one thirty] from [time_zone : gtm four] to [time_zone : g. m. t. four thirty]";"convert twenty one thirty from gtm four to g. m. t. four thirty";"convert 21:30 from GTM 4:00 to GMT 4:30"
+22865;datetime;convert;"convert [time : eight thirty] from [time_zone : gtm four] to [time_zone : g. m. t. five thirty]";"convert eight thirty from gtm four to g. m. t. five thirty";"convert 8:30 from GTM -4:00 to GMT 5:30"
+26096;datetime;convert;"if it is [time : six am] here what time is it in [place_name : tokyo]";"if it is six am here what time is it in tokyo";"If it is 6AM here what time is it in Tokyo?"
+4552;datetime;convert;"if it's [time : ten pm] in [place_name : california] what time is it in [place_name : alabama]";"if it's ten pm in california what time is it in alabama";"If it's ten pm in California, what time is it in Alabama?"
+15510;datetime;convert;"convert current time from [time_zone : ist] to [time_zone : est]";"convert current time from ist to est";"Convert current time from IST to EST"
+4748;datetime;convert;"what is the time in [place_name : india] when the time in [place_name : us] is [time : twelve pm]";"what is the time in india when the time in us is twelve pm";"What is the time in India, when the time in US is 12pm"
+21453;datetime;convert;"what is the time difference between [place_name : india] and [place_name : ivory coast]";"what is the time difference between india and ivory coast";"What is the time difference between India and Ivory Coast?"

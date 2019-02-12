@@ -1,0 +1,291 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "go back to the midnight series",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "go back",
+          "entity": "player_setting"
+        },
+        {
+          "start": 11,
+          "end": 30,
+          "value": "the midnight series",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "please play recently paused audio",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "audio",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play little women",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "little women",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play biography of jackie kennedy",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 32,
+          "value": "biography of jackie kennedy",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play recently added audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "can you play hunt for red october",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 13,
+          "end": 33,
+          "value": "hunt for red october",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play the scarlet letter",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 23,
+          "value": "the scarlet letter",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "start reading book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "start reading",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "play sam harris audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "sam harris",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 16,
+          "end": 25,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "resume joes book from where i left off last time",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 16,
+          "value": "joes book",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play my book",
+      "intent": "play_audiobook",
+      "entities": []
+    },
+    {
+      "text": "lets listen to hunt for read october",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 15,
+          "end": 36,
+          "value": "hunt for read october",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "restart the audiobook heaven is for real",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "restart",
+          "entity": "player_setting"
+        },
+        {
+          "start": 12,
+          "end": 21,
+          "value": "audiobook",
+          "entity": "media_type"
+        },
+        {
+          "start": 22,
+          "end": 40,
+          "value": "heaven is for real",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "restart bill nye book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "restart",
+          "entity": "player_setting"
+        },
+        {
+          "start": 8,
+          "end": 16,
+          "value": "bill nye",
+          "entity": "audiobook_author"
+        },
+        {
+          "start": 17,
+          "end": 21,
+          "value": "book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play animal farm",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "animal farm",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play the time machine by h g wells",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 21,
+          "value": "the time machine",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 25,
+          "end": 34,
+          "value": "h g wells",
+          "entity": "audiobook_author"
+        }
+      ]
+    },
+    {
+      "text": "continue playing my audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "please resume this playback in audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 7,
+          "end": 13,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "read the audiobook of war of the roses",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "read",
+          "entity": "player_setting"
+        },
+        {
+          "start": 9,
+          "end": 18,
+          "value": "audiobook",
+          "entity": "media_type"
+        },
+        {
+          "start": 22,
+          "end": 38,
+          "value": "war of the roses",
+          "entity": "audiobook_name"
+        }
+      ]
+    }
+  ]
+}

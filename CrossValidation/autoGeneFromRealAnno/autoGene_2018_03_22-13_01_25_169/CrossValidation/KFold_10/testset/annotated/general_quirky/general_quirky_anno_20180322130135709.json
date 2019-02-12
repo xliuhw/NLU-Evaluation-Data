@@ -1,0 +1,188 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is your mood today",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what does jon bon jovi's wife look like",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 10,
+          "end": 22,
+          "value": "jon bon jovi",
+          "entity": "person"
+        },
+        {
+          "start": 25,
+          "end": 29,
+          "value": "wife",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "i would like it to be able to compute answer from search results like wolfram alpha does",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what things can't you do",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "kill all the frogs you see",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "does mr t have a family",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "mr t",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "i have a deadline on tuesday",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "tuesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "show me a map of everywhere the cat has been this week",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 45,
+          "end": 54,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "opinion about latest gadgets",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "are you real",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "today was a hard day",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "dolores how was your day",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "today some things happened",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "when will you do my laundry",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what are you doing",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "plan me a holiday trip",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "why does tom izzo look like a whiny bitch when his team plays",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 9,
+          "end": 17,
+          "value": "tom izzo",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is my location",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "friend updates",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i had a long hard day",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "can you watch a movie on netflix with me",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "hey i met one of my old classmates today",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 35,
+          "end": 40,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i would like it if my robot could make money for me",
+      "intent": "general_quirky",
+      "entities": []
+    }
+  ]
+}

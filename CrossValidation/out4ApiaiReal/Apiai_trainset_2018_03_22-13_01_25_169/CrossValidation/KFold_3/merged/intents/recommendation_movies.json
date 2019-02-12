@@ -1,0 +1,1620 @@
+{
+  "userSays": [
+    {
+      "id": "8bd77ec8-bf0b-41ee-8349-e831cbb07a17",
+      "data": [
+        {
+          "text": "play a movie i'll like"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9b58130f-2aa2-4a46-8377-6bc8d71e4ee4",
+      "data": [
+        {
+          "text": "what time will a movie be shown "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "68052c36-a46d-4133-bc77-72153edcf4a5",
+      "data": [
+        {
+          "text": "what new movies available "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d0492172-795e-49b2-adfa-66f4a21d7d63",
+      "data": [
+        {
+          "text": "suggest a good genre movie that came out recently"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "37945bde-b8ad-4b3a-8963-0b0dc65b36f6",
+      "data": [
+        {
+          "text": "please recommend a movie"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0d76fe61-dc31-43ad-b152-23a4cde213b9",
+      "data": [
+        {
+          "text": "what is the highest rated movie "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6e5facb3-a5bf-4195-9f04-7dfcee757d27",
+      "data": [
+        {
+          "text": "recommend a movie for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a1e19c7-b2ab-425f-a834-2ceeb0abc1a0",
+      "data": [
+        {
+          "text": "do you recommend any movies that are currently playing in me area"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a5d00fee-e05b-4956-abf1-2ecb82648c71",
+      "data": [
+        {
+          "text": "what is the highest rated movie now out"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d8738c38-9f57-4314-a12b-01892786d328",
+      "data": [
+        {
+          "text": "what is the best movie to watch "
+        },
+        {
+          "text": "this weekend",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5e6ccbb3-164b-4bcf-8b39-6bf6b8257d96",
+      "data": [
+        {
+          "text": "which "
+        },
+        {
+          "text": "rom com",
+          "alias": "movie_type",
+          "meta": "@movie_type",
+          "userDefined": true
+        },
+        {
+          "text": " movie can i watch in theatres around "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7d2e1c24-d305-4e1a-80a3-d2e6aae04340",
+      "data": [
+        {
+          "text": "can you tell me what movies are playing at the movies "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cdac7130-9cc3-4d93-8fc4-f403914f2cb1",
+      "data": [
+        {
+          "text": "what movies are playing at "
+        },
+        {
+          "text": "theatres",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " near me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9f4ef7a8-91eb-46fc-b955-e50cc9fd1d92",
+      "data": [
+        {
+          "text": "show me theatre where "
+        },
+        {
+          "text": "pirates of caribbean",
+          "alias": "movie_name",
+          "meta": "@movie_name",
+          "userDefined": true
+        },
+        {
+          "text": " is playing"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e2c4ef71-85c5-4b1f-a12a-1a8875817ffc",
+      "data": [
+        {
+          "text": "what new movies are good"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "077d62a7-23ec-4f61-9491-e39d5895e7cd",
+      "data": [
+        {
+          "text": "what is the biggest "
+        },
+        {
+          "text": "blockbuster",
+          "alias": "movie_type",
+          "meta": "@movie_type",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "25f95451-485a-4f5f-b6f1-a5fff6d1d35d",
+      "data": [
+        {
+          "text": "find an oscar nominee movie"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "766bbca9-8d65-4034-b7ef-21d2b5d42f25",
+      "data": [
+        {
+          "text": "recommend a "
+        },
+        {
+          "text": "movie",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " which is released "
+        },
+        {
+          "text": "last Friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1d33460-0aef-40d4-9413-4de0f42c6d2c",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "training day",
+          "alias": "movie_name",
+          "meta": "@movie_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "29884b50-e9ed-445d-a820-e2764a988233",
+      "data": [
+        {
+          "text": "is "
+        },
+        {
+          "text": "swat",
+          "alias": "movie_name",
+          "meta": "@movie_name",
+          "userDefined": true
+        },
+        {
+          "text": " a good movie"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7cd0f504-21cc-45a9-815c-201e57489ec3",
+      "data": [
+        {
+          "text": "what are movies that are playing near me with high reviews"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0f239679-dc90-437b-b1c5-a5824c364179",
+      "data": [
+        {
+          "text": "movie times "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d1e9ba57-f98d-484b-8ea8-e4197ad40ba6",
+      "data": [
+        {
+          "text": "can you tell me what movie has the best reviews"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f147565d-2703-48a7-b3d3-f2d191e5af1b",
+      "data": [
+        {
+          "text": "what are the show times for "
+        },
+        {
+          "text": "logan",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at the "
+        },
+        {
+          "text": "nearby theatre",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6185d05c-23e3-4426-b756-6a22c6b6ecd2",
+      "data": [
+        {
+          "text": "show me nearest "
+        },
+        {
+          "text": "theatre",
+          "alias": "business_type",
+          "meta": "@business_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4bd24ed5-967c-4da8-8a25-a76a1f5deec3",
+      "data": [
+        {
+          "text": "what is a good iranian film from "
+        },
+        {
+          "text": "two thousand and sixteen",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aa8c170d-80a8-4c94-b737-38506168eb11",
+      "data": [
+        {
+          "text": "what movies are playing nearby"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "de9021d8-2896-42a3-95da-c000572d49b3",
+      "data": [
+        {
+          "text": "what new movies are played in cinemas "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "38af0d69-8a93-4d2e-bb39-eef2d4ec9768",
+      "data": [
+        {
+          "text": "what movie theatres are in "
+        },
+        {
+          "text": "stephenville",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7ae1d544-bdef-4a5c-9d7e-fa27ccd2e722",
+      "data": [
+        {
+          "text": "what is the best movie to watch with a glass of wine"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "df89a923-b05c-4e4d-9487-fb4ab88016d8",
+      "data": [
+        {
+          "text": "what do you suggest that i watch "
+        },
+        {
+          "text": "this weekend",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "379009db-1ef4-41ca-8d8e-04716e54d630",
+      "data": [
+        {
+          "text": "what film should i watch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "074a22a4-7385-44a2-9cf6-f0fb352db90c",
+      "data": [
+        {
+          "text": "movies with good reviews"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "968925ff-30fd-4680-becd-3e19a208d070",
+      "data": [
+        {
+          "text": "what's a good movie that's out right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9f6b1102-23b3-4681-ab01-dbdac6344490",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "fast and the furious",
+          "alias": "movie_name",
+          "meta": "@movie_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a3cdfc5e-0e6d-4755-bc1b-558030d4bb23",
+      "data": [
+        {
+          "text": "what are good movies playing now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dbb7bd75-a534-459c-bac8-7bc41d5c901d",
+      "data": [
+        {
+          "text": "show me best in class "
+        },
+        {
+          "text": "theatre",
+          "alias": "business_type",
+          "meta": "@business_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "27dd5575-9bbd-4e68-8bf7-81b66d019822",
+      "data": [
+        {
+          "text": "what movies are being shown at the "
+        },
+        {
+          "text": "regal cinema",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ac038ae-b904-4b2d-b241-3f33afa359ba",
+      "data": [
+        {
+          "text": "whats a new "
+        },
+        {
+          "text": "sci fi",
+          "alias": "movie_type",
+          "meta": "@movie_type",
+          "userDefined": true
+        },
+        {
+          "text": " movie"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1b3d88a8-f10f-472e-ae1c-993543b7c179",
+      "data": [
+        {
+          "text": "suggest movies and songs that i would like but that aren't necessarily like ones i've already said i like"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "90edf624-9a83-47c1-8216-e477a9a13594",
+      "data": [
+        {
+          "text": "can you recommend some movies to watch in "
+        },
+        {
+          "text": "theater",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " near me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3f499c3a-4d0b-4052-939a-2df412c42149",
+      "data": [
+        {
+          "text": "what movies are playing "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "484904ef-6405-4eff-a6b7-aca972c60d0a",
+      "data": [
+        {
+          "text": "what is the latest "
+        },
+        {
+          "text": "action",
+          "alias": "movie_type",
+          "meta": "@movie_type",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "movie",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": " running in "
+        },
+        {
+          "text": "theaters",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d6a6b930-7c2b-427f-a5d0-ccf79816c572",
+      "data": [
+        {
+          "text": "tell me the movie with "
+        },
+        {
+          "text": "best imdb ratings",
+          "alias": "movie_type",
+          "meta": "@movie_type",
+          "userDefined": true
+        },
+        {
+          "text": " going on in "
+        },
+        {
+          "text": "theatres",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " near me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bcfd0b02-7d50-467e-a6f5-85edb8c6a470",
+      "data": [
+        {
+          "text": "movies with good rotten tomato ratings"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "955dfa0c-67d7-402d-8943-c6072c099acd",
+      "data": [
+        {
+          "text": "what are the current movies playing in me area"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b1c5388a-205f-4746-8407-3824aa3a32f2",
+      "data": [
+        {
+          "text": "should i watch this movie"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e84b0497-0c76-46b3-9424-1d6b90317883",
+      "data": [
+        {
+          "text": "what's playing at "
+        },
+        {
+          "text": "brea plaza five",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f04fab19-d87d-48cb-9b96-fe97a6c5dbf1",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "kung fu panda three",
+          "alias": "movie_name",
+          "meta": "@movie_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "38cd2d1f-a7cc-481d-850a-eb6eb9d53697",
+      "data": [
+        {
+          "text": "when is "
+        },
+        {
+          "text": "trolls",
+          "alias": "movie_name",
+          "meta": "@movie_name",
+          "userDefined": true
+        },
+        {
+          "text": " playing"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f3fff27c-4aa0-464a-949c-27b9abff574a",
+      "data": [
+        {
+          "text": "what movies are playing "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "de06e4ed-0f1f-4b7b-8df2-c111757650c7",
+      "data": [
+        {
+          "text": "any good movies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7ac78ef-45bb-436d-9ca1-4b8bc9951c43",
+      "data": [
+        {
+          "text": "what movies are playing "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "nine pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " at the "
+        },
+        {
+          "text": "amc nine",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "91ae9b63-345b-4d2a-8e2e-3715eec9aecd",
+      "data": [
+        {
+          "text": "what movies are going around me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9dfeedd6-aed5-491a-9648-65f67101e075",
+      "data": [
+        {
+          "text": "please check on the movies playing in "
+        },
+        {
+          "text": "theaters",
+          "alias": "business_type",
+          "meta": "@business_type",
+          "userDefined": true
+        },
+        {
+          "text": " nearby"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "44a95b89-667f-4c7f-acac-4716c7063a74",
+      "data": [
+        {
+          "text": "what movies are out "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8d3ead3d-d63b-4efd-ac18-f2420430f7f1",
+      "data": [
+        {
+          "text": "what are the show times of "
+        },
+        {
+          "text": "logan",
+          "alias": "movie_name",
+          "meta": "@movie_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9dc7d2df-9efe-4b1e-a1bb-4d8fcda5f701",
+      "data": [
+        {
+          "text": "what movie should i see"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1d61af26-b8e7-46ac-bbbd-e5890b0bf8ba",
+      "data": [
+        {
+          "text": "what are the new "
+        },
+        {
+          "text": "movies",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " releasing"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2d5df343-21d6-407d-9828-91df8472797c",
+      "data": [
+        {
+          "text": "what's "
+        },
+        {
+          "text": "playing in the roosendaal cinema",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "75fa1586-6cb4-4baa-b199-08bf2c364ddd",
+      "data": [
+        {
+          "text": "what is a movie like "
+        },
+        {
+          "text": "star wars",
+          "alias": "movie_name",
+          "meta": "@movie_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d33a1dd3-22ce-4c4c-bb8d-0fb9b0be9882",
+      "data": [
+        {
+          "text": "confirm a movie ticket at "
+        },
+        {
+          "text": "glory theater",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1cc5e9dc-fdfa-4bc8-979c-5fe4e33bf292",
+      "data": [
+        {
+          "text": "what movies are playing right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "639c67e2-23df-4f32-8f6a-bad365051900",
+      "data": [
+        {
+          "text": "what is playing at "
+        },
+        {
+          "text": "amc twenty",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "08c397be-fdd3-492e-8346-97bb6070d345",
+      "data": [
+        {
+          "text": "latest movie releases"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "40f5441c-069e-4b90-be23-f7d7865837d6",
+      "data": [
+        {
+          "text": "what are new "
+        },
+        {
+          "text": "drama",
+          "alias": "movie_type",
+          "meta": "@movie_type",
+          "userDefined": true
+        },
+        {
+          "text": " movies opening this "
+        },
+        {
+          "text": "weekend",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "048f335d-c3df-4be2-9658-534943c9d891",
+      "data": [
+        {
+          "text": "what movies are playing in "
+        },
+        {
+          "text": "columbia",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f79b739b-d623-408b-8f56-dd58df018998",
+      "data": [
+        {
+          "text": "what is the nearest theatre that plays the new "
+        },
+        {
+          "text": "vin diesel",
+          "alias": "movie_name",
+          "meta": "@movie_name",
+          "userDefined": true
+        },
+        {
+          "text": " movie"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "696714b3-8f2a-4766-9d95-37ee6955225b",
+      "data": [
+        {
+          "text": "what movie should i watch "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ba15bdb-056c-46c3-bb46-c4bde0b9025d",
+      "data": [
+        {
+          "text": "what's worth watching"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b85587be-dd93-4485-b7f8-e871925d364c",
+      "data": [
+        {
+          "text": "what's a movie in "
+        },
+        {
+          "text": "theaters",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " that doesn't suck"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5661ba47-e9ae-41a4-8ce8-eff06097b262",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "theaters",
+          "alias": "business_type",
+          "meta": "@business_type",
+          "userDefined": true
+        },
+        {
+          "text": " near to me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9937a19a-1a9d-4158-914b-7073db20fc95",
+      "data": [
+        {
+          "text": "look up movies near me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b6e7153-0c58-4847-b2f3-6211b6a4d279",
+      "data": [
+        {
+          "text": "check for all the movie theater prices and availability for a newly released movie in my location"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3455bbca-dddc-4841-ad5b-a3a73e2aed3d",
+      "data": [
+        {
+          "text": "local "
+        },
+        {
+          "text": "theater",
+          "alias": "business_type",
+          "meta": "@business_type",
+          "userDefined": true
+        },
+        {
+          "text": " screening which "
+        },
+        {
+          "text": "movie",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e058e4b4-c65a-4ee0-9dda-6ee8bfa7d0ce",
+      "data": [
+        {
+          "text": "what movies is out there in the "
+        },
+        {
+          "text": "local cinema",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d97e9d77-a066-4685-ac85-1a46dffa8ec8",
+      "data": [
+        {
+          "text": "tell me movies playing in "
+        },
+        {
+          "text": "oceanside",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cba11802-7a32-4217-afea-9f2c861e0ac0",
+      "data": [
+        {
+          "text": "top ten movies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "edb9d6ad-eaa4-4b44-be7a-122c68cf475b",
+      "data": [
+        {
+          "text": "what should i watch "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8561d776-afc6-4bfb-9e2d-95cc9ce54a24",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "ocean eleven",
+          "alias": "movie_name",
+          "meta": "@movie_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6fdcf1b2-e98d-476b-b482-574f6083fd0f",
+      "data": [
+        {
+          "text": "do you have any suggestion "
+        },
+        {
+          "text": "action",
+          "alias": "movie_type",
+          "meta": "@movie_type",
+          "userDefined": true
+        },
+        {
+          "text": " movies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5c3dbf20-0980-43e6-bed9-368dd3339b5d",
+      "data": [
+        {
+          "text": "can you suggest a good "
+        },
+        {
+          "text": "drama",
+          "alias": "movie_type",
+          "meta": "@movie_type",
+          "userDefined": true
+        },
+        {
+          "text": " for me to watch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1831a530-88f6-4045-80da-c255b4107cca",
+      "data": [
+        {
+          "text": "are there any good movies running in nearby "
+        },
+        {
+          "text": "theaters",
+          "alias": "business_type",
+          "meta": "@business_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2ca49a9c-2f78-44a3-9528-cd612bb3eeff",
+      "data": [
+        {
+          "text": "i need a good "
+        },
+        {
+          "text": "chick flick",
+          "alias": "movie_name",
+          "meta": "@movie_name",
+          "userDefined": true
+        },
+        {
+          "text": " any thoughts"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7be8fcaf-e2da-4a8e-aa66-dbe31635fde9",
+      "data": [
+        {
+          "text": "what movie are playing near me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b3be1836-1bdd-4a03-bd02-8d705b1e9c18",
+      "data": [
+        {
+          "text": "what movie should i go see"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e37f07fc-d981-4b1e-a55a-e9a33d98c5bb",
+      "data": [
+        {
+          "text": "what highly rated movies are playing "
+        },
+        {
+          "text": "this weekend",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ef397bcf-1b85-4d71-973a-13250d1a525d",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "deadpool",
+          "alias": "movie_name",
+          "meta": "@movie_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2075f267-c22a-47a3-8f10-951bb3aa3775",
+      "data": [
+        {
+          "text": "can you tell me which "
+        },
+        {
+          "text": "movie",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " is going on in the "
+        },
+        {
+          "text": "nearby multiplex",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9a446b2d-5fd2-4265-9af6-fe11653cecde",
+      "data": [
+        {
+          "text": "inform me about the most popular "
+        },
+        {
+          "text": "rom com",
+          "alias": "movie_type",
+          "meta": "@movie_type",
+          "userDefined": true
+        },
+        {
+          "text": " movie playing now in theatres across "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "21623fec-4e24-48b3-bc72-0fc4d2398ba3",
+      "data": [
+        {
+          "text": "is "
+        },
+        {
+          "text": "logan",
+          "alias": "movie_name",
+          "meta": "@movie_name",
+          "userDefined": true
+        },
+        {
+          "text": " a good movie to watch"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fe3489d7-0121-4e9b-9aba-164e7bcf94d5",
+      "data": [
+        {
+          "text": "show me movie times"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bd48d503-ee51-48fe-a833-3a581ee93f03",
+      "data": [
+        {
+          "text": "Show times for nearest "
+        },
+        {
+          "text": "theater",
+          "alias": "business_type",
+          "meta": "@business_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d990f453-ab74-4f88-943b-4f2c1d3a683a",
+      "data": [
+        {
+          "text": "name a "
+        },
+        {
+          "text": "rom com",
+          "alias": "movie_type",
+          "meta": "@movie_type",
+          "userDefined": true
+        },
+        {
+          "text": " movie playing in and around "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " theatres"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "115fcb48-ce6f-47f0-bcea-acfca7259245",
+      "data": [
+        {
+          "text": "two thousand and seventeen movies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a84bb6f3-a31f-438d-9c7d-4b63dc7d6589",
+      "data": [
+        {
+          "text": "what movie do you recommend "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eea58672-eb4c-4e00-90a7-d044e4432292",
+      "data": [
+        {
+          "text": "what movies are showing in "
+        },
+        {
+          "text": "cinema",
+          "alias": "business_type",
+          "meta": "@business_type",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "5770a202-5592-4ee5-bf29-7e13252131ae",
+  "name": "recommendation_movies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@business_type",
+          "name": "business_type",
+          "value": "$business_type"
+        },
+        {
+          "dataType": "@date",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "dataType": "@event_name",
+          "name": "event_name",
+          "value": "$event_name"
+        },
+        {
+          "dataType": "@media_type",
+          "name": "media_type",
+          "value": "$media_type"
+        },
+        {
+          "dataType": "@movie_name",
+          "name": "movie_name",
+          "value": "$movie_name"
+        },
+        {
+          "dataType": "@movie_type",
+          "name": "movie_type",
+          "value": "$movie_type"
+        },
+        {
+          "dataType": "@place_name",
+          "name": "place_name",
+          "value": "$place_name"
+        },
+        {
+          "dataType": "@time",
+          "name": "time",
+          "value": "$time"
+        },
+        {
+          "dataType": "@timeofday",
+          "name": "timeofday",
+          "value": "$timeofday"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

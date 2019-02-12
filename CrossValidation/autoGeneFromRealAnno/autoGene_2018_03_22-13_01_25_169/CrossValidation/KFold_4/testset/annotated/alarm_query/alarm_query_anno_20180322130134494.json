@@ -1,0 +1,161 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "do i have an alarm set",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "show me the list of alarms",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "just to confirm you set the alarm to go off at eight hundred",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 47,
+          "end": 60,
+          "value": "eight hundred",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "did i set my house alarm",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 24,
+          "value": "house alarm",
+          "entity": "alarm_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me my alarms",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "what are the next three alarms set to go off",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "check if alarm is set for six am",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 32,
+          "value": "six am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "i need to set an alarm how many do i have set",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "is the alarm to the backdoor set and ready to go",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "what time do i have my alarm set for tomorrow",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 37,
+          "end": 45,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's the description for the alarm at eleven am",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 40,
+          "end": 49,
+          "value": "eleven am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "are there any alarms set",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "are there any alarms set right now",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "are there any alarms",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "do i have alarms set for today",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how many alarms are listed",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "remind me about my alarms today",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "list alarms",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "do i have alarms set before six in the morning",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 31,
+          "value": "before six",
+          "entity": "time"
+        },
+        {
+          "start": 39,
+          "end": 46,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    }
+  ]
+}

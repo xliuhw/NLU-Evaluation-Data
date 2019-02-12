@@ -1,0 +1,143 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i want to listen daily to this song",
+      "intent": "music_likeness",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "daily",
+          "entity": "general_frequency"
+        }
+      ]
+    },
+    {
+      "text": "this is a good tune please notate file accordingly",
+      "intent": "music_likeness",
+      "entities": []
+    },
+    {
+      "text": "i love hip hop",
+      "intent": "music_likeness",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "hip hop",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "please save this song",
+      "intent": "music_likeness",
+      "entities": []
+    },
+    {
+      "text": "please note on song title good tune",
+      "intent": "music_likeness",
+      "entities": []
+    },
+    {
+      "text": "save my music preferences",
+      "intent": "music_likeness",
+      "entities": []
+    },
+    {
+      "text": "hey i like music by sigur ros",
+      "intent": "music_likeness",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "sigur ros",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "you have to check out kfi he's the best",
+      "intent": "music_likeness",
+      "entities": [
+        {
+          "start": 22,
+          "end": 25,
+          "value": "kfi",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "i find rap music really enjoyable",
+      "intent": "music_likeness",
+      "entities": [
+        {
+          "start": 7,
+          "end": 10,
+          "value": "rap",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "add this song to my playlist",
+      "intent": "music_likeness",
+      "entities": []
+    },
+    {
+      "text": "i like this song what is it can you please repeat it once",
+      "intent": "music_likeness",
+      "entities": []
+    },
+    {
+      "text": "note current song as awesome please",
+      "intent": "music_likeness",
+      "entities": []
+    },
+    {
+      "text": "i love anything by elton john",
+      "intent": "music_likeness",
+      "entities": [
+        {
+          "start": 19,
+          "end": 29,
+          "value": "elton john",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "i am forever hip hop",
+      "intent": "music_likeness",
+      "entities": [
+        {
+          "start": 13,
+          "end": 20,
+          "value": "hip hop",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "save that song and my opinion",
+      "intent": "music_likeness",
+      "entities": []
+    },
+    {
+      "text": "send this song to my favorites",
+      "intent": "music_likeness",
+      "entities": []
+    },
+    {
+      "text": "how about you save this music",
+      "intent": "music_likeness",
+      "entities": []
+    },
+    {
+      "text": "please save that song",
+      "intent": "music_likeness",
+      "entities": []
+    }
+  ]
+}

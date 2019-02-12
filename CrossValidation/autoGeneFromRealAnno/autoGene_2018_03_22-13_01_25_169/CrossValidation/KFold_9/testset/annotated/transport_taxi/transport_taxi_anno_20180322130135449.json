@@ -1,0 +1,286 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "send an uber to me right now",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "book taxi for now",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "reserve a taxi",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book me a cab",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 10,
+          "end": 13,
+          "value": "cab",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book an uber for one hour from now",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "uber",
+          "entity": "transport_agency"
+        },
+        {
+          "start": 17,
+          "end": 25,
+          "value": "one hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "taxi now",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "set up a taxi for eleven am tomorrow",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 18,
+          "end": 27,
+          "value": "eleven am",
+          "entity": "time"
+        },
+        {
+          "start": 28,
+          "end": 36,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i need a taxi to pick me up at the house and take me downtown",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 53,
+          "end": 61,
+          "value": "downtown",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "call taxi",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "google uber",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "i am in need of a taxi right now",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 18,
+          "end": 22,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book an uber to los angeles cinemas in one hour",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "uber",
+          "entity": "transport_agency"
+        },
+        {
+          "start": 16,
+          "end": 35,
+          "value": "los angeles cinemas",
+          "entity": "place_name"
+        },
+        {
+          "start": 36,
+          "end": 47,
+          "value": "in one hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "call a taxi to pick me up right now",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book me an uber ride to go home",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "uber",
+          "entity": "transport_agency"
+        },
+        {
+          "start": 27,
+          "end": 31,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book a taxi for pickup at my current location in one hour's time",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 49,
+          "end": 57,
+          "value": "one hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "can you call a taxi",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 15,
+          "end": 19,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book an outstation cab for tomorrow",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 19,
+          "end": 22,
+          "value": "cab",
+          "entity": "transport_type"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "book me golden taxi for today at five pm",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 8,
+          "end": 19,
+          "value": "golden taxi",
+          "entity": "transport_agency"
+        },
+        {
+          "start": 24,
+          "end": 29,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 33,
+          "end": 40,
+          "value": "five pm",
+          "entity": "time"
+        }
+      ]
+    }
+  ]
+}

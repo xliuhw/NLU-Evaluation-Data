@@ -1,0 +1,274 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please tell me a shop where i can find books to buy",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "shop",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where is the closest restaurant",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 21,
+          "end": 31,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "is there a sports bar near kansas city plaza area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 11,
+          "end": 21,
+          "value": "sports bar",
+          "entity": "business_type"
+        },
+        {
+          "start": 27,
+          "end": 44,
+          "value": "kansas city plaza",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where should i go eat tonight",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "i'm looking for a casual restaurant for a dinner date",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 25,
+          "end": 35,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 42,
+          "end": 53,
+          "value": "dinner date",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "where is the shopping mall for shirts",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 13,
+          "end": 26,
+          "value": "shopping mall",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what shops are near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "shops",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "when does the closest bar close",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 22,
+          "end": 25,
+          "value": "bar",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where can i find the nearest irish pub in my area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 29,
+          "end": 38,
+          "value": "irish pub",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "give me some cafes near downtown fort lauderdale",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "cafes",
+          "entity": "business_type"
+        },
+        {
+          "start": 24,
+          "end": 48,
+          "value": "downtown fort lauderdale",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where is the best place to buy party supplies in town",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 31,
+          "end": 45,
+          "value": "party supplies",
+          "entity": "business_type"
+        },
+        {
+          "start": 49,
+          "end": 53,
+          "value": "town",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where can i got to grab some drinks in west chester",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 29,
+          "end": 35,
+          "value": "drinks",
+          "entity": "business_type"
+        },
+        {
+          "start": 39,
+          "end": 51,
+          "value": "west chester",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where is the closer starbucks",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "starbucks",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the best hardware store near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 17,
+          "end": 31,
+          "value": "hardware store",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where is mcdo",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "mcdo",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you recommend any pub in mg road",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 22,
+          "end": 25,
+          "value": "pub",
+          "entity": "business_type"
+        },
+        {
+          "start": 29,
+          "end": 36,
+          "value": "mg road",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find grocery store with an organic section near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "grocery store",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "is there any chinese places in benton ar",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 13,
+          "end": 20,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "value": "benton ar",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me where the local shopping district is",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 18,
+          "end": 41,
+          "value": "local shopping district",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

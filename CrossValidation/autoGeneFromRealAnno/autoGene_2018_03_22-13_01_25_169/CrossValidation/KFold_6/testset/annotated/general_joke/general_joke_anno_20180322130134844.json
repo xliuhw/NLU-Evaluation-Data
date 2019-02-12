@@ -1,0 +1,134 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "search for new jokes",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 11,
+          "end": 14,
+          "value": "new",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "what's a good joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "good",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me a joke about chickens",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 15,
+          "end": 29,
+          "value": "about chickens",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "say a funny",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "funny",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "do you have a funny joke for me",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "funny",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "a joke please",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "can you find an animal joke for me",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "animal",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "make me laugh",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "could you tell me funny things",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "funny",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "say something funny",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "funny",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me a joke about dogs",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 21,
+          "end": 25,
+          "value": "dogs",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me the funniest joke that was ever told",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "funniest",
+          "entity": "joke_type"
+        }
+      ]
+    }
+  ]
+}

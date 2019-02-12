@@ -1,0 +1,121 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "can you recommend some movies to watch in theater near me",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 42,
+          "end": 49,
+          "value": "theater",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what movies are playing this week",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 24,
+          "end": 33,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the latest action movie running in theaters",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "action",
+          "entity": "movie_type"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "value": "movie",
+          "entity": "media_type"
+        },
+        {
+          "start": 43,
+          "end": 51,
+          "value": "theaters",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the movie with best imdb ratings going on in theatres near me",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 23,
+          "end": 40,
+          "value": "best imdb ratings",
+          "entity": "movie_type"
+        },
+        {
+          "start": 53,
+          "end": 61,
+          "value": "theatres",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "movies with good rotten tomato ratings",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what are the current movies playing in me area",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "should i watch this movie",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what's playing at brea plaza five",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 18,
+          "end": 33,
+          "value": "brea plaza five",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "kung fu panda three",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 0,
+          "end": 19,
+          "value": "kung fu panda three",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "when is trolls playing",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "trolls",
+          "entity": "movie_name"
+        }
+      ]
+    }
+  ]
+}

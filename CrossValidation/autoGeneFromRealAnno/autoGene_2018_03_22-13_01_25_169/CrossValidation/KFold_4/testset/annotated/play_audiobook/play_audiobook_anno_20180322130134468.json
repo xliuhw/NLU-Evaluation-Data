@@ -1,0 +1,298 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "resume the last played audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 23,
+          "end": 32,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "open book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "open",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "open the two towers and play",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 19,
+          "value": "the two towers",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "i need a break start it after five minutes",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "start",
+          "entity": "player_setting"
+        },
+        {
+          "start": 24,
+          "end": 42,
+          "value": "after five minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "resume playback",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "pick up wuthering heights where we left off",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 8,
+          "end": 25,
+          "value": "wuthering heights",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "audio start",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "audio",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "please restart the handmaid's tale",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "restart",
+          "entity": "player_setting"
+        },
+        {
+          "start": 15,
+          "end": 34,
+          "value": "the handmaid's tale",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "book swan resume",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "swan",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 10,
+          "end": 16,
+          "value": "resume",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "resume harry potter book four",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 29,
+          "value": "harry potter book four",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "resume play of american gods",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 15,
+          "end": 28,
+          "value": "american gods",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play pride and prejudice",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 24,
+          "value": "pride and prejudice",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "resume play where i left off in book on audible",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 28,
+          "value": "resume play where i left off",
+          "entity": "player_setting"
+        },
+        {
+          "start": 40,
+          "end": 47,
+          "value": "audible",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "play the twilight book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 9,
+          "end": 17,
+          "value": "twilight",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play me a random audio book that has to do with love",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 17,
+          "end": 27,
+          "value": "audio book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "can you put on the chuck palhunik audio book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "put on",
+          "entity": "player_setting"
+        },
+        {
+          "start": 19,
+          "end": 33,
+          "value": "chuck palhunik",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "i want you to fast forward the audio then resume",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 14,
+          "end": 26,
+          "value": "fast forward",
+          "entity": "player_setting"
+        },
+        {
+          "start": 31,
+          "end": 36,
+          "value": "audio",
+          "entity": "media_type"
+        },
+        {
+          "start": 42,
+          "end": 48,
+          "value": "resume",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "resume the playback of zanes se chronicles",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 23,
+          "end": 42,
+          "value": "zanes se chronicles",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "hold",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "hold",
+          "entity": "player_setting"
+        }
+      ]
+    }
+  ]
+}

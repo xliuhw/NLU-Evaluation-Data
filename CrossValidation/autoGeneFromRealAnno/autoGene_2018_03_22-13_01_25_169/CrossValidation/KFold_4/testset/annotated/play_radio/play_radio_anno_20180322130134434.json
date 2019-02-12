@@ -1,0 +1,216 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play radio mirchi for me",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "radio mirchi",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play old",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "i would like to listen to howard stern on ninety seven point nine fm",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 42,
+          "end": 68,
+          "value": "ninety seven point nine fm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play news in fm",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 13,
+          "end": 15,
+          "value": "fm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "switch on radio mango",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 10,
+          "end": 21,
+          "value": "radio mango",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play the last radio channel",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play am",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "tune into ninety nine point five fm",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 10,
+          "end": 35,
+          "value": "ninety nine point five fm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play the kansas city hip hop station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 9,
+          "end": 28,
+          "value": "kansas city hip hop",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "i need ninety nine point five please",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 7,
+          "end": 29,
+          "value": "ninety nine point five",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play my usher radio station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "usher",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play football news from radio one",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 24,
+          "end": 33,
+          "value": "radio one",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play the local r. n. b. radio station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "r. n. b.",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play the urban radio station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "urban",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "activate the radio please",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "could you please play the fm station which plays pop songs",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 26,
+          "end": 28,
+          "value": "fm",
+          "entity": "radio_name"
+        },
+        {
+          "start": 49,
+          "end": 52,
+          "value": "pop",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "can you start ryan seacrest",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 14,
+          "end": 27,
+          "value": "ryan seacrest",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "search and play a radio station with news",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 37,
+          "end": 41,
+          "value": "news",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "start playing fm ninety six point five when it is one pm",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 14,
+          "end": 38,
+          "value": "fm ninety six point five",
+          "entity": "radio_name"
+        },
+        {
+          "start": 50,
+          "end": 56,
+          "value": "one pm",
+          "entity": "time"
+        }
+      ]
+    }
+  ]
+}

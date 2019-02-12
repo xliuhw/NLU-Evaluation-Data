@@ -1,0 +1,286 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "send tweet via message to cardinal cafe and tell them their customer service is outstanding",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 26,
+          "end": 39,
+          "value": "cardinal cafe",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "send a tweet about my complaint on my truck to consumer digest",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "post that i am going to woodland shoe store",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 24,
+          "end": 43,
+          "value": "woodland shoe store",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can you contact samsung and say my washer is on fire",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "samsung",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "post a facebook status update",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "send a tweet to amazon customer service that the package was delivered late",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 16,
+          "end": 39,
+          "value": "amazon customer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "customer service complaint tweet the following",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 16,
+          "value": "customer service",
+          "entity": "business_name"
+        },
+        {
+          "start": 27,
+          "end": 32,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "send a tweet to safeway about water in my gas",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 16,
+          "end": 23,
+          "value": "safeway",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "send a tweet",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "please retweet this post on twitter",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 28,
+          "end": 35,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet comcast and tell them that their service is down again",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 6,
+          "end": 13,
+          "value": "comcast",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please negative response tweet on daikin service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 34,
+          "end": 48,
+          "value": "daikin service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet at koc your waiting time sucks",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 9,
+          "end": 12,
+          "value": "koc",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet real donald trump that angela merkel will not shake his hand anymore",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 6,
+          "end": 23,
+          "value": "real donald trump",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet consumer service that the goods are of low quality",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 6,
+          "end": 22,
+          "value": "consumer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "post to twitter got a hectic day ahead",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet complaint",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet the current temperature",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "post this pic to facebook",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

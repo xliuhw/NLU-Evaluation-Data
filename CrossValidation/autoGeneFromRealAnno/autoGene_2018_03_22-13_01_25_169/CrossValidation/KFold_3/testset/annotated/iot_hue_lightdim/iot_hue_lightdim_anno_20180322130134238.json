@@ -1,0 +1,112 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "lower the light to forty percent",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 16,
+          "end": 32,
+          "value": "to forty percent",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "i want dimmer lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "please turn down the lights in the living room",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 35,
+          "end": 46,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "i want the lights less brighter",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "system please dim lights to dull blue",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 28,
+          "end": 37,
+          "value": "dull blue",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "switch light to lowest level in dining area",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 13,
+          "end": 28,
+          "value": "to lowest level",
+          "entity": "change_amount"
+        },
+        {
+          "start": 32,
+          "end": 43,
+          "value": "dining area",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "lower lights down",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "its too bright in here",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lessen the the light glow",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "turn my lights down to a lower level of brightness",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "dim the lights in the living room",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 22,
+          "end": 33,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "dim the lighting in my living room",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 23,
+          "end": 34,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    }
+  ]
+}

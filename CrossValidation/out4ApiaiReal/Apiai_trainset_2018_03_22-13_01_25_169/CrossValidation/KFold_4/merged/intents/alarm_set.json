@@ -1,0 +1,3578 @@
+{
+  "userSays": [
+    {
+      "id": "f66a0a7e-bfee-4752-8dfe-64b3bd77adbe",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "nine am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8a1b31cf-d769-4154-a388-9737de52f297",
+      "data": [
+        {
+          "text": "change alarm to start at "
+        },
+        {
+          "text": "midnight",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6293dd58-2888-4be8-9f70-d303ba2217a9",
+      "data": [
+        {
+          "text": "alarm "
+        },
+        {
+          "text": "ten am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4d0b7514-7e88-4f28-856c-768e3b04c0f7",
+      "data": [
+        {
+          "text": "set an alarm for me for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d7db9da0-17da-4ced-b9b0-95855e985281",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "twelve",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07984ac9-1ae3-4add-ad50-f4a8d5fc4610",
+      "data": [
+        {
+          "text": "set a timer at "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "seven days a week",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a5b37332-32be-4c25-87c7-bbc3cb5de357",
+      "data": [
+        {
+          "text": "i need to set an alarm for next "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "noon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "44bbab6b-9d29-40c4-9dda-6f8e954302fe",
+      "data": [
+        {
+          "text": "please sound an alarm "
+        },
+        {
+          "text": "three hours",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " before a scheduled event"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8511e447-3ab4-44a9-8f72-63420affebce",
+      "data": [
+        {
+          "text": "can you set an alarm for "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c167552c-7e02-497a-b035-289962b2eda8",
+      "data": [
+        {
+          "text": "alert me at "
+        },
+        {
+          "text": "ten am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7f7f82ec-4c63-4742-9f42-046d12af23e7",
+      "data": [
+        {
+          "text": "set the alarm to "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "work",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2137236f-9196-40a6-a283-fa4f69c5458c",
+      "data": [
+        {
+          "text": "wake up time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a7ed7a13-b479-48ea-94e0-8c06cf4f60e2",
+      "data": [
+        {
+          "text": "change my alarms to "
+        },
+        {
+          "text": "mountain",
+          "alias": "time_zone",
+          "meta": "@time_zone",
+          "userDefined": true
+        },
+        {
+          "text": " time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cc942c11-7962-4221-b430-c08427014ba9",
+      "data": [
+        {
+          "text": "set up each day an alarm at "
+        },
+        {
+          "text": "ten",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " time for my "
+        },
+        {
+          "text": "meal",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1893bff6-76b5-4183-b24e-c2ba7559ae10",
+      "data": [
+        {
+          "text": "please set an alarm clock for my next "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "the team",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "three pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " next "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f8eb470b-9657-4fce-8df8-6a2fdaf675bf",
+      "data": [
+        {
+          "text": "set my alarm for "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ab6a04d3-d3d3-4c51-af18-1e323b00e18b",
+      "data": [
+        {
+          "text": "set an alarm for this "
+        },
+        {
+          "text": "eight hundred pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this evening",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0e0c5a8d-0b1e-4c9c-ac93-5cf2db4413f0",
+      "data": [
+        {
+          "text": "set alarm at "
+        },
+        {
+          "text": "six thirty am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4bdf9dd9-2c70-45b9-991d-8a49ebb1d557",
+      "data": [
+        {
+          "text": "make me a wake up alarm for "
+        },
+        {
+          "text": "eight forty five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e61f9c7-7351-4f54-88e2-a4952bb95e53",
+      "data": [
+        {
+          "text": "Set a alarm for the day"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b2046823-b0da-4dc0-ac3a-1efeb121f8af",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "six",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ea2ce8f6-3a80-4db6-8af6-fc2668b4fe44",
+      "data": [
+        {
+          "text": "put an alarm and wake me up at "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d710475b-9b37-4942-9518-348cd40405bf",
+      "data": [
+        {
+          "text": "set alarm at "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "136618a9-15a5-4833-9b25-2652bf101db9",
+      "data": [
+        {
+          "text": "update alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "901fe669-9d80-4b0a-8a7a-296d7691e5f3",
+      "data": [
+        {
+          "text": "set new alarm on "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0747bd91-761e-41c9-9c11-f3dd06689687",
+      "data": [
+        {
+          "text": "please set alarm for"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b753ccf-e67c-4fa5-95a5-1966728d7efc",
+      "data": [
+        {
+          "text": "please arrange to wake me up at "
+        },
+        {
+          "text": "three am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c5444f00-8c5d-42e6-bc8c-63c2014469ea",
+      "data": [
+        {
+          "text": "set the alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7fa57986-ad55-4fa8-867b-398f5c08ad97",
+      "data": [
+        {
+          "text": "set an alarm for me at "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "be12ebba-7f57-48e9-8bd0-2115e7447c96",
+      "data": [
+        {
+          "text": "set alarm "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0aeaa9d7-c266-4731-9e2d-b1cb6b5bbb55",
+      "data": [
+        {
+          "text": "set an alarm "
+        },
+        {
+          "text": "forty minutes from now",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8e46ccb6-c91f-4ff3-8db6-52d46b551d05",
+      "data": [
+        {
+          "text": "set an alarm for me for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "seven pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bfc774ca-a993-4725-9dda-1af6ebb8c53e",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "two pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9d7da872-5897-4211-9b35-65c999fa284f",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "five minutes from now",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3c03f484-628a-4a78-86bd-89c2ff60cf8b",
+      "data": [
+        {
+          "text": "set alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "58af6713-3188-4c30-b624-bbb61c1ab2b2",
+      "data": [
+        {
+          "text": "i want an alarm for "
+        },
+        {
+          "text": "three",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0328cac4-e845-430c-bf10-c1fabfe9e09d",
+      "data": [
+        {
+          "text": "set alarm at "
+        },
+        {
+          "text": "nine am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "next sunday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "49866579-2c09-4cd7-bb88-fec7aff27687",
+      "data": [
+        {
+          "text": "set alarm for "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9fb413e8-92ab-4d7e-a392-700b86a9a86d",
+      "data": [
+        {
+          "text": "set a "
+        },
+        {
+          "text": "continuous alarm",
+          "alias": "alarm_type",
+          "meta": "@alarm_type",
+          "userDefined": true
+        },
+        {
+          "text": " without the option to snooze for "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "68ac2c6e-cbdf-4b6b-b7f1-4b19a779419c",
+      "data": [
+        {
+          "text": "make an alarm for the "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " with "
+        },
+        {
+          "text": "bob",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "seven",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6bef1925-0adf-45b2-ab12-dddb971f2c98",
+      "data": [
+        {
+          "text": "please set an alarm for "
+        },
+        {
+          "text": "tomorrows",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1efcfe22-088f-439f-b0c1-ef1c07b0a8de",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "eight pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5ff2ee9f-5aa2-41d7-bb44-6e8e9aa91f20",
+      "data": [
+        {
+          "text": "set my calendar for an alarm at "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f9269877-69c7-46fc-b7f7-f1289700b05b",
+      "data": [
+        {
+          "text": "turn my "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " alarm on"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "74d2cf79-8c1a-49a0-a049-03d2512010bb",
+      "data": [
+        {
+          "text": "tell me when it is "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bde62534-f96f-4e91-af6c-63642736b02d",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "two pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ec021757-80be-48ab-81ef-a8e41c8db285",
+      "data": [
+        {
+          "text": "set alarm for "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e7213a37-69f3-4fab-9d91-c07470423cae",
+      "data": [
+        {
+          "text": "set up an alarm clock at "
+        },
+        {
+          "text": "one pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e5f12e9f-ac02-496e-ae0b-256b90d0c5f3",
+      "data": [
+        {
+          "text": "i need to get up at "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5d9f45cf-3418-4145-99d1-6c84d4fd08de",
+      "data": [
+        {
+          "text": "i need to get going at "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " set up an alarm "
+        },
+        {
+          "text": "thirty minutes before that",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "de015d71-11ca-47f3-9f72-be9817ccb7db",
+      "data": [
+        {
+          "text": "let me know when it is "
+        },
+        {
+          "text": "ten",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7434587d-331d-43bd-9b61-404bfac6f224",
+      "data": [
+        {
+          "text": "create an alarm for "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4b856daf-f4fa-4739-9778-234de8926360",
+      "data": [
+        {
+          "text": "set the alarm for "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1fb570e6-3747-4ae0-945f-dbfa8a46ec78",
+      "data": [
+        {
+          "text": "set alarm of every "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " month "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d3e77e83-f149-4c53-9509-28a4d276aec5",
+      "data": [
+        {
+          "text": "repeat alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3dd3dec0-4050-441c-8624-baa01a28a889",
+      "data": [
+        {
+          "text": "please set the alarm for "
+        },
+        {
+          "text": "seven",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9e610f6c-bda9-4444-9eeb-237756079a7d",
+      "data": [
+        {
+          "text": "wake me up at "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fd701c9b-8d97-4e58-abcd-9abf290ffb3f",
+      "data": [
+        {
+          "text": "set an alert for "
+        },
+        {
+          "text": "two pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f990cf27-34f5-4b94-9ba7-9f787b6c1dc4",
+      "data": [
+        {
+          "text": "i need to get up at "
+        },
+        {
+          "text": "ten",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "696621f6-38f7-476c-b524-49c4253a436a",
+      "data": [
+        {
+          "text": "get me up at "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8c00909b-234f-451a-b463-67bf4e307d58",
+      "data": [
+        {
+          "text": "set alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "two pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "26329432-8081-4428-be62-2b9e52e8ae2c",
+      "data": [
+        {
+          "text": "wake me up at "
+        },
+        {
+          "text": "six thirty",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "30c229bc-18e6-4255-8c77-17cfe44194f0",
+      "data": [
+        {
+          "text": "please set my alarm clock for "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3d325e50-1f7d-495e-a82c-2d80f8b6da95",
+      "data": [
+        {
+          "text": "set an alarm for next "
+        },
+        {
+          "text": "tuesdays",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e908675-b2e3-4056-93b8-f1858de4aad8",
+      "data": [
+        {
+          "text": "set alarm at "
+        },
+        {
+          "text": "ten am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0130d705-a270-49c8-8828-f2311dd5c6ee",
+      "data": [
+        {
+          "text": "please create a new alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "15ccf2ff-1033-4ae0-af0f-a33ddd0e0df9",
+      "data": [
+        {
+          "text": "alert me at "
+        },
+        {
+          "text": "three pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " to goto the "
+        },
+        {
+          "text": "concert",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "48052d2c-34cb-4462-be7a-0809144bea9b",
+      "data": [
+        {
+          "text": "make a new alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3c373eb3-641b-4a22-b19e-acdca7cf3b0a",
+      "data": [
+        {
+          "text": "please set a reminder alarm for "
+        },
+        {
+          "text": "three pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "Saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "76c0a2b3-06df-4c6b-a19f-bbe3432da53e",
+      "data": [
+        {
+          "text": "open clock"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "215514cd-c4e8-40e6-bda1-c3f614ad20f3",
+      "data": [
+        {
+          "text": "set alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dc1867e0-471b-4fee-9a45-0e7f4f44f301",
+      "data": [
+        {
+          "text": "set my alarm for "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "six pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c0a9aeb1-8f43-4dca-b632-55b689dba9d8",
+      "data": [
+        {
+          "text": "alert me at "
+        },
+        {
+          "text": "five",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " hours"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e0a5fdee-826c-424e-bb57-89fcb341a9f6",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "one am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ed77e136-8fdf-454e-8517-0cdfa22528ff",
+      "data": [
+        {
+          "text": "set alarm to begin"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "10b5587d-1cee-4fe9-b2fa-f804235f8c53",
+      "data": [
+        {
+          "text": "set the alarm for "
+        },
+        {
+          "text": "nine am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "weekends",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e34936a-3291-4414-ac31-bc1a6cfd26c6",
+      "data": [
+        {
+          "text": "add an alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "022c9781-f460-4a5b-90a7-965dfc083910",
+      "data": [
+        {
+          "text": "please set an alarm at "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4a29726f-9022-45ea-a3ea-e7f7c6013beb",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eight",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ddb69f6-8006-403c-a179-d22dbca7d07c",
+      "data": [
+        {
+          "text": "ring the alarm when i get home"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dcc28a25-6a1a-420d-b6b6-fc71cd388ca4",
+      "data": [
+        {
+          "text": "set my alarm for time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "99dd6e43-e168-4c1d-a198-1cfb341922f6",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "ten",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " o'clock "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "15a7a119-cd25-4f8f-a6c2-3df7a37ed76f",
+      "data": [
+        {
+          "text": "alarm set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8c7010f0-130d-42f7-92bf-b7a148e649c9",
+      "data": [
+        {
+          "text": "i want an alarm for "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "everyday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5a980aab-850c-4f6c-b88d-0d3351a24972",
+      "data": [
+        {
+          "text": "add a "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm in place of my "
+        },
+        {
+          "text": "nine pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "04feeabc-9618-4c4f-98f5-b9c881277e50",
+      "data": [
+        {
+          "text": "remind me at "
+        },
+        {
+          "text": "one thousand three hundred",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5d3c51c5-1c8f-424c-ad02-21f4d4fb12af",
+      "data": [
+        {
+          "text": "alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2885e75b-c922-447f-8e93-e7d503c81117",
+      "data": [
+        {
+          "text": "make an alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2ec0ce1c-addf-4847-b379-4aa63b388e3a",
+      "data": [
+        {
+          "text": "please set alarm for "
+        },
+        {
+          "text": "all days",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9bd5dab0-ac1a-4427-bdc8-87964daa7308",
+      "data": [
+        {
+          "text": "wake me up at "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e02c609e-a014-4eca-b1a7-ebaf61ca4f42",
+      "data": [
+        {
+          "text": "is my alarm set for "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d1154354-1cda-4039-87d8-76af89992c9c",
+      "data": [
+        {
+          "text": "can you set an alarm for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7842f17f-a775-4f7f-8b56-c2649f6865ff",
+      "data": [
+        {
+          "text": "create event with alarm for "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "two hours",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "96983099-8900-43e4-bc1e-15765391f329",
+      "data": [
+        {
+          "text": "set my alarm for "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "83436047-bb3c-4a94-a9b7-2761d0aab5e6",
+      "data": [
+        {
+          "text": "please set an alarm for "
+        },
+        {
+          "text": "seven hundred and thirty am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f1e7ba0b-3d99-4fb4-bdf3-3c628db338ec",
+      "data": [
+        {
+          "text": "wake me up in "
+        },
+        {
+          "text": "thirty minutes",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6fd904ea-ff77-4c60-8a13-42d776a49d0e",
+      "data": [
+        {
+          "text": "schedule an alarm to wake me up "
+        },
+        {
+          "text": "after three hours",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6143a54a-dbf7-48f4-b6e0-2db970f6d8b3",
+      "data": [
+        {
+          "text": "set an alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c0d1aacf-996c-4010-8325-e75dbea4834e",
+      "data": [
+        {
+          "text": "make an alarm for me at "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1b41a29d-c1be-4f40-9c2f-2cd98e1330b4",
+      "data": [
+        {
+          "text": "set alarm for "
+        },
+        {
+          "text": "twelve weeks from today",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a6701fa-a011-401a-83f2-7f5530248dfc",
+      "data": [
+        {
+          "text": "wake me up at time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "efccdaee-fe8a-4247-a65e-1b7f4931fe94",
+      "data": [
+        {
+          "text": "set wake up "
+        },
+        {
+          "text": "Thursday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2444a13d-5df6-46ba-a4ea-cc14dc8b6eee",
+      "data": [
+        {
+          "text": "please set my alarm for "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69f8f715-eaf1-4ef6-87a2-1a1a1f688b3e",
+      "data": [
+        {
+          "text": "get me up in "
+        },
+        {
+          "text": "half an hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "78570f5a-fb18-4579-8543-d2fef6f9b9e2",
+      "data": [
+        {
+          "text": "wake me up at this time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ca9eda39-98bb-4034-8810-ce7e32b9a558",
+      "data": [
+        {
+          "text": "wake me up at "
+        },
+        {
+          "text": "ten",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "49d97a56-c126-4f25-9080-bc298b99c592",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "five hundred and thirty",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9c0d51f3-5d13-46a5-a1cb-bc27ce094988",
+      "data": [
+        {
+          "text": "put alarm at "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f1aecf9f-ced4-4db7-a82c-83fe4a921762",
+      "data": [
+        {
+          "text": "wake me up on "
+        },
+        {
+          "text": "Friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "five",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " i need to catch the "
+        },
+        {
+          "text": "train",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8137bdf5-62c2-4197-b8ce-2d8f4101dea9",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "seven thirty am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "04d167d5-aea9-4648-a352-edd290a7936a",
+      "data": [
+        {
+          "text": "please ring the "
+        },
+        {
+          "text": "wake up",
+          "alias": "alarm_type",
+          "meta": "@alarm_type",
+          "userDefined": true
+        },
+        {
+          "text": " alarm at "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " next "
+        },
+        {
+          "text": "saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8960c632-03ac-45fe-9cf7-dc3d5fe66c63",
+      "data": [
+        {
+          "text": "create an alarm for "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f8159bdf-bc5f-440b-922b-69343a1a9716",
+      "data": [
+        {
+          "text": "i need an alarm set for "
+        },
+        {
+          "text": "five hundred and thirty am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7f148326-6b19-4624-9b6d-86545ae872c3",
+      "data": [
+        {
+          "text": "set a repeating reminder alarm for the "
+        },
+        {
+          "text": "facebook",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": " event i have to attend on "
+        },
+        {
+          "text": "seventh april",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5e3a914d-95f8-4c0d-a13e-702f1259127a",
+      "data": [
+        {
+          "text": "set alarm on "
+        },
+        {
+          "text": "twenty fifth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "may",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6700d7e5-eb13-494c-878b-1e7d97abd1c8",
+      "data": [
+        {
+          "text": "please wake me up at "
+        },
+        {
+          "text": "seven thirty am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a4eec2ac-40c1-4b4f-8129-c241dcfbe2d6",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6abf24dd-ba08-4886-a36f-9b967b1fef38",
+      "data": [
+        {
+          "text": "alarm "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0c6bed79-82c7-4980-b9f2-570f96181553",
+      "data": [
+        {
+          "text": "wake me up at "
+        },
+        {
+          "text": "five thirty",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bf514fa9-0808-42e1-abfe-92867664332b",
+      "data": [
+        {
+          "text": "set my alarm for "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "80ed2e0a-e4b5-42b7-bb2f-fb608cd5c112",
+      "data": [
+        {
+          "text": "set my alarm for "
+        },
+        {
+          "text": "six thirty",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ebb87d64-f9f4-43c6-b47b-08f64454c059",
+      "data": [
+        {
+          "text": "set the time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d3565dbb-5543-4476-9c8d-11a14622f865",
+      "data": [
+        {
+          "text": "i need an alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1b055ca1-89a3-4cc7-9814-fc5fe9189d6e",
+      "data": [
+        {
+          "text": "wake me up"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "20dd522c-feee-4d00-8aeb-cf67a59f35ec",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " wakeup call"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f43ec10f-7f36-4e05-a785-683f5f1c47cd",
+      "data": [
+        {
+          "text": "wake me up at "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "213fe4fe-a04a-4866-b9cf-469003cdedf1",
+      "data": [
+        {
+          "text": "set alarm for "
+        },
+        {
+          "text": "saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "soccer practice",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2c51d0ae-5f6e-4eff-a29e-b0d8eceb9d0e",
+      "data": [
+        {
+          "text": "please set the alarm for "
+        },
+        {
+          "text": "next morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "87f05382-0cc4-481e-89bd-4628f35070d0",
+      "data": [
+        {
+          "text": "can you set my alarm for "
+        },
+        {
+          "text": "seven thirty am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3e3b1d9b-a214-4e81-b5f6-9e7be04b13ec",
+      "data": [
+        {
+          "text": "set alarm at "
+        },
+        {
+          "text": "two am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "83a498e8-4f15-4740-8e7f-0334d012307b",
+      "data": [
+        {
+          "text": "please set the alarm for "
+        },
+        {
+          "text": "eight pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "evening",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "196b4103-bf90-4bef-b6fa-2028dfadb117",
+      "data": [
+        {
+          "text": "could you please set an alarm at "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aa9d96da-69bd-4121-a65c-b7b0cf79f805",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "four",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "afternoon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5aaf9b00-b937-443c-b71b-718d98d1557d",
+      "data": [
+        {
+          "text": "set a reminder i need to wake up at "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "every morning",
+          "alias": "general_frequency",
+          "meta": "@general_frequency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "68266a44-b074-4ca5-829c-8e809af9dc64",
+      "data": [
+        {
+          "text": "please set an alarm at "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a14c7100-0a37-45b1-9f71-3b6f6a92d04b",
+      "data": [
+        {
+          "text": "create an alarm for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "ten am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c5806ea3-c964-47e2-9130-36ba0df84429",
+      "data": [
+        {
+          "text": "i need you to set an alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "870429cf-7f9e-49fe-be83-7b9c3ab4624e",
+      "data": [
+        {
+          "text": "make an alarm to help me remember"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3a6960bb-f784-4010-8abd-361101c1fc85",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "two hours from now",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "87e860cc-9a36-42f7-8434-70e90dd881cc",
+      "data": [
+        {
+          "text": "set alarm for "
+        },
+        {
+          "text": "nine am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7e42db98-32c6-4bf2-b5a7-13c76ccbeb21",
+      "data": [
+        {
+          "text": "set an alarm at "
+        },
+        {
+          "text": "six",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "30eb4f15-601c-43e1-aafd-c2645136fa7a",
+      "data": [
+        {
+          "text": "make an alarm for the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "29668a78-cd1d-4890-a49e-6818b19c09d5",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "two hours from now",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9d97f64e-18d5-4c95-852f-00b298add04e",
+      "data": [
+        {
+          "text": "set an alarm at "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2a8ec637-3b34-4f98-8879-29ea6ab0a6fd",
+      "data": [
+        {
+          "text": "place alarm at "
+        },
+        {
+          "text": "five",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " o'clock "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9c975589-a1b0-4aa9-845c-c4125a3954f8",
+      "data": [
+        {
+          "text": "wake me up at "
+        },
+        {
+          "text": "five hundred and thirty",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8fa0d47c-bd85-4b6d-8e4a-dd3a10952efc",
+      "data": [
+        {
+          "text": "i want to wake up at "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8c9837e9-31de-46e7-a28c-f275df2ed383",
+      "data": [
+        {
+          "text": "call me at "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5a942cc0-e4e1-4f11-a72f-c0faf3508f11",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "one hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " from now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ea55a832-60df-464d-8ea9-bba38f00f94e",
+      "data": [
+        {
+          "text": "new alarm for "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9f9511c7-5d25-4379-98bc-bee9435d2a2a",
+      "data": [
+        {
+          "text": "i need a reminder alarm at "
+        },
+        {
+          "text": "one",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4b9f7c86-63c5-4270-9326-1b328b885a5f",
+      "data": [
+        {
+          "text": "please set alarm at "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2ca8a815-286d-451c-bf28-59a4b5575784",
+      "data": [
+        {
+          "text": "set an "
+        },
+        {
+          "text": "eight hundred am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm for next "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e890092b-7c4a-4458-8143-01c15c471109",
+      "data": [
+        {
+          "text": "set alarm for reminder"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4e85dd2b-2d79-46dd-82d1-f47ba42e70e6",
+      "data": [
+        {
+          "text": "make an alarm for "
+        },
+        {
+          "text": "three pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "48f9b9f3-aad9-4b59-aa73-1b23000187d1",
+      "data": [
+        {
+          "text": "the set alarm for "
+        },
+        {
+          "text": "nine pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "Thursday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "95e3df5a-1275-480e-aed0-a4c6e6bdcbad",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "74ea71fe-ae60-4e3f-bfc6-bee0f3db8712",
+      "data": [
+        {
+          "text": "confirm that the alarm is set for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "484a1871-b562-41bf-bcc3-d149ca32e489",
+      "data": [
+        {
+          "text": "please make me wake up at "
+        },
+        {
+          "text": "four am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5cf15a9f-a5f1-4872-9d36-574e16736690",
+      "data": [
+        {
+          "text": "remind me at "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bc7b7510-cb98-4834-b388-96ea03ba289b",
+      "data": [
+        {
+          "text": "turn on alarm "
+        },
+        {
+          "text": "thirty minutes",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " before "
+        },
+        {
+          "text": "liverpool started to play",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8caf98a8-2c47-4374-bcf3-0eda49affd51",
+      "data": [
+        {
+          "text": "set a wake up call for "
+        },
+        {
+          "text": "ten am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "20f3125f-3650-48b3-a6fc-4fb20d2a990b",
+      "data": [
+        {
+          "text": "set an alarm for "
+        },
+        {
+          "text": "thursday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "seven pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7859b451-7383-49fa-a342-52334f900e66",
+      "data": [
+        {
+          "text": "please set alarm to my mobile phones"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a01ce0af-d9b9-4f82-96a7-8945b8eae761",
+      "data": [
+        {
+          "text": "alarm me at "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1fc75309-e350-4847-b814-58e220391177",
+      "data": [
+        {
+          "text": "wake me at "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "73634668-8b19-4b42-8d96-6904f5d2d870",
+      "data": [
+        {
+          "text": "set an alarm at "
+        },
+        {
+          "text": "ten",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " to remind me a "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "49875c0f-e82a-46fa-9d90-c4dd0f4067af",
+      "data": [
+        {
+          "text": "set an alarm at "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8a518021-54b8-4b2f-9f0e-025aaf99b4c6",
+      "data": [
+        {
+          "text": "i need an alarm for "
+        },
+        {
+          "text": "sunday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " can you please set one for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "589689d1-9d61-4f1b-a0a0-0183c56f1870",
+      "data": [
+        {
+          "text": "turn on my alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "382602fe-c0aa-4395-9731-ea302de4b91f",
+      "data": [
+        {
+          "text": "remind me at "
+        },
+        {
+          "text": "six thirty pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d639c73e-b4ac-4186-9392-659629436297",
+      "data": [
+        {
+          "text": "add alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19a1c7ca-f1ab-4e36-8199-1e52a5b2b78f",
+      "data": [
+        {
+          "text": "can you set the alarm for "
+        },
+        {
+          "text": "one hundred and thirty",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bd31731a-1094-4521-8283-8e6b712cc40b",
+      "data": [
+        {
+          "text": "alarm time for "
+        },
+        {
+          "text": "twelve pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ac8f8ac9-7d05-4b41-8124-7cad77b2a91d",
+      "data": [
+        {
+          "text": "wake me at "
+        },
+        {
+          "text": "daybreak",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "78c9e7a5-bf33-42f7-8b64-ab3ee18f688f",
+  "name": "alarm_set",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@alarm_type",
+          "name": "alarm_type",
+          "value": "$alarm_type"
+        },
+        {
+          "dataType": "@date",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "dataType": "@event_name",
+          "name": "event_name",
+          "value": "$event_name"
+        },
+        {
+          "dataType": "@general_frequency",
+          "name": "general_frequency",
+          "value": "$general_frequency"
+        },
+        {
+          "dataType": "@media_type",
+          "name": "media_type",
+          "value": "$media_type"
+        },
+        {
+          "dataType": "@person",
+          "name": "person",
+          "value": "$person"
+        },
+        {
+          "dataType": "@relation",
+          "name": "relation",
+          "value": "$relation"
+        },
+        {
+          "dataType": "@time",
+          "name": "time",
+          "value": "$time"
+        },
+        {
+          "dataType": "@time_zone",
+          "name": "time_zone",
+          "value": "$time_zone"
+        },
+        {
+          "dataType": "@timeofday",
+          "name": "timeofday",
+          "value": "$timeofday"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

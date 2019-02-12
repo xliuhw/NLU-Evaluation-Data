@@ -1,0 +1,285 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "does this restaurant deliver",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 20,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "i've cancelled the order placed at mcd did it go through",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 35,
+          "end": 38,
+          "value": "mcd",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "is michael's a takeaway or delivery restaurant",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 10,
+          "value": "michael",
+          "entity": "business_name"
+        },
+        {
+          "start": 15,
+          "end": 23,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "value": "delivery",
+          "entity": "order_type"
+        },
+        {
+          "start": 36,
+          "end": 46,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "last take away order",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "take away",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "can i carry out with this restaurant",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 36,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "are there any takeaways around here",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 23,
+          "value": "takeaways",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "is there a takeout menu at the restaurant",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "takeout",
+          "entity": "order_type"
+        },
+        {
+          "start": 31,
+          "end": 41,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "how much longer until my pizza will be here",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "pizza",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "hello i would like to know whether you provide home delivery services",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 52,
+          "end": 60,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me all the takeaways nearby and i want to order food",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 25,
+          "value": "takeaways",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "takeaway status",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does vocelli's do takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "vocelli",
+          "entity": "business_name"
+        },
+        {
+          "start": 18,
+          "end": 26,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "could you please recommend a mexican restaurant for take out",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 36,
+          "value": "mexican",
+          "entity": "food_type"
+        },
+        {
+          "start": 37,
+          "end": 47,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 52,
+          "end": 60,
+          "value": "take out",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does olive garden have take out",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "olive garden",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the status on my takeout",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 32,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "when is my order ready",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "when will my chinese food arrive",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 20,
+          "value": "chinese",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "does restaurant royale deliver takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 16,
+          "end": 22,
+          "value": "royale",
+          "entity": "business_name"
+        },
+        {
+          "start": 31,
+          "end": 39,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "where is my pizza from domino's at",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 23,
+          "end": 29,
+          "value": "domino",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

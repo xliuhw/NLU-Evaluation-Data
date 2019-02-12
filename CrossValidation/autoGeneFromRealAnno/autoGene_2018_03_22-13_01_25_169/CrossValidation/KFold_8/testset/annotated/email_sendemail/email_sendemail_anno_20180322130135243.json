@@ -1,0 +1,240 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i want the email to be sent to my new email address abc@gmail dot com",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 52,
+          "end": 69,
+          "value": "abc@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "email my favourite contacts",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "i did not want you to send that text yet wait until i say send",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send an email to my boss about my leave",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 20,
+          "end": 24,
+          "value": "boss",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "i need to edit marie jones email address to read",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 15,
+          "end": 26,
+          "value": "marie jones",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send an email to peter and ask him how is he now can i do something to help him",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "peter",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please send an email to john saying i'm on leave",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 24,
+          "end": 28,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send an email with the address you gave me to jean saying meet us here at eight pm",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 46,
+          "end": 50,
+          "value": "jean",
+          "entity": "person"
+        },
+        {
+          "start": 74,
+          "end": 82,
+          "value": "eight pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "compose a new email to ray",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 23,
+          "end": 26,
+          "value": "ray",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "mail macs@xorg",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "macs@xorg",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "send a birthday email to my boss",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "birthday",
+          "entity": "event_name"
+        },
+        {
+          "start": 28,
+          "end": 32,
+          "value": "boss",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "start email",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "email my boss that i will be late today because of an emergency and apologize to him for missing the meeting",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "boss",
+          "entity": "relation"
+        },
+        {
+          "start": 34,
+          "end": 39,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 101,
+          "end": 108,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "send an email to rohit saying i am busy tomorrow",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "rohit",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "reply email",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send an email to qerwerq@hotmail dot com",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 40,
+          "value": "qerwerq@hotmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "please sent this email to my friend",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 29,
+          "end": 35,
+          "value": "friend",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "send email to bro and say hi come down for dinner tonight",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 17,
+          "value": "bro",
+          "entity": "relation"
+        },
+        {
+          "start": 43,
+          "end": 49,
+          "value": "dinner",
+          "entity": "meal_type"
+        },
+        {
+          "start": 50,
+          "end": 57,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "send mom the following email",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    }
+  ]
+}

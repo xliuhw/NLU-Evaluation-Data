@@ -1,0 +1,354 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "where can i get shawarma in this area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "shawarma",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me a nice chinese restaurant",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 23,
+          "end": 33,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "is there a well rated pizza place between fourteenth and eighteenth streets",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 28,
+          "end": 33,
+          "value": "place",
+          "entity": "business_type"
+        },
+        {
+          "start": 34,
+          "end": 75,
+          "value": "between fourteenth and eighteenth streets",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to take karate classes where are local karate studios",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 15,
+          "end": 29,
+          "value": "karate classes",
+          "entity": "event_name"
+        },
+        {
+          "start": 46,
+          "end": 60,
+          "value": "karate studios",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where is a petrol station in five mile radius",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 11,
+          "end": 25,
+          "value": "petrol station",
+          "entity": "business_type"
+        },
+        {
+          "start": 29,
+          "end": 45,
+          "value": "five mile radius",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is there any salon in babaji nagar",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "salon",
+          "entity": "business_type"
+        },
+        {
+          "start": 22,
+          "end": 34,
+          "value": "babaji nagar",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find me the cheapest place to buy a new backpack",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "what restaurant is open after midnight",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 30,
+          "end": 38,
+          "value": "midnight",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "what clothes store would you recommend here",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "clothes store",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "please recommend a restaurant in seattle",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 19,
+          "end": 29,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 33,
+          "end": 40,
+          "value": "seattle",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where is a good place to eat in seattle",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 16,
+          "end": 28,
+          "value": "place to eat",
+          "entity": "business_type"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "value": "seattle",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i need to find a gift what stores are within a one mile radius",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 15,
+          "end": 21,
+          "value": "a gift",
+          "entity": "business_type"
+        },
+        {
+          "start": 27,
+          "end": 33,
+          "value": "stores",
+          "entity": "business_type"
+        },
+        {
+          "start": 38,
+          "end": 62,
+          "value": "within a one mile radius",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what pubs are near the metro station",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "pubs",
+          "entity": "business_type"
+        },
+        {
+          "start": 19,
+          "end": 36,
+          "value": "the metro station",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where is the pharmacy in leavenworth",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 13,
+          "end": 21,
+          "value": "pharmacy",
+          "entity": "business_type"
+        },
+        {
+          "start": 25,
+          "end": 36,
+          "value": "leavenworth",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where can i eat along route sixty six",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "locate me the amazon restaurants",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 14,
+          "end": 20,
+          "value": "amazon",
+          "entity": "business_name"
+        },
+        {
+          "start": 21,
+          "end": 32,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "find gluten free bakery near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 23,
+          "value": "gluten free bakery",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "which restaurant is there in shivaji nagar",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 6,
+          "end": 16,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 29,
+          "end": 42,
+          "value": "shivaji nagar",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "best reviews restaurant in south sacramento",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 13,
+          "end": 23,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 27,
+          "end": 43,
+          "value": "south sacramento",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "search for local shops",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "where are italian restaurants in me area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "italian",
+          "entity": "food_type"
+        },
+        {
+          "start": 18,
+          "end": 29,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what clothing shops are close to my current location",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 19,
+          "value": "clothing shops",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "nearest walmart location",
+      "intent": "recommendation_locations",
+      "entities": []
+    }
+  ]
+}

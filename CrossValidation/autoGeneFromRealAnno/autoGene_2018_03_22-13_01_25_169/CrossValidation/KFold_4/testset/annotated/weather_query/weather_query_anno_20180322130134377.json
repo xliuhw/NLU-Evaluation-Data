@@ -1,0 +1,266 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what's the temperature",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 22,
+          "value": "temperature",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "what will be the weather update for monday noon",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 42,
+          "value": "monday",
+          "entity": "date"
+        },
+        {
+          "start": 43,
+          "end": 47,
+          "value": "noon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "do i need pants",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "pants",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "do i need a rain coat today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "rain coat",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 22,
+          "end": 27,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "weather forecast please",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "check the weather app to see if",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "weather for the next week in new york",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 25,
+          "value": "next week",
+          "entity": "date"
+        },
+        {
+          "start": 29,
+          "end": 37,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how's the weather like in beijing",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 33,
+          "value": "beijing",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the weather for the school week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 39,
+          "value": "school week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "sunny in oslo",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "sunny",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 9,
+          "end": 13,
+          "value": "oslo",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "Is it going to be windy on Saturday in denver",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "windy",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "value": "Saturday",
+          "entity": "date"
+        },
+        {
+          "start": 39,
+          "end": 45,
+          "value": "denver",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "will i need an umbrella tomorrow",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "umbrella",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 24,
+          "end": 32,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "when is the next time it will rain",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 34,
+          "value": "rain",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "what's the weather this week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 28,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "whats the weather like right now in new york",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 44,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the current weather conditions in chicago illinois",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 42,
+          "end": 58,
+          "value": "chicago illinois",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "get today's weather report",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is it currently raining",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "raining",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "will the weather be bad on Sunday",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 23,
+          "value": "bad",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 27,
+          "end": 33,
+          "value": "Sunday",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

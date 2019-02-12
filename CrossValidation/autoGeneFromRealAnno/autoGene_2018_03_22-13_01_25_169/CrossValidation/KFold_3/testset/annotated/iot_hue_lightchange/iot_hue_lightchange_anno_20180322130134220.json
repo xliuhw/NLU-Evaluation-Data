@@ -1,0 +1,207 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "make the lights in my home yellow",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 22,
+          "end": 26,
+          "value": "home",
+          "entity": "house_place"
+        },
+        {
+          "start": 27,
+          "end": 33,
+          "value": "yellow",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "please change the color of my lights surprise me",
+      "intent": "iot_hue_lightchange",
+      "entities": []
+    },
+    {
+      "text": "change the color of lights",
+      "intent": "iot_hue_lightchange",
+      "entities": []
+    },
+    {
+      "text": "please change the light colors to red",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 34,
+          "end": 37,
+          "value": "red",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "turn lights to green",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "green",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "i would like orange lights now",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 13,
+          "end": 19,
+          "value": "orange",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "adjust light when i get home",
+      "intent": "iot_hue_lightchange",
+      "entities": []
+    },
+    {
+      "text": "house change all lights to blue",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 27,
+          "end": 31,
+          "value": "blue",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "change color of the light to red outside the house",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 29,
+          "end": 32,
+          "value": "red",
+          "entity": "color_type"
+        },
+        {
+          "start": 33,
+          "end": 50,
+          "value": "outside the house",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "change the light color to red",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 26,
+          "end": 29,
+          "value": "red",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "it will be good if you yellowish the light",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 23,
+          "end": 32,
+          "value": "yellowish",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "please change the lighting to blue",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 30,
+          "end": 34,
+          "value": "blue",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "house can you make all the lights in the house blue",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "house",
+          "entity": "house_place"
+        },
+        {
+          "start": 47,
+          "end": 51,
+          "value": "blue",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "switch on the green light in playroom",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "green",
+          "entity": "color_type"
+        },
+        {
+          "start": 29,
+          "end": 37,
+          "value": "playroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "go to setting",
+      "intent": "iot_hue_lightchange",
+      "entities": []
+    },
+    {
+      "text": "adjust the light option",
+      "intent": "iot_hue_lightchange",
+      "entities": []
+    },
+    {
+      "text": "transition to another color for the lights",
+      "intent": "iot_hue_lightchange",
+      "entities": []
+    },
+    {
+      "text": "light settings",
+      "intent": "iot_hue_lightchange",
+      "entities": []
+    },
+    {
+      "text": "change lights to pink",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "pink",
+          "entity": "color_type"
+        }
+      ]
+    }
+  ]
+}

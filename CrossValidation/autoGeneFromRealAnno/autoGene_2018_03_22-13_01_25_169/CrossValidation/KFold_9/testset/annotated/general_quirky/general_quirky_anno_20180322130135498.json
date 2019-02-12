@@ -1,0 +1,127 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please tell me how to do my daughters eighth grade math",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "suggestions for future",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i would like it if my robot could engage in deep conversation with me",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i want to know more about the upcoming commonwealth games",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 39,
+          "end": 57,
+          "value": "commonwealth games",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "how do you like being my assistant",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i just want to know some information about you",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what are the scores from last night's hockey games",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 25,
+          "end": 35,
+          "value": "last night",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "i saw a bulldog today",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "why people like movies",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i watched the best movie please reserve me a copy when it releases",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "movies making money",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "why do starving people keep having kids",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i need to keep two toddlers busy tell me what to do",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i don't understand this question but what's it like in there",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "too private",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "latest technologies gadgets",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "is there life on other planets",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what am i doing today",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is your name",
+      "intent": "general_quirky",
+      "entities": []
+    }
+  ]
+}

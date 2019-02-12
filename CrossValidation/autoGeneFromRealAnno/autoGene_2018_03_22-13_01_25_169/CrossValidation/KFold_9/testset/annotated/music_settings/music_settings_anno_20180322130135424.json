@@ -1,0 +1,112 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "repeat all",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "shuffle the songs in the music library",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "shuffle",
+          "entity": "player_setting"
+        },
+        {
+          "start": 25,
+          "end": 38,
+          "value": "music library",
+          "entity": "music_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "please lower the shuffle rate of hips don't lie",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "lower",
+          "entity": "player_setting"
+        },
+        {
+          "start": 17,
+          "end": 24,
+          "value": "shuffle",
+          "entity": "player_setting"
+        },
+        {
+          "start": 33,
+          "end": 47,
+          "value": "hips don't lie",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "please put this playlist on shuffle",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 28,
+          "end": 35,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "disable shuffle",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "disable",
+          "entity": "player_setting"
+        },
+        {
+          "start": 8,
+          "end": 15,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "shuffle music",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "stop after current song",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "stop",
+          "entity": "player_setting"
+        }
+      ]
+    }
+  ]
+}

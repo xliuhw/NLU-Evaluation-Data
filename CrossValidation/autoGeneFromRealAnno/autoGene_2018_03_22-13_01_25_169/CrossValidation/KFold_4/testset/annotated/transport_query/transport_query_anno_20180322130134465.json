@@ -1,0 +1,285 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "show trains and time to ny",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 26,
+          "value": "ny",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how much for a train ticket",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the quickest way to my work downtown without hitting any traffic",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 44,
+          "value": "downtown",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "give me directions for the place",
+      "intent": "transport_query",
+      "entities": []
+    },
+    {
+      "text": "train departure",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "is there a connecting train from london to paris and what time",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 33,
+          "end": 39,
+          "value": "london",
+          "entity": "place_name"
+        },
+        {
+          "start": 43,
+          "end": 48,
+          "value": "paris",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "search cost for amtrak luxury to los angeles",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 44,
+          "value": "los angeles",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when is the next train to glasgow from aberdeen",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "glasgow",
+          "entity": "place_name"
+        },
+        {
+          "start": 39,
+          "end": 47,
+          "value": "aberdeen",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you please let me know the next four scheduled trains to chicago",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 61,
+          "end": 68,
+          "value": "chicago",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me if i should use the train or bus to get across town today",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 37,
+          "end": 40,
+          "value": "bus",
+          "entity": "transport_type"
+        },
+        {
+          "start": 60,
+          "end": 65,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the time train coming from sacramento",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 45,
+          "value": "sacramento",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "visit metronorth dot com to help me purchase train tickets",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 45,
+          "end": 50,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me today's direction",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can you get me a train ticket to nyc",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 33,
+          "end": 36,
+          "value": "nyc",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show directions to pondy",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "pondy",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "search earliest trains to brooklyn ny weekends and holidays",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 37,
+          "value": "brooklyn ny",
+          "entity": "place_name"
+        },
+        {
+          "start": 38,
+          "end": 59,
+          "value": "weekends and holidays",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "are there any available train tickets to reserve",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 29,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the cheapest ticket available next week for a round trip three day trip to iceland",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 38,
+          "end": 47,
+          "value": "next week",
+          "entity": "date"
+        },
+        {
+          "start": 83,
+          "end": 90,
+          "value": "iceland",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i need the arrival time for new york train",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 36,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

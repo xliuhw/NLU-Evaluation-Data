@@ -1,0 +1,221 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "respond to all that i am on my way",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 11,
+          "end": 14,
+          "value": "all",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send an email to dad about the weather for the week",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 20,
+          "value": "dad",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "send a test email to",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "draft an email to kailey about work later",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 18,
+          "end": 24,
+          "value": "kailey",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "answer paul's email",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "paul",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please reply to my colleagues mail about his query",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 19,
+          "end": 29,
+          "value": "colleagues",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "hello you have a send an email to someone",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "reply an email to jason that i will not come tonight",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "jason",
+          "entity": "person"
+        },
+        {
+          "start": 45,
+          "end": 52,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "hey send an email to my friend",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 24,
+          "end": 30,
+          "value": "friend",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "send email to newmail@gmail dot com",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 35,
+          "value": "newmail@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "can you reply to the email",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "you should reply to the mail",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "hi buddy send mail to my friend hellen regarding home builders are not accepted the offer",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 3,
+          "end": 8,
+          "value": "buddy",
+          "entity": "person"
+        },
+        {
+          "start": 25,
+          "end": 31,
+          "value": "friend",
+          "entity": "relation"
+        },
+        {
+          "start": 32,
+          "end": 38,
+          "value": "hellen",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send an email to fred from work he is in my contacts",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "fred",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "hey reply a mail which i received",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "please email celine",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 13,
+          "end": 19,
+          "value": "celine",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "write an email about next week weather to my wife",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 21,
+          "end": 30,
+          "value": "next week",
+          "entity": "date"
+        },
+        {
+          "start": 45,
+          "end": 49,
+          "value": "wife",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "you can send the email to abc@gmail dot com this is my new email address",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 26,
+          "end": 43,
+          "value": "abc@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "create an email that needs to go out to my family",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 43,
+          "end": 49,
+          "value": "family",
+          "entity": "relation"
+        }
+      ]
+    }
+  ]
+}

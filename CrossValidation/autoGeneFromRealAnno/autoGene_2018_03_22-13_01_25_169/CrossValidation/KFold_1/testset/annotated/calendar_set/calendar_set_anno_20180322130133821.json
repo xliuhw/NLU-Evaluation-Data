@@ -1,0 +1,351 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "set a reminder for tomorrow evening",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 28,
+          "end": 35,
+          "value": "evening",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "notify me when the event is going to take place",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "add jim and jerry to event",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 4,
+          "end": 7,
+          "value": "jim",
+          "entity": "person"
+        },
+        {
+          "start": 12,
+          "end": 17,
+          "value": "jerry",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "make a repeating reminder for my yoga practice every day at noon",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 33,
+          "end": 46,
+          "value": "yoga practice",
+          "entity": "event_name"
+        },
+        {
+          "start": 47,
+          "end": 56,
+          "value": "every day",
+          "entity": "general_frequency"
+        },
+        {
+          "start": 60,
+          "end": 64,
+          "value": "noon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "i have a meeting with sean at four pm on wednesday can you remind me",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 22,
+          "end": 26,
+          "value": "sean",
+          "entity": "person"
+        },
+        {
+          "start": 30,
+          "end": 37,
+          "value": "four pm",
+          "entity": "time"
+        },
+        {
+          "start": 41,
+          "end": 50,
+          "value": "wednesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "create an event gym day on monday and set it to repeat",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 16,
+          "end": 19,
+          "value": "gym",
+          "entity": "event_name"
+        },
+        {
+          "start": 27,
+          "end": 33,
+          "value": "monday",
+          "entity": "date"
+        },
+        {
+          "start": 48,
+          "end": 54,
+          "value": "repeat",
+          "entity": "general_frequency"
+        }
+      ]
+    },
+    {
+      "text": "blot me all the phone calls planned for the morning of twenty three march",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 16,
+          "end": 27,
+          "value": "phone calls",
+          "entity": "event_name"
+        },
+        {
+          "start": 44,
+          "end": 51,
+          "value": "morning",
+          "entity": "timeofday"
+        },
+        {
+          "start": 55,
+          "end": 73,
+          "value": "twenty three march",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can you remind me about my meeting tomorrow",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 27,
+          "end": 34,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "repeat reminder for my schedule for christmas",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 36,
+          "end": 45,
+          "value": "christmas",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "remind me to call my grandma this Sunday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 28,
+          "value": "call my grandma",
+          "entity": "event_name"
+        },
+        {
+          "start": 34,
+          "end": 40,
+          "value": "Sunday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "next week my uncle birthday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 0,
+          "end": 9,
+          "value": "next week",
+          "entity": "date"
+        },
+        {
+          "start": 13,
+          "end": 27,
+          "value": "uncle birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "add running to my calendar for thursday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 4,
+          "end": 11,
+          "value": "running",
+          "entity": "event_name"
+        },
+        {
+          "start": 31,
+          "end": 39,
+          "value": "thursday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i would like to attend church every sunday at eleven am",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 16,
+          "end": 29,
+          "value": "attend church",
+          "entity": "event_name"
+        },
+        {
+          "start": 30,
+          "end": 42,
+          "value": "every sunday",
+          "entity": "date"
+        },
+        {
+          "start": 46,
+          "end": 55,
+          "value": "eleven am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "see if john is available for a meeting on Monday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "john",
+          "entity": "person"
+        },
+        {
+          "start": 31,
+          "end": 38,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 42,
+          "end": 48,
+          "value": "Monday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remind me about the meeting",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "set the alarm in my calendar events before five mins",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 36,
+          "end": 52,
+          "value": "before five mins",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "activate a one week notification before my anniversary please",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 43,
+          "end": 54,
+          "value": "anniversary",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "could you please schedule a meeting with this person",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 28,
+          "end": 35,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "i have a meeting with al on march twenty first at ten",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 22,
+          "end": 24,
+          "value": "al",
+          "entity": "person"
+        },
+        {
+          "start": 28,
+          "end": 46,
+          "value": "march twenty first",
+          "entity": "date"
+        },
+        {
+          "start": 50,
+          "end": 53,
+          "value": "ten",
+          "entity": "time"
+        }
+      ]
+    }
+  ]
+}

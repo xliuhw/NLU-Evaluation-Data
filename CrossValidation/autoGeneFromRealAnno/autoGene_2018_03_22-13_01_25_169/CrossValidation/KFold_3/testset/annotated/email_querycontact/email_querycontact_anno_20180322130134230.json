@@ -1,0 +1,246 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what are john's contact details",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please contact michael m from my list with this text",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 15,
+          "end": 24,
+          "value": "michael m",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "show contact of john",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "when is jacob's birthday",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "jacob",
+          "entity": "person"
+        },
+        {
+          "start": 16,
+          "end": 24,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "call dad",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "dad",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "what's leon's email",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "leon",
+          "entity": "person"
+        },
+        {
+          "start": 14,
+          "end": 19,
+          "value": "email",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "can i find out information about a contact",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "do i have a work number for susan",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 12,
+          "end": 23,
+          "value": "work number",
+          "entity": "personal_info"
+        },
+        {
+          "start": 28,
+          "end": 33,
+          "value": "susan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "does bob live in france",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "bob",
+          "entity": "person"
+        },
+        {
+          "start": 9,
+          "end": 13,
+          "value": "live",
+          "entity": "personal_info"
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "value": "france",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "contacts please",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "tell me about joose",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "joose",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is this person's contact information",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "could you get john's email address for me",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "find john smith in contacts",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "john smith",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "select the information on the contact",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "find all the contacts named john",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "named",
+          "entity": "personal_info"
+        },
+        {
+          "start": 28,
+          "end": 32,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is john smith's number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 18,
+          "value": "john smith",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell me the email address for aunt ruth",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 30,
+          "end": 39,
+          "value": "aunt ruth",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is mr taxi's phone number it is in my contacts",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "mr taxi",
+          "entity": "business_name"
+        },
+        {
+          "start": 18,
+          "end": 30,
+          "value": "phone number",
+          "entity": "personal_info"
+        }
+      ]
+    }
+  ]
+}

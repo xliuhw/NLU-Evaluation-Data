@@ -1,0 +1,161 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please make me nice coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "please make me a cup of coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "start the coffee machine",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 10,
+          "end": 24,
+          "value": "coffee machine",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "make coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "go and make me a coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "i would like a cup of coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "start a pot of coffee please",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "is the coffee ready",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "make coffee at eight am",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "eight am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "make me a cup of coffee with salted carmel flavored cream",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 29,
+          "end": 57,
+          "value": "salted carmel flavored cream",
+          "entity": "coffee_type"
+        }
+      ]
+    },
+    {
+      "text": "start up the coffee machine",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 13,
+          "end": 27,
+          "value": "coffee machine",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "make me a strong cup of coffee",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 10,
+          "end": 16,
+          "value": "strong",
+          "entity": "coffee_type"
+        }
+      ]
+    },
+    {
+      "text": "can you boil the kettle",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 17,
+          "end": 23,
+          "value": "kettle",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "make the coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "i want coffee from the machine",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 23,
+          "end": 30,
+          "value": "machine",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "it's coffee time",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "a cup of coffee please",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "can you set my coffee machine to make me coffee at four pm time",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 15,
+          "end": 29,
+          "value": "coffee machine",
+          "entity": "device_type"
+        },
+        {
+          "start": 51,
+          "end": 58,
+          "value": "four pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "can you make me some coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i want to know the best super market in this local area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 24,
+          "end": 36,
+          "value": "super market",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "i need some sushi what's closest",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "sushi",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "what bars are around me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "bars",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what's the best italian restaurant in atlanta",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "italian",
+          "entity": "food_type"
+        },
+        {
+          "start": 24,
+          "end": 34,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 38,
+          "end": 45,
+          "value": "atlanta",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where is the closest bar",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 21,
+          "end": 24,
+          "value": "bar",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "please list shops within one miles from me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "shops",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where is a great pub",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 17,
+          "end": 20,
+          "value": "pub",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where should i go for mexican food in me area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "mexican",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "recommend pub in eighth and monte diablo",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 10,
+          "end": 13,
+          "value": "pub",
+          "entity": "business_type"
+        },
+        {
+          "start": 17,
+          "end": 40,
+          "value": "eighth and monte diablo",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what pubs are close",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "pubs",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "name stores within ten mile radius with music",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "what restaurants are open near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where can i go shopping in this area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "shopping",
+          "entity": "business_type"
+        },
+        {
+          "start": 27,
+          "end": 36,
+          "value": "this area",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where can i find a good taco truck in los angles",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 24,
+          "end": 34,
+          "value": "taco truck",
+          "entity": "business_type"
+        },
+        {
+          "start": 38,
+          "end": 48,
+          "value": "los angles",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is a good place for cruise",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "what chinese restaurants are in my area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 13,
+          "end": 24,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where do people shop for clothes here",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "can you recommend a cheap restaurant in this area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 26,
+          "end": 36,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "make a reservation for two at olive garden",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 30,
+          "end": 42,
+          "value": "olive garden",
+          "entity": "business_type"
+        }
+      ]
+    }
+  ]
+}

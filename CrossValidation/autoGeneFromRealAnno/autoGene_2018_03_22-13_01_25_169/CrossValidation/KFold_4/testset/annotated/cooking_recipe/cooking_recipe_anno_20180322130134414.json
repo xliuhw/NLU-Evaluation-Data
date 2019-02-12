@@ -1,0 +1,208 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how to make fried rice",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 12,
+          "end": 22,
+          "value": "fried rice",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "show me tutorials on cooking food",
+      "intent": "cooking_recipe",
+      "entities": []
+    },
+    {
+      "text": "find the recipe for sambar in cookingforu application",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "sambar",
+          "entity": "food_type"
+        },
+        {
+          "start": 30,
+          "end": 41,
+          "value": "cookingforu",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the temperature i am supposed to cook this lasagna at",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 51,
+          "end": 58,
+          "value": "lasagna",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "show me a spaghetti recipe",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 10,
+          "end": 19,
+          "value": "spaghetti",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "how much is one serving of broccoli",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 27,
+          "end": 35,
+          "value": "broccoli",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "what is a cookie recipe",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 10,
+          "end": 16,
+          "value": "cookie",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "do we add rosemary in pasta",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "rosemary",
+          "entity": "ingredient"
+        },
+        {
+          "start": 22,
+          "end": 27,
+          "value": "pasta",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "how many cups of sugar in texas sheet cake frosting",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 26,
+          "end": 42,
+          "value": "texas sheet cake",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "show me cooking websites",
+      "intent": "cooking_recipe",
+      "entities": []
+    },
+    {
+      "text": "tell me the best recipes for a given dish",
+      "intent": "cooking_recipe",
+      "entities": []
+    },
+    {
+      "text": "find a recipe that uses ground beef and zucchini",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 24,
+          "end": 35,
+          "value": "ground beef",
+          "entity": "ingredient"
+        },
+        {
+          "start": 40,
+          "end": 48,
+          "value": "zucchini",
+          "entity": "ingredient"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me how to cook chocolate chip cookies",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 28,
+          "end": 50,
+          "value": "chocolate chip cookies",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "what's an easy recipe to cook for food",
+      "intent": "cooking_recipe",
+      "entities": []
+    },
+    {
+      "text": "how long should i simmer rice for",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 25,
+          "end": 29,
+          "value": "rice",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the best tasting cut of beef",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 32,
+          "end": 36,
+          "value": "beef",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "recipes",
+      "intent": "cooking_recipe",
+      "entities": []
+    },
+    {
+      "text": "access recipe book please",
+      "intent": "cooking_recipe",
+      "entities": []
+    },
+    {
+      "text": "how do you make sunny side up eggs",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 30,
+          "end": 34,
+          "value": "eggs",
+          "entity": "food_type"
+        }
+      ]
+    }
+  ]
+}

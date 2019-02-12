@@ -1,0 +1,441 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "book a ticket for the ethan allen express to vermont",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 22,
+          "end": 41,
+          "value": "ethan allen express",
+          "entity": "transport_name"
+        },
+        {
+          "start": 45,
+          "end": 52,
+          "value": "vermont",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find me a train ticket next monday to new york city",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 28,
+          "end": 34,
+          "value": "monday",
+          "entity": "date"
+        },
+        {
+          "start": 38,
+          "end": 51,
+          "value": "new york city",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to buy a train ticket tomorrow for boston to new york",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 29,
+          "end": 37,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 42,
+          "end": 48,
+          "value": "boston",
+          "entity": "place_name"
+        },
+        {
+          "start": 52,
+          "end": 60,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book a ride from new york to orlando covering ten places to see",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "new york",
+          "entity": "place_name"
+        },
+        {
+          "start": 29,
+          "end": 36,
+          "value": "orlando",
+          "entity": "place_name"
+        },
+        {
+          "start": 46,
+          "end": 63,
+          "value": "ten places to see",
+          "entity": "transport_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "book a ticket to ny by train",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 17,
+          "end": 19,
+          "value": "ny",
+          "entity": "place_name"
+        },
+        {
+          "start": 23,
+          "end": 28,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "i need to book a train ticket to la",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 33,
+          "end": 35,
+          "value": "la",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "fetch me two train tickets for the earliest train to paris",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 44,
+          "end": 49,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 53,
+          "end": 58,
+          "value": "paris",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "transportation ticket booking train",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 30,
+          "end": 35,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "please purchase a train ticket for this weekend",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 40,
+          "end": 47,
+          "value": "weekend",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "reserve a ticket to go to destination by train",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 26,
+          "end": 37,
+          "value": "destination",
+          "entity": "place_name"
+        },
+        {
+          "start": 41,
+          "end": 46,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book a train ticket from baltimore maryland to new york new york",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 25,
+          "end": 43,
+          "value": "baltimore maryland",
+          "entity": "place_name"
+        },
+        {
+          "start": 47,
+          "end": 64,
+          "value": "new york new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book a train ticket from mumbai to goa",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 25,
+          "end": 38,
+          "value": "mumbai to goa",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i want a train ticket from los angeles to phoenix",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 27,
+          "end": 38,
+          "value": "los angeles",
+          "entity": "place_name"
+        },
+        {
+          "start": 42,
+          "end": 49,
+          "value": "phoenix",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "google can you book me a ticket on the train for tomorrow",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 39,
+          "end": 44,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 49,
+          "end": 57,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "search for a train ticket to newcastle",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 29,
+          "end": 38,
+          "value": "newcastle",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book train ticket to ny",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 21,
+          "end": 23,
+          "value": "ny",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please book the five pm train to rockville",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "five pm",
+          "entity": "time"
+        },
+        {
+          "start": 24,
+          "end": 29,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 33,
+          "end": 42,
+          "value": "rockville",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "get me a ticket to boston",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "boston",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you book a train ticket for my mother",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 41,
+          "value": "mother",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "get me a train ticket from mumbai to goa",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 27,
+          "end": 40,
+          "value": "mumbai to goa",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please order one train ticket to los angeles",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 33,
+          "end": 44,
+          "value": "los angeles",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i need to go to lyon book a train ticket",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "lyon",
+          "entity": "place_name"
+        },
+        {
+          "start": 28,
+          "end": 33,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "order travel ticket",
+      "intent": "transport_ticket",
+      "entities": []
+    }
+  ]
+}

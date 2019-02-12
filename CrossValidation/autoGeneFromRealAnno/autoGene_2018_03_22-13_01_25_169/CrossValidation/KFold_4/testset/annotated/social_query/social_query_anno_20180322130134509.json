@@ -1,0 +1,216 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "tell me my friends most recent update",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "friends",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "please scan my social media and tell me what's happening",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "how many likes i have got on my eggless cake post on youtube",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 53,
+          "end": 60,
+          "value": "youtube",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "check my facebook notification",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 17,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "has anyone follow me today on twitter today",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 37,
+          "value": "twitter",
+          "entity": "media_type"
+        },
+        {
+          "start": 38,
+          "end": 43,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is going on right now on twitter",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 37,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "give me details of my twitter handle profile including the total number of followers",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "brief me about my news feed stories",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "check my twitter notification",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "please tell me latest video going viral on twitter for topic narendra modi",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 43,
+          "end": 50,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me what's happening on social media",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "did renee just post to my facebook feed",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "renee",
+          "entity": "person"
+        },
+        {
+          "start": 26,
+          "end": 34,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "show me my latest social media activity",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "Has @realdonaldtrump posted anything new on twitter",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 44,
+          "end": 51,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "have i received any mentions on twitter",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 39,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "read me the last tweet from the washington post",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 47,
+          "value": "washington post",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "are there any news regarding our president on facebook today",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 42,
+          "value": "president",
+          "entity": "relation"
+        },
+        {
+          "start": 46,
+          "end": 54,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 55,
+          "end": 60,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is happening on facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

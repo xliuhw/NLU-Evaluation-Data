@@ -1,0 +1,86 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please add tom to my contact list",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 14,
+          "value": "tom",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send an email and save the contact information for samuelwaters@hotmail dot com",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 51,
+          "end": 79,
+          "value": "samuelwaters@hotmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "will you please put something something@gmail dot com in my contacts",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 30,
+          "end": 53,
+          "value": "something@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "add dan@dancom to my contacts",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 14,
+          "value": "dan@dancom",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "add apahelp@yahoo dot com to my contacts",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 25,
+          "value": "apahelp@yahoo dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "please create a new contact information about jo",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 46,
+          "end": 48,
+          "value": "jo",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "save this email in my contact for future use",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add a new email",
+      "intent": "email_addcontact",
+      "entities": []
+    }
+  ]
+}

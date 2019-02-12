@@ -1,0 +1,98 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "make me happy",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "what is a good joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "good",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "how many jokes do you know",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "give me a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "open jokes",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "make me smile by telling a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "do you know any joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "provide a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "what is the highest rated joke today",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 12,
+          "end": 25,
+          "value": "highest rated",
+          "entity": "joke_type"
+        },
+        {
+          "start": 31,
+          "end": 36,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "joke me",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "any funny jokes",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "funny",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me a clean joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "clean",
+          "entity": "joke_type"
+        }
+      ]
+    }
+  ]
+}

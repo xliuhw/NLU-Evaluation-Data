@@ -1,0 +1,240 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what are today's highlights from facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "check my twitter account",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "has sarah posted anything today",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "sarah",
+          "entity": "person"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what notifications do i have in social media",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 44,
+          "value": "social media",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "any new interests from linda",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 28,
+          "value": "linda",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please update me on my social media accounts",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "is there any post from my friend mike in facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 32,
+          "value": "friend",
+          "entity": "relation"
+        },
+        {
+          "start": 33,
+          "end": 37,
+          "value": "mike",
+          "entity": "person"
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "how many likes does my last instagram photo have",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 37,
+          "value": "instagram",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "was there any articles on shark attacks on snapchat yesterday",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 39,
+          "value": "shark attacks",
+          "entity": "news_topic"
+        },
+        {
+          "start": 43,
+          "end": 51,
+          "value": "snapchat",
+          "entity": "media_type"
+        },
+        {
+          "start": 52,
+          "end": 61,
+          "value": "yesterday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "open facebook messenger",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 23,
+          "value": "facebook messenger",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what are the latest updates on my facebook account",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 42,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "social media updates",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "how many likes does my status from yesterday have",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 35,
+          "end": 44,
+          "value": "yesterday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please inform me of any new status updates",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "do i have any new messages in twitter instagram or facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 37,
+          "value": "twitter",
+          "entity": "media_type"
+        },
+        {
+          "start": 38,
+          "end": 47,
+          "value": "instagram",
+          "entity": "media_type"
+        },
+        {
+          "start": 51,
+          "end": 59,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "can you please update me on the latest tweets from my feed",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 39,
+          "end": 45,
+          "value": "tweets",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me what's happening on instagram",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 37,
+          "value": "instagram",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "has anyone commented on my status",
+      "intent": "social_query",
+      "entities": []
+    }
+  ]
+}

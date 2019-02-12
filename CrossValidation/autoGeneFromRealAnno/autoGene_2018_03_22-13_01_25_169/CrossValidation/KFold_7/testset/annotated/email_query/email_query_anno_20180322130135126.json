@@ -1,0 +1,168 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "do i have any emails from katherine",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 35,
+          "value": "katherine",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "did i get an email from sarah",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 29,
+          "value": "sarah",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "display latest emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "please read the last email for me",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "are there any new emails in outlook",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "do i have any new email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "please check new email from andy",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 32,
+          "value": "andy",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "did trey sand any messages",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "trey",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "who was the last person to email me",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "hey read any email to me",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "do i have any mail",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "are there any recent emails from rohit",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 38,
+          "value": "rohit",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please check all new email of income tax department",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 51,
+          "value": "income tax department",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "find my email for date",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "did you receive this person email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "did i email tom on the subject of gun control",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 15,
+          "value": "tom",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "have i received any emails about jared's birthday",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 38,
+          "value": "jared",
+          "entity": "person"
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what and who was i emailed about last week",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 42,
+          "value": "last week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do have any new email",
+      "intent": "email_query",
+      "entities": []
+    }
+  ]
+}

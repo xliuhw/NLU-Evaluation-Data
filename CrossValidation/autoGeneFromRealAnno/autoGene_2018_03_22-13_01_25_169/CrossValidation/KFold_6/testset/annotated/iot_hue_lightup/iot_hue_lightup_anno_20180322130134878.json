@@ -1,0 +1,109 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "brighten the lights in the hallway",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 27,
+          "end": 34,
+          "value": "hallway",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "increase lights please",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "switch up the color of the lights in the house",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 41,
+          "end": 46,
+          "value": "house",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "brighten the lights in living room",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 23,
+          "end": 34,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "turn up the lights in the living room",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 26,
+          "end": 37,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "it's a bit dark increase lighting",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "please brighten the lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "raise the brightness of the lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "up the brightness on these lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "turn up lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "raise lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "can you brighten the lights for me",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "give me more light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "please set the brightness of lightness appropriately in kitchen",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 56,
+          "end": 63,
+          "value": "kitchen",
+          "entity": "house_place"
+        }
+      ]
+    }
+  ]
+}

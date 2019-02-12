@@ -1,0 +1,223 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play country music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "country",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play the song title",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play let me love you by ariana grande",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 20,
+          "value": "let me love you",
+          "entity": "song_name"
+        },
+        {
+          "start": 24,
+          "end": 37,
+          "value": "ariana grande",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to hear sleeptime playlist next",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 15,
+          "end": 33,
+          "value": "sleeptime playlist",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "play some boy band music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "boy band",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play for me jazz music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 12,
+          "end": 16,
+          "value": "jazz",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "next i want to hear shinedown",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "shinedown",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "hi google play me playlist wacky in my gaana application",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "wacky",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "find jazz music on my playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "jazz",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play for me the music by madonna",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 25,
+          "end": 32,
+          "value": "madonna",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play one more time",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play all by the beatles",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "beatles",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "put the song sung by shreya at the top",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 21,
+          "end": 27,
+          "value": "shreya",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "hey play me a popular country song",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 14,
+          "end": 21,
+          "value": "popular",
+          "entity": "music_descriptor"
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "value": "country",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play music in library",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 14,
+          "end": 21,
+          "value": "library",
+          "entity": "music_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play neil sedaka",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "neil sedaka",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to hear radio head please",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 15,
+          "end": 25,
+          "value": "radio head",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play the billboard top ten",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play my preferred song",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 8,
+          "end": 17,
+          "value": "preferred",
+          "entity": "music_descriptor"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "send a mail to whom to talk",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "pull up kate's email and write that i will let her know",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "kate",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please reply to my boss most recent email and say that the ppt will be ready in one hour maximum",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 19,
+          "end": 23,
+          "value": "boss",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "reply the email of charles with just thank you right now",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 19,
+          "end": 26,
+          "value": "charles",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send new email to jana dot litt at gmail dot com",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 18,
+          "end": 48,
+          "value": "jana dot litt at gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "hey please reply to last pawel's email",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "pawel",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send email to new email address",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send an email to my friend say birthday wishes",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "friend",
+          "entity": "relation"
+        },
+        {
+          "start": 31,
+          "end": 39,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "send email to mom starting with the subject vacation",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 17,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "jj.nzt@yahoo dot com",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 0,
+          "end": 20,
+          "value": "jj.nzt@yahoo dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "email happy new year to john",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 24,
+          "end": 28,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell to joe's email that come to my house in this moment i am alone",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 8,
+          "end": 11,
+          "value": "joe",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "go to email and send message to",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "email john smith",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 6,
+          "end": 16,
+          "value": "john smith",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "start a new email to george brown",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 21,
+          "end": 33,
+          "value": "george brown",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send a replay email",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send reply to joe",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 17,
+          "value": "joe",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "email tom the date and time of tomorrow's meeting",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 6,
+          "end": 9,
+          "value": "tom",
+          "entity": "person"
+        },
+        {
+          "start": 31,
+          "end": 39,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 42,
+          "end": 49,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "add mail id subject content",
+      "intent": "email_sendemail",
+      "entities": []
+    }
+  ]
+}

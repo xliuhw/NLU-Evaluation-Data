@@ -1,0 +1,79 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please add this email to my contacts",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "just add a new email in my contacts from michael",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 41,
+          "end": 48,
+          "value": "michael",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "save this email in contact",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "can you look up and add john's old email to my contacts again",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 24,
+          "end": 28,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "add email to existing contact",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "email",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "i need you to add this email in my contacts",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add dr rosenstock as an email contact",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 17,
+          "value": "dr rosenstock",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "email hwu@gmail dot com add to email contacts",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 6,
+          "end": 23,
+          "value": "hwu@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    }
+  ]
+}

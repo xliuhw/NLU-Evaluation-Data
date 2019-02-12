@@ -1,0 +1,155 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "is there is a high traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what traffic is there on the route to the pittsburgh airport",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 42,
+          "end": 60,
+          "value": "pittsburgh airport",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "please let me know about current traffic in carmen drive",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 44,
+          "end": 56,
+          "value": "carmen drive",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me current situation of traffic near central park road",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 42,
+          "end": 59,
+          "value": "central park road",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how long to get to work",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how is the traffic right now",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "latest news on traffic at my current location",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what is the traffic like right now",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how is my commute",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how is the traffic today",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "id like to know if there are any accidents on the route that i am taking",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 33,
+          "end": 42,
+          "value": "accidents",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "is there any traffic on my way to work",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "show traffic in ohio",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "ohio",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how is the traffic near me",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what is traffic like",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "give me a traffic update",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what is the traffic like today",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how long will it take me to get to the west side",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 39,
+          "end": 48,
+          "value": "west side",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "start the radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "turn it to frequency nine hundred and ninety seven",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 11,
+          "end": 50,
+          "value": "frequency nine hundred and ninety seven",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "would you please turn on the am radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 29,
+          "end": 37,
+          "value": "am radio",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "can you turn on pandora",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "pandora",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "play bbc radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "bbc",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "give me a classical radio station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 10,
+          "end": 19,
+          "value": "classical",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play for me american idol show",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "start radio and go to frequency on nine hundred and forty three",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 35,
+          "end": 63,
+          "value": "nine hundred and forty three",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "please start the radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "turn on radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "find me the local npr station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "local npr",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play music now from radio plus",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "music",
+          "entity": "media_type"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "value": "radio plus",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "please play the local latin music channel on the radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 16,
+          "end": 41,
+          "value": "local latin music channel",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to listen to one oh one point one the whiz",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 20,
+          "end": 49,
+          "value": "one oh one point one the whiz",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play the radio band with sports commentary",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 25,
+          "end": 42,
+          "value": "sports commentary",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "what are the new rock radio stations",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "rock",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "can you play beats one radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 19,
+          "end": 28,
+          "value": "one radio",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play hoizer radio station from my pandora app",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 25,
+          "value": "hoizer radio station",
+          "entity": "radio_name"
+        },
+        {
+          "start": 34,
+          "end": 41,
+          "value": "pandora",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "open radio frequency ninety nine point five",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 21,
+          "end": 43,
+          "value": "ninety nine point five",
+          "entity": "radio_name"
+        }
+      ]
+    }
+  ]
+}

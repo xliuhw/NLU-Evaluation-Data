@@ -1,0 +1,26 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "it's too dark here",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "it's too dark i can't even see my hands",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "turn on the lights",
+      "intent": "iot_hue_lighton",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "lights",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

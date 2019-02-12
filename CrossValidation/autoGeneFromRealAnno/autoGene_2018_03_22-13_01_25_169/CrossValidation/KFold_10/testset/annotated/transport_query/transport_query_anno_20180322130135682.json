@@ -1,0 +1,362 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i'd like a train ticket to this location",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "train schedule",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "i would like to know the route the train will go to get to miami",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 35,
+          "end": 40,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 59,
+          "end": 64,
+          "value": "miami",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what are departure arrival times for this train",
+      "intent": "transport_query",
+      "entities": []
+    },
+    {
+      "text": "get me the local train timing to destination cstm",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 45,
+          "end": 49,
+          "value": "cstm",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find ny train time",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 7,
+          "value": "ny",
+          "entity": "place_name"
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "can you give me the train times to nyc",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 38,
+          "value": "nyc",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how far is orlando from my house",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "orlando",
+          "entity": "place_name"
+        },
+        {
+          "start": 24,
+          "end": 32,
+          "value": "my house",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how far is the distance to rccg ikoyi lagos from here by train",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 43,
+          "value": "rccg ikoyi lagos",
+          "entity": "place_name"
+        },
+        {
+          "start": 57,
+          "end": 62,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "give me the train time",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "directions to the target on I forty",
+      "intent": "transport_query",
+      "entities": []
+    },
+    {
+      "text": "train times to glasgow",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "glasgow",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when does the last train from work leave",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "how long until we get to chicago",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 32,
+          "value": "chicago",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "get me train times to location from station",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 22,
+          "end": 30,
+          "value": "location",
+          "entity": "place_name"
+        },
+        {
+          "start": 36,
+          "end": 43,
+          "value": "station",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how far is it from tokyo to dallas",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "tokyo",
+          "entity": "place_name"
+        },
+        {
+          "start": 28,
+          "end": 34,
+          "value": "dallas",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how do i book a train ticket online",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "is there any train plying from pune to mumbai tonight",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "value": "pune",
+          "entity": "place_name"
+        },
+        {
+          "start": 39,
+          "end": 45,
+          "value": "mumbai",
+          "entity": "place_name"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "give me the list of available train tickets from edinburgh to leeds",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 35,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 49,
+          "end": 58,
+          "value": "edinburgh",
+          "entity": "place_name"
+        },
+        {
+          "start": 62,
+          "end": 67,
+          "value": "leeds",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when is the next septa train to philadelphia",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 28,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 32,
+          "end": 44,
+          "value": "philadelphia",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "get me directions to meijer",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 27,
+          "value": "meijer",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "from where can i get a train ticket for athens",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 28,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 40,
+          "end": 46,
+          "value": "athens",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you look up train ticket prices for me",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    }
+  ]
+}

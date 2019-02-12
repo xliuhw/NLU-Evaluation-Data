@@ -1,0 +1,259 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "give me the name of all the shops in my area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "shops",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "can you find a nice restaurant downtown",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 20,
+          "end": 30,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 31,
+          "end": 39,
+          "value": "downtown",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i'm looking for some dress shows can you find clothing stores within one mile",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 21,
+          "end": 32,
+          "value": "dress shows",
+          "entity": "business_type"
+        },
+        {
+          "start": 62,
+          "end": 77,
+          "value": "within one mile",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me the cheapest place to get ground beef",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "where can i shop as a local tourist",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "what is the best italian restaurant around here",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "italian",
+          "entity": "food_type"
+        },
+        {
+          "start": 25,
+          "end": 35,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what are some good restaurants near by",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 19,
+          "end": 30,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "find a grocery store in town that carries creamed pickled herring",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 7,
+          "end": 20,
+          "value": "grocery store",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "get me a local restaurant",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 15,
+          "end": 25,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "locate nearby dining places",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 14,
+          "end": 27,
+          "value": "dining places",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what are the best italian restaurants in los angeles",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 18,
+          "end": 25,
+          "value": "italian",
+          "entity": "food_type"
+        },
+        {
+          "start": 26,
+          "end": 37,
+          "value": "restaurants",
+          "entity": "business_type"
+        },
+        {
+          "start": 41,
+          "end": 52,
+          "value": "los angeles",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please look up clothing stores near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 15,
+          "end": 30,
+          "value": "clothing stores",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where is the nearest restaurant here",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 21,
+          "end": 31,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "find tacos near my home",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "tacos",
+          "entity": "business_type"
+        },
+        {
+          "start": 19,
+          "end": 23,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me my choices for a good steak restaurant near here",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 30,
+          "end": 35,
+          "value": "steak",
+          "entity": "food_type"
+        },
+        {
+          "start": 36,
+          "end": 46,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "which store's got the cheapest three pound beef rump",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "what is the best shop restaurant around angel",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 17,
+          "end": 32,
+          "value": "shop restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 40,
+          "end": 45,
+          "value": "angel",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "which is the nearest restaurants available",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 21,
+          "end": 32,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "mobile shop",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 0,
+          "end": 11,
+          "value": "mobile shop",
+          "entity": "business_type"
+        }
+      ]
+    }
+  ]
+}

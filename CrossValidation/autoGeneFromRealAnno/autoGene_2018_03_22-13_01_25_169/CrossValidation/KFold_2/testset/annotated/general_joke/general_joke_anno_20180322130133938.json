@@ -1,0 +1,119 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "can you tell me a nice joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 18,
+          "end": 22,
+          "value": "nice",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "say joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "i need to find a funny joke that is ok for kids",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "funny",
+          "entity": "joke_type"
+        },
+        {
+          "start": 43,
+          "end": 47,
+          "value": "kids",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "do you know any good jokes",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "good",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "do you know any jokes",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "i need a good joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "good",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "the joke of the day",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "i want to hear a yo mama joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "yo mama",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "humor me",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "find me the best knock knock joke on the internet",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 17,
+          "end": 28,
+          "value": "knock knock",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "tell me a joke about birds",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "birds",
+          "entity": "joke_type"
+        }
+      ]
+    }
+  ]
+}

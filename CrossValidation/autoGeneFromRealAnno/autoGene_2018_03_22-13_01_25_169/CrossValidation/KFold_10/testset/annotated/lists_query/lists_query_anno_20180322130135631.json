@@ -1,0 +1,166 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what are the names of all my saved lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what is that on the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what is on this list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what to do lists do i have",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "show me what lists are available",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "there are anything in my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what is on my shopping list today",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 22,
+          "value": "shopping",
+          "entity": "list_name"
+        },
+        {
+          "start": 28,
+          "end": 33,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what lists available",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what is on my to do list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what's next on my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "give me all my lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "find the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what lists are in my notebook",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "tell me what lists i have",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "list to do",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "read out my shopping list for today",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "shopping",
+          "entity": "list_name"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what lists are open",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what's still on the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "could you open my list app and check for groceries please",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 41,
+          "end": 50,
+          "value": "groceries",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "read my list to me",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "please show me the list that i have",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "give me the details on purchase order",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "arrange the list in alphabetical order that are available",
+      "intent": "lists_query",
+      "entities": []
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "update my contacts with the new contact sam@gmail dot com",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 40,
+          "end": 57,
+          "value": "sam@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "add the new email to my contacts",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "save that email as a new contact",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "here's an email address",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "please add to my contact lists and send them a reminder email",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 17,
+          "end": 30,
+          "value": "contact lists",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "save to contacts",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add sarah as email contact",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "sarah",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "add apahelp@yahoo dot com in my contact list",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 25,
+          "value": "apahelp@yahoo dot com",
+          "entity": "email_address"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "start my bible study book again",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "start",
+          "entity": "player_setting"
+        },
+        {
+          "start": 9,
+          "end": 20,
+          "value": "bible study",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play audio",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "audio",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play album audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "album",
+          "entity": "media_type"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "open audible and continue playing the book that i was listening to",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "audible",
+          "entity": "app_name"
+        },
+        {
+          "start": 17,
+          "end": 25,
+          "value": "continue",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "continue playing where I left off",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 16,
+          "value": "continue playing",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "start chapter seven of alma",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "start",
+          "entity": "player_setting"
+        },
+        {
+          "start": 23,
+          "end": 27,
+          "value": "alma",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "continue from where we left off in divergent",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 35,
+          "end": 44,
+          "value": "divergent",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "please continue reading the hunger games",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 7,
+          "end": 23,
+          "value": "continue reading",
+          "entity": "player_setting"
+        },
+        {
+          "start": 24,
+          "end": 40,
+          "value": "the hunger games",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play seven habits of effective people",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 37,
+          "value": "seven habits of effective people",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play my bookmarked audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 19,
+          "end": 28,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play audiobook",
+      "intent": "play_audiobook",
+      "entities": []
+    },
+    {
+      "text": "continue with my audiobook please",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "continue",
+          "entity": "player_setting"
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play it after five minutes",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 8,
+          "end": 26,
+          "value": "after five minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "start audiobook again",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 6,
+          "end": 15,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "resume harry potter from the place i have stopped listening to last time",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 19,
+          "value": "harry potter",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "please pause this audio book now",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "pause",
+          "entity": "player_setting"
+        },
+        {
+          "start": 18,
+          "end": 28,
+          "value": "audio book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "put on the god of small things",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "put on",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 30,
+          "value": "the god of small things",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "continue playing my book of vitamins",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 16,
+          "value": "continue playing",
+          "entity": "player_setting"
+        },
+        {
+          "start": 20,
+          "end": 36,
+          "value": "book of vitamins",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "list me the audiobooks i have already listened to",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 12,
+          "end": 22,
+          "value": "audiobooks",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "hey email jan about our meeting",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 10,
+          "end": 13,
+          "value": "jan",
+          "entity": "person"
+        },
+        {
+          "start": 24,
+          "end": 31,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "will you send the email to greg",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 27,
+          "end": 31,
+          "value": "greg",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "create an email to my brother asking him what time he will be over for dinner",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "brother",
+          "entity": "relation"
+        },
+        {
+          "start": 71,
+          "end": 77,
+          "value": "dinner",
+          "entity": "meal_type"
+        }
+      ]
+    },
+    {
+      "text": "reach by mail to my family",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "family",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "send an email to grandma saying we are dropping by on saturday see you then",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "grandma",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "pleas reply to the mail of allen",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "allen",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send an email to bob",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 20,
+          "value": "bob",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send email new address",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "hey send email to john",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 18,
+          "end": 22,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please send a reminder email to peter and ask him how long he will be taking to prepare the presentation ppt",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "compose a new email but i got a new address this time brandon at example dot com",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 54,
+          "end": 80,
+          "value": "brandon at example dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "pull up outlook i need to send a email",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "respond to mom's mail message about the recipe site",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 11,
+          "end": 14,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "schedule text messages for later",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send an email to bill that i'm sorry i didn't realize he was so sick",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "bill",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send a request to martin",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 18,
+          "end": 24,
+          "value": "martin",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send a reply to mike with the answer four hundred and thirty from his email he sent this morning",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "mike",
+          "entity": "person"
+        },
+        {
+          "start": 89,
+          "end": 96,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "write an email to luke asking how the weather will be this coming week",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 18,
+          "end": 22,
+          "value": "luke",
+          "entity": "person"
+        },
+        {
+          "start": 54,
+          "end": 70,
+          "value": "this coming week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "send an email to john that i am on my way to home",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

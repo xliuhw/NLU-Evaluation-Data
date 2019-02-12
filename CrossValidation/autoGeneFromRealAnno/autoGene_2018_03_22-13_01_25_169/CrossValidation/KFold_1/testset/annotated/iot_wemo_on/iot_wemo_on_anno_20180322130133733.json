@@ -1,0 +1,81 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "turn on the wemo plug socket to connect my charger to it",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 12,
+          "end": 28,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on the plug",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 12,
+          "end": 16,
+          "value": "plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "on all the button on dashboard",
+      "intent": "iot_wemo_on",
+      "entities": []
+    },
+    {
+      "text": "toggle wemo plug socket on",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 7,
+          "end": 23,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "wemo on",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "wemo",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "start new smart socket",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 10,
+          "end": 22,
+          "value": "smart socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "make the wemo go on",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "wemo",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

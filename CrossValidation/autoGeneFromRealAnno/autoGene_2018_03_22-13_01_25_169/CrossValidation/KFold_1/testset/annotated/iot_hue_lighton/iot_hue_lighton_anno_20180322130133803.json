@@ -1,0 +1,33 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please turn on all lights",
+      "intent": "iot_hue_lighton",
+      "entities": [
+        {
+          "start": 15,
+          "end": 25,
+          "value": "all lights",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please turn on the lights",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "it's dark in the living room",
+      "intent": "iot_hue_lighton",
+      "entities": [
+        {
+          "start": 17,
+          "end": 28,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    }
+  ]
+}

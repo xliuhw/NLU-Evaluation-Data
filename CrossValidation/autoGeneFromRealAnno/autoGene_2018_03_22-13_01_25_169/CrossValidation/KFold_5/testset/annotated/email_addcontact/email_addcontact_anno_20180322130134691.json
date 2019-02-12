@@ -1,0 +1,64 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "add this email to my contact",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add new email address",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add something@gmail dot com to my contacts",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 27,
+          "value": "something@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "i want to and my email address",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "i need to add this new contact for sam smith ssmith@yahoo dot com",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 35,
+          "end": 44,
+          "value": "sam smith",
+          "entity": "person"
+        },
+        {
+          "start": 45,
+          "end": 65,
+          "value": "ssmith@yahoo dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "please place my new email address to the contact",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "use that email address as a contact",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "save email id",
+      "intent": "email_addcontact",
+      "entities": []
+    }
+  ]
+}

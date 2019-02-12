@@ -1,0 +1,205 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i want you to remove this event",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "remove today's meeting at evening",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 15,
+          "end": 22,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "evening",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "delete all my appointments for today",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 14,
+          "end": 26,
+          "value": "appointments",
+          "entity": "event_name"
+        },
+        {
+          "start": 31,
+          "end": 36,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "clear all events for this month",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 21,
+          "end": 31,
+          "value": "this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "cancel all my appointments",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 14,
+          "end": 26,
+          "value": "appointments",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "remove calendar events for this week",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 27,
+          "end": 36,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remove sample meeting from calendar app",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 14,
+          "end": 21,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 27,
+          "end": 39,
+          "value": "calendar app",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "whatever the next event is in the calendar delete it",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "get rid of everything on my calendar",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "please delete this calendar event",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "hi olly please remove the birthday event on coming sunday",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 26,
+          "end": 34,
+          "value": "birthday",
+          "entity": "event_name"
+        },
+        {
+          "start": 44,
+          "end": 57,
+          "value": "coming sunday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remove all the reminders from the calendar",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "remove all the events and schedules",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "erase that from my calendar",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "delete my next scheduled event please",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "cancel tomorrow's meeting",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 18,
+          "end": 25,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "can you delete all events from my calendar",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "delete event for tuesday",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "tuesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "clear my day on the twenty ninth",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 20,
+          "end": 32,
+          "value": "twenty ninth",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

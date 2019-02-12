@@ -1,0 +1,258 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "resume last playlist",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play lady by kenny roger",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "lady",
+          "entity": "song_name"
+        },
+        {
+          "start": 13,
+          "end": 24,
+          "value": "kenny roger",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "select and play only christian rock from one thousand nine hundred and ninety upwards",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 21,
+          "end": 35,
+          "value": "christian rock",
+          "entity": "music_genre"
+        },
+        {
+          "start": 41,
+          "end": 77,
+          "value": "one thousand nine hundred and ninety",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "play be warned by tech n9ne",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "be warned",
+          "entity": "song_name"
+        },
+        {
+          "start": 18,
+          "end": 27,
+          "value": "tech n9ne",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "open spotify and play list five",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "spotify",
+          "entity": "app_name"
+        },
+        {
+          "start": 22,
+          "end": 31,
+          "value": "list five",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "download the latest folk songs having rating of four star or above and play all without shuffle",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 20,
+          "end": 24,
+          "value": "folk",
+          "entity": "music_genre"
+        },
+        {
+          "start": 38,
+          "end": 66,
+          "value": "rating of four star or above",
+          "entity": "music_descriptor"
+        },
+        {
+          "start": 80,
+          "end": 95,
+          "value": "without shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "song next",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play all songs by martina mcbride",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 18,
+          "end": 33,
+          "value": "martina mcbride",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play hurt by johnny cash next",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "hurt",
+          "entity": "song_name"
+        },
+        {
+          "start": 13,
+          "end": 24,
+          "value": "johnny cash",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "kenny roger's lady play",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 0,
+          "end": 11,
+          "value": "kenny roger",
+          "entity": "artist_name"
+        },
+        {
+          "start": 14,
+          "end": 18,
+          "value": "lady",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "open my amazon music app and play my playlist",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "please resume my music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 7,
+          "end": 13,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 17,
+          "end": 22,
+          "value": "music",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play my favorite music",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play old fashioned christmas music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 28,
+          "value": "old fashioned christmas",
+          "entity": "music_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play my midnight love playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 8,
+          "end": 21,
+          "value": "midnight love",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "play music that are classical only",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "classical",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play the barney theme song",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 9,
+          "end": 21,
+          "value": "barney theme",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play lady now",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "lady",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play the veldt by",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "veldt",
+          "entity": "song_name"
+        }
+      ]
+    }
+  ]
+}

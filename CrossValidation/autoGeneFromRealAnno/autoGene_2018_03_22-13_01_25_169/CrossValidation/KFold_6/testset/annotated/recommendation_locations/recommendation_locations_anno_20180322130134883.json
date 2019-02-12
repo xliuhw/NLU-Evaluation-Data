@@ -1,0 +1,272 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what's the most popular curry place in town",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 24,
+          "end": 35,
+          "value": "curry place",
+          "entity": "business_type"
+        },
+        {
+          "start": 39,
+          "end": 43,
+          "value": "town",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me pizza restaurants close by",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 14,
+          "end": 25,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "i would like to know the best rating pubs in the local area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 37,
+          "end": 41,
+          "value": "pubs",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me a good place to eat",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 23,
+          "end": 35,
+          "value": "place to eat",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where to buy cannon cameras",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "tell me chinese restaurants in the area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 16,
+          "end": 27,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "please list the best clothing shops near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 21,
+          "end": 35,
+          "value": "clothing shops",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "hey olly tell me what shops i am near",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "what shops are round here",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 15,
+          "end": 25,
+          "value": "round here",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "list shops in douglasville ga",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "shops",
+          "entity": "business_type"
+        },
+        {
+          "start": 14,
+          "end": 29,
+          "value": "douglasville ga",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "ask a restaurant in me area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 6,
+          "end": 16,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "find me the smallest coffee shop in new orleans",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 21,
+          "end": 32,
+          "value": "coffee shop",
+          "entity": "business_type"
+        },
+        {
+          "start": 36,
+          "end": 47,
+          "value": "new orleans",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "give the list of theaters in the vicinity",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "theaters",
+          "entity": "business_type"
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "value": "vicinity",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what are the vietnamese restaurants in the area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 13,
+          "end": 23,
+          "value": "vietnamese",
+          "entity": "food_type"
+        },
+        {
+          "start": 24,
+          "end": 35,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what's the best pizza shop nearby",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 22,
+          "end": 26,
+          "value": "shop",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what's the best clothes store here",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 16,
+          "end": 29,
+          "value": "clothes store",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "when does olive garden close today",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 10,
+          "end": 22,
+          "value": "olive garden",
+          "entity": "business_type"
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "best restaurant in local area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where a good restaurant",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 13,
+          "end": 23,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    }
+  ]
+}

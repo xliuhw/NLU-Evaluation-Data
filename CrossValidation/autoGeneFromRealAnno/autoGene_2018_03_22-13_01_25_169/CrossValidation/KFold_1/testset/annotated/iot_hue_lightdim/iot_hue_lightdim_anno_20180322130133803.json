@@ -1,0 +1,92 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "dim the lights at the living room",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 22,
+          "end": 33,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "lower the light intensity",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "hi can you please turn lower the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "dim the lights please",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "please turn down the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower the lights in bedroom two",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 20,
+          "end": 31,
+          "value": "bedroom two",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "i want the room to be less bright",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "hey olly make the lights a little dimmer",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "a little",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "light is too much",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "reduce brightness",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "dim the overhead lights a tad",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "overhead",
+          "entity": "house_place"
+        }
+      ]
+    }
+  ]
+}

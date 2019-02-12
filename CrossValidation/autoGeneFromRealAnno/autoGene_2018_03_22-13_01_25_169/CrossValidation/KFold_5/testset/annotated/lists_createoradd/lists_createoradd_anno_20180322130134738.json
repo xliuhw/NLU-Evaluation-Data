@@ -1,0 +1,175 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "list new",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "add appointment to list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "is there room on my grocery list for an extra item",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add paper towels to the grocery list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 24,
+          "end": 36,
+          "value": "grocery list",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "i need to make a grocery list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "make new list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "create vacation list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "vacation",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add a movie name to the wish list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 24,
+          "end": 33,
+          "value": "wish list",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "put shoes on my list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "grocery list add eggs",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to know could an extra item be added to my grocery list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 50,
+          "end": 57,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "create a new list called grocery store please",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 25,
+          "end": 38,
+          "value": "grocery store",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "my new work schedule list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 7,
+          "end": 20,
+          "value": "work schedule",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "new list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "new scenario time or calendar to new list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "i want to start a new list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "open a new list for me",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "create a new list please",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "i want to make next week's to do list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 15,
+          "end": 24,
+          "value": "next week",
+          "entity": "time"
+        },
+        {
+          "start": 27,
+          "end": 32,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    }
+  ]
+}

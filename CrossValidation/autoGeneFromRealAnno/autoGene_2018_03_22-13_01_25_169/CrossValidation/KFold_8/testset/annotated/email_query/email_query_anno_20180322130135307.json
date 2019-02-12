@@ -1,0 +1,201 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "are there any new emails received after four o'clock today",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 44,
+          "value": "after four",
+          "entity": "time"
+        },
+        {
+          "start": 53,
+          "end": 58,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "find new email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "any new email since last time",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "are there any emails i haven't read yet",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "check for new emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "did i get an email from jen last night",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 27,
+          "value": "jen",
+          "entity": "person"
+        },
+        {
+          "start": 28,
+          "end": 38,
+          "value": "last night",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "did i receive any new email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "please check whether the email of jancy has come",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 39,
+          "value": "jancy",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "do i have any emails from robert",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 32,
+          "value": "robert",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "has any mail received with an attachment",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "check to see if my mom sent me any emails",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 22,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "check any mail from amazon",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "amazon",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "have any emails come in since four hundred today",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 42,
+          "value": "four hundred",
+          "entity": "time"
+        },
+        {
+          "start": 43,
+          "end": 48,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is the mail from chris about work",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "chris",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "who's emailed me recently",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "please send a notification when john replies",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 36,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "do i have a new email from sandy",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "sandy",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "jane doe",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "jane doe",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "display recent email from john",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 30,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

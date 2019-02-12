@@ -1,0 +1,259 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "show me this week's forecast",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 17,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i need to carry umbrella for evening",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "umbrella",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "value": "evening",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "is it colder than yesterday",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 27,
+          "value": "yesterday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "weather like",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "will there be snow this week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "snow",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 19,
+          "end": 28,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "will i be able to get away with shorts today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 38,
+          "value": "shorts",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 39,
+          "end": 44,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is there any chances of rain this week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 28,
+          "value": "rain",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 29,
+          "end": 38,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i need boots today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "boots",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 16,
+          "end": 21,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "has the weather changed for wednesday at all",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 37,
+          "value": "wednesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's the current temperature outside",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 30,
+          "value": "temperature",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "weather in home town",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 20,
+          "value": "home town",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what will the weather be like this week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 39,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the weather for this week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 33,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "current weather forecast",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "what is today's weather forecast",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how is weather on such and such day",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "am i going to swim or work today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 26,
+          "value": "swim or work",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 27,
+          "end": 32,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the weather update for tuesday",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 38,
+          "value": "tuesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is it going to be cloudy in london during the weekend",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 24,
+          "value": "cloudy",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 28,
+          "end": 34,
+          "value": "london",
+          "entity": "place_name"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "value": "weekend",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

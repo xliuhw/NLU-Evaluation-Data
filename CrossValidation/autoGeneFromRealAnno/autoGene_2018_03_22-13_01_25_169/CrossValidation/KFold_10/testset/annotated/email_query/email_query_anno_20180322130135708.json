@@ -1,0 +1,235 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "did i receive any email in the past hour",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 40,
+          "value": "past hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "what are the subject line and sender from today's email inbox",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 42,
+          "end": 47,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 56,
+          "end": 61,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "would you go check my emails for me",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "open inbox",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "show all emails regarding the breach",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "show me emails from my friends",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 30,
+          "value": "friends",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "have i received any emails from beth",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 36,
+          "value": "beth",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "refresh my inbox and inform me about new emails",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "do i have an email from person a",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "get contact",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "i need to see if i got any new email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "have i got any new email from my company",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 40,
+          "value": "company",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "did i get an email from mike",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 28,
+          "value": "mike",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "check email from john",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "do i have any new emails in my inbox today",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 36,
+          "value": "inbox",
+          "entity": "email_folder"
+        },
+        {
+          "start": 37,
+          "end": 42,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "give a last minute update on incoming emails please",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "Check outlook",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "are there new emails for me",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "check by inbox for me",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "check my email messages",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "has mike sent me an email",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "mike",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "check emails from gary for last hour",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 22,
+          "value": "gary",
+          "entity": "person"
+        },
+        {
+          "start": 27,
+          "end": 36,
+          "value": "last hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "pull up all emails sent to me from amazon",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 35,
+          "end": 41,
+          "value": "amazon",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "the wemo plug should be turned off on",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 4,
+          "end": 13,
+          "value": "wemo plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off the fan",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 13,
+          "end": 16,
+          "value": "fan",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "disable smart socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 8,
+          "end": 20,
+          "value": "smart socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "keep the socket in off condition",
+      "intent": "iot_wemo_off",
+      "entities": []
+    },
+    {
+      "text": "turn off my wemo plug",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "wemo plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "switch off the smart plug socket now",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 15,
+          "end": 32,
+          "value": "smart plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "make the smart socket turn off",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 9,
+          "end": 21,
+          "value": "smart socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "can you please turn off the wemo plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 28,
+          "end": 44,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "i want you to turn off the plug socket before the cellphone is charged",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 27,
+          "end": 38,
+          "value": "plug socket",
+          "entity": "device_type"
+        },
+        {
+          "start": 50,
+          "end": 59,
+          "value": "cellphone",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

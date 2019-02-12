@@ -1,0 +1,85 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "find jokes on the web",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "make me laugh i want to hear a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "i want to hear a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "open some cools jokes",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "cools",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "hey olly tell me a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "hey share me some joke to make me happy",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "joke of the day",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "tell me a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "tell me a dirty joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "dirty",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "find a joke in your vault and tell me",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "i would like to hear some good funny jokes",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 26,
+          "end": 36,
+          "value": "good funny",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "share me a joke",
+      "intent": "general_joke",
+      "entities": []
+    }
+  ]
+}

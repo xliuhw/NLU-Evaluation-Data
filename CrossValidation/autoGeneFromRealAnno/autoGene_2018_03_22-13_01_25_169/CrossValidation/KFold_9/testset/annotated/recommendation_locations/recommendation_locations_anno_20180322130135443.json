@@ -1,0 +1,258 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "show me some vegan restaurants close by",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "vegan",
+          "entity": "food_type"
+        },
+        {
+          "start": 19,
+          "end": 30,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where monet's exhibition takes place",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 6,
+          "end": 24,
+          "value": "monet's exhibition",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "show me reviews of my nearest location food court",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 22,
+          "end": 38,
+          "value": "nearest location",
+          "entity": "place_name"
+        },
+        {
+          "start": 39,
+          "end": 49,
+          "value": "food court",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "are there any grocery stores nearby",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 14,
+          "end": 28,
+          "value": "grocery stores",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "show me some food court nearest to my location",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 13,
+          "end": 23,
+          "value": "food court",
+          "entity": "business_type"
+        },
+        {
+          "start": 24,
+          "end": 46,
+          "value": "nearest to my location",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you recommend good stores in this area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 23,
+          "end": 29,
+          "value": "stores",
+          "entity": "business_type"
+        },
+        {
+          "start": 33,
+          "end": 42,
+          "value": "this area",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "are there any good pizza places around here",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 19,
+          "end": 31,
+          "value": "pizza places",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the best mexican restaurant in seattle",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "mexican",
+          "entity": "food_type"
+        },
+        {
+          "start": 25,
+          "end": 35,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 39,
+          "end": 46,
+          "value": "seattle",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "list all the shops that are located in milan",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 39,
+          "end": 44,
+          "value": "milan",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find me a nice restaurant for dinner",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 15,
+          "end": 25,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 30,
+          "end": 36,
+          "value": "dinner",
+          "entity": "meal_type"
+        }
+      ]
+    },
+    {
+      "text": "i'm looking for a bar do you know a good one",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 18,
+          "end": 21,
+          "value": "bar",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where is the closest kroger",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "i wish to go for cheap shopping is there any dollars shop nearby",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 45,
+          "end": 57,
+          "value": "dollars shop",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "display nearby places",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "recommend me a restaurant in west chester",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 15,
+          "end": 25,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 29,
+          "end": 41,
+          "value": "west chester",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "any farm markets around with local products",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 4,
+          "end": 16,
+          "value": "farm markets",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where can i get organic wheat",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "local shops",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "where is the nearest italian restaurant",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "italian",
+          "entity": "food_type"
+        },
+        {
+          "start": 29,
+          "end": 39,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    }
+  ]
+}

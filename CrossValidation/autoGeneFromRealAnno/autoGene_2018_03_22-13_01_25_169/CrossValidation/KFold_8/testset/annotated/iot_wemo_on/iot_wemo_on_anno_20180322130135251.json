@@ -1,0 +1,73 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "turn my plug on",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "i need to turn on the plug in my office for my computer",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 33,
+          "end": 39,
+          "value": "office",
+          "entity": "house_place"
+        },
+        {
+          "start": 47,
+          "end": 55,
+          "value": "computer",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "start the oven",
+      "intent": "iot_wemo_on",
+      "entities": []
+    },
+    {
+      "text": "on mobile charger plug",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 3,
+          "end": 22,
+          "value": "mobile charger plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "enable smart socket",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 7,
+          "end": 19,
+          "value": "smart socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on when plugged in else turn off",
+      "intent": "iot_wemo_on",
+      "entities": []
+    },
+    {
+      "text": "times clapping sound times",
+      "intent": "iot_wemo_on",
+      "entities": []
+    }
+  ]
+}

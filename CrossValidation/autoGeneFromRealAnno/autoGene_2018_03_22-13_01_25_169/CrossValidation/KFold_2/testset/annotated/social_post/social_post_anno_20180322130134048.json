@@ -1,0 +1,279 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "announce a comment in facebook",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "write a tweet telling macy's that they should be shutting down instead of jcpenney",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 22,
+          "end": 26,
+          "value": "macy",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "send a tweet to tmobile for rude employees",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 16,
+          "end": 23,
+          "value": "tmobile",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet my complaint and mention this costumer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 36,
+          "end": 52,
+          "value": "costumer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please tweet waited sixty five minutes for a table at tgi fridays never going back",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "two thumbs down @companyname",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 16,
+          "end": 28,
+          "value": "@companyname",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please tweet for me about the bad service rended by the taj restaurant",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "heading to gym please post to facebook",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 30,
+          "end": 38,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "change my status to chillin",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "open twitter and add complaint on doctor patel's feed",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet a complaint to local municipality",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 21,
+          "end": 39,
+          "value": "local municipality",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "send a tweet about sonys volume issues",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 19,
+          "end": 24,
+          "value": "sonys",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet to mcdonalds saying that i found a hair in their burger",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 9,
+          "end": 18,
+          "value": "mcdonalds",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "have a moan at easyjet",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "easyjet",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "go to social media and post the following status",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 6,
+          "end": 18,
+          "value": "social media",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet complaint to american eagle customer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 19,
+          "end": 50,
+          "value": "american eagle customer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet this tweet coffee was too hot and at this company costa coffee",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 56,
+          "end": 68,
+          "value": "costa coffee",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet long wait time and unprofessional employees",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "please post happy birthday usa on my newsfeed",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 18,
+          "end": 26,
+          "value": "birthday",
+          "entity": "event_name"
+        },
+        {
+          "start": 37,
+          "end": 45,
+          "value": "newsfeed",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

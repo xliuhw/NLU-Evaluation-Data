@@ -1,0 +1,159 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "remove my four am alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "four am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "cancel my eight am alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "eight am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "delete the meeting alarm at two pm on tuesday",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 28,
+          "end": 34,
+          "value": "two pm",
+          "entity": "time"
+        },
+        {
+          "start": 38,
+          "end": 45,
+          "value": "tuesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please remove this alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "remove six am alarm of whole week for future",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 13,
+          "value": "six am",
+          "entity": "time"
+        },
+        {
+          "start": 23,
+          "end": 33,
+          "value": "whole week",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "twelve am removed",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 0,
+          "end": 9,
+          "value": "twelve am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "delete my six am alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 16,
+          "value": "six am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "i need to delete the alarm for church on sundays at eleven am",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 41,
+          "end": 48,
+          "value": "sundays",
+          "entity": "date"
+        },
+        {
+          "start": 52,
+          "end": 61,
+          "value": "eleven am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "cancel my three pm alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "three pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please remove the alarm which i set for today morning",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 40,
+          "end": 45,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "cancel alarm for tomorrow",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

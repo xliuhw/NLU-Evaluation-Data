@@ -1,0 +1,263 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is happening in town tonight",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 21,
+          "end": 25,
+          "value": "town",
+          "entity": "place_name"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "can you find me a street fair in the neighborhood",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 18,
+          "end": 29,
+          "value": "street fair",
+          "entity": "event_name"
+        },
+        {
+          "start": 37,
+          "end": 49,
+          "value": "neighborhood",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "any events this weekend in pondichery",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 11,
+          "end": 23,
+          "value": "this weekend",
+          "entity": "date"
+        },
+        {
+          "start": 27,
+          "end": 37,
+          "value": "pondichery",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the next event at the library",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 29,
+          "end": 36,
+          "value": "library",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me what kind of show can i go tonight in miami",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 29,
+          "end": 33,
+          "value": "show",
+          "entity": "business_type"
+        },
+        {
+          "start": 43,
+          "end": 50,
+          "value": "tonight",
+          "entity": "timeofday"
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "value": "miami",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what events are happening today",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "get local events",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what's happening near me this week",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 25,
+          "end": 34,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "events in me area",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "list saturday night events near current location",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 5,
+          "end": 26,
+          "value": "saturday night events",
+          "entity": "event_name"
+        },
+        {
+          "start": 27,
+          "end": 48,
+          "value": "near current location",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show me upcoming events in chicago",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 27,
+          "end": 34,
+          "value": "chicago",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what exhibits or shows are scheduled at the metropolitan theater",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 5,
+          "end": 13,
+          "value": "exhibits",
+          "entity": "event_name"
+        },
+        {
+          "start": 17,
+          "end": 22,
+          "value": "shows",
+          "entity": "event_name"
+        },
+        {
+          "start": 44,
+          "end": 64,
+          "value": "metropolitan theater",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "recommend a blue grass band event within twenty miles of manchester ma this week",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 12,
+          "end": 27,
+          "value": "blue grass band",
+          "entity": "event_name"
+        },
+        {
+          "start": 34,
+          "end": 67,
+          "value": "within twenty miles of manchester",
+          "entity": "place_name"
+        },
+        {
+          "start": 71,
+          "end": 80,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "badminton",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 0,
+          "end": 9,
+          "value": "badminton",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what kind of musical events are happening around here this week",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 13,
+          "end": 27,
+          "value": "musical events",
+          "entity": "event_name"
+        },
+        {
+          "start": 54,
+          "end": 63,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "events upcoming",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "hockey",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "hockey",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "i would be happy if you update me the events going on our area",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what's happening here",
+      "intent": "recommendation_events",
+      "entities": []
+    }
+  ]
+}

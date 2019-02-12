@@ -1,0 +1,253 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "where can i order pizza for delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 28,
+          "end": 36,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does pings do takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "pings",
+          "entity": "business_name"
+        },
+        {
+          "start": 14,
+          "end": 22,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "i need to know if mr pizza delivers",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 26,
+          "value": "mr pizza",
+          "entity": "business_name"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "value": "delivers",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "what's the exact time we get food delivered once we place an order for food",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "how long until i receive my food",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "check delivery options for the restaurant",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 6,
+          "end": 14,
+          "value": "delivery",
+          "entity": "order_type"
+        },
+        {
+          "start": 31,
+          "end": 41,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "does louie's do take out",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "louie",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "where are my takeaway order",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 21,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "is my order at domino's ready",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 21,
+          "value": "domino",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "hi there do you offer home delivery for orders",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 35,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "can they provide takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "restaurant order status",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 10,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "when is my takeaway arriving",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "find out if kfc delivers please",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 15,
+          "value": "kfc",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "do they deliver home",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "deliver",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "please see if chili's has delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "chili",
+          "entity": "food_type"
+        },
+        {
+          "start": 26,
+          "end": 34,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the status of my order no",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "please see if the restaurant chili's has delivery as an option",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 28,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "value": "chili",
+          "entity": "business_name"
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "can they do delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    }
+  ]
+}

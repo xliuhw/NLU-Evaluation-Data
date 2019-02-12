@@ -1,0 +1,225 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please play trivial pursuit with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 12,
+          "end": 27,
+          "value": "trivial pursuit",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play chess",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "i feel like playing chess can you play that",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "open temple run game",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "temple run",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "open chess play against me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play football with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 13,
+          "value": "football",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play a game how about tic tac toe",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 28,
+          "end": 39,
+          "value": "tic tac toe",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play papa pear saga",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 19,
+          "value": "papa pear saga",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play tic tac toe with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "tic tac toe",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play subway surfers with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 19,
+          "value": "subway surfers",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "lets play chess together",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "can you play tic tac toe",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 13,
+          "end": 24,
+          "value": "tic tac toe",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play a game of contra as a second player",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 15,
+          "end": 21,
+          "value": "contra",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play a game of chess with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "please play my cricket game",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "cricket",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "Lets play tic tac toe",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 10,
+          "end": 21,
+          "value": "tic tac toe",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "mario",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "mario",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "start angry bird",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 6,
+          "end": 16,
+          "value": "angry bird",
+          "entity": "game_name"
+        }
+      ]
+    }
+  ]
+}

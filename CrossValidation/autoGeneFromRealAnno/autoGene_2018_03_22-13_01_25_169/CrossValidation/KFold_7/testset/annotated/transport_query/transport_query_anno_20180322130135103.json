@@ -1,0 +1,309 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what trips are available from new york city to poughkeepsie",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 43,
+          "value": "new york city",
+          "entity": "place_name"
+        },
+        {
+          "start": 47,
+          "end": 59,
+          "value": "poughkeepsie",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how long i can go to dundee",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 27,
+          "value": "dundee",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how do i get to poughkeepsie from new york city",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 28,
+          "value": "poughkeepsie",
+          "entity": "place_name"
+        },
+        {
+          "start": 34,
+          "end": 47,
+          "value": "new york city",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "fix the driving route from here to grant market",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "driving",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 47,
+          "value": "grant market",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how do i go to athens by train",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 21,
+          "value": "athens",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "directions to nearest apple store",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 33,
+          "value": "apple store",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how do i get to the grocery store",
+      "intent": "transport_query",
+      "entities": []
+    },
+    {
+      "text": "check time of kalka train from jodhpur station on monday",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "kalka",
+          "entity": "transport_name"
+        },
+        {
+          "start": 20,
+          "end": 25,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 31,
+          "end": 46,
+          "value": "jodhpur station",
+          "entity": "place_name"
+        },
+        {
+          "start": 50,
+          "end": 56,
+          "value": "monday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how often does the train arrive and depart from penn station",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 48,
+          "end": 60,
+          "value": "penn station",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "take me to tnagar",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 17,
+          "value": "tnagar",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how much is a train ticket to san fransisco",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 30,
+          "end": 43,
+          "value": "san fransisco",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when indianapolis express will reach indiana",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 25,
+          "value": "indianapolis express",
+          "entity": "transport_name"
+        },
+        {
+          "start": 37,
+          "end": 44,
+          "value": "indiana",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you give me train times for ann arbor",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 32,
+          "end": 41,
+          "value": "ann arbor",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when is the next train arriving to union station from grand central station",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 75,
+          "value": "union station from grand central station",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how much is a round trip train ticket to go to new york",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 47,
+          "end": 55,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "directions to virginia beach va",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 28,
+          "value": "virginia beach",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the driving directions from faripir to gurpur",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 43,
+          "value": "faripir",
+          "entity": "place_name"
+        },
+        {
+          "start": 47,
+          "end": 53,
+          "value": "gurpur",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when is the next train to philadelphia",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 26,
+          "end": 38,
+          "value": "philadelphia",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i need directions to lowes in mount h nj",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 40,
+          "value": "lowes in mount h nj",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

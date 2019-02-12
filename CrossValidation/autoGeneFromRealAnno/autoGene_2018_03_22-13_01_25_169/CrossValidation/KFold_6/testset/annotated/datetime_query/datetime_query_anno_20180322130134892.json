@@ -1,0 +1,237 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "twenty second april day",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 19,
+          "value": "twenty second april",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the time in london",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "london",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what day does april sixteenth fall on",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 29,
+          "value": "april sixteenth",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what day is easter",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "easter",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "mention the time in canada now",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "canada",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me what time it is right now",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "the time in cairo please",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "cairo",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "which week is twenty third",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 26,
+          "value": "twenty third",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is today's date",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what day of the week does christmas fall on this year",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 35,
+          "value": "christmas",
+          "entity": "event_name"
+        },
+        {
+          "start": 44,
+          "end": 53,
+          "value": "this year",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the time in ajmer",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "ajmer",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show me the time in new york city",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 33,
+          "value": "new york city",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the time in australia right now",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "australia",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what day of the week is first april",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 35,
+          "value": "first april",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how many birthday's are on twenty third",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 17,
+          "value": "birthday",
+          "entity": "event_name"
+        },
+        {
+          "start": 27,
+          "end": 39,
+          "value": "twenty third",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is tomorrows date",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 17,
+          "value": "tomorrows",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what day of the week is the first of march",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 42,
+          "value": "first of march",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i need to know what is the date today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 37,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is eastern standard time right noe",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "eastern",
+          "entity": "time_zone"
+        }
+      ]
+    }
+  ]
+}

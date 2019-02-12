@@ -1,0 +1,261 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "send a complaint to sony about this tv that quit working",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 20,
+          "end": 24,
+          "value": "sony",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "write complaint to wallmart",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "wallmart",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please tweet about the problem i m facing with the product of company",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "open gallery post video name",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "gallery",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "complain to amazon customer service for me",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 12,
+          "end": 35,
+          "value": "amazon customer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tell comcast i am still on hold",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "comcast",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet that there was an insect in the chocolate packet",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "post new status",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "lets send a tweet",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to tweet a complaint on apples phone issues",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet to ikea costumer service the following i'm not happy with this new klm product",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 9,
+          "end": 30,
+          "value": "ikea costumer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet at quote unquote",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 9,
+          "end": 22,
+          "value": "quote unquote",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet customer service not good for lpg service in my twitter account",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 54,
+          "end": 61,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "comcast sucks put that on their twitter account",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 32,
+          "end": 39,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet my complaint to @nsa",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 22,
+          "end": 26,
+          "value": "@nsa",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet terrible service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "Hashtag loving this weather post to twitter",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 36,
+          "end": 43,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "send a tweet to apple that their batteries drain too fast",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 16,
+          "end": 21,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "complain to mcdonalds twitter about my burger",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "mcdonalds",
+          "entity": "business_name"
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

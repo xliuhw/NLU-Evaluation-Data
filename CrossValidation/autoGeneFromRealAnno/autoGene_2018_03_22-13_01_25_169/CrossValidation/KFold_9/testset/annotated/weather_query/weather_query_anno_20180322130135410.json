@@ -1,0 +1,283 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "is it going to rain on monday",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 19,
+          "value": "rain",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 23,
+          "end": 29,
+          "value": "monday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i need to take an umbrella today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "umbrella",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "will it be nice at the beach on friday",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "nice",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 23,
+          "end": 28,
+          "value": "beach",
+          "entity": "place_name"
+        },
+        {
+          "start": 32,
+          "end": 38,
+          "value": "friday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what was the weather for the week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 33,
+          "value": "week",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "whats the weather now",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "tell me the weather for this week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 33,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please show me the local weather",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "how was the weather this week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is there any rains predicted for bangalore today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "rains",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 33,
+          "end": 42,
+          "value": "bangalore",
+          "entity": "place_name"
+        },
+        {
+          "start": 43,
+          "end": 48,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "tell me about the current weather",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "tell me the temperature in pheonix",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 23,
+          "value": "temperature",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 27,
+          "end": 34,
+          "value": "pheonix",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i want the complete weather details of seventh march",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 39,
+          "end": 52,
+          "value": "seventh march",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how cold is today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "cold",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 12,
+          "end": 17,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i need a light or heavy jacket today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 33,
+          "value": "light or heavy jacket",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 34,
+          "end": 39,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "should i take my raincoat with me now",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "raincoat",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "should i bring an umbrella today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please confirm the weather for the thirteenth of this month",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 35,
+          "end": 45,
+          "value": "thirteenth",
+          "entity": "date"
+        },
+        {
+          "start": 49,
+          "end": 59,
+          "value": "this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what will be the highest temperature in coming week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 36,
+          "value": "temperature",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 40,
+          "end": 51,
+          "value": "coming week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what will the weather be like in austin on march sixteenth",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 39,
+          "value": "austin",
+          "entity": "place_name"
+        },
+        {
+          "start": 43,
+          "end": 58,
+          "value": "march sixteenth",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

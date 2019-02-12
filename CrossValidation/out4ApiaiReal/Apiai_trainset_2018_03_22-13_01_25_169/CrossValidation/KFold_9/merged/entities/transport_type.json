@@ -1,0 +1,39 @@
+{
+  "id": "221b5333-bd9c-4dcb-b660-6d3c29981745",
+  "name": "transport_type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "train",
+      "synonyms": [
+        "train"
+      ]
+    },
+    {
+      "value": "bus",
+      "synonyms": [
+        "bus"
+      ]
+    },
+    {
+      "value": "trains",
+      "synonyms": [
+        "trains"
+      ]
+    },
+    {
+      "value": "walk",
+      "synonyms": [
+        "walk"
+      ]
+    },
+    {
+      "value": "driving",
+      "synonyms": [
+        "driving"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

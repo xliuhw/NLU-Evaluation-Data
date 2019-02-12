@@ -1,0 +1,195 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "turn on spotify shuffle",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "spotify",
+          "entity": "app_name"
+        },
+        {
+          "start": 16,
+          "end": 23,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "turn on shuffle",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "stop repeating this song",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 14,
+          "value": "stop repeating",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "move to the next song in the list",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "move",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "repeat song number ten from main list",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        },
+        {
+          "start": 28,
+          "end": 37,
+          "value": "main list",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "olly shuffle playlist",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "olly skip two songs",
+      "intent": "music_settings",
+      "entities": []
+    },
+    {
+      "text": "repeat jazz",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 11,
+          "value": "jazz",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "set track twenty eight in music player on repeat",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "track",
+          "entity": "media_type"
+        },
+        {
+          "start": 42,
+          "end": 48,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "repeat song",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "repeat music",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 12,
+          "value": "music",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "please repeat the last song",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 7,
+          "end": 13,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "repeat album",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "repeat the music",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    }
+  ]
+}

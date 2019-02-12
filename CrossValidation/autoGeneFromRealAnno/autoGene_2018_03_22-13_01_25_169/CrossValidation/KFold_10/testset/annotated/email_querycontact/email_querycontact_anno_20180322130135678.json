@@ -1,0 +1,381 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "tell me john's phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "john",
+          "entity": "person"
+        },
+        {
+          "start": 15,
+          "end": 27,
+          "value": "phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "list phone and email id of robert",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "phone",
+          "entity": "personal_info"
+        },
+        {
+          "start": 15,
+          "end": 23,
+          "value": "email id",
+          "entity": "personal_info"
+        },
+        {
+          "start": 27,
+          "end": 33,
+          "value": "robert",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "where does joe joe live",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "joe joe",
+          "entity": "person"
+        },
+        {
+          "start": 19,
+          "end": 23,
+          "value": "live",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "which contact haven't i called in twelve months",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 34,
+          "end": 47,
+          "value": "twelve months",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "what is the email address for tessa",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 12,
+          "end": 25,
+          "value": "email address",
+          "entity": "personal_info"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "tessa",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is bob stevens phone number it is in my contacts",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 19,
+          "value": "bob stevens",
+          "entity": "person"
+        },
+        {
+          "start": 20,
+          "end": 32,
+          "value": "phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "how do i contact charles",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "charles",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "check mom's number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 6,
+          "end": 9,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "can you give me the newest phone number for bobby mcgee",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 27,
+          "end": 39,
+          "value": "phone number",
+          "entity": "personal_info"
+        },
+        {
+          "start": 44,
+          "end": 55,
+          "value": "bobby mcgee",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "give me charles telephone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "charles",
+          "entity": "person"
+        },
+        {
+          "start": 16,
+          "end": 32,
+          "value": "telephone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "rahul contact",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "rahul",
+          "entity": "person"
+        },
+        {
+          "start": 6,
+          "end": 13,
+          "value": "contact",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "what is charles's email",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "charles",
+          "entity": "person"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "value": "email",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "did sara tried to call me",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "sara",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is the home phone number for sarah",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 12,
+          "end": 29,
+          "value": "home phone number",
+          "entity": "personal_info"
+        },
+        {
+          "start": 34,
+          "end": 39,
+          "value": "sarah",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "where does fred work",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "fred",
+          "entity": "person"
+        },
+        {
+          "start": 16,
+          "end": 20,
+          "value": "work",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "display address of john",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "address",
+          "entity": "personal_info"
+        },
+        {
+          "start": 19,
+          "end": 23,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "julie's information",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "julie",
+          "entity": "person"
+        },
+        {
+          "start": 8,
+          "end": 19,
+          "value": "information",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "look up in contacts",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "is it joes birthday soon",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 6,
+          "end": 10,
+          "value": "joes",
+          "entity": "person"
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "is there a contact named allen in my list",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "named",
+          "entity": "personal_info"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "value": "allen",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "call vikki",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "vikki",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is mom's email address",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 11,
+          "value": "mom",
+          "entity": "relation"
+        },
+        {
+          "start": 14,
+          "end": 27,
+          "value": "email address",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "do i have any other contact phone number for alison",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 28,
+          "end": 40,
+          "value": "phone number",
+          "entity": "personal_info"
+        },
+        {
+          "start": 45,
+          "end": 51,
+          "value": "alison",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

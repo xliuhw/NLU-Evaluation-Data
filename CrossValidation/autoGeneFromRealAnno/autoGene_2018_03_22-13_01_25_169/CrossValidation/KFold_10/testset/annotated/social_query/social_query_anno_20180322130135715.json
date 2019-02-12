@@ -1,0 +1,280 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "let me know what maria has put on her facebook over the weekend",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "maria",
+          "entity": "person"
+        },
+        {
+          "start": 38,
+          "end": 46,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 56,
+          "end": 63,
+          "value": "weekend",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "what's the latest in my social media",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "myspace",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "myspace",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "did anybody post on facebook today",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 28,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "hi what is the hot topic in facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 36,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "please let me know what's happening to my social media",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "my facebook update in every three hour should be available",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 11,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 22,
+          "end": 38,
+          "value": "every three hour",
+          "entity": "general_frequency"
+        }
+      ]
+    },
+    {
+      "text": "what's new on social media",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "new friends request details",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "is trump tweeting today",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 8,
+          "value": "trump",
+          "entity": "person"
+        },
+        {
+          "start": 9,
+          "end": 17,
+          "value": "tweeting",
+          "entity": "media_type"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's going on on fb",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 21,
+          "value": "fb",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "i heard ale just got married can you please show me the wedding pictures on their instagram",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 11,
+          "value": "ale",
+          "entity": "person"
+        },
+        {
+          "start": 82,
+          "end": 91,
+          "value": "instagram",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what's new in facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 22,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "live show reminders",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "what did jeff post on the yard sale page",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "jeff",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what's happening in my social media",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "did tracy update her facebook status today",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "tracy",
+          "entity": "person"
+        },
+        {
+          "start": 21,
+          "end": 29,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 37,
+          "end": 42,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "has derek logged into facebook today",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "derek",
+          "entity": "person"
+        },
+        {
+          "start": 22,
+          "end": 30,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 31,
+          "end": 36,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "show me a list of places where my relatives have been based on their photos",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 43,
+          "value": "relatives",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "check instagram",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 6,
+          "end": 15,
+          "value": "instagram",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "hi what kind of pictures you uploaded in pinterest",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 41,
+          "end": 50,
+          "value": "pinterest",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

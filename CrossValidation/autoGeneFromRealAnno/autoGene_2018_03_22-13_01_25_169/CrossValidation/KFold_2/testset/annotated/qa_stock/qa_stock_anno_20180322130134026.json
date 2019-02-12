@@ -1,0 +1,234 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "is chase doing good",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "please tell me news related to the stock market",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 35,
+          "end": 47,
+          "value": "stock market",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "how are the top ten stocks at the moment",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "current price of coca cola stock",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 17,
+          "end": 26,
+          "value": "coca cola",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "list the current price of microsoft shares",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 26,
+          "end": 35,
+          "value": "microsoft",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "current price of google please",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 17,
+          "end": 23,
+          "value": "google",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how expensive is google stock",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 17,
+          "end": 23,
+          "value": "google",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the opening stock price of infosys technologies today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 35,
+          "end": 55,
+          "value": "infosys technologies",
+          "entity": "business_name"
+        },
+        {
+          "start": 56,
+          "end": 61,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "which stock markets have lowered in the past three hours",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "what is the sensex and nifty points for today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "sensex",
+          "entity": "business_name"
+        },
+        {
+          "start": 40,
+          "end": 45,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "show me share price of facebook",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 23,
+          "end": 31,
+          "value": "facebook",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the highest microsoft stock price today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "microsoft",
+          "entity": "business_name"
+        },
+        {
+          "start": 42,
+          "end": 47,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is a stock price of tata",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 25,
+          "end": 29,
+          "value": "tata",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "have stocks gone up or down today for walmart",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 38,
+          "end": 45,
+          "value": "walmart",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the google stock at",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "google",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "stock exchange rates",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "mention the stock price of hdfc",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 27,
+          "end": 31,
+          "value": "hdfc",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the closing price of apple today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 29,
+          "end": 34,
+          "value": "apple",
+          "entity": "business_name"
+        },
+        {
+          "start": 35,
+          "end": 40,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how many shares of apple can i get for",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

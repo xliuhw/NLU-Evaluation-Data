@@ -1,0 +1,155 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is traffic like right now",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what amount of traffic in this road",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how is the traffic from home to work",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 24,
+          "end": 28,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how is the traffic in mg road",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "mg road",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is the traffic free in some particular road",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "are there any traffic issues",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "current traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "are there any construction areas on harvard",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 36,
+          "end": 43,
+          "value": "harvard",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me the current traffic condition of my location",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "can you tell me about the traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how is traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "is there a traffic jam on my route",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what is the average speed on main highway",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 29,
+          "end": 41,
+          "value": "main highway",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how long untill i get home",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 22,
+          "end": 26,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the idea of current traffic condition",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what is the traffic like this morning",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 30,
+          "end": 37,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "give details about the current traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "can i pass the bypass road at current traffic",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 15,
+          "end": 26,
+          "value": "bypass road",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the traffic condition from here to home",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 43,
+          "end": 47,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

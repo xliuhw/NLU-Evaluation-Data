@@ -1,0 +1,255 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "is yemen closer to japan or india",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 3,
+          "end": 8,
+          "value": "yemen",
+          "entity": "place_name"
+        },
+        {
+          "start": 19,
+          "end": 24,
+          "value": "japan",
+          "entity": "place_name"
+        },
+        {
+          "start": 28,
+          "end": 33,
+          "value": "india",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "why did bob dylan earn a nobel peace prize",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 8,
+          "end": 17,
+          "value": "bob dylan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how old is betty white",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 22,
+          "value": "betty white",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "is adele going to go on tour",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 3,
+          "end": 8,
+          "value": "adele",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "actually what is the life style of sahara desert",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 35,
+          "end": 48,
+          "value": "sahara desert",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what color is the sky",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "how far is france from miami",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 17,
+          "value": "france",
+          "entity": "place_name"
+        },
+        {
+          "start": 23,
+          "end": 28,
+          "value": "miami",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the financial capital of canada",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 33,
+          "end": 39,
+          "value": "canada",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how far is parana river",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 23,
+          "value": "parana river",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how far does my dollar go in japan",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "what is the birthday of hemingway",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 24,
+          "end": 33,
+          "value": "hemingway",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "when's mark lanegan's next album out",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 7,
+          "end": 19,
+          "value": "mark lanegan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what's bob scrote's net worth",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 7,
+          "end": 17,
+          "value": "bob scrote",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what movies is kevin spacey in",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 15,
+          "end": 27,
+          "value": "kevin spacey",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how smooth is marble floor",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "how many cups in a quart",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "tell me why relationships are so hard",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "when is the next lakers game",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "what size is a sperm whale",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "when was einstein's birthday",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 9,
+          "end": 17,
+          "value": "einstein",
+          "entity": "person"
+        },
+        {
+          "start": 20,
+          "end": 28,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "how big is the grand canyon",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 27,
+          "value": "the grand canyon",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when was justin bieber born",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 9,
+          "end": 22,
+          "value": "justin bieber",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is the temperature in indianapolis indiana",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 27,
+          "end": 47,
+          "value": "indianapolis indiana",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

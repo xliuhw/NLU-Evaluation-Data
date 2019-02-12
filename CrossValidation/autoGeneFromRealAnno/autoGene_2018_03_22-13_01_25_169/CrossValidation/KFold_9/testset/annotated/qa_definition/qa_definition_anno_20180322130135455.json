@@ -1,0 +1,197 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "object identifier",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "description of iphone seven",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 15,
+          "end": 27,
+          "value": "iphone seven",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is the definition of this",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "what does happy mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "happy",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does a beech tree look like",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 12,
+          "end": 22,
+          "value": "beech tree",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "can you define this word",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "how does merriam webster define ultra",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 32,
+          "end": 37,
+          "value": "ultra",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "describe a tomatillo",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 11,
+          "end": 20,
+          "value": "tomatillo",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "give description of statue of liberty",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 20,
+          "end": 37,
+          "value": "statue of liberty",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "give me the definition of formidable",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 26,
+          "end": 36,
+          "value": "formidable",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "blanket definition",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "blanket",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "tell me about rock",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "rock",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "search this object's definition",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 18,
+          "value": "this object",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "google the word",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "define alarm",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "alarm",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "look up what this word means",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "what is the nuclear triad",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 12,
+          "end": 25,
+          "value": "nuclear triad",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "describe texture",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "texture",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does pro bono mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "pro bono",
+          "entity": "definition_word"
+        }
+      ]
+    }
+  ]
+}

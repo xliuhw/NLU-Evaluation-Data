@@ -1,0 +1,214 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please start the vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 17,
+          "end": 31,
+          "value": "vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "can you set the vacuum to start cleaning at ten am time",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "vacuum",
+          "entity": "device_type"
+        },
+        {
+          "start": 44,
+          "end": 50,
+          "value": "ten am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "will you have the vacuum start cleaning",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 18,
+          "end": 24,
+          "value": "vacuum",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "i need you to turn on the vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 26,
+          "end": 40,
+          "value": "vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "clean the floor",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "floor",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "vacuum living room",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "vacuum",
+          "entity": "device_type"
+        },
+        {
+          "start": 7,
+          "end": 18,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "please start the vacuum",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 17,
+          "end": 23,
+          "value": "vacuum",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "clean my house",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "house",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "vacuum the dining room",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 11,
+          "end": 22,
+          "value": "dining room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "hey start vacuum cleaner robot",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 10,
+          "end": 30,
+          "value": "vacuum cleaner robot",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on the vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 12,
+          "end": 26,
+          "value": "vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "hoover the hallway",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "hallway",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "start house cleaning",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 6,
+          "end": 20,
+          "value": "house cleaning",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "hey go from off to on my vacuum in five minutes",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 25,
+          "end": 31,
+          "value": "vacuum",
+          "entity": "device_type"
+        },
+        {
+          "start": 35,
+          "end": 47,
+          "value": "five minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please start vacuum",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 13,
+          "end": 19,
+          "value": "vacuum",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "on vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 3,
+          "end": 17,
+          "value": "vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

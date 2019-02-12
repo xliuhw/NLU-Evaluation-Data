@@ -1,0 +1,94 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "enable shuffle",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "please put radio in shuffle",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "radio",
+          "entity": "media_type"
+        },
+        {
+          "start": 20,
+          "end": 27,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "please check my playlists for jazz music",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 30,
+          "end": 34,
+          "value": "jazz",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "replay the required of the musics",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "replay",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "select shuffle all",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "shuffle the current album of songs",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "please add this song to work out playlist",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 24,
+          "end": 41,
+          "value": "work out playlist",
+          "entity": "playlist_name"
+        }
+      ]
+    }
+  ]
+}

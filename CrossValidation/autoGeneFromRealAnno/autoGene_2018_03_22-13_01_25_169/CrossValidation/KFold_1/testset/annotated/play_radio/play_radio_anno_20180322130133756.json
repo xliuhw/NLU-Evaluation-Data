@@ -1,0 +1,217 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play radia",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "radia",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play nine hundred and seventy one",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 33,
+          "value": "nine hundred and seventy one",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play the radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "turn on the local radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "local",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "please turn on the sean hannity show on am",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 40,
+          "end": 42,
+          "value": "am",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play national public radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 26,
+          "value": "national public radio",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play one thousand and thirty seven fm",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 37,
+          "value": "one thousand and thirty seven fm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "show me upcoming programmes on one hundred and five point one",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 31,
+          "end": 61,
+          "value": "one hundred and five point one",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "load sirius and play a rock and roll show",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 23,
+          "end": 41,
+          "value": "rock and roll show",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "tune into the nearest english fm station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 14,
+          "end": 40,
+          "value": "nearest english fm station",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "please play some songs for kids",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 27,
+          "end": 31,
+          "value": "kids",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "find joel osteen's broadcast on sirius",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 32,
+          "end": 38,
+          "value": "sirius",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "please go to the local sports talk show on the radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 17,
+          "end": 39,
+          "value": "local sports talk show",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play alex jones in radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "alex jones",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "play radio javan",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "javan",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "press play on the radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play my rock station on pandora",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "rock",
+          "entity": "music_genre"
+        },
+        {
+          "start": 24,
+          "end": 31,
+          "value": "pandora",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "play music radio for me",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play me a radio channel for trance music",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 28,
+          "end": 40,
+          "value": "trance music",
+          "entity": "radio_name"
+        }
+      ]
+    }
+  ]
+}

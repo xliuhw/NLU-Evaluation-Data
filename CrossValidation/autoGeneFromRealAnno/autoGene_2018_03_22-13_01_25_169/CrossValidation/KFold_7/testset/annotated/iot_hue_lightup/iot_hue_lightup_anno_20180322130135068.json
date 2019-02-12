@@ -1,0 +1,95 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "more bright",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "brighten the light of hall",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 22,
+          "end": 26,
+          "value": "hall",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "please turn the lights brighter",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "please raise the light i am not comfortable at this",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "increase light intensity",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "brighten lights in living room",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 19,
+          "end": 30,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "can you turn the lights up",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "brighter",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "brighten up the room",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "can we turn up the lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "please brighten the room",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 20,
+          "end": 24,
+          "value": "room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "brighten lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "please turn up the lights in this room",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "i want more light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    }
+  ]
+}

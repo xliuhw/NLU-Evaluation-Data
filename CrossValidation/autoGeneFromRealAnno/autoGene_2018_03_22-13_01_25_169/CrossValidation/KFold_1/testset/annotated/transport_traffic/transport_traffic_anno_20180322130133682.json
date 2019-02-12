@@ -1,0 +1,176 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "is it possible to drive now in ohio",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 31,
+          "end": 35,
+          "value": "ohio",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how is traffic in city",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what is the current traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "is there any traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "are there are any delays on my commute",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what the traffic condition outside my office",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 38,
+          "end": 44,
+          "value": "office",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "in jodhpur traffic level is very low",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 3,
+          "end": 10,
+          "value": "jodhpur",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "outside traffic status please",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "show me the current traffic nearby me",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 28,
+          "end": 37,
+          "value": "nearby me",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "give information about the traffic near my location please",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "just how bad is traffic on my commute",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how much traffic does atlanta georgia usually have",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 22,
+          "end": 37,
+          "value": "atlanta georgia",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the traffic like right now on telegraph",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 38,
+          "end": 47,
+          "value": "telegraph",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the traffic this morning",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "accident or normal traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how long will it take me to get to park avenue considering current traffic",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 35,
+          "end": 46,
+          "value": "park avenue",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what are the traffic conditions on the one hundred and one",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 39,
+          "end": 58,
+          "value": "one hundred and one",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how's the traffic downtown",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 18,
+          "end": 26,
+          "value": "downtown",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how is traffic on the highway",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "highway",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

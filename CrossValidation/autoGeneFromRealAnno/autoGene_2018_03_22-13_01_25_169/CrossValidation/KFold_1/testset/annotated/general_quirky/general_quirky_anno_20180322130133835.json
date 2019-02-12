@@ -1,0 +1,126 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "today i had a lunch with my longtime sweetheart play me a nice song to the mood",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what's on tv",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "is the data prefers any problems in objects",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "your salary",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "overall day",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "anything i need to know",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "is mile marker sixty five where the hanging tree is located",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "tell me what happens when we die",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what is your country",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "do i need to spare washing my car today",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 34,
+          "end": 39,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "this brings some problems to us",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "can you explain me the problems when the syria becomes more stronger than america",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 41,
+          "end": 46,
+          "value": "syria",
+          "entity": "place_name"
+        },
+        {
+          "start": 74,
+          "end": 81,
+          "value": "america",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "you are chatbot",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "how high is the quality of this stone",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "can you please tell me who are you",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "where did he was yesterday",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 17,
+          "end": 26,
+          "value": "yesterday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "have you come across any new recipes",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "how did your day go",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "give me the product review from gamespot about the nintendo switch",
+      "intent": "general_quirky",
+      "entities": []
+    }
+  ]
+}

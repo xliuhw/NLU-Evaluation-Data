@@ -1,0 +1,193 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "list local ongoing exhibitions",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 5,
+          "end": 30,
+          "value": "local ongoing exhibitions",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "local show",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what movie can i watch tonight on the theater here in boston",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "movie",
+          "entity": "business_type"
+        },
+        {
+          "start": 23,
+          "end": 30,
+          "value": "tonight",
+          "entity": "timeofday"
+        },
+        {
+          "start": 54,
+          "end": 60,
+          "value": "boston",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "list events nearby new york",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is going on in me area today",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please show me a list of entertainment options in my area",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what happens on the fourth of july",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 20,
+          "end": 34,
+          "value": "fourth of july",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is worth doing around here",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "things to do in my area",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what bands are playing in town this weekend",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 26,
+          "end": 30,
+          "value": "town",
+          "entity": "place_name"
+        },
+        {
+          "start": 31,
+          "end": 43,
+          "value": "this weekend",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "where is the event venue",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what events are going on around my place",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what kind of free activities can i do locally this week",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 13,
+          "end": 28,
+          "value": "free activities",
+          "entity": "event_name"
+        },
+        {
+          "start": 46,
+          "end": 55,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "list events in ny",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 15,
+          "end": 17,
+          "value": "ny",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is going on around me",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what plays are showing at the theatre",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 30,
+          "end": 37,
+          "value": "theatre",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what should i do this weekend",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 17,
+          "end": 29,
+          "value": "this weekend",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "tell me all local events",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "any activity in the area",
+      "intent": "recommendation_events",
+      "entities": []
+    }
+  ]
+}

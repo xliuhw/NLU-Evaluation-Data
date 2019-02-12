@@ -1,0 +1,314 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "do i have to bring umbrella for tonight party",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "umbrella",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "should i wear gloves tonight",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 20,
+          "value": "gloves",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 21,
+          "end": 28,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "will it rain in the noon",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "rain",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 20,
+          "end": 24,
+          "value": "noon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "how will be the weather at night",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "night",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "will the temperature be higher than forty tomorrow",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 20,
+          "value": "temperature",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 24,
+          "end": 41,
+          "value": "higher than forty",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 42,
+          "end": 50,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "ask for the weather today morning",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "is summer going on",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 9,
+          "value": "summer",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "do you think i can wear sandals or should i wear sneakers tonight at seven pm",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "sandals",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 49,
+          "end": 57,
+          "value": "sneakers",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 58,
+          "end": 65,
+          "value": "tonight",
+          "entity": "timeofday"
+        },
+        {
+          "start": 69,
+          "end": 77,
+          "value": "seven pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "show me the weather forecast for the next three three days",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 58,
+          "value": "the next three three days",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "are you sure its going to rain tomorrow",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 30,
+          "value": "rain",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 31,
+          "end": 39,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "will i need my snow boots this afternoon",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 25,
+          "value": "snow boots",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 26,
+          "end": 40,
+          "value": "this afternoon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "do i need to wear sunscreen today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 27,
+          "value": "sunscreen",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 28,
+          "end": 33,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the temperature today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 23,
+          "value": "temperature",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 24,
+          "end": 29,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the weather next week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the climate here today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "let me know when the next cold front is expected",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "i am gonna need an umbrella today after sunset",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "umbrella",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 28,
+          "end": 33,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 34,
+          "end": 46,
+          "value": "after sunset",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "google what is the temperature outside",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "are there any tornado warnings today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 21,
+          "value": "tornado",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 31,
+          "end": 36,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

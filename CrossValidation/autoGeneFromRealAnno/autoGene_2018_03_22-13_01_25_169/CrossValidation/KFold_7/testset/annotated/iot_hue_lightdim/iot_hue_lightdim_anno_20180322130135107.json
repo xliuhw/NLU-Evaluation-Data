@@ -1,0 +1,91 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "turn the lights down",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower the lights in the room",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 24,
+          "end": 28,
+          "value": "room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "lights dim",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "it is time to lower the kitchen lights",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "kitchen",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "dim the lights to level two",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "adjust the lights to a lower setting please",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "change the lights to dim",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "give me some dim light",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower the light level in my house",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "darken the room a bit",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "room",
+          "entity": "house_place"
+        },
+        {
+          "start": 16,
+          "end": 21,
+          "value": "a bit",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "is it ok to lower the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "can we please lower the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    }
+  ]
+}

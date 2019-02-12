@@ -1,0 +1,80 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "turn on wemo plug in game room",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 8,
+          "end": 17,
+          "value": "wemo plug",
+          "entity": "device_type"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "value": "game room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "i'd like you to turn turn on the tv",
+      "intent": "iot_wemo_on",
+      "entities": []
+    },
+    {
+      "text": "turn wemo on",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "wemo",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on the plug socket one",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 12,
+          "end": 27,
+          "value": "plug socket one",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "switch on the wemo plug",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 14,
+          "end": 23,
+          "value": "wemo plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on plug",
+      "intent": "iot_wemo_on",
+      "entities": []
+    },
+    {
+      "text": "switch the smart plug socket",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 11,
+          "end": 21,
+          "value": "smart plug",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

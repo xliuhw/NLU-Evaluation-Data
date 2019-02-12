@@ -1,0 +1,167 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please alert me when john emails me",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 25,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what are my new contact emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "check my email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "please archive my read messages",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "do i have new emails from john",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 30,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "can you please read the my mom sent this morning at ten am",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 30,
+          "value": "mom",
+          "entity": "relation"
+        },
+        {
+          "start": 41,
+          "end": 48,
+          "value": "morning",
+          "entity": "timeofday"
+        },
+        {
+          "start": 52,
+          "end": 58,
+          "value": "ten am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "show unread new emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "is there any new email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "Has john sent me any new emails",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "has tom emailed me about ammunition",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 7,
+          "value": "tom",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "can you see if john has replied to my email yet",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 19,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is my recent email activity",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "can you tell me my recent emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "check someone's recent emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "what is my email from steve about",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "steve",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how many new emails since i last checked",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "update me on my emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "please tell me how many emails i have",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "did dan send me any emails",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 7,
+          "value": "dan",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

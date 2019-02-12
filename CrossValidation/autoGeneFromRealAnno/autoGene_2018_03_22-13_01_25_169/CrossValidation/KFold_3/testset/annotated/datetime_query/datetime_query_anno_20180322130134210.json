@@ -1,0 +1,229 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what time is it in this city",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 28,
+          "value": "this city",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me the current time in dallas texas",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 48,
+          "value": "dallas texas",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "march tenth lands on what day of the week",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 11,
+          "value": "march tenth",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what time of day is it in london",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 32,
+          "value": "london",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can i get the time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "how time is it",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "when is easter in the year two thousand and eighteen",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "easter",
+          "entity": "event_name"
+        },
+        {
+          "start": 27,
+          "end": 52,
+          "value": "two thousand and eighteen",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what day of the week does the fifteenth of march fall on",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 48,
+          "value": "fifteenth of march",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's the time for neighboring city",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 36,
+          "value": "neighboring city",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "time and date of today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what day does my birthday fall on next year",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 25,
+          "value": "my birthday",
+          "entity": "event_name"
+        },
+        {
+          "start": 34,
+          "end": 43,
+          "value": "next year",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what does the clock say",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what day is christmas",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "christmas",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "let me know today's date in american format",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the time in hyderabad",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "hyderabad",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the time in bangalore",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "bangalore",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the time in dubai",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "dubai",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is it noon in paris",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 6,
+          "end": 10,
+          "value": "noon",
+          "entity": "timeofday"
+        },
+        {
+          "start": 14,
+          "end": 19,
+          "value": "paris",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "whats the date today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is the funniest joke ever",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "funniest",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "what's the funniest joke you know",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "funniest",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "say some jokes",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "i need a funny joke to tell sam",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "funny",
+          "entity": "joke_type"
+        },
+        {
+          "start": 28,
+          "end": 31,
+          "value": "sam",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please tell me a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "tell joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "tell me a joke about a man",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 23,
+          "end": 26,
+          "value": "man",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "hey olly make me laugh with a good joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 30,
+          "end": 34,
+          "value": "good",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me a good joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "good",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "cheer me up",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "tell me a joke about aliens",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 15,
+          "end": 27,
+          "value": "about aliens",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "hey tell me a knock knock joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 14,
+          "end": 25,
+          "value": "knock knock",
+          "entity": "joke_type"
+        }
+      ]
+    }
+  ]
+}

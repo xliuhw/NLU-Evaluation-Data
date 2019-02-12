@@ -1,0 +1,398 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "alert me at the time of the event",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "please add the meeting with ms boland on wednesday eight hundred am to my calendar",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 28,
+          "end": 37,
+          "value": "ms boland",
+          "entity": "person"
+        },
+        {
+          "start": 41,
+          "end": 50,
+          "value": "wednesday",
+          "entity": "date"
+        },
+        {
+          "start": 51,
+          "end": 67,
+          "value": "eight hundred am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set a neighbor party for next week",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 6,
+          "end": 20,
+          "value": "neighbor party",
+          "entity": "event_name"
+        },
+        {
+          "start": 25,
+          "end": 34,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please add dinner with mary to my calendar on saturday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 11,
+          "end": 27,
+          "value": "dinner with mary",
+          "entity": "event_name"
+        },
+        {
+          "start": 46,
+          "end": 54,
+          "value": "saturday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "don't let me forget tomorrow's meeting with sheila",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 20,
+          "end": 28,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 31,
+          "end": 38,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 44,
+          "end": 50,
+          "value": "sheila",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please set a monthly reminder for paying rent",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 20,
+          "value": "monthly",
+          "entity": "general_frequency"
+        },
+        {
+          "start": 34,
+          "end": 45,
+          "value": "paying rent",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "add lunch appointment with lisa to january second at twelve thirty pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 4,
+          "end": 21,
+          "value": "lunch appointment",
+          "entity": "event_name"
+        },
+        {
+          "start": 27,
+          "end": 31,
+          "value": "lisa",
+          "entity": "person"
+        },
+        {
+          "start": 35,
+          "end": 49,
+          "value": "january second",
+          "entity": "date"
+        },
+        {
+          "start": 53,
+          "end": 69,
+          "value": "twelve thirty pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "make a calendar entry for next saturday at ten am please",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 31,
+          "end": 39,
+          "value": "saturday",
+          "entity": "date"
+        },
+        {
+          "start": 43,
+          "end": 49,
+          "value": "ten am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remind me to pick up john from the airport tonight at eight",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 42,
+          "value": "pick up john from the airport",
+          "entity": "event_name"
+        },
+        {
+          "start": 43,
+          "end": 50,
+          "value": "tonight",
+          "entity": "timeofday"
+        },
+        {
+          "start": 54,
+          "end": 59,
+          "value": "eight",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remind me about calendar",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "add to calendar an medical appointment for the first day of the next five months",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 38,
+          "value": "medical appointment",
+          "entity": "event_name"
+        },
+        {
+          "start": 47,
+          "end": 80,
+          "value": "first day of the next five months",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remind me about my biology test at fsu on friday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 31,
+          "value": "biology test",
+          "entity": "event_name"
+        },
+        {
+          "start": 35,
+          "end": 38,
+          "value": "fsu",
+          "entity": "place_name"
+        },
+        {
+          "start": 42,
+          "end": 48,
+          "value": "friday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "add meet with dave at subway on weber on four april at five pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "dave",
+          "entity": "person"
+        },
+        {
+          "start": 22,
+          "end": 28,
+          "value": "subway",
+          "entity": "business_name"
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "value": "weber",
+          "entity": "place_name"
+        },
+        {
+          "start": 41,
+          "end": 51,
+          "value": "four april",
+          "entity": "date"
+        },
+        {
+          "start": 55,
+          "end": 62,
+          "value": "five pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set a reminder for fifteen minutes to change laundry loads",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 34,
+          "value": "fifteen minutes",
+          "entity": "time"
+        },
+        {
+          "start": 38,
+          "end": 58,
+          "value": "change laundry loads",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "can you remind me about the gym class in two hours",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 28,
+          "end": 37,
+          "value": "gym class",
+          "entity": "event_name"
+        },
+        {
+          "start": 38,
+          "end": 50,
+          "value": "in two hours",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set a meeting with tom tomorrow at seven pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 19,
+          "end": 22,
+          "value": "tom",
+          "entity": "person"
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "value": "seven pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "can you set a reminder for wednesday at one pm for my meeting",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 27,
+          "end": 36,
+          "value": "wednesday",
+          "entity": "date"
+        },
+        {
+          "start": 40,
+          "end": 46,
+          "value": "one pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remind me to meet joe for lunch tomorrow",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 18,
+          "end": 21,
+          "value": "joe",
+          "entity": "person"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "value": "lunch",
+          "entity": "meal_type"
+        },
+        {
+          "start": 32,
+          "end": 40,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "write down meeting at seven pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 22,
+          "end": 30,
+          "value": "seven pm",
+          "entity": "time"
+        }
+      ]
+    }
+  ]
+}

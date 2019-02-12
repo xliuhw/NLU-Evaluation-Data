@@ -1,0 +1,146 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i bought pre season baseball tickets",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 9,
+          "end": 28,
+          "value": "pre season baseball",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me more about that concert",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "concert",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "did ashwin joined party yesterday",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 4,
+          "end": 10,
+          "value": "ashwin",
+          "entity": "person"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "value": "party",
+          "entity": "event_name"
+        },
+        {
+          "start": 24,
+          "end": 33,
+          "value": "yesterday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i would like my to write original romantic messages for my wife",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 59,
+          "end": 63,
+          "value": "wife",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "today wore me out",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is your mother language",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "the meaning of life",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "how does production and population affects us",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite color",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "drive the car and bring my friends over",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "your birth date",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "can you tell me how to measure my shoe size",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "please check this info on geographics for me",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "my day was so busy",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "life",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "could you manipulate roip for me",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "tell me your answer",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "my day was great",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "are you human",
+      "intent": "general_quirky",
+      "entities": []
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is the definition of a probiotic",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 28,
+          "end": 37,
+          "value": "probiotic",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "how would you describe a ball",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 25,
+          "end": 29,
+          "value": "ball",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "look up the definition to ambulance",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 26,
+          "end": 35,
+          "value": "ambulance",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "could you please tell me the meaning for the item laptop",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 50,
+          "end": 56,
+          "value": "laptop",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "siri what does obstacle mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "obstacle",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "how is a typhoon defined",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "typhoon",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "describe what a poltergeist is",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 16,
+          "end": 27,
+          "value": "poltergeist",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does obsessed mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "obsessed",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is a shoal",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "shoal",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "how would you describe the internet",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 27,
+          "end": 35,
+          "value": "internet",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "give me a description of iron fist on netflix",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 25,
+          "end": 34,
+          "value": "iron fist",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "tell me about it",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "what is piramid",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "piramid",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "how does the desk look",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 13,
+          "end": 17,
+          "value": "desk",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "describe the computer to me",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 13,
+          "end": 21,
+          "value": "computer",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "define love without invoking the term love",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "love",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "i would like to know the meaning of word",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 36,
+          "end": 40,
+          "value": "word",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what are the definitions of orange",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 28,
+          "end": 34,
+          "value": "orange",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does tacobell stand for",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "tacobell",
+          "entity": "definition_word"
+        }
+      ]
+    }
+  ]
+}

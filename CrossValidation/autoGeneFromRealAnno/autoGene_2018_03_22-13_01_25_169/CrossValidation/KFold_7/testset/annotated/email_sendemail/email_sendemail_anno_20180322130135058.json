@@ -1,0 +1,247 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "email co worker about work project",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 6,
+          "end": 15,
+          "value": "co worker",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "now i need to write an email to my colleague",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 35,
+          "end": 44,
+          "value": "colleague",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "reply to erins email by saying i will be on time",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "erins",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "my friend john has sent me a invitation card to his newly bought home say thanks to him in his mail id",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 3,
+          "end": 9,
+          "value": "friend",
+          "entity": "relation"
+        },
+        {
+          "start": 10,
+          "end": 14,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send email to nancy about tomorrow's work party details",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "nancy",
+          "entity": "person"
+        },
+        {
+          "start": 26,
+          "end": 34,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 37,
+          "end": 47,
+          "value": "work party",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "write an email recipient ray",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 25,
+          "end": 28,
+          "value": "ray",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send an email to my family wishing them a happy holiday",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "family",
+          "entity": "relation"
+        },
+        {
+          "start": 48,
+          "end": 55,
+          "value": "holiday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "forward the mail to new email address",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "hey i want to send an email to my friend",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 34,
+          "end": 40,
+          "value": "friend",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "send an email to my brother and say wedding anniversary",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "brother",
+          "entity": "relation"
+        },
+        {
+          "start": 36,
+          "end": 55,
+          "value": "wedding anniversary",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "tell sean i appreciate him reaching out to me",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "sean",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "write this message to the coworker group",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 26,
+          "end": 34,
+          "value": "coworker",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "respond to graham and let him know that i will be free tomorrow",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 11,
+          "end": 17,
+          "value": "graham",
+          "entity": "person"
+        },
+        {
+          "start": 55,
+          "end": 63,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "send an email to my boss and attach the presentation file with it apologize for being late",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 20,
+          "end": 24,
+          "value": "boss",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "lindafancy55@gmail dot com",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 0,
+          "end": 26,
+          "value": "lindafancy55@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "start email for address not in contacts",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send an email to emma",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "emma",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "answer the email",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "compose a mail for jack",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 19,
+          "end": 23,
+          "value": "jack",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play for me the game temple run",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 21,
+          "end": 31,
+          "value": "temple run",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to play solitare with you",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "solitare",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "can we play twenty questions",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 12,
+          "end": 28,
+          "value": "twenty questions",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "give me a company for playing football",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 30,
+          "end": 38,
+          "value": "football",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "my games to play in my phones",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "let's play",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "play tennis for me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "tennis",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "lets play poker",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "poker",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "anyone for tennis",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 17,
+          "value": "tennis",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play pong against me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "pong",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play solitaire",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "solitaire",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "we should play nfs at high speed",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 15,
+          "end": 18,
+          "value": "nfs",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "can we play a game of hangman",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "hangman",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "do you want to play monopoly with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 20,
+          "end": 28,
+          "value": "monopoly",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "bring up papa pear saga",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 9,
+          "end": 23,
+          "value": "papa pear saga",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play checkers with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 13,
+          "value": "checkers",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "fight me in street fighter",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 12,
+          "end": 26,
+          "value": "street fighter",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "paper scissors or stone",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 0,
+          "end": 23,
+          "value": "paper scissors or stone",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "start poker game with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "poker",
+          "entity": "game_name"
+        }
+      ]
+    }
+  ]
+}

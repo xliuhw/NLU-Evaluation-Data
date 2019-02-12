@@ -1,0 +1,130 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "if it is noon in virginia what time is it in california",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "noon",
+          "entity": "timeofday"
+        },
+        {
+          "start": 17,
+          "end": 25,
+          "value": "virginia",
+          "entity": "place_name"
+        },
+        {
+          "start": 45,
+          "end": 55,
+          "value": "california",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "switch to eastern time zone",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "eastern",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "please change time zone to india",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "india",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "change this time to ist",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 20,
+          "end": 23,
+          "value": "ist",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "please convert the time of here at nine pm to brasil time zone",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 35,
+          "end": 42,
+          "value": "nine pm",
+          "entity": "time"
+        },
+        {
+          "start": 46,
+          "end": 52,
+          "value": "brasil",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "it is nine here what time is it in california",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 6,
+          "end": 10,
+          "value": "nine",
+          "entity": "time"
+        },
+        {
+          "start": 35,
+          "end": 45,
+          "value": "california",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what the time difference from here to ottawa",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 38,
+          "end": 44,
+          "value": "ottawa",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the time difference between eastern time and pacific time",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 36,
+          "end": 43,
+          "value": "eastern",
+          "entity": "time_zone"
+        },
+        {
+          "start": 53,
+          "end": 65,
+          "value": "pacific time",
+          "entity": "time_zone"
+        }
+      ]
+    }
+  ]
+}

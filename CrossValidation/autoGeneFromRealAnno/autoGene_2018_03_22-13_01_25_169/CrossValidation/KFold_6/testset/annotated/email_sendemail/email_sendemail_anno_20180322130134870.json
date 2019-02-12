@@ -1,0 +1,244 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "send email how are you dad to dad",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 23,
+          "end": 26,
+          "value": "dad",
+          "entity": "relation"
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "value": "dad",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "please send email to pawel with reminder",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "pawel",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send an email to jesse",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "jesse",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "reply back to this email",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send email to marissa",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 21,
+          "value": "marissa",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "email alice to let her know we are on the way",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "alice",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "reply email to charlotte",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 15,
+          "end": 24,
+          "value": "charlotte",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "open a reply message",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "reply to the email received from mark",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 33,
+          "end": 37,
+          "value": "mark",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send response i will be there",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send a reply to robert for his email received today morning",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "robert",
+          "entity": "person"
+        },
+        {
+          "start": 46,
+          "end": 51,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 52,
+          "end": 59,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "send email to bill asking to reschedule",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send message via email",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send email to david davis email address",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 25,
+          "value": "david davis",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please send a voice mail to mr richard office about meting him on first of february twenty seventeen at five pm",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 28,
+          "end": 38,
+          "value": "mr richard",
+          "entity": "person"
+        },
+        {
+          "start": 52,
+          "end": 58,
+          "value": "meting",
+          "entity": "event_name"
+        },
+        {
+          "start": 66,
+          "end": 100,
+          "value": "first of february twenty seventeen",
+          "entity": "date"
+        },
+        {
+          "start": 104,
+          "end": 111,
+          "value": "five pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "inbox my family",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "inbox",
+          "entity": "email_folder"
+        },
+        {
+          "start": 9,
+          "end": 15,
+          "value": "family",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "prepare to send an outgoing reply message",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send mail to mom i am planning vacations with her next week",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 13,
+          "end": 16,
+          "value": "mom",
+          "entity": "relation"
+        },
+        {
+          "start": 50,
+          "end": 59,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "send an email to my wife about next week weather",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 20,
+          "end": 24,
+          "value": "wife",
+          "entity": "relation"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

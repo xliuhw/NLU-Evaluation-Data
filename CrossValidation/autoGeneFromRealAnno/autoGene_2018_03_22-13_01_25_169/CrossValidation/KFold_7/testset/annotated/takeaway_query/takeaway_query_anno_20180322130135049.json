@@ -1,0 +1,272 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "does fridays do takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "fridays",
+          "entity": "date"
+        },
+        {
+          "start": 16,
+          "end": 24,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does arby's do takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "arby",
+          "entity": "business_name"
+        },
+        {
+          "start": 15,
+          "end": 23,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does pf changs accept takeout orders",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "pf changs",
+          "entity": "business_name"
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "is there takeaway at donut junction",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 17,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 21,
+          "end": 35,
+          "value": "donut junction",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "any restaurant in the beautiful",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 14,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "will the restaurant deliver the order",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 19,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 20,
+          "end": 27,
+          "value": "deliver",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "find out if the restaurant does takeaway orders",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 26,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 32,
+          "end": 40,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "when is taco bell going to arrive",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 17,
+          "value": "taco bell",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "do you serve for home delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "can it takeaway from ammi biryani",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 21,
+          "end": 33,
+          "value": "ammi biryani",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "which restaurants offer take out food",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 6,
+          "end": 17,
+          "value": "restaurants",
+          "entity": "business_type"
+        },
+        {
+          "start": 24,
+          "end": 32,
+          "value": "take out",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the status on my latest order",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "tell me the soup of the day at panera bread restaurant",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 43,
+          "value": "panera bread",
+          "entity": "business_name"
+        },
+        {
+          "start": 44,
+          "end": 54,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "does that restaurant deliver",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 20,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "current status of take out order",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 26,
+          "value": "take out",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "when can i pick up my chinese food",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "chinese",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "take out available louies",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "louies",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "where is my food",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "is dinner ready yet",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 9,
+          "value": "dinner",
+          "entity": "meal_type"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "Please turn off shuffle setting",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "shazam this music",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "shazam",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "make a laundry setting for the volume at twenty",
+      "intent": "music_settings",
+      "entities": []
+    },
+    {
+      "text": "put the current song on repeat",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 24,
+          "end": 30,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "play only particular singer songs",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "songs",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "turn shuffle on music player on",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "shuffle",
+          "entity": "player_setting"
+        },
+        {
+          "start": 16,
+          "end": 28,
+          "value": "music player",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please proceed to the next available rock song",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "proceed",
+          "entity": "player_setting"
+        },
+        {
+          "start": 37,
+          "end": 46,
+          "value": "rock song",
+          "entity": "music_genre"
+        }
+      ]
+    }
+  ]
+}

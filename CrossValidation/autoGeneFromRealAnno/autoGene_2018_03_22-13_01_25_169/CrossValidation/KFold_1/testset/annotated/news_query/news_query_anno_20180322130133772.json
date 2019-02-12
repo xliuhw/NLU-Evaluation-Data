@@ -1,0 +1,229 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "add newscast time to daily schedule",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "what were the cities affected by the earthquake",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "head lines today from news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the seattle city council doing about homelessness",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 19,
+          "value": "seattle",
+          "entity": "place_name"
+        },
+        {
+          "start": 20,
+          "end": 57,
+          "value": "city council doing about homelessness",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "find me any news from so clean the last six hours",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "so clean",
+          "entity": "media_type"
+        },
+        {
+          "start": 35,
+          "end": 49,
+          "value": "last six hours",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "what is the latest headline news from this newsource",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 43,
+          "end": 52,
+          "value": "newsource",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "could you please find me the latest news from a source that i do not usually go to",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "please keep tabs on how the presidential debates are going",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 48,
+          "value": "presidential debates",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what's happening around the world",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "world",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to know everything that breaks about the dam breaking in california",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 64,
+          "end": 74,
+          "value": "california",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the latest news about obamacare",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 39,
+          "value": "obamacare",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "show news of migration",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 22,
+          "value": "migration",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "find new trump articles but not from fox news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "trump",
+          "entity": "news_topic"
+        },
+        {
+          "start": 37,
+          "end": 45,
+          "value": "fox news",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what's the latest news from xinhua",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 34,
+          "value": "xinhua",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "find me info on cars",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "cars",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "Show me news from cnn",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 21,
+          "value": "cnn",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the current state of brexit negotiations",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 48,
+          "value": "brexit negotiations",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "fast me the news of academy awards",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 34,
+          "value": "academy awards",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "i want the news about academy awards",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 36,
+          "value": "academy awards",
+          "entity": "news_topic"
+        }
+      ]
+    }
+  ]
+}

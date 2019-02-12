@@ -1,0 +1,222 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "show me my husbands facebook posts today",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "husbands",
+          "entity": "relation"
+        },
+        {
+          "start": 20,
+          "end": 28,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 35,
+          "end": 40,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please read my facebook feed",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "may i know what is trending in twitter",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 38,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what new posts are on my page",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "is everyone on my facebook list watching the game",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 26,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me what happened to my social media",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "i haven't checked my facebook yet are there any updates from my close friends",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me what's new",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "do i have any private messages on any social media",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 38,
+          "end": 50,
+          "value": "social media",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "any new facebook posts from amy",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 28,
+          "end": 31,
+          "value": "amy",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what are the big news stories on twitter",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 40,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what posts have i missed from my friends",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 40,
+          "value": "friends",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "check my social networks",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 24,
+          "value": "social networks",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "facebook info",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what does my facebook feed look like",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 21,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what going on",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "let me know if linda posts anything on my facebook today",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "linda",
+          "entity": "person"
+        },
+        {
+          "start": 42,
+          "end": 50,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 51,
+          "end": 56,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

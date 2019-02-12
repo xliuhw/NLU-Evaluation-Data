@@ -1,0 +1,292 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "taxi uber",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 5,
+          "end": 9,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "book a local cab",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 13,
+          "end": 16,
+          "value": "cab",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "can you book an uber for me",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "send a taxi to come pick me up from my location",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "call me a cab",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 10,
+          "end": 13,
+          "value": "cab",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "check in a taxi for booking",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book me a taxi for one pm",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 19,
+          "end": 25,
+          "value": "one pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "make a taxi booking in uber",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 23,
+          "end": 27,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "help me find transportation to the mall of america",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 35,
+          "end": 50,
+          "value": "mall of america",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "get me a uber",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "could you please book a cab for me in uber from la to ny today",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 24,
+          "end": 27,
+          "value": "cab",
+          "entity": "transport_type"
+        },
+        {
+          "start": 38,
+          "end": 42,
+          "value": "uber",
+          "entity": "transport_agency"
+        },
+        {
+          "start": 48,
+          "end": 50,
+          "value": "la",
+          "entity": "place_name"
+        },
+        {
+          "start": 54,
+          "end": 56,
+          "value": "ny",
+          "entity": "place_name"
+        },
+        {
+          "start": 57,
+          "end": 62,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "call a cab",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 10,
+          "value": "cab",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "please call a taxi to arrive at four hundred and take me to the manor theater",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 32,
+          "end": 44,
+          "value": "four hundred",
+          "entity": "time"
+        },
+        {
+          "start": 64,
+          "end": 77,
+          "value": "manor theater",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "uber me to the airport",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "uber",
+          "entity": "transport_agency"
+        },
+        {
+          "start": 15,
+          "end": 22,
+          "value": "airport",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "get me a car",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 9,
+          "end": 12,
+          "value": "car",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book a cab for new york",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 10,
+          "value": "cab",
+          "entity": "transport_type"
+        },
+        {
+          "start": 15,
+          "end": 23,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i need a taxi to go home",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 20,
+          "end": 24,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please reserve an uber right now",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 18,
+          "end": 22,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    }
+  ]
+}

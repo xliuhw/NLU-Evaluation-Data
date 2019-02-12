@@ -1,0 +1,102 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what are movies that are playing near me with high reviews",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "movie times tonight",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 12,
+          "end": 19,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me what movie has the best reviews",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what are the show times for logan at the nearby theatre",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "logan",
+          "entity": "event_name"
+        },
+        {
+          "start": 41,
+          "end": 55,
+          "value": "nearby theatre",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show me nearest theatre",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "theatre",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what is a good iranian film from two thousand and sixteen",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 33,
+          "end": 57,
+          "value": "two thousand and sixteen",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what movies are playing nearby",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what new movies are played in cinemas this week",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 38,
+          "end": 47,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what movie theatres are in stephenville",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 27,
+          "end": 39,
+          "value": "stephenville",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the best movie to watch with a glass of wine",
+      "intent": "recommendation_movies",
+      "entities": []
+    }
+  ]
+}

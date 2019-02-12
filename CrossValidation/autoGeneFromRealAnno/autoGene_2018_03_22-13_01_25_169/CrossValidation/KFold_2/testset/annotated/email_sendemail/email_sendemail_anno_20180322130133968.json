@@ -1,0 +1,259 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "email my friend about our plans tonight",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "friend",
+          "entity": "relation"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "send email to cat that i will accept job offer",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 17,
+          "value": "cat",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "email james about the softball game james we need to get some refreshments before heading over",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "james",
+          "entity": "person"
+        },
+        {
+          "start": 36,
+          "end": 41,
+          "value": "james",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send email to daddy i'll be going to the birthday party",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "daddy",
+          "entity": "relation"
+        },
+        {
+          "start": 41,
+          "end": 55,
+          "value": "birthday party",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "can you open the reply inbox",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 23,
+          "end": 28,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "prepare email for susan",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "susan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "inbox this mail",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "reply to heather's latest email by answering no",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "heather",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send an email to my assistant clara to cancel all appointments for tomorrow",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "assistant",
+          "entity": "relation"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "clara",
+          "entity": "person"
+        },
+        {
+          "start": 50,
+          "end": 62,
+          "value": "appointments",
+          "entity": "event_name"
+        },
+        {
+          "start": 67,
+          "end": 75,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "send an email for me",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send an email to my boss",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 20,
+          "end": 24,
+          "value": "boss",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "i need an email to be sent to comcastcom about my service issues",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 30,
+          "end": 40,
+          "value": "comcastcom",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "email friend",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send an email to john",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "go to email compile",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "reply wishes to john by email",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send the email to john",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 18,
+          "end": 22,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send the following email to bro hi come down for dinner tonight",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 28,
+          "end": 31,
+          "value": "bro",
+          "entity": "relation"
+        },
+        {
+          "start": 49,
+          "end": 55,
+          "value": "dinner",
+          "entity": "meal_type"
+        },
+        {
+          "start": 56,
+          "end": 63,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "please answer jean's email",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "jean",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

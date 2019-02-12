@@ -1,0 +1,155 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "are there any new emails from name",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "give me recent emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "refresh email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "i need to know all of the emails from contact pertaining to subject",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "open email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "who has sent me an email in the past week",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 41,
+          "value": "the past week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "check emails for unread emails from mom",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 39,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "did any emails come for me in the last five hours",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 49,
+          "value": "last five hours",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "report what is new in my email inbox please",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 36,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "what is the subject and who is the sender of my last email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "what did i tell susan in my last email",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "susan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "show me all the emails received recently",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "do i have any emails from jessica",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 33,
+          "value": "jessica",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "are there any recent unread emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "do i have any new email from ryan",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 33,
+          "value": "ryan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "carlos linux upgrade email",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "carlos",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "my mail",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "have i gotten any mail recently",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "check emails",
+      "intent": "email_query",
+      "entities": []
+    }
+  ]
+}

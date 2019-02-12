@@ -1,0 +1,204 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "start words with friends",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 6,
+          "end": 24,
+          "value": "words with friends",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "i challenge you to a game of tic tac toe",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 29,
+          "end": 40,
+          "value": "tic tac toe",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "please open blokus game i would like to play with you",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "blokus",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "Please play this game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "open tic tac toe",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "tic tac toe",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "open games",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "play gta vice city game",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "gta vice city",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "please play football with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "football",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play chess",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play for me the game cricket",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "cricket",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play scrabble with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 13,
+          "value": "scrabble",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play me a game of tic tac toe",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 18,
+          "end": 29,
+          "value": "tic tac toe",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play fmod",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "fmod",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "lets play",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "please begin clash of clans",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 13,
+          "end": 27,
+          "value": "clash of clans",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "open chess app and begin game",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "do a tournament with me in candy crush",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 27,
+          "end": 38,
+          "value": "candy crush",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "shall we play a game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "open up tetris",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "tetris",
+          "entity": "game_name"
+        }
+      ]
+    }
+  ]
+}

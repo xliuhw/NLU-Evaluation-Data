@@ -1,0 +1,81 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "switch on the plug",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "wemo plug socket turn on",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 0,
+          "end": 16,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on socket",
+      "intent": "iot_wemo_on",
+      "entities": []
+    },
+    {
+      "text": "please turn on my wemo plug socket",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 18,
+          "end": 34,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "start the smart plug",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 10,
+          "end": 20,
+          "value": "smart plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on living room radio",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 8,
+          "end": 19,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "turn on the wemo plug socket to plug in my dongle",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 12,
+          "end": 28,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

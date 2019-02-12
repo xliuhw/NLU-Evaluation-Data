@@ -1,0 +1,128 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "add this person's email",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "email",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "please add dan's email to my contacts",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 14,
+          "value": "dan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please add an email to my contacts",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add this email to my address book",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add email address iamironman@gmail dot com",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 18,
+          "end": 42,
+          "value": "iamironman@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "i need you to add gary's email to my favorites",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 18,
+          "end": 22,
+          "value": "gary",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "put sam@gmail dot com in my email contacts list",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 21,
+          "value": "sam@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "add the email oriam@gmail dot com to my contacts",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 14,
+          "end": 33,
+          "value": "oriam@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "add this email address to my contacts and send an email to",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "please add a new email in my contacts from sara",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 43,
+          "end": 47,
+          "value": "sara",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "save my contacts",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "i would like you to add an email to my contacts",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "create new contact",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add this email to my contact list",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add new email to contacts",
+      "intent": "email_addcontact",
+      "entities": []
+    }
+  ]
+}

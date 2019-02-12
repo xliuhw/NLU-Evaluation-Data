@@ -1,0 +1,195 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how old is clint eastwood",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 25,
+          "value": "clint eastwood",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "where is the hottest desert located",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "how high is pikes peak",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "how far above sea level is denver",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 27,
+          "end": 33,
+          "value": "denver",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show various plants in earth",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "is brad pitt married",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 3,
+          "end": 12,
+          "value": "brad pitt",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what part of the world is the safest",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "how tall is frank goggins",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 12,
+          "end": 25,
+          "value": "frank goggins",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what color is a dragon fruit",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "can you really see russia from alaska",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "russia",
+          "entity": "place_name"
+        },
+        {
+          "start": 31,
+          "end": 37,
+          "value": "alaska",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where is los angeles",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 9,
+          "end": 20,
+          "value": "los angeles",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where is kansas located",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "kansas",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me about sean connery",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 14,
+          "end": 26,
+          "value": "sean connery",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "can turkeys fly",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "show me the demographic growth rate of switzerland in the last ten years",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 39,
+          "end": 50,
+          "value": "switzerland",
+          "entity": "place_name"
+        },
+        {
+          "start": 58,
+          "end": 72,
+          "value": "last ten years",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "where do most celebrities hang out",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "wikipedia page about sean connery",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 21,
+          "end": 33,
+          "value": "sean connery",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what are the coordinates of everest",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 28,
+          "end": 35,
+          "value": "everest",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what country was einstein from",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "einstein",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

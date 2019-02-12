@@ -1,0 +1,133 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how do i duct tape a gooseto apig",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what about tonight dinner with me",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "tonight",
+          "entity": "timeofday"
+        },
+        {
+          "start": 19,
+          "end": 25,
+          "value": "dinner",
+          "entity": "meal_type"
+        }
+      ]
+    },
+    {
+      "text": "lets begin buddy",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "celebrities",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "why do some people still think the earth is flat",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "let me know when charges hit my credit card",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i want it to be able to tell me statistics about things it's done for me like how often i've eaten out this month",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 103,
+          "end": 113,
+          "value": "this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how do you make steel",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what do you think was the best decade",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "plants",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "dubai marriage",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 0,
+          "end": 14,
+          "value": "dubai marriage",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what do you do with my personal data",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "good morning isn't it a great day",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "tell me about this person",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i want to buy over ear headphones with minimum frequency response of fifteen hz and maximum frequency response twenty two thousand hz",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "when is the first seventy degree day forecast",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "find me a good wine shop that stock old wines like older than ten years navigate me to that shop",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 15,
+          "end": 24,
+          "value": "wine shop",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "how much do you know about me",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "if it is a consumer good then what is the customer feedback",
+      "intent": "general_quirky",
+      "entities": []
+    }
+  ]
+}

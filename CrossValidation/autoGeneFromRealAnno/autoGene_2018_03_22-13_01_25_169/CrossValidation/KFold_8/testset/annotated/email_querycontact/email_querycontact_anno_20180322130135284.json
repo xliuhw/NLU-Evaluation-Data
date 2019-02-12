@@ -1,0 +1,282 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "get me tom's number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 7,
+          "end": 10,
+          "value": "tom",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "show me the information of friend",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 27,
+          "end": 33,
+          "value": "friend",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "contacts",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "is mary smith in my contacts list",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 3,
+          "end": 13,
+          "value": "mary smith",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "show johns office number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "johns",
+          "entity": "person"
+        },
+        {
+          "start": 11,
+          "end": 24,
+          "value": "office number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "how many work contacts are in my phone book",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "search the contact",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "is bills cell phone number in my contacts",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 3,
+          "end": 8,
+          "value": "bills",
+          "entity": "person"
+        },
+        {
+          "start": 9,
+          "end": 26,
+          "value": "cell phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "call mom",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "find me someone",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "what's jesse's number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "jesse",
+          "entity": "person"
+        },
+        {
+          "start": 15,
+          "end": 21,
+          "value": "number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "do we have morgan's office's number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 17,
+          "value": "morgan",
+          "entity": "person"
+        },
+        {
+          "start": 20,
+          "end": 35,
+          "value": "office's number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "give me the number to mom",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "number",
+          "entity": "personal_info"
+        },
+        {
+          "start": 22,
+          "end": 25,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "when was the last call i received from jordan",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 39,
+          "end": 45,
+          "value": "jordan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell me the street address of my facebook friend george",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 12,
+          "end": 26,
+          "value": "street address",
+          "entity": "personal_info"
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 42,
+          "end": 48,
+          "value": "friend",
+          "entity": "relation"
+        },
+        {
+          "start": 49,
+          "end": 55,
+          "value": "george",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "show dan's contact detail",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "dan",
+          "entity": "person"
+        },
+        {
+          "start": 11,
+          "end": 25,
+          "value": "contact detail",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "does my co worker have a home phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 17,
+          "value": "co worker",
+          "entity": "relation"
+        },
+        {
+          "start": 25,
+          "end": 42,
+          "value": "home phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "check and tell me the address of my friend alex",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "address",
+          "entity": "personal_info"
+        },
+        {
+          "start": 36,
+          "end": 42,
+          "value": "friend",
+          "entity": "relation"
+        },
+        {
+          "start": 43,
+          "end": 47,
+          "value": "alex",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "do i have the contact of tara john",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 14,
+          "end": 21,
+          "value": "contact",
+          "entity": "personal_info"
+        },
+        {
+          "start": 25,
+          "end": 34,
+          "value": "tara john",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

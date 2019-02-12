@@ -1,0 +1,148 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what lists are available",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "do i have anything on my to do list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the next thing on my list of appointments",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 48,
+          "value": "appointments",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what's on my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "tell me items that are on my shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 37,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what items did i plan to buy",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 28,
+          "value": "buy",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the name of my lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what items are on my shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "provide what is there on the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what do i have on my shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what is on my playlist of movies on the the dvr",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what lists do you have on you right now",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what do i need to pick up at the grocery store",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 46,
+          "value": "grocery store",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what lists do i have queried",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "let me know the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "tell me what is in your list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "show me my lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "can you tell me what list i have",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "refresh my list and tell me whats on it",
+      "intent": "lists_query",
+      "entities": []
+    }
+  ]
+}

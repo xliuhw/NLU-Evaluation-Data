@@ -1,0 +1,176 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "cut the lights off",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "please turn off the light in the upstairs bedroom",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 42,
+          "end": 49,
+          "value": "bedroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "please turn bedroom lights off",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 12,
+          "end": 19,
+          "value": "bedroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "switch the lights to off",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "please turn off the lights in bedroom",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 30,
+          "end": 37,
+          "value": "bedroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "i want the light to be switched off",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "turn off the bathroom lights",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 13,
+          "end": 21,
+          "value": "bathroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "please shut off the kitchen lights",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "kitchen",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "cease operating lights",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "turn off the garage light",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 13,
+          "end": 19,
+          "value": "garage",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "please set the lights off in the living room",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 33,
+          "end": 44,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "turn off the light",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "turn off room lights",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "lights off",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "please turn off the lights in patio",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 30,
+          "end": 35,
+          "value": "patio",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "turn off garage light",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "garage",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "switch off the light",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "by remote sensor",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "turn off the lights in the living room please",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 27,
+          "end": 38,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    }
+  ]
+}

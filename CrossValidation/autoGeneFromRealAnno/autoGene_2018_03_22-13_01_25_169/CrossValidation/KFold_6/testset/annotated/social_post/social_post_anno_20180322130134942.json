@@ -1,0 +1,291 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "post to facebook I'm home",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet walmart and tell them their customer service is horrible",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 6,
+          "end": 13,
+          "value": "walmart",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "send a complaint to my boss",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 23,
+          "end": 27,
+          "value": "boss",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "complain to philips",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 12,
+          "end": 19,
+          "value": "philips",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet my complaint on targets customer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "value": "targets",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet to consumer service that they should strive to be more accommodating",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 9,
+          "end": 25,
+          "value": "consumer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet i am doing well on twitter",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 25,
+          "end": 32,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "send this message to @microsoft on twitter",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 21,
+          "end": 31,
+          "value": "@microsoft",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please tweet the following to radisson hotels customer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 30,
+          "end": 62,
+          "value": "radisson hotels customer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet complaint to sony consumer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 19,
+          "end": 40,
+          "value": "sony consumer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet the president and tell him he's doing a horrible job",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 6,
+          "end": 19,
+          "value": "the president",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "send a snotty tweet to bbc",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 23,
+          "end": 26,
+          "value": "bbc",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please send a complaint about my horrible experience with a company",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "write this complaint to comcasts customer service twitter",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 24,
+          "end": 49,
+          "value": "comcasts customer service",
+          "entity": "business_name"
+        },
+        {
+          "start": 50,
+          "end": 57,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "new twitter message",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 4,
+          "end": 11,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet complaint to amazon products",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 19,
+          "end": 34,
+          "value": "amazon products",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tell my facebook group that i've arrived",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet a complaint to apple about my iphone seven",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 21,
+          "end": 26,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet @phohouse your server was rude #badpho",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 6,
+          "end": 15,
+          "value": "@phohouse",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

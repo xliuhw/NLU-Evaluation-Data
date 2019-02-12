@@ -1,0 +1,109 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is a movie like star wars",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 21,
+          "end": 30,
+          "value": "star wars",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "confirm a movie ticket at glory theater",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 26,
+          "end": 39,
+          "value": "glory theater",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what movies are playing right now",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what is playing at amc twenty",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 19,
+          "end": 29,
+          "value": "amc twenty",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "latest movie releases",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what are new drama movies opening this weekend",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "drama",
+          "entity": "movie_type"
+        },
+        {
+          "start": 39,
+          "end": 46,
+          "value": "weekend",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "what movies are playing in columbia",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 27,
+          "end": 35,
+          "value": "columbia",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the nearest theatre that plays the new vin diesel movie",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 47,
+          "end": 57,
+          "value": "vin diesel",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "what movie should i watch today",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's worth watching",
+      "intent": "recommendation_movies",
+      "entities": []
+    }
+  ]
+}

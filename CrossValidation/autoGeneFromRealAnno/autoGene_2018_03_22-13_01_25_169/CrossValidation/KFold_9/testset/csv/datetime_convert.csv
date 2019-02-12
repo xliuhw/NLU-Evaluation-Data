@@ -1,0 +1,9 @@
+answerid;scenario;intent;answer_annotation;answer_from_anno;answer_from_user
+12477;datetime;convert;"what is the time difference between [time_zone : central] and [time_zone : eastern]";"what is the time difference between central and eastern";"What is the time difference between central and eastern"
+12476;datetime;convert;"what is the time difference between [time_zone : eastern] and [time_zone : pacific]";"what is the time difference between eastern and pacific";"What is the time difference between eastern and pacific"
+21703;datetime;convert;"time zone between [place_name : india] and [place_name : us]";"time zone between india and us";"time zone between india and US"
+6936;datetime;convert;"the time difference between [place_name : lagos] and [place_name : new york] is what";"the time difference between lagos and new york is what";"The time difference between Lagos and New York is what?"
+25963;datetime;convert;"convert [time_zone : eastern] time to [time_zone : western] time";"convert eastern time to western time";"Convert eastern time to western time."
+21154;datetime;convert;"[time : eight am] [place_name : manila] time is what in [time_zone : eastern] time";"eight am manila time is what in eastern time";"8 AM Manila time is what in Eastern time?"
+12728;datetime;convert;"if i call [person : mike] in [place_name : california] at [time : six pm] what will his time be";"if i call mike in california at six pm what will his time be";"PDA, if I call Mike in California at 6pm, what will his time be?"
+16670;datetime;convert;"what's the time difference between here and [place_name : queensland]";"what's the time difference between here and queensland";"What's the time difference between here and queensland?"

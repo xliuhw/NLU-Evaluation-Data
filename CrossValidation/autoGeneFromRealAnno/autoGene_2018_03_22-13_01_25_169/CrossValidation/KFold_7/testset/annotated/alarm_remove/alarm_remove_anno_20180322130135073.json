@@ -1,0 +1,133 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "cancel all alarms",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "remove all alarms set today",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "two am removed",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "two am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "take away my alarm for tomorrow at four thirty am",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 23,
+          "end": 31,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 35,
+          "end": 49,
+          "value": "four thirty am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "turn off any morning alarms after Friday",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 13,
+          "end": 20,
+          "value": "morning",
+          "entity": "timeofday"
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "value": "after Friday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please remove any alarms that i have set",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "remove my wake up alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "wake up",
+          "entity": "alarm_type"
+        }
+      ]
+    },
+    {
+      "text": "change my alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "turn off eight am alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 9,
+          "end": 17,
+          "value": "eight am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please turn off my alarm for this evening",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 29,
+          "end": 41,
+          "value": "this evening",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "turn off the alarm for tomorrow morning",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 23,
+          "end": 31,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    }
+  ]
+}

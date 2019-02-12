@@ -1,0 +1,9 @@
+answerid;scenario;intent;answer_annotation;answer_from_anno;answer_from_user
+8999;datetime;convert;"i need you to convert [time : nine am] [place_name : cst] to [place_name : est] time";"i need you to convert nine am cst to est time";"I need you to convert 9 AM CST to EST time"
+1871;datetime;convert;"given it is [time : four thirty five pm] in [place_name : london] what time is it in [place_name : melbourne]";"given it is four thirty five pm in london what time is it in melbourne";"Given it is 4:35 pm in London, what time is it in Melbourne?"
+12618;datetime;convert;"what is the time difference between my location and [place_name : hong kong]";"what is the time difference between my location and hong kong";"What is the time difference between my location and Hong Kong?"
+21156;datetime;convert;"convert [time : eight am] [place_name : manila] time to [place_name : new york] time";"convert eight am manila time to new york time";"Convert 8 AM Manila time to New York time."
+23498;datetime;convert;"set the time zone to [time_zone : g. m. t.]";"set the time zone to g. m. t.";"Set the time zone to gmt"
+4749;datetime;convert;"what is the time at [place_name : singapore] when our time is [time : five pm]";"what is the time at singapore when our time is five pm";"What is the time at Singapore when or time is 5 pm"
+23497;datetime;convert;"convert time zone to [time_zone : ist]";"convert time zone to ist";"Convert time zone to ist"
+19030;datetime;convert;"convert time zone";"convert time zone";"convert time zone"

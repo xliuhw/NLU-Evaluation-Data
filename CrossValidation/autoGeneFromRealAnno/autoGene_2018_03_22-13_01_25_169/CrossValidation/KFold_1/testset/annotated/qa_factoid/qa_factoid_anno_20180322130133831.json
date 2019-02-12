@@ -1,0 +1,188 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what year what the eiffel tower built",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "when does the super bowl officially start",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 14,
+          "end": 24,
+          "value": "super bowl",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "how many months in a year",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "how many pages long is harry potter",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "where do cows come from",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "where is italy",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "italy",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the birth date of mahatma gandhi",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 26,
+          "end": 40,
+          "value": "mahatma gandhi",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "which continent has highest growth of cotton and what is average production",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "when is shakira's birthday",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "shakira",
+          "entity": "artist_name"
+        },
+        {
+          "start": 18,
+          "end": 26,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "please tell me about the historic facts about india",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 46,
+          "end": 51,
+          "value": "india",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how old is emma watson newest boyfriend",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 22,
+          "value": "emma watson",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "who assassinated lincoln",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "lincoln",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell me when will indians economy touch that of americas",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "info on lisa ann please",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "lisa ann",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "calculate distance from boston to new york",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 24,
+          "end": 30,
+          "value": "boston",
+          "entity": "place_name"
+        },
+        {
+          "start": 34,
+          "end": 42,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what year did george clooney start acting",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 14,
+          "end": 28,
+          "value": "george clooney",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell me who will win the next presidential election",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "what is the capital of new hampshire",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "name the capital of nigeria",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "nigeria",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

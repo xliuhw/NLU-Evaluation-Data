@@ -1,0 +1,188 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "add bob to my list of contacts",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 4,
+          "end": 7,
+          "value": "bob",
+          "entity": "person"
+        },
+        {
+          "start": 14,
+          "end": 30,
+          "value": "list of contacts",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "make list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "on my grocery list please add oranges",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please add new item to list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "start a grocery list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "update work out list with new items",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "work out",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "create new list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "create a new list by tomorrow",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "create a list of jewels to be bought",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 17,
+          "end": 36,
+          "value": "jewels to be bought",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please find all name start with alphabetic of g and create a list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "open up a new list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "add the item to a list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "make a things to do list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add grocery to list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "begin new list of lottery numbers",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 18,
+          "end": 33,
+          "value": "lottery numbers",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "bring up the grocery list and add",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 13,
+          "end": 20,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please add list of friends to invite for the party",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 19,
+          "end": 26,
+          "value": "friends",
+          "entity": "relation"
+        },
+        {
+          "start": 45,
+          "end": 50,
+          "value": "party",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "add the item to the list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "can you add cups to my grocery list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 23,
+          "end": 30,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    }
+  ]
+}

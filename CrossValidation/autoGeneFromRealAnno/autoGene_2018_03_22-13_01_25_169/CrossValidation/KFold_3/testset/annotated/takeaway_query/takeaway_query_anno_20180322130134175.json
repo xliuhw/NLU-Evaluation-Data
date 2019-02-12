@@ -1,0 +1,239 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "could you please confirm if paradise does takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 36,
+          "value": "paradise",
+          "entity": "business_name"
+        },
+        {
+          "start": 42,
+          "end": 50,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "is my order ready for pick up now",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "restaurant delivery update",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 10,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "does paradise has takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 13,
+          "value": "paradise",
+          "entity": "business_name"
+        },
+        {
+          "start": 18,
+          "end": 26,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "when my takeaway order will arrive",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "is there a takeaway in chipotle restaurant",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "value": "chipotle",
+          "entity": "business_name"
+        },
+        {
+          "start": 32,
+          "end": 42,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "when can i pick up my order",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "how long until my takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 26,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "what time is my domino's order expected to arrive",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "domino",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can i get an order delivered from romero's",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 28,
+          "value": "delivered",
+          "entity": "order_type"
+        },
+        {
+          "start": 34,
+          "end": 40,
+          "value": "romero",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please check if paradise does takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "paradise",
+          "entity": "business_name"
+        },
+        {
+          "start": 30,
+          "end": 38,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "check to see if pizza hut has my order on the way",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 25,
+          "value": "pizza hut",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "does dominos deliver",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "dominos",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "when did i place my order and what was the projected time it would take",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "ask peking garden when my food will arrive",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 17,
+          "value": "peking garden",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "ask if deliver",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "is my order ready",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "whats up with my takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does fongs have delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "fongs",
+          "entity": "business_name"
+        },
+        {
+          "start": 16,
+          "end": 24,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    }
+  ]
+}

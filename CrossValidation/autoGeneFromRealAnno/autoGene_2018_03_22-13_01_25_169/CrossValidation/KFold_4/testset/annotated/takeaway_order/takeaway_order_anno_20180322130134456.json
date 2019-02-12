@@ -1,0 +1,296 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i want to order some takeout food",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "get us spaghetti from pizza hut",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 7,
+          "end": 16,
+          "value": "spaghetti",
+          "entity": "food_type"
+        },
+        {
+          "start": 22,
+          "end": 31,
+          "value": "pizza hut",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what mexican restaurants are there nearby for takeout",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "mexican",
+          "entity": "food_type"
+        },
+        {
+          "start": 13,
+          "end": 24,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "can you order me a pizza today from dominos",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 36,
+          "end": 43,
+          "value": "dominos",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to eat something will you order food for me",
+      "intent": "takeaway_order",
+      "entities": []
+    },
+    {
+      "text": "order food from applebees",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 16,
+          "end": 25,
+          "value": "applebees",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "place an order for two pizzas from dominoes",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 23,
+          "end": 29,
+          "value": "pizzas",
+          "entity": "food_type"
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "value": "dominoes",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to order some food",
+      "intent": "takeaway_order",
+      "entities": []
+    },
+    {
+      "text": "from wangs kitchen restaurant home delivery for a chicken manchow soup",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "wangs kitchen",
+          "entity": "business_name"
+        },
+        {
+          "start": 19,
+          "end": 29,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "value": "delivery",
+          "entity": "order_type"
+        },
+        {
+          "start": 50,
+          "end": 70,
+          "value": "chicken manchow soup",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to order a takeaway from papa john's",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 18,
+          "end": 26,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 32,
+          "end": 41,
+          "value": "papa john",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "call domino's pizza",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 19,
+          "value": "domino's pizza",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "id like to put in an order for some chinese food with hunan wok",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 36,
+          "end": 63,
+          "value": "chinese food with hunan wok",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "order one burger",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 10,
+          "end": 16,
+          "value": "burger",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "start a takeaway order for me",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "find and order domino pizza at nearest store of domino",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 48,
+          "end": 54,
+          "value": "domino",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "order ribs for dinner",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 6,
+          "end": 10,
+          "value": "ribs",
+          "entity": "food_type"
+        },
+        {
+          "start": 15,
+          "end": 21,
+          "value": "dinner",
+          "entity": "meal_type"
+        }
+      ]
+    },
+    {
+      "text": "order a large pan pizza with ham and mushrooms from pizza hut",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 14,
+          "end": 46,
+          "value": "pan pizza with ham and mushrooms",
+          "entity": "food_type"
+        },
+        {
+          "start": 52,
+          "end": 61,
+          "value": "pizza hut",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "find the nearest olive garden that has take out service",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 17,
+          "end": 29,
+          "value": "olive garden",
+          "entity": "business_name"
+        },
+        {
+          "start": 39,
+          "end": 55,
+          "value": "take out service",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "any good fast food items",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "fast food",
+          "entity": "food_type"
+        }
+      ]
+    }
+  ]
+}

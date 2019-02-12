@@ -1,0 +1,2399 @@
+{
+  "userSays": [
+    {
+      "id": "ccd67fe8-82d7-47bc-bad4-41fe04720b9b",
+      "data": [
+        {
+          "text": "tell me time of alarm you set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e898f7f-3040-4599-aa04-03142c5f0924",
+      "data": [
+        {
+          "text": "list all of my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "871d4748-a5b1-4168-9f3e-43543cb06d58",
+      "data": [
+        {
+          "text": "alarm settings"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f48c434-fbd9-48de-bbc5-ff13c477bd3b",
+      "data": [
+        {
+          "text": "what alarms are set for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "72093a5a-0750-4178-83a7-10bdc51b6698",
+      "data": [
+        {
+          "text": "please see see for me the alarms that you have set "
+        },
+        {
+          "text": "sunday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7ece11f5-2c15-4e07-8f12-1c48aacfcb3b",
+      "data": [
+        {
+          "text": "tell me when the next alarms are for"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "20039ed5-3c71-4a47-bfad-c415cd9f6f57",
+      "data": [
+        {
+          "text": "please tell me what alarms are on"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bd2e3621-5e61-4671-bd1c-21445805b5ea",
+      "data": [
+        {
+          "text": "please list all my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f0ac1254-21aa-4c6b-8acb-1ce036e20b12",
+      "data": [
+        {
+          "text": "what alarms are set right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cd76c55f-f448-41c0-bd73-0bfa08ca786e",
+      "data": [
+        {
+          "text": "check whether i have set any alarms for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2b731055-6d75-4964-8248-e6225e1c5424",
+      "data": [
+        {
+          "text": "tell me about my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e60ca554-c63e-43ca-ab36-7d4b4eed6f3a",
+      "data": [
+        {
+          "text": "do i have any alarms set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "47c1f6dd-9f67-4687-8fd8-3f0410e1aa26",
+      "data": [
+        {
+          "text": "is there an alarm at "
+        },
+        {
+          "text": "four am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c54c6fb6-dcb1-4b5b-9360-a9d6f83cac1f",
+      "data": [
+        {
+          "text": "show me my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "33dcd821-e0ac-42c8-a163-0592dd0b3b6b",
+      "data": [
+        {
+          "text": "what alarm time had you set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d755ea58-20ef-4dcb-a3d2-e5272922275a",
+      "data": [
+        {
+          "text": "can you tell me what alarms i have set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f693e887-f3ed-485b-aafe-0480501b30fb",
+      "data": [
+        {
+          "text": "please let me know the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " alarm time kept for "
+        },
+        {
+          "text": "weekends",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4ef368fd-ce94-4348-b95a-94c9511bdcf2",
+      "data": [
+        {
+          "text": "what time is the alarm set for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eff2f824-78ad-4e0c-a62a-dde4b83ab7b5",
+      "data": [
+        {
+          "text": "may i know the about alarm you set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "be0ef454-845e-4426-98ee-4dba4712af55",
+      "data": [
+        {
+          "text": "what alarms have been set for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3dfc5ea2-4bb2-4cef-94ee-135190e38989",
+      "data": [
+        {
+          "text": "list all set alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b701e8bf-0fc4-4526-80ce-2a02f299a99e",
+      "data": [
+        {
+          "text": "please tell me my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "47a53fe2-1935-4fda-abe1-806e673d331c",
+      "data": [
+        {
+          "text": "what is the "
+        },
+        {
+          "text": "wake up",
+          "alias": "alarm_type",
+          "meta": "@alarm_type",
+          "userDefined": true
+        },
+        {
+          "text": " time for my alarm i have set for the flight "
+        },
+        {
+          "text": "this weekend",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "24e17a01-94b3-4335-b79b-959ba93906bb",
+      "data": [
+        {
+          "text": "did i set an alarm to "
+        },
+        {
+          "text": "wake up",
+          "alias": "alarm_type",
+          "meta": "@alarm_type",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "687562f9-e0be-444a-94b8-f78c7a6dd8b9",
+      "data": [
+        {
+          "text": "what times do my alarms go off"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7b32e529-73d8-4d65-8fde-5a33762187d9",
+      "data": [
+        {
+          "text": "are there any alarms for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c13c464e-d97f-402c-8934-9923c559fb53",
+      "data": [
+        {
+          "text": "what time is my wakeup alarm set for"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ecc6f3d5-40a3-4bba-8f33-70d3691723f7",
+      "data": [
+        {
+          "text": "please read out all the alarms that are set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2901145c-c8c4-4d67-9438-0511ccd28ab9",
+      "data": [
+        {
+          "text": "what time are my alarms set for"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a601b8c5-2ed8-41c5-9e05-7f649a4e860d",
+      "data": [
+        {
+          "text": "check if default alarm is set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f6fb298f-ca1a-4ade-8c23-47162484b501",
+      "data": [
+        {
+          "text": "how many alarms do i have set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c31aeeff-cf06-4496-8427-d97a00b102a5",
+      "data": [
+        {
+          "text": "are there any alarms currently set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9608bb9c-63fa-496e-a920-a8293f67d86c",
+      "data": [
+        {
+          "text": "confirm alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "770720d5-b079-43f9-8cfe-a5deb4a942d9",
+      "data": [
+        {
+          "text": "do i have an alarm set for "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "flight",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4120b3fd-bee1-4161-b10d-ca872fbdf065",
+      "data": [
+        {
+          "text": "what's my next scheduled alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "54f3c80e-1c3b-48ee-8c0f-f2020584e1e6",
+      "data": [
+        {
+          "text": "do i have any alarms set for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4a061fe2-e9c7-45e8-8ec6-6d3d33c706e4",
+      "data": [
+        {
+          "text": "please check alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "75307b9e-f2e4-4d0e-b31e-be72f6bdb5d4",
+      "data": [
+        {
+          "text": "what alarms do i have set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b29e13dc-3fbc-4c63-80ce-ec9d603d06db",
+      "data": [
+        {
+          "text": "do i have an alarm set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c162edd5-ac52-45c6-beee-02a64e252c24",
+      "data": [
+        {
+          "text": "show me the list of alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4e250d3b-e941-407c-9cb6-c950132cb8f6",
+      "data": [
+        {
+          "text": "just to confirm you set the alarm to go off at "
+        },
+        {
+          "text": "eight hundred",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d24b16e0-69a1-4575-8b6d-fb7d6a28d168",
+      "data": [
+        {
+          "text": "did i set my "
+        },
+        {
+          "text": "house alarm",
+          "alias": "alarm_type",
+          "meta": "@alarm_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f6944946-1c87-4f7e-9c62-87d1b572b480",
+      "data": [
+        {
+          "text": "tell me my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1a0c966c-e920-401b-b9c2-8135b2319c37",
+      "data": [
+        {
+          "text": "what are the next three alarms set to go off"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "de615b9c-94ac-4db6-9d10-c64209ee1f27",
+      "data": [
+        {
+          "text": "check if alarm is set for "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4554ede3-4288-469f-9fec-1d1564b374e9",
+      "data": [
+        {
+          "text": "i need to set an alarm how many do i have set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e5d87545-2439-4d83-b1f1-f5e16c8d8b87",
+      "data": [
+        {
+          "text": "is the alarm to the backdoor set and ready to go"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "87d3020f-5562-497b-8f6b-2b8b7d49b219",
+      "data": [
+        {
+          "text": "what time do i have my alarm set for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3bb9a3fb-1950-4d96-8857-9cf11af24819",
+      "data": [
+        {
+          "text": "what's the description for the alarm at "
+        },
+        {
+          "text": "eleven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "392fd786-4883-4fdc-aaaa-eb947b30e6d0",
+      "data": [
+        {
+          "text": "are there any alarms set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1d965d22-5daf-4eff-8f33-d798ce54a857",
+      "data": [
+        {
+          "text": "are there any alarms set right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4262583f-0b2a-455d-b95b-b94ca8039de1",
+      "data": [
+        {
+          "text": "are there any alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19be362a-5a88-47fa-9246-646856fdb611",
+      "data": [
+        {
+          "text": "do i have alarms set for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "476c4f31-b144-46a0-8515-5a8439fbdac0",
+      "data": [
+        {
+          "text": "how many alarms are listed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f0f13b68-bc9b-4570-9b71-14922ea861d6",
+      "data": [
+        {
+          "text": "remind me about my alarms "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8f5e2165-10ed-4e57-a5f0-834e806d4e9e",
+      "data": [
+        {
+          "text": "list alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e7c9aa95-85d3-4fb5-bdc9-c43b69f923cb",
+      "data": [
+        {
+          "text": "do i have alarms set "
+        },
+        {
+          "text": "before six",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b64d5c1-a758-48d0-8568-54defa21ac01",
+      "data": [
+        {
+          "text": "how many alarms do i have"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "57cea0fa-58bd-489f-a549-f1beda5f588b",
+      "data": [
+        {
+          "text": "just see for me the alarms that you have set "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9e61db12-41da-4837-a393-49a276e2f92e",
+      "data": [
+        {
+          "text": "what alarms are on right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "61c2a8a2-c665-4984-9673-92254c358515",
+      "data": [
+        {
+          "text": "please tell about the alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9556ffae-615f-4fbe-b317-b6925e853eee",
+      "data": [
+        {
+          "text": "review set alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8affb6a7-7601-4c8b-94e9-07853d6fcea4",
+      "data": [
+        {
+          "text": "is my work alarm set for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cbcd5028-defe-42bc-9082-d49925d3d645",
+      "data": [
+        {
+          "text": "what alarms are set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4dae837d-c35b-45eb-88cb-4fa4b88165b6",
+      "data": [
+        {
+          "text": "what time are my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "537c286a-d45d-4945-8bd9-92cc37f725c1",
+      "data": [
+        {
+          "text": "which alarms are set in the "
+        },
+        {
+          "text": "phone",
+          "alias": "device_type",
+          "meta": "@device_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9ef0e7c2-a602-4bf2-b32a-396e49691319",
+      "data": [
+        {
+          "text": "is my alarm set for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "efc1a856-efb9-457d-9f3b-ff727c25721b",
+      "data": [
+        {
+          "text": "check if any alarm is there after "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b39b18d6-c1b6-4b4e-9352-c48dd8b9a027",
+      "data": [
+        {
+          "text": "what alarms do i have set for "
+        },
+        {
+          "text": "thursday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8b207bc8-cbac-4109-a55b-3933cb465750",
+      "data": [
+        {
+          "text": "checkout "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " set alarm of "
+        },
+        {
+          "text": "ten am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2538c3f3-7094-4493-bd98-0f840556cd60",
+      "data": [
+        {
+          "text": "is my school alarm set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8592d104-4865-4e30-ad5f-f3effc0d3015",
+      "data": [
+        {
+          "text": "what alarms do i have scheduled for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7a346572-bc75-4c3c-b3e6-535310292490",
+      "data": [
+        {
+          "text": "tell me if my alarm is set for the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bdc06003-f7a8-4169-b10c-29fe13926a09",
+      "data": [
+        {
+          "text": "do i have an alarm set for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ed917c40-865e-4efb-8780-2b2f967ec5f9",
+      "data": [
+        {
+          "text": "what alarms do i have"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "880a3e99-3747-491a-8b29-9c2478ff85f7",
+      "data": [
+        {
+          "text": "when was the last alarm set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dbca095b-5ee4-4a59-acc9-d1788424464e",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " how many alarms do i have set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fda1b1e8-6369-49a4-a656-33b86b3dff63",
+      "data": [
+        {
+          "text": "how many alarms do i have set for "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " hours between "
+        },
+        {
+          "text": "six and nine am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d609a1cc-7154-4c42-8c18-1aebd35da426",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s alarm time set to"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2eda1f50-3bab-4294-966a-9014be370e46",
+      "data": [
+        {
+          "text": "please let me know the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " alarm time for "
+        },
+        {
+          "text": "weekdays",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1aeba13f-f000-433c-9081-b1a7fd33d187",
+      "data": [
+        {
+          "text": "can you tell me about the alarm called bed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "45dc62a8-5d9b-419b-b025-c5498e0f3908",
+      "data": [
+        {
+          "text": "read me my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "81ac98de-285c-4727-8ace-716e040ddeeb",
+      "data": [
+        {
+          "text": "is there any alarm after "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "45d01f03-0fb3-44ac-9f0f-3ff3833438d3",
+      "data": [
+        {
+          "text": "what are my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "13356714-6552-45b3-94f2-a592409c037f",
+      "data": [
+        {
+          "text": "what days are my alarms set for"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b14f2b9a-f76c-4999-9613-abeeaeb6fd3a",
+      "data": [
+        {
+          "text": "would like to know the alarm you sent"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a97fd6d-c936-4b75-aba9-e11155caf0a0",
+      "data": [
+        {
+          "text": "confirm i have set an alarm for "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "204731a2-489a-4cd7-a20f-fc7f7664de24",
+      "data": [
+        {
+          "text": "what alarms did i set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4a38503e-9c68-4b5d-8432-56249706d7ea",
+      "data": [
+        {
+          "text": "what alarms do i got"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9ea1ae08-a5c0-4fb3-8e36-e93791bc1799",
+      "data": [
+        {
+          "text": "show me the alarms that are set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ded61971-e9cc-49e7-939b-cbde1612e27b",
+      "data": [
+        {
+          "text": "tell me about alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "faba1869-e7ce-4464-b366-7a758503c769",
+      "data": [
+        {
+          "text": "list all the alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "37ebe59b-eafa-4996-bba6-231cf79a0f8e",
+      "data": [
+        {
+          "text": "checkout "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " third set alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "682e791c-10eb-4de8-88d9-89a13e992347",
+      "data": [
+        {
+          "text": "how many alarms are currently set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "31938b58-14f9-4a03-aeb9-ba9907840469",
+      "data": [
+        {
+          "text": "are there any alarms set what are they"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "21aac2eb-c6c3-47d0-ac61-963cb6c59884",
+      "data": [
+        {
+          "text": "is my alarm set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "98333586-8127-4e4f-83c9-882aeb2993bf",
+      "data": [
+        {
+          "text": "all alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6dd88237-3a88-49aa-b3f7-4fbc0123192b",
+      "data": [
+        {
+          "text": "tell me what alarms are set for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "333cb99a-a926-4e95-a9eb-3103231e7462",
+      "data": [
+        {
+          "text": "next alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e3f4d6f9-1acf-49bd-aa59-2555495e0743",
+      "data": [
+        {
+          "text": "when is the next alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "de9b31b3-0ce9-4909-9a82-bcf9bed79387",
+      "data": [
+        {
+          "text": "show alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6d108b4a-fd4b-4875-b81b-799fcf8fa515",
+      "data": [
+        {
+          "text": "let me know about any alarms set "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bd919004-cd50-4c6c-a5a3-1b87bf711c40",
+      "data": [
+        {
+          "text": "confirm my alarm settings"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1b6f00d-42b1-44ab-9568-546687118e6b",
+      "data": [
+        {
+          "text": "give me the alarm times for the "
+        },
+        {
+          "text": "next two days",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f8cb52ba-2bb1-4664-90d4-f4dd08718f34",
+      "data": [
+        {
+          "text": "let me know the alarm time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dc81d7d9-cfc3-44a2-a868-eabce8b0b959",
+      "data": [
+        {
+          "text": "is there any alarm active"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b4e0d9b8-bf51-4388-8d27-c29fdca2a354",
+      "data": [
+        {
+          "text": "what alarms are set in the "
+        },
+        {
+          "text": "house",
+          "alias": "house_place",
+          "meta": "@house_place",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b58d13ea-a558-4c74-b562-0acf3254da88",
+      "data": [
+        {
+          "text": "do i have any alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19da2c7f-7313-4fa8-a775-88e22e1cfe6d",
+      "data": [
+        {
+          "text": "have i set any alarms in the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "052494af-fe21-40c0-a512-abc89d1fbbac",
+      "data": [
+        {
+          "text": "check if i have set any alarm for "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f6b67966-2ff6-4774-ac73-f3b3356b05f6",
+      "data": [
+        {
+          "text": "list all of my upcoming alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "55f90a6f-cadf-4453-a285-30feb4143ace",
+      "data": [
+        {
+          "text": "my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "335ca440-0526-41a4-be95-5e28bbd823ae",
+      "data": [
+        {
+          "text": "do i have any alarms set for "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "02c4c9d8-bda7-4e51-9319-3772f5a56edf",
+      "data": [
+        {
+          "text": "how many alarms are currently on my phone"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a16a8f3a-eebd-4762-b294-68fc9f542acc",
+      "data": [
+        {
+          "text": "any alarms currently listed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bd006b9c-addc-46d5-ac11-550b88ae93bd",
+      "data": [
+        {
+          "text": "did i remember to set a reminder alarm for my next "
+        },
+        {
+          "text": "doctor's appointment",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8fb5cc7b-8cad-4367-9dde-bc5c8073f32f",
+      "data": [
+        {
+          "text": "what time is set for my "
+        },
+        {
+          "text": "wake up",
+          "alias": "alarm_type",
+          "meta": "@alarm_type",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bd510741-4bef-4ef2-950d-f69332a0d898",
+      "data": [
+        {
+          "text": "what alarms are set for "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f81be27d-5bc5-4aa8-84c6-3141358456f1",
+      "data": [
+        {
+          "text": "what is on my alarm schedule"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9e828ccd-7b78-4c08-9d68-0b4cb5f5f00c",
+      "data": [
+        {
+          "text": "show me all of my active alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff81ebce-0bca-4118-88b5-ead90dc61176",
+      "data": [
+        {
+          "text": "what alarms are currently set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5218c0e8-004c-498b-983d-b156b087a8da",
+      "data": [
+        {
+          "text": "review the alarms i have"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4c3e6ca6-eeb6-4bc8-97cf-c801ed8722b8",
+      "data": [
+        {
+          "text": "what's the alarm situation for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "496eda36-dff4-4edb-b9a3-17112e4f7d27",
+      "data": [
+        {
+          "text": "olly find any alarms i have set for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "98aef1b2-6c98-4492-8536-2af1adcfac6f",
+      "data": [
+        {
+          "text": "i want to see all set alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ce682e76-bbe6-42c0-b79e-b4336776db10",
+      "data": [
+        {
+          "text": "do i have an alarm set for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c65b9e51-54bb-4c99-b398-756ae63a7692",
+      "data": [
+        {
+          "text": "at what time is my alarm set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2b48f4b9-4d74-4dda-ba98-d95656fb28ad",
+      "data": [
+        {
+          "text": "can you tell me if i have any alarms set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "58181d28-737a-4e33-bb37-b234ab3e386e",
+      "data": [
+        {
+          "text": "did I set an alarm "
+        },
+        {
+          "text": "to have tablets",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "noon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c1991e0a-1df9-4585-b589-081aff422f83",
+      "data": [
+        {
+          "text": "which alarms do i have"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5d64b30b-c59b-4e1b-b326-b7003bb85c77",
+      "data": [
+        {
+          "text": "show me the alarms i set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "53603202-9c98-453b-be85-ec2130dd2868",
+      "data": [
+        {
+          "text": "what time is my alarm set for"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "de601be8-c50a-4188-93e8-91e297e7155f",
+      "data": [
+        {
+          "text": "is my "
+        },
+        {
+          "text": "wake up",
+          "alias": "alarm_type",
+          "meta": "@alarm_type",
+          "userDefined": true
+        },
+        {
+          "text": " alarm set a "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8b33d900-9dd5-4752-81bd-97908ff5de82",
+      "data": [
+        {
+          "text": "what home alarms have been set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ad91b001-3d97-4f42-b574-b6693e94cdbb",
+      "data": [
+        {
+          "text": "please read me my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f5278c6-d536-4734-89ce-41243b6567c6",
+      "data": [
+        {
+          "text": "what times are my alarms set for"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0c331003-fb38-4545-98d8-0701deae64ce",
+      "data": [
+        {
+          "text": "when will my alarm go off in the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "107c3f43-fa8a-40ff-9f7c-d121d04eaf05",
+      "data": [
+        {
+          "text": "do i have any alarms set for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a5953edf-89a9-41a3-8f9e-0ff311f062c7",
+      "data": [
+        {
+          "text": "show me what alarm times i've set for the "
+        },
+        {
+          "text": "week",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "36ac2eab-c524-46cd-8a84-60fb5cc72b65",
+      "data": [
+        {
+          "text": "list current set alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1312906-8a71-45da-955a-f0279e39a8fb",
+      "data": [
+        {
+          "text": "are there any alarms going off "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4238af17-08c7-4e58-bc6c-2b69f6436215",
+      "data": [
+        {
+          "text": "what alarms do i all have set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ccbff7a-d942-471c-880f-a30123d7a938",
+      "data": [
+        {
+          "text": "show me the alarms i've set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "51b9ab23-522a-47be-acdd-3d93985547ca",
+      "data": [
+        {
+          "text": "my set alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "71e5f361-14fd-4f3c-b8b2-7313533f57c2",
+      "data": [
+        {
+          "text": "what alarms will wake me up "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "af009a42-7f2b-41a6-8df6-64a07ec2f4d0",
+      "data": [
+        {
+          "text": "have i got any alarms set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "30d222c2-0815-4ed8-983d-541dee4f9a38",
+      "data": [
+        {
+          "text": "what alarms i have set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "98d0d85f-3831-488b-b7c1-940f8d6e19b4",
+      "data": [
+        {
+          "text": "tell me about the alarm timings"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f77318cc-6f5b-4501-a7e8-66d16dd7dcb1",
+      "data": [
+        {
+          "text": "alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a969c2a1-8f9d-4bdb-a0fa-57dc79ec7d94",
+      "data": [
+        {
+          "text": "when does my alarm go off"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4beeba0f-5639-49b4-a22c-82958948ef17",
+      "data": [
+        {
+          "text": "would you please check to see if i've set my alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "05e46fce-2e3f-4050-8081-694ebde8984c",
+      "data": [
+        {
+          "text": "alarm status"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6bb85088-8d4a-4b54-9258-de9616ce6ffa",
+      "data": [
+        {
+          "text": "what time have you set the alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f3e8b2e5-f756-42e0-8026-6e417851d633",
+      "data": [
+        {
+          "text": "list my different alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "edfe50c2-0c57-43aa-bb72-ebc6f8ba049c",
+      "data": [
+        {
+          "text": "what time i am waking up "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "410551d9-22b6-483f-93b1-31b9d92e9213",
+      "data": [
+        {
+          "text": "what alarms did i set "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7657ac42-3d94-4452-9bca-a7533462174e",
+      "data": [
+        {
+          "text": "what alarms are coming up"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "17162ec5-f19a-4586-a096-1163624ff67d",
+      "data": [
+        {
+          "text": "if there any alarm is set then let me know"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "501d7833-b2fe-4c6b-b447-67462013f97f",
+      "data": [
+        {
+          "text": "review all alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ab605fc3-9606-4bdc-a8c9-1c50c183322c",
+      "data": [
+        {
+          "text": "is the alarm set for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ca93a72f-d4c5-4c1e-8646-f65d874d45a4",
+      "data": [
+        {
+          "text": "what time is alarm set for"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4538004c-b9cb-467f-8cd6-33e28def3099",
+      "data": [
+        {
+          "text": "do i have alarms set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7fa3f277-9690-4812-ba72-4888b827330e",
+      "data": [
+        {
+          "text": "what time is my alarm set for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "32249ddb-70b2-4489-a462-795d24b6ce14",
+      "data": [
+        {
+          "text": "is my reminder alarm set for "
+        },
+        {
+          "text": "dance class",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "15d57500-738f-431e-8884-b48323c576d7",
+      "data": [
+        {
+          "text": "when is my alarm set for"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ac396e3b-ecc7-44ad-ab5f-bd9183ef43a1",
+      "data": [
+        {
+          "text": "what time will my alarm wake me up"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "03fb02b6-11e4-45fe-9493-8b5d350fb91a",
+      "data": [
+        {
+          "text": "how many alarms are set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f21c7e35-5216-4ad6-a9a5-fd2e4d905c0a",
+      "data": [
+        {
+          "text": "how many alarms have i set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3263d4f1-46bf-41ba-b48c-1b3c365cdd27",
+      "data": [
+        {
+          "text": "what time will my alarm go off "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d4cba0de-af88-4c2a-a908-8f8480a2f776",
+      "data": [
+        {
+          "text": "please let me know the alarm kept for "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4e3c46a2-284e-401f-ab5a-ce56e7b15c31",
+      "data": [
+        {
+          "text": "did you set the alarm for "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0ed5b093-852a-4117-ac90-f0b00282b06f",
+      "data": [
+        {
+          "text": "let me know about the alarms you set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "46ff91b8-42ff-4948-aa05-4390edd0ed5e",
+      "data": [
+        {
+          "text": "what alarms do i have set for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "89dbccc8-2c08-48ca-8cc9-47e3276536b7",
+      "data": [
+        {
+          "text": "what's my next alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f2a48a1a-6fa6-498e-81fe-35f644f298bf",
+      "data": [
+        {
+          "text": "let me see my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "07a28f6e-02ac-4a35-a288-8b4e5101b83d",
+  "name": "alarm_query",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@alarm_type",
+          "name": "alarm_type",
+          "value": "$alarm_type"
+        },
+        {
+          "dataType": "@date",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "dataType": "@device_type",
+          "name": "device_type",
+          "value": "$device_type"
+        },
+        {
+          "dataType": "@event_name",
+          "name": "event_name",
+          "value": "$event_name"
+        },
+        {
+          "dataType": "@house_place",
+          "name": "house_place",
+          "value": "$house_place"
+        },
+        {
+          "dataType": "@time",
+          "name": "time",
+          "value": "$time"
+        },
+        {
+          "dataType": "@timeofday",
+          "name": "timeofday",
+          "value": "$timeofday"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

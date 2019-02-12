@@ -1,0 +1,218 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "give me time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "could you please tell me what time is in singapore",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 41,
+          "end": 50,
+          "value": "singapore",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "report the current time in oakland",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 34,
+          "value": "oakland",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "the twenty second is on what day of the week",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 17,
+          "value": "twenty second",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what week of the year does the summer season start",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 44,
+          "value": "summer season",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "what is the correct time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what is the time in beijing",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "beijing",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is there a national holiday on fifth december",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 45,
+          "value": "fifth december",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "the last friday of the month lands on what day",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 28,
+          "value": "last friday of the month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what time in las vegas",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 22,
+          "value": "las vegas",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is mondays actual date",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "mondays",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "give me the time in phoenix az",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 30,
+          "value": "phoenix az",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the time in china",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "china",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the current time in chennai",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 35,
+          "value": "chennai",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "new york time",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what time is it in central time zone",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 26,
+          "value": "central",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me the time in new york",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 36,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the time in this time zone",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 33,
+          "value": "this time zone",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "what is time now in california",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 30,
+          "value": "california",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

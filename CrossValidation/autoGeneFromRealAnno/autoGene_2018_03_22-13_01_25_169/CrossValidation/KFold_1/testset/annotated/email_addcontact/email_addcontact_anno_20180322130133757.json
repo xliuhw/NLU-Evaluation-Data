@@ -1,0 +1,72 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "add dan's email",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 7,
+          "value": "dan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "add contacts n mail",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "enter atdfd@yahoo dot com into my contact list",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 6,
+          "end": 25,
+          "value": "atdfd@yahoo dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "get apahelp@yahoo dot com in my contacts",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 25,
+          "value": "apahelp@yahoo dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "save the email to my contact",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "please add johndoe@yahoocom to my contact list",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 27,
+          "value": "johndoe@yahoocom",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "add this new email",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add work email address",
+      "intent": "email_addcontact",
+      "entities": []
+    }
+  ]
+}

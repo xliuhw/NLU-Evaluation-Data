@@ -1,0 +1,351 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "write down that i am going to meet with jenny on the third okay",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 40,
+          "end": 45,
+          "value": "jenny",
+          "entity": "person"
+        },
+        {
+          "start": 53,
+          "end": 58,
+          "value": "third",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "on third april we will go to watch j llb movie set it",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 3,
+          "end": 14,
+          "value": "third april",
+          "entity": "date"
+        },
+        {
+          "start": 29,
+          "end": 46,
+          "value": "watch j llb movie",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "schedule a meeting with al on tuesday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 24,
+          "end": 26,
+          "value": "al",
+          "entity": "person"
+        },
+        {
+          "start": 30,
+          "end": 37,
+          "value": "tuesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remind me the upcoming meeting at four am today",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 23,
+          "end": 30,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 34,
+          "end": 41,
+          "value": "four am",
+          "entity": "time"
+        },
+        {
+          "start": 42,
+          "end": 47,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "reminder about meeting from eight am to twelve pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 28,
+          "end": 36,
+          "value": "eight am",
+          "entity": "time"
+        },
+        {
+          "start": 40,
+          "end": 49,
+          "value": "twelve pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "new reminder at three pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "three pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set rotating event",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 4,
+          "end": 18,
+          "value": "rotating event",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "i have a meeting at noon today",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 20,
+          "end": 24,
+          "value": "noon",
+          "entity": "timeofday"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "schedule lunch at tomo in arcata california tomorrow at noon",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "lunch",
+          "entity": "meal_type"
+        },
+        {
+          "start": 18,
+          "end": 43,
+          "value": "tomo in arcata california",
+          "entity": "place_name"
+        },
+        {
+          "start": 44,
+          "end": 52,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 56,
+          "end": 60,
+          "value": "noon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "add event to calendar",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "set a reminder for two days prior of the event",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "two days",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remind me everyday at two pm for lunch",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "everyday",
+          "entity": "general_frequency"
+        },
+        {
+          "start": 22,
+          "end": 28,
+          "value": "two pm",
+          "entity": "time"
+        },
+        {
+          "start": 33,
+          "end": 38,
+          "value": "lunch",
+          "entity": "meal_type"
+        }
+      ]
+    },
+    {
+      "text": "remind me to eat when i get home",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 16,
+          "value": "eat",
+          "entity": "event_name"
+        },
+        {
+          "start": 22,
+          "end": 32,
+          "value": "i get home",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "i need to set up a meeting with the ceo tomorrow",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 26,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "value": "the ceo",
+          "entity": "relation"
+        },
+        {
+          "start": 40,
+          "end": 48,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "create a meeting event in my calendar",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "make appointment for next friday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "appointment",
+          "entity": "event_name"
+        },
+        {
+          "start": 26,
+          "end": 32,
+          "value": "friday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "latest reminder about meeting",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "set a reminder for my shopping trip tomorrow at five pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 22,
+          "end": 35,
+          "value": "shopping trip",
+          "entity": "event_name"
+        },
+        {
+          "start": 36,
+          "end": 44,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 48,
+          "end": 55,
+          "value": "five pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remind me every year on this date of",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 10,
+          "end": 20,
+          "value": "every year",
+          "entity": "general_frequency"
+        }
+      ]
+    }
+  ]
+}

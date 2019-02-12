@@ -1,0 +1,223 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i am busy tomorrow so delete all calendar events",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "delete from the calendar the next event",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "delete all scheduled events",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "format data from calendar",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "find dinner with mom on my calendar and delete it",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "dinner",
+          "entity": "meal_type"
+        },
+        {
+          "start": 17,
+          "end": 20,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "remove my event at one pm in my calendar",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "one pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please clear my calendar",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "clear",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "do remove next event from the calendar",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "delete all events and content from my calendar",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "no lunch date tomorrow",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 3,
+          "end": 13,
+          "value": "lunch date",
+          "entity": "event_name"
+        },
+        {
+          "start": 14,
+          "end": 22,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "delete my next meeting",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "delete the monthly recurring team meeting till june",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "monthly",
+          "entity": "general_frequency"
+        },
+        {
+          "start": 29,
+          "end": 41,
+          "value": "team meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 47,
+          "end": 51,
+          "value": "june",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "i will no longer be joining mom for lunch tomorrow",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 28,
+          "end": 31,
+          "value": "mom",
+          "entity": "relation"
+        },
+        {
+          "start": 36,
+          "end": 41,
+          "value": "lunch",
+          "entity": "meal_type"
+        },
+        {
+          "start": 42,
+          "end": 50,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "destroy all events",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "clear my next event",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "check the events on calendar and delete the next event",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "clear all data from calendar",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "cancels lunch at the restaurant booked for march twenty five",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "lunch",
+          "entity": "meal_type"
+        },
+        {
+          "start": 21,
+          "end": 31,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 43,
+          "end": 60,
+          "value": "march twenty five",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "cancel dentist appointment for this week",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 26,
+          "value": "dentist appointment",
+          "entity": "event_name"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

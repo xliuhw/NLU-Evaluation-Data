@@ -1,0 +1,201 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "try to play old nineties classic music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "nineties",
+          "entity": "music_genre"
+        },
+        {
+          "start": 25,
+          "end": 32,
+          "value": "classic",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play new rihanna song",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "rihanna",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "turn on some music",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "can you play my favorite music",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play party songs",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "party songs",
+          "entity": "music_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "please play the song games by disturbed",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "games",
+          "entity": "song_name"
+        },
+        {
+          "start": 30,
+          "end": 39,
+          "value": "disturbed",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to listen arijit singh song once again",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 17,
+          "end": 29,
+          "value": "arijit singh",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play my first favorite song on loop",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "can you play call me by aretha franklin after this song is finished playing",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 24,
+          "end": 39,
+          "value": "aretha franklin",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "Play best friends by yelawolf",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "best friends",
+          "entity": "song_name"
+        },
+        {
+          "start": 21,
+          "end": 29,
+          "value": "yelawolf",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "will you put on the music",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "start music",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "turn on my michael jackson playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 11,
+          "end": 26,
+          "value": "michael jackson",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play any song of arijit singh",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 17,
+          "end": 29,
+          "value": "arijit singh",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "hey play the songs from my playlist named good tunes",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 42,
+          "end": 52,
+          "value": "good tunes",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "play melody songs",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "melody",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "start play",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "start the satellite music feed",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play anything by cat stevens and i'll be happy",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 17,
+          "end": 28,
+          "value": "cat stevens",
+          "entity": "artist_name"
+        }
+      ]
+    }
+  ]
+}

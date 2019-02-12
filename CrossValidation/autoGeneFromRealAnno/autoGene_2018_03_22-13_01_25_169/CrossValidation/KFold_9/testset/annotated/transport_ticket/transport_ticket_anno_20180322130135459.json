@@ -1,0 +1,418 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "get train ticket",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "id like to get on the next train that will be departing indianapolis headed to chicago",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 56,
+          "end": 68,
+          "value": "indianapolis",
+          "entity": "place_name"
+        },
+        {
+          "start": 79,
+          "end": 86,
+          "value": "chicago",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "buy me a train ticket",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "i need to get to bristol Friday night can you book me a ticket please",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "bristol",
+          "entity": "place_name"
+        },
+        {
+          "start": 25,
+          "end": 31,
+          "value": "Friday",
+          "entity": "date"
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "value": "night",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "can you book a train ticket for my father",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 41,
+          "value": "father",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "i want the cheapest train ticket to new york",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 36,
+          "end": 44,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can i get a train ticket to",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "buy an acela train ticket on thursday",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "acela",
+          "entity": "transport_name"
+        },
+        {
+          "start": 13,
+          "end": 18,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 29,
+          "end": 37,
+          "value": "thursday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can you reserve a train ticket for this day",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "value": "this day",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "buy train tickets from delhi to mumbai for twenty third march",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 23,
+          "end": 28,
+          "value": "delhi",
+          "entity": "place_name"
+        },
+        {
+          "start": 32,
+          "end": 38,
+          "value": "mumbai",
+          "entity": "place_name"
+        },
+        {
+          "start": 43,
+          "end": 61,
+          "value": "twenty third march",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "train tickets for two people from delhi to mumbai",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 34,
+          "end": 39,
+          "value": "delhi",
+          "entity": "place_name"
+        },
+        {
+          "start": 43,
+          "end": 49,
+          "value": "mumbai",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book a train ticket to charleston west virginia eight am",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 23,
+          "end": 47,
+          "value": "charleston west virginia",
+          "entity": "place_name"
+        },
+        {
+          "start": 48,
+          "end": 56,
+          "value": "eight am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "buy a train ticket from lakeland florida to new york",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 24,
+          "end": 40,
+          "value": "lakeland florida",
+          "entity": "place_name"
+        },
+        {
+          "start": 44,
+          "end": 52,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you book a train ticket to berkeley for me",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 31,
+          "end": 39,
+          "value": "berkeley",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "Hello book train ticket from mumbai to sangli for tomorrow morning",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 29,
+          "end": 35,
+          "value": "mumbai",
+          "entity": "place_name"
+        },
+        {
+          "start": 39,
+          "end": 45,
+          "value": "sangli",
+          "entity": "place_name"
+        },
+        {
+          "start": 50,
+          "end": 58,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 59,
+          "end": 66,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "book a train ticket from los angeles to chicago that goes via miami",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 25,
+          "end": 36,
+          "value": "los angeles",
+          "entity": "place_name"
+        },
+        {
+          "start": 40,
+          "end": 47,
+          "value": "chicago",
+          "entity": "place_name"
+        },
+        {
+          "start": 53,
+          "end": 67,
+          "value": "goes via miami",
+          "entity": "transport_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "i need to go to dundee at five am on sunday by train",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "dundee",
+          "entity": "place_name"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "five am",
+          "entity": "time"
+        },
+        {
+          "start": 37,
+          "end": 43,
+          "value": "sunday",
+          "entity": "date"
+        },
+        {
+          "start": 47,
+          "end": 52,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book a train tickets for me",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book me a train ticket for this afternoon to chicago",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 27,
+          "end": 41,
+          "value": "this afternoon",
+          "entity": "timeofday"
+        },
+        {
+          "start": 45,
+          "end": 52,
+          "value": "chicago",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

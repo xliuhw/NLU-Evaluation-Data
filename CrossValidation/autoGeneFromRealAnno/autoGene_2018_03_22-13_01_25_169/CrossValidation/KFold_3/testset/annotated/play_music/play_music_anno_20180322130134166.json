@@ -1,0 +1,235 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "take me to music player",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 11,
+          "end": 23,
+          "value": "music player",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "play the romantic songs",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play music for me",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "please play michael jackson album",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 12,
+          "end": 27,
+          "value": "michael jackson",
+          "entity": "artist_name"
+        },
+        {
+          "start": 28,
+          "end": 33,
+          "value": "album",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play jack johnson playlist music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "jack johnson",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "find songs from my big band playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 19,
+          "end": 36,
+          "value": "big band playlist",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "play for me hip hop music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 12,
+          "end": 19,
+          "value": "hip hop",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play the last song from my most recent playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "last song",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "please i want to hear we will rock you from queen",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 22,
+          "end": 38,
+          "value": "we will rock you",
+          "entity": "song_name"
+        },
+        {
+          "start": 44,
+          "end": 49,
+          "value": "queen",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to listen to rock",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 20,
+          "end": 24,
+          "value": "rock",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "i want to listen jazz",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "jazz",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "now playing",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "i want to hear surfin usa",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 15,
+          "end": 25,
+          "value": "surfin usa",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play for me the music by the beatles",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 25,
+          "end": 36,
+          "value": "the beatles",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "google find and play florida georgia line the one with nelly",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 21,
+          "end": 49,
+          "value": "florida georgia line the one",
+          "entity": "song_name"
+        },
+        {
+          "start": 55,
+          "end": 60,
+          "value": "nelly",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play songs by adele",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "adele",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play the bjork album i've heard the least",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "bjork",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "get sia's cheap thrills ready to play next",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 4,
+          "end": 7,
+          "value": "sia",
+          "entity": "artist_name"
+        },
+        {
+          "start": 10,
+          "end": 23,
+          "value": "cheap thrills",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "best rap music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "rap",
+          "entity": "music_genre"
+        }
+      ]
+    }
+  ]
+}

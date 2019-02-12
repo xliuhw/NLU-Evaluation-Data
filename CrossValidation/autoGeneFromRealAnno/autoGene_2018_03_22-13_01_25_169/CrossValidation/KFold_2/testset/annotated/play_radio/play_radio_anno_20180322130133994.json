@@ -1,0 +1,208 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play the bob and tom show",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 20,
+          "value": "the bob and tom",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play bbc radio one",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "bbc radio one",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play my favorite station",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "i would like to listen to this programme on radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play bbc radio four",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 19,
+          "value": "bbc radio four",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "turn program on xmtune",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "xmtune",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "please play program on xmtune",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 23,
+          "end": 29,
+          "value": "xmtune",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play an fm",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play random radio station",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play npr through my living room stereo",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "npr",
+          "entity": "radio_name"
+        },
+        {
+          "start": 20,
+          "end": 31,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "change channel to one hundred and three",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 18,
+          "end": 39,
+          "value": "one hundred and three",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play me news radio channel",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "news",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "tune into the joe rogan show in ten minutes",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 14,
+          "end": 23,
+          "value": "joe rogan",
+          "entity": "person"
+        },
+        {
+          "start": 29,
+          "end": 43,
+          "value": "in ten minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "play radio ninety five point five",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 11,
+          "end": 33,
+          "value": "ninety five point five",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "turn on a country music station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "country",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "start my playlist on i heart radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 21,
+          "end": 34,
+          "value": "i heart radio",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "tune in some radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play any pop fm channel",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 9,
+          "end": 12,
+          "value": "pop",
+          "entity": "music_genre"
+        },
+        {
+          "start": 13,
+          "end": 15,
+          "value": "fm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "radio please",
+      "intent": "play_radio",
+      "entities": []
+    }
+  ]
+}

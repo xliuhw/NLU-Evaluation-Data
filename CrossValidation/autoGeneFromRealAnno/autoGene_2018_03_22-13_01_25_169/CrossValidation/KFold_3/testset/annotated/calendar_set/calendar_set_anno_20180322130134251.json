@@ -1,0 +1,320 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "set reminder notification for three o'clock",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 30,
+          "end": 35,
+          "value": "three",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "reminders",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "notify me an hour before my two pm appointment at the car dealership",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 28,
+          "end": 34,
+          "value": "two pm",
+          "entity": "time"
+        },
+        {
+          "start": 35,
+          "end": 46,
+          "value": "appointment",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "i need you to mark next monday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 24,
+          "end": 30,
+          "value": "monday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "let me know when my meetings are on monday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 20,
+          "end": 28,
+          "value": "meetings",
+          "entity": "event_name"
+        },
+        {
+          "start": 36,
+          "end": 42,
+          "value": "monday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "set a reminder for john's birthday next week",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 23,
+          "value": "john",
+          "entity": "person"
+        },
+        {
+          "start": 26,
+          "end": 34,
+          "value": "birthday",
+          "entity": "event_name"
+        },
+        {
+          "start": 35,
+          "end": 44,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "every wednesday night at five pm remind me to meet phil",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 0,
+          "end": 15,
+          "value": "every wednesday",
+          "entity": "general_frequency"
+        },
+        {
+          "start": 25,
+          "end": 32,
+          "value": "five pm",
+          "entity": "time"
+        },
+        {
+          "start": 51,
+          "end": 55,
+          "value": "phil",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "set a meeting with hongbin",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 19,
+          "end": 26,
+          "value": "hongbin",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "invite people to the calendar event",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "remind me tomorrow at four about an event",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 22,
+          "end": 26,
+          "value": "four",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "add practice to calendar on feb four at king's park at two pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 28,
+          "end": 36,
+          "value": "feb four",
+          "entity": "date"
+        },
+        {
+          "start": 40,
+          "end": 51,
+          "value": "king's park",
+          "entity": "place_name"
+        },
+        {
+          "start": 55,
+          "end": 61,
+          "value": "two pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set a two day notification before maria's birthday please",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 34,
+          "end": 39,
+          "value": "maria",
+          "entity": "person"
+        },
+        {
+          "start": 42,
+          "end": 50,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "let me know of the meeting on tuesday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 26,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 30,
+          "end": 37,
+          "value": "tuesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "meeting update my calendar to reflect meeting",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 30,
+          "end": 45,
+          "value": "reflect meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "remind me at the start of each month",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 26,
+          "end": 36,
+          "value": "each month",
+          "entity": "general_frequency"
+        }
+      ]
+    },
+    {
+      "text": "add my car payment on the twelfth in my calendar",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 7,
+          "end": 18,
+          "value": "car payment",
+          "entity": "event_name"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "twelfth",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "give me an update on the election in one hour",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "election",
+          "entity": "event_name"
+        },
+        {
+          "start": 37,
+          "end": 45,
+          "value": "one hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "on february fourteenth make dinner reservations at the restaurant",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 3,
+          "end": 22,
+          "value": "february fourteenth",
+          "entity": "date"
+        },
+        {
+          "start": 28,
+          "end": 34,
+          "value": "dinner",
+          "entity": "meal_type"
+        },
+        {
+          "start": 55,
+          "end": 65,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "repeating event meeting on mondays",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 27,
+          "end": 34,
+          "value": "mondays",
+          "entity": "general_frequency"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "whats on your list right now",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what's next on the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "tell me what is on my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "let me hear my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "i do have a to do list for today don't i",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "to do",
+          "entity": "list_name"
+        },
+        {
+          "start": 27,
+          "end": 32,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how many eggs are on my grocery list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "open the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "give me lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what else do i have on the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what are all the lists i have available",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "give me the list of the top five safest cars to buy",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what's in my list of tasks",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "tasks",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "list things on my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what's on the grocery list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 21,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what are listed",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "will you please show me my lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "did i make a shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 21,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "read the list",
+      "intent": "lists_query",
+      "entities": []
+    }
+  ]
+}

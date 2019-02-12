@@ -1,0 +1,253 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "tweet my complaint about my truck to consumer digest",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet to amazon about late delivery of my tv",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 9,
+          "end": 15,
+          "value": "amazon",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please tweet a complaint about slow service at applebee's",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 47,
+          "end": 55,
+          "value": "applebee",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please post this picture on facebook",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 28,
+          "end": 36,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "complain for cheating",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "hello can you give the contact details for a particular service centre",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "post i am happy to facebook",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "put this on my facebook",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the customer service feedback",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "can you tweet lif about their app crashing",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 14,
+          "end": 17,
+          "value": "lif",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet verizon customer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 6,
+          "end": 30,
+          "value": "verizon customer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "post the following status to facebook",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 29,
+          "end": 37,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet a complaint to amazon about late shipment",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 21,
+          "end": 27,
+          "value": "amazon",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet a complaint to kohl's customer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 21,
+          "end": 44,
+          "value": "kohl's customer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "siri open twitter tweet @potus sucks",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet complaint to dominoes",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 19,
+          "end": 27,
+          "value": "dominoes",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "send a tweet to national grid",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 16,
+          "end": 29,
+          "value": "national grid",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "send a tweet to company",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "i would like to place a call to amazon customer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 32,
+          "end": 55,
+          "value": "amazon customer service",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

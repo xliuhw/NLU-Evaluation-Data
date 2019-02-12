@@ -1,0 +1,308 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is a canadian dollar worth in the us",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 10,
+          "end": 25,
+          "value": "canadian dollar",
+          "entity": "currency_name"
+        },
+        {
+          "start": 39,
+          "end": 41,
+          "value": "us",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "convert one pound to us dollar",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "pound",
+          "entity": "currency_name"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "value": "us dollar",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how much is indian rupee going against us dollar",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 12,
+          "end": 24,
+          "value": "indian rupee",
+          "entity": "currency_name"
+        },
+        {
+          "start": 39,
+          "end": 48,
+          "value": "us dollar",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the exchange between dollar and british pound",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 29,
+          "end": 35,
+          "value": "dollar",
+          "entity": "currency_name"
+        },
+        {
+          "start": 40,
+          "end": 53,
+          "value": "british pound",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the us dollar equivalent of one euro",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "us dollar",
+          "entity": "currency_name"
+        },
+        {
+          "start": 40,
+          "end": 44,
+          "value": "euro",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "Show me popular exchange rates",
+      "intent": "qa_currency",
+      "entities": []
+    },
+    {
+      "text": "how much is twenty argentinian pesos in pounds",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 19,
+          "end": 36,
+          "value": "argentinian pesos",
+          "entity": "currency_name"
+        },
+        {
+          "start": 40,
+          "end": 46,
+          "value": "pounds",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the exchange rate of rupee for dollar",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 29,
+          "end": 34,
+          "value": "rupee",
+          "entity": "currency_name"
+        },
+        {
+          "start": 39,
+          "end": 45,
+          "value": "dollar",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how many dollars are there in a g. b. p.",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "dollars",
+          "entity": "currency_name"
+        },
+        {
+          "start": 32,
+          "end": 40,
+          "value": "g. b. p.",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "rate u. s. d. to g. b. p.",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 5,
+          "end": 13,
+          "value": "u. s. d.",
+          "entity": "currency_name"
+        },
+        {
+          "start": 17,
+          "end": 25,
+          "value": "g. b. p.",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how much is five dollars worth in euros",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "dollars",
+          "entity": "currency_name"
+        },
+        {
+          "start": 34,
+          "end": 39,
+          "value": "euros",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "u. s. d. position now",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "u. s. d.",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how much is two thousand yen in u. s. d.",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 25,
+          "end": 28,
+          "value": "yen",
+          "entity": "currency_name"
+        },
+        {
+          "start": 32,
+          "end": 40,
+          "value": "u. s. d.",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the current exchange rate of euro to dollar",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 37,
+          "end": 41,
+          "value": "euro",
+          "entity": "currency_name"
+        },
+        {
+          "start": 45,
+          "end": 51,
+          "value": "dollar",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the exchange rate as of today",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 32,
+          "end": 37,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's the rate between pesos and yen",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 24,
+          "end": 29,
+          "value": "pesos",
+          "entity": "currency_name"
+        },
+        {
+          "start": 34,
+          "end": 37,
+          "value": "yen",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the yen us dollar exchange rate",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 12,
+          "end": 15,
+          "value": "yen",
+          "entity": "currency_name"
+        },
+        {
+          "start": 16,
+          "end": 25,
+          "value": "us dollar",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the current exchange rate between dollars and euros",
+      "intent": "qa_currency",
+      "entities": []
+    },
+    {
+      "text": "convert one us dollar to british pound",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "us dollar",
+          "entity": "currency_name"
+        },
+        {
+          "start": 25,
+          "end": 38,
+          "value": "british pound",
+          "entity": "currency_name"
+        }
+      ]
+    }
+  ]
+}

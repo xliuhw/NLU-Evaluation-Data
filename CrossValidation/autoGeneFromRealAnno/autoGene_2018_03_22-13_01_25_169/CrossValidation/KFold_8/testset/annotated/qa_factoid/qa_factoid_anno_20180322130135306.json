@@ -1,0 +1,189 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please give height of lindsey lohan",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 22,
+          "end": 35,
+          "value": "lindsey lohan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how big is the tower of london",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "what is sean connery's birthday",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 8,
+          "end": 20,
+          "value": "sean connery",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "is keith richards dead",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 3,
+          "end": 17,
+          "value": "keith richards",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how many hook ups had richard feynman",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 22,
+          "end": 37,
+          "value": "richard feynman",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "who was in the beatles",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "beatles",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "how old is cher",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "cher",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "where was marlon brando born",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 10,
+          "end": 23,
+          "value": "marlon brando",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "i need to know about the height of mount everest",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "what is the length of amazon river",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 22,
+          "end": 34,
+          "value": "amazon river",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how old is carrie underwood",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 27,
+          "value": "carrie underwood",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "can cats eat fish",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "is the largest ocean in the world the pacific",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "world",
+          "entity": "place_name"
+        },
+        {
+          "start": 34,
+          "end": 45,
+          "value": "the pacific",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me about alexander the great",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 14,
+          "end": 33,
+          "value": "alexander the great",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what was the date when the plum street temple in cincinnati ohio was built",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "who built the prado museum",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "how old is kim kardashian",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 25,
+          "value": "kim kardashian",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please tell me about our country latitude and longitude",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "where is yellowstone park",
+      "intent": "qa_factoid",
+      "entities": []
+    }
+  ]
+}

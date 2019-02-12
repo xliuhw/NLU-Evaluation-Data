@@ -1,0 +1,3009 @@
+{
+  "userSays": [
+    {
+      "id": "6a002523-77c8-4473-9f96-334bdf808ddf",
+      "data": [
+        {
+          "text": "add newscast time to daily schedule"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b1ecad2b-e9b5-4d0b-ad8f-4b49c0a4089d",
+      "data": [
+        {
+          "text": "what were the cities affected by the earthquake"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5227c6f5-2e1d-4941-8d9a-2c5d025fcc4d",
+      "data": [
+        {
+          "text": "head lines "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " from news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0d9357be-b9eb-4b19-94c3-6fa14f81601d",
+      "data": [
+        {
+          "text": "what is the "
+        },
+        {
+          "text": "seattle",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "city council doing about homelessness",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ae0a3a27-3df2-484e-bfb9-295ef3ab73bf",
+      "data": [
+        {
+          "text": "find me any news from "
+        },
+        {
+          "text": "so clean",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": " the "
+        },
+        {
+          "text": "last six hours",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a6d119bc-de61-4932-ae67-56bb0f54de9f",
+      "data": [
+        {
+          "text": "what is the latest headline news from this "
+        },
+        {
+          "text": "newsource",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "026c3cba-4b4e-4529-bad7-959f430e1074",
+      "data": [
+        {
+          "text": "could you please find me the latest news from a source that i do not usually go to"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3e5f72aa-2f15-467a-8bab-cb04eba45c9d",
+      "data": [
+        {
+          "text": "please keep tabs on how the "
+        },
+        {
+          "text": "presidential debates",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " are going"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f52aa6d8-eb1d-4ec6-825e-6f5b8eb94e9a",
+      "data": [
+        {
+          "text": "what's happening around the "
+        },
+        {
+          "text": "world",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fa528a20-98fa-4aea-afb7-ec05dcf024c3",
+      "data": [
+        {
+          "text": "i want to know everything that breaks about the dam breaking in "
+        },
+        {
+          "text": "california",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "efd949c7-3044-49ee-b5f7-ba55ee022052",
+      "data": [
+        {
+          "text": "what is the latest news about "
+        },
+        {
+          "text": "obamacare",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9c65be80-b7f5-4f91-bcc7-b278fdae9b5e",
+      "data": [
+        {
+          "text": "show news of "
+        },
+        {
+          "text": "migration",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "15f39a25-2dfe-4db2-8542-823eac4eddd4",
+      "data": [
+        {
+          "text": "find new "
+        },
+        {
+          "text": "trump",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " articles but not from "
+        },
+        {
+          "text": "fox news",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "56e99662-8026-465b-aece-cde111356dff",
+      "data": [
+        {
+          "text": "what's the latest news from "
+        },
+        {
+          "text": "xinhua",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f74ff665-6346-4534-a211-7200c4288151",
+      "data": [
+        {
+          "text": "find me info on "
+        },
+        {
+          "text": "cars",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e32fd6d9-44d0-4a5c-a84e-492100ca03e4",
+      "data": [
+        {
+          "text": "Show me news from "
+        },
+        {
+          "text": "cnn",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1823311-7489-4895-ad58-ddb127d4f11c",
+      "data": [
+        {
+          "text": "what is the current state of "
+        },
+        {
+          "text": "brexit negotiations",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "685eeeab-632b-4ee0-9baa-70e3868e31b2",
+      "data": [
+        {
+          "text": "fast me the news of "
+        },
+        {
+          "text": "academy awards",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3d65ce95-2492-4b6d-ac0d-c447b5a553d2",
+      "data": [
+        {
+          "text": "i want the news about "
+        },
+        {
+          "text": "academy awards",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4667f156-b632-4417-9b0a-e2bb67ce08c8",
+      "data": [
+        {
+          "text": "latest updates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "46b1132d-24db-43b6-a239-996049a61d31",
+      "data": [
+        {
+          "text": "hey olly tell my "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s top news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fdd2a9bc-5430-4d3f-ad5d-6c2eff208335",
+      "data": [
+        {
+          "text": "is there any new "
+        },
+        {
+          "text": "environmental",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5fe13ce4-1e88-4665-b47d-da709a01d279",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "hackernews",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aa62f5a3-dd10-49f5-8ba0-d151d82c510b",
+      "data": [
+        {
+          "text": "look up news articles about "
+        },
+        {
+          "text": "trump",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f41d0153-fd8b-4ce9-80f2-458fe74595cf",
+      "data": [
+        {
+          "text": "headline news for "
+        },
+        {
+          "text": "texas",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0cc4eed0-1229-488e-936c-eec2c4450c85",
+      "data": [
+        {
+          "text": "give me the "
+        },
+        {
+          "text": "winning numbers to the powerball lottery",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a7cea54f-c752-4d91-b3d2-68020e4e6d4b",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "dea guam prescription drug abuse on the rise",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ca376ff3-d9d8-483d-9c6b-0cb915f5d721",
+      "data": [
+        {
+          "text": "what is the latest news from "
+        },
+        {
+          "text": "cbs",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5f41ca06-8e40-40db-9b4c-4d249d44b593",
+      "data": [
+        {
+          "text": "what's going on at the "
+        },
+        {
+          "text": "capitol",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c327150b-731c-43bc-97af-f2b14aeee810",
+      "data": [
+        {
+          "text": "please find me the pe most recent news on"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "88ce73a2-4740-44b1-bbec-b2c239255bf6",
+      "data": [
+        {
+          "text": "what is new news for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d8b96a46-10a9-42ae-85a1-8ec0b3411e15",
+      "data": [
+        {
+          "text": "what are the most recent headlines on "
+        },
+        {
+          "text": "cnn",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eecb18a7-73ed-43b2-bd46-1693714e2683",
+      "data": [
+        {
+          "text": "is anything different "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " about "
+        },
+        {
+          "text": "blank",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4c0c6925-32ea-4230-8697-314991df931f",
+      "data": [
+        {
+          "text": "what's happening "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5317b89d-b775-4fe0-93da-4f1106ecec6c",
+      "data": [
+        {
+          "text": "search for the latest news about "
+        },
+        {
+          "text": "iphone",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f0886908-06cb-4293-850b-03bd31ac6ded",
+      "data": [
+        {
+          "text": "what is new in "
+        },
+        {
+          "text": "politics",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " can you filter out "
+        },
+        {
+          "text": "trump",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " news though"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "43e5c4d4-a1dc-4150-8e4d-61eb8cfa6745",
+      "data": [
+        {
+          "text": "what went on in the world "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "825a6b52-61a3-47ab-af92-5d71d15bf025",
+      "data": [
+        {
+          "text": "how are things in the "
+        },
+        {
+          "text": "world",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "670f30f7-b1cc-4e0f-9423-ec744a5799e0",
+      "data": [
+        {
+          "text": "how is "
+        },
+        {
+          "text": "president's trump office proceeding",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7dad7d5a-e243-4c64-b0c6-9263d575fea5",
+      "data": [
+        {
+          "text": "show me "
+        },
+        {
+          "text": "rediff masala",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7de299ba-fb9c-4c7e-a109-58594e1ecad9",
+      "data": [
+        {
+          "text": "keep me updated on the "
+        },
+        {
+          "text": "election",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " results"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "762c9ed1-8345-4c4a-9c9f-9fe53ba08756",
+      "data": [
+        {
+          "text": "what are "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s headlines"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "378fc3e6-c2ee-42b6-9637-00fe638e9c55",
+      "data": [
+        {
+          "text": "breaking news "
+        },
+        {
+          "text": "fox",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": " news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ad8c3b4c-4464-45d6-86ff-6cfad63c99ac",
+      "data": [
+        {
+          "text": "what is the news "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "25412a5c-16b6-493f-8dc6-52fdc3e88061",
+      "data": [
+        {
+          "text": "what does the analysts say about the new "
+        },
+        {
+          "text": "immigration policies",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f84ba529-439a-4e71-876f-92c003a8e08d",
+      "data": [
+        {
+          "text": "check the news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6dd98567-fd91-4634-b43e-90e3b5655244",
+      "data": [
+        {
+          "text": "please let me know about topic "
+        },
+        {
+          "text": "elections",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3e507f9c-5828-45dc-86aa-951a3baf080d",
+      "data": [
+        {
+          "text": "show current news from "
+        },
+        {
+          "text": "bbc",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "77dd22be-42db-4d15-b1c0-cec595890c25",
+      "data": [
+        {
+          "text": "tell me the top stories in the news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0bdd5b02-4395-4136-bb4a-873c5a36b9f3",
+      "data": [
+        {
+          "text": "open news about "
+        },
+        {
+          "text": "bp oil",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "864d306d-63bb-4c93-9f45-baf3d3a3732e",
+      "data": [
+        {
+          "text": "get me "
+        },
+        {
+          "text": "match highlights",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "39482128-a679-4746-bd88-5f296859cc47",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "trending",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e7ba449c-83ef-4f6b-a28b-dae15bbb00b1",
+      "data": [
+        {
+          "text": "let me know when you hear about "
+        },
+        {
+          "text": "france",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "09701a91-8e80-442b-856e-02b39fa5d8cc",
+      "data": [
+        {
+          "text": "give me the latest on "
+        },
+        {
+          "text": "paul ryan",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5e545915-006f-4639-b1f3-1532ccfe700a",
+      "data": [
+        {
+          "text": "have there been updates on "
+        },
+        {
+          "text": "abortion law",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fa0bab58-7e2c-492c-a564-5b5ed45bdc9a",
+      "data": [
+        {
+          "text": "what is the "
+        },
+        {
+          "text": "bbc",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": "'s latest news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2ef846d9-d6e6-4b19-9913-a8a7c1429568",
+      "data": [
+        {
+          "text": "check for recent news stories on "
+        },
+        {
+          "text": "msnbc",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8e66cc71-1500-4684-a3cf-8fe03ed5959e",
+      "data": [
+        {
+          "text": "what is latest on the recent events happening right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7f42b342-3a9d-4ba8-ac8e-723d7c57d159",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "people canceling iowa vacations over congressman's words",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "65c8b5b5-b1b4-4fbb-bbad-fe5b8a608542",
+      "data": [
+        {
+          "text": "top news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07b32364-e9ef-4140-81f5-30e4af3b2654",
+      "data": [
+        {
+          "text": "what is happening with "
+        },
+        {
+          "text": "brexit",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8e4f7788-bcc4-4b39-9d09-ca8a485273e2",
+      "data": [
+        {
+          "text": "what's happening in "
+        },
+        {
+          "text": "world",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " news "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "22b6bce6-43a8-457d-8705-3fd641b12872",
+      "data": [
+        {
+          "text": "what and how is "
+        },
+        {
+          "text": "india's economy",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " at the moment"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f1c2a4ab-af2c-46db-b3ac-54ef0758ff03",
+      "data": [
+        {
+          "text": "keep me informed about "
+        },
+        {
+          "text": "bitcoin price",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "899de993-d6b1-42a9-8571-77721f824fb0",
+      "data": [
+        {
+          "text": "what happened "
+        },
+        {
+          "text": "last week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ac604991-bd94-4cb8-9260-57e4578e91b6",
+      "data": [
+        {
+          "text": "what is the news about "
+        },
+        {
+          "text": "terrorist attack",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "afghanistan",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "82195c38-d893-4674-98f0-6ed0ff6fe54e",
+      "data": [
+        {
+          "text": "what news updates are there from "
+        },
+        {
+          "text": "news express",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "83ec905a-07e7-4285-9f96-e3eb076eefc2",
+      "data": [
+        {
+          "text": "what's happening on "
+        },
+        {
+          "text": "bbc",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": " news "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "79818c42-e46a-4818-8679-438a930fee8b",
+      "data": [
+        {
+          "text": "let me know the latest "
+        },
+        {
+          "text": "weather",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07730e47-43f3-4817-9744-d1c23c97d0eb",
+      "data": [
+        {
+          "text": "what are the news notification"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f914130-5007-48cd-aaa8-d6bb0ee27633",
+      "data": [
+        {
+          "text": "find me news about "
+        },
+        {
+          "text": "trumps speech",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "94ceda44-d31f-481f-83ff-41d53faf2650",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "cnn",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": " headlines"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "413e8704-9327-4bf1-9065-2b18ae95ef42",
+      "data": [
+        {
+          "text": "tell me about current status of "
+        },
+        {
+          "text": "sunderland vs liverpool match",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2a52aed6-5bc1-41a7-87bd-755b6fe577e1",
+      "data": [
+        {
+          "text": "what's happening in the news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7d4f29cf-4f50-413c-9b39-436411f6db64",
+      "data": [
+        {
+          "text": "get latest news report on "
+        },
+        {
+          "text": "kidnapping",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "ny",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "25b8d0dd-c57b-4f06-a7a2-1f1a5d8e8e88",
+      "data": [
+        {
+          "text": "can you give me the latest "
+        },
+        {
+          "text": "sports",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "92763177-eccf-4ef8-9231-175dca10015f",
+      "data": [
+        {
+          "text": "open "
+        },
+        {
+          "text": "cnn",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": " app"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0152962d-c181-41e9-af98-e422334835d5",
+      "data": [
+        {
+          "text": "what is happening in the "
+        },
+        {
+          "text": "world",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "655e54c1-1247-421c-8cbe-c906d2a6acdf",
+      "data": [
+        {
+          "text": "what is new"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "86bd1792-ab28-4aac-81fd-1ee2c58f1635",
+      "data": [
+        {
+          "text": "has anything happened to "
+        },
+        {
+          "text": "mass effect",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7a537ab3-9918-4c10-87c4-bb77d966b136",
+      "data": [
+        {
+          "text": "tell me the news about "
+        },
+        {
+          "text": "jallikattu",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "tamil nadu",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e15a95e9-2e37-4bf1-a6a4-fc2821904c4c",
+      "data": [
+        {
+          "text": "please tell me the latest news about "
+        },
+        {
+          "text": "politics",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4270131a-e2d7-475e-bd58-d1417a839d42",
+      "data": [
+        {
+          "text": "what's the latest on "
+        },
+        {
+          "text": "the travel ban",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9a073c64-cacd-4f9d-bd4a-0aa5c627bbe8",
+      "data": [
+        {
+          "text": "set notification from "
+        },
+        {
+          "text": "world news",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "253cea79-5cb5-43e6-a3b5-0b044f9bb13c",
+      "data": [
+        {
+          "text": "i want to know the latest "
+        },
+        {
+          "text": "local news",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "the city",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8cfddec9-26d3-4050-bbb2-7b73ef091fee",
+      "data": [
+        {
+          "text": "tell me about the latest "
+        },
+        {
+          "text": "sports",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "76dd3ad2-7233-4746-9bc0-2a4a08316dfc",
+      "data": [
+        {
+          "text": "get news about new "
+        },
+        {
+          "text": "foreign policy",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2bfdc857-b1a3-4269-ab38-3517f345089c",
+      "data": [
+        {
+          "text": "open the "
+        },
+        {
+          "text": "local news",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": " app"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ef615f8-24c2-4fd4-b94e-4e05a4007748",
+      "data": [
+        {
+          "text": "what is latest news about this "
+        },
+        {
+          "text": "world",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "71b47bf5-d309-42fb-be2b-12e187228c75",
+      "data": [
+        {
+          "text": "tell me about the "
+        },
+        {
+          "text": "presidential race",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ad8584a3-512c-41c8-a76c-a580319170b9",
+      "data": [
+        {
+          "text": "what's happened in the news recently"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "96cfd78a-b520-442e-80aa-b6daf29eb2e2",
+      "data": [
+        {
+          "text": "what's the latest news on "
+        },
+        {
+          "text": "donald trump",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "802f05ef-ec8d-412e-a4e0-f678010af468",
+      "data": [
+        {
+          "text": "please tell me the latest news about the "
+        },
+        {
+          "text": "election scenario",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " in our "
+        },
+        {
+          "text": "state",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b87922f0-2250-4759-bc82-0a23ffad2f85",
+      "data": [
+        {
+          "text": "whats the latest"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4443b608-4b43-4d02-9eb2-61f80ac8808b",
+      "data": [
+        {
+          "text": "what are the top stories on "
+        },
+        {
+          "text": "cnn",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d0a25211-fe69-49d6-ab88-199a5ccf0add",
+      "data": [
+        {
+          "text": "give me "
+        },
+        {
+          "text": "international",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8dfee276-b7f9-4863-832f-5c397c2a9b6f",
+      "data": [
+        {
+          "text": "what is the latest news on "
+        },
+        {
+          "text": "sprint",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e01b21c9-e801-41f6-8a29-d45796a999ce",
+      "data": [
+        {
+          "text": "what are they saying about "
+        },
+        {
+          "text": "donald trump",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " on this topic"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ffe7ec3-9bc7-4c8c-9062-beab042385e2",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "usa today",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": " headlines"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7a4d11d2-f5a4-445e-85f5-649855de7887",
+      "data": [
+        {
+          "text": "read me the most updated news on "
+        },
+        {
+          "text": "bbc",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f7bdfbad-6bf8-47e0-b327-2b15624ca389",
+      "data": [
+        {
+          "text": "i would like to know the latest from "
+        },
+        {
+          "text": "nbc news",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c48079e1-fa17-4353-9a59-ff1cb0db577e",
+      "data": [
+        {
+          "text": "find the "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s news about "
+        },
+        {
+          "text": "emigration legislation",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "us",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "414735b8-40e6-49af-9203-2181f82024be",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "political",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " news of importance for the day"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8f913a0e-d9f8-4dc2-895a-d3f581422db1",
+      "data": [
+        {
+          "text": "what happened "
+        },
+        {
+          "text": "yesterday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "samurai jack",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f1b610e-eec0-4b96-b941-ff8b3cc5ccfb",
+      "data": [
+        {
+          "text": "what's the latest news about "
+        },
+        {
+          "text": "us election",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "479ed453-7037-4cb4-ba82-af38524671e5",
+      "data": [
+        {
+          "text": "latest updates on "
+        },
+        {
+          "text": "syrian civil war",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a8083deb-e01d-48cf-bb1f-21e23e1d668d",
+      "data": [
+        {
+          "text": "i need "
+        },
+        {
+          "text": "sport",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": "'s news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b13d8151-b574-49f7-9e34-ac81370cfc32",
+      "data": [
+        {
+          "text": "get me the latest news of "
+        },
+        {
+          "text": "world",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c0fb7788-4cf0-4821-a4b1-fd5b8d9dc194",
+      "data": [
+        {
+          "text": "what is happening in the "
+        },
+        {
+          "text": "world",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3549467c-84cb-4164-8261-69714b37ee4c",
+      "data": [
+        {
+          "text": "keep me up to date on the "
+        },
+        {
+          "text": "election",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a484233-86b8-496d-8021-119bf2a87999",
+      "data": [
+        {
+          "text": "access latest news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3a5eddac-8e5b-4ab7-a12e-68ca77289287",
+      "data": [
+        {
+          "text": "which teams are playing "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "premier league",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "35897c80-2655-4582-95ad-4a53643332c4",
+      "data": [
+        {
+          "text": "let me know if anything happens on that subject"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eb12320e-9bb3-43ec-ba96-add46d9a8d0e",
+      "data": [
+        {
+          "text": "what is happening in the "
+        },
+        {
+          "text": "world",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "090dccb1-3115-41e7-b21a-dbd87699df21",
+      "data": [
+        {
+          "text": "show latest news about "
+        },
+        {
+          "text": "migration",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8f490f03-55cd-4179-be5f-29a5104e7d96",
+      "data": [
+        {
+          "text": "the current news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0989f5d9-2ed9-4c4a-8a01-3d4b1accda38",
+      "data": [
+        {
+          "text": "Show me articles about "
+        },
+        {
+          "text": "the new iphone eight",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bc1cb9ba-98df-4294-98dd-c77ead9c3158",
+      "data": [
+        {
+          "text": "please tell me the news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8dbd3c0e-bfc3-4b9b-9aca-5045cf9c01b8",
+      "data": [
+        {
+          "text": "give me the headlines from "
+        },
+        {
+          "text": "sky news",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cce51479-f5d1-414e-abae-b5585c699919",
+      "data": [
+        {
+          "text": "is there any new news on "
+        },
+        {
+          "text": "trump",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aec77969-7571-4beb-8771-6858c1d7b914",
+      "data": [
+        {
+          "text": "give me the latest updates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "91bcdd9b-b9f0-4420-8db1-e090eae3697d",
+      "data": [
+        {
+          "text": "pull up my "
+        },
+        {
+          "text": "cnn",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": " app and read it to me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d2f4b64a-98f4-4d26-b71d-4d27363070d6",
+      "data": [
+        {
+          "text": "can you tell me a latest news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "08eebdb0-9382-4c8c-8f6b-c3b9c9b76471",
+      "data": [
+        {
+          "text": "google search the topic"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cedb07ea-e9b5-445e-a58b-2b8c66ac9913",
+      "data": [
+        {
+          "text": "can the latest news be pulled up on the latest "
+        },
+        {
+          "text": "weather forecast",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " for the week"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d453a821-7a79-458c-b537-0a2ec8259495",
+      "data": [
+        {
+          "text": "how is the news in "
+        },
+        {
+          "text": "ireland",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "40c72c51-b1e7-4166-914c-466a4d8638c9",
+      "data": [
+        {
+          "text": "what is the latest on "
+        },
+        {
+          "text": "donald trump",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "21afece8-e005-4c72-acfd-d51b96fba5a7",
+      "data": [
+        {
+          "text": "update me on the "
+        },
+        {
+          "text": "standing rock protest",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ca558ae2-e7d2-424e-954e-2f0eb3dde029",
+      "data": [
+        {
+          "text": "new policies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ad74f57-86d6-4420-91a1-ad0be305b8d7",
+      "data": [
+        {
+          "text": "get me news on "
+        },
+        {
+          "text": "trump",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ccdde59f-e949-4ce7-8e2a-b078357c4ca6",
+      "data": [
+        {
+          "text": "please advise what the current news is on "
+        },
+        {
+          "text": "fox news",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dae9ee37-8d93-4077-bee8-d6168bf8d4ca",
+      "data": [
+        {
+          "text": "latest news update"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "77e6b0c2-1ba0-4c7f-a10a-62e2a8e1cddf",
+      "data": [
+        {
+          "text": "what's happening with the "
+        },
+        {
+          "text": "hurricane in the gulf",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e9fe79b1-909e-465f-b447-8802276e0866",
+      "data": [
+        {
+          "text": "what's happening in "
+        },
+        {
+          "text": "news express",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9389cb98-f607-4219-9760-2b82a3b8b3f1",
+      "data": [
+        {
+          "text": "give me the news on "
+        },
+        {
+          "text": "donald trump",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ebeaecf9-a087-4495-90e1-4172c7dc22cb",
+      "data": [
+        {
+          "text": "whats happening in "
+        },
+        {
+          "text": "football",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "43bbd1a0-a1fe-4052-80c0-c3205cc19922",
+      "data": [
+        {
+          "text": "what is currently breaking news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2ccaad4f-c409-45cd-868d-0a87e2481d08",
+      "data": [
+        {
+          "text": "are there any status updates on "
+        },
+        {
+          "text": "cnn",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": " news "
+        },
+        {
+          "text": "facebook",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": " page"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5723df52-0c86-47d6-a551-883a5f6da3a4",
+      "data": [
+        {
+          "text": "newest "
+        },
+        {
+          "text": "world",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "615d3935-dd64-4dfa-8cb6-ff047512b2d5",
+      "data": [
+        {
+          "text": "any local news stories for my home city"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cc0cea59-63ba-442a-b69a-d805afd114df",
+      "data": [
+        {
+          "text": "what's going on in "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4ee4a9fb-5a23-4888-9879-c2602ecc95ce",
+      "data": [
+        {
+          "text": "please provide "
+        },
+        {
+          "text": "world",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " hot news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7553b17-9f43-4e34-b402-e3faea554102",
+      "data": [
+        {
+          "text": "tell me if an "
+        },
+        {
+          "text": "earthquake",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " happens in the world"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d03e5e7b-d487-4ce3-87ea-b4af80c19d2b",
+      "data": [
+        {
+          "text": "can you get me news from "
+        },
+        {
+          "text": "ny",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " times"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e10ea9d1-4d1a-4d47-b528-581aa80d2950",
+      "data": [
+        {
+          "text": "current news "
+        },
+        {
+          "text": "cnn",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ce10b418-fc59-4320-9bcd-0e9233023bd5",
+      "data": [
+        {
+          "text": "show me the latest news from the "
+        },
+        {
+          "text": "un",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "93588d7b-7de9-4a24-ae4d-761f74544a4b",
+      "data": [
+        {
+          "text": "read me the front page of the "
+        },
+        {
+          "text": "new york times",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cfaaa1d2-9765-4a01-8355-f3323ae756a0",
+      "data": [
+        {
+          "text": "please tell me some "
+        },
+        {
+          "text": "international",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f79e0187-2d9a-478c-9d78-72b36f6b9e4a",
+      "data": [
+        {
+          "text": "will "
+        },
+        {
+          "text": "trump",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " visit "
+        },
+        {
+          "text": "russia",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " anytime soon"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fde79234-6de1-4179-b9ce-6e8ff449dfac",
+      "data": [
+        {
+          "text": "what is the news "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "polk county florida",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "375c3075-7dd7-4fd0-9a2e-19916c1599dc",
+      "data": [
+        {
+          "text": "did the yankees win "
+        },
+        {
+          "text": "last night",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "14017f55-ab09-4393-ba9d-c1d6385cfdda",
+      "data": [
+        {
+          "text": "give me "
+        },
+        {
+          "text": "election",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " updates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4a55bc1f-1885-44e0-9e89-0809e63575d7",
+      "data": [
+        {
+          "text": "notification regarding the "
+        },
+        {
+          "text": "new iphone release update",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "70fe9a46-7bb4-4c9d-bb79-fc9b77c12cf3",
+      "data": [
+        {
+          "text": "get news from "
+        },
+        {
+          "text": "bbc",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bcd959d6-9c4d-4666-bbba-7fc1402e4a72",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "iphone",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2309766f-8ba7-4a30-91ad-8b63ced1b9de",
+      "data": [
+        {
+          "text": "what's going on in the "
+        },
+        {
+          "text": "world",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " these days"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "346309e5-a3a9-41d0-8bfa-769541caab7f",
+      "data": [
+        {
+          "text": "give me the news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5219ecf4-8094-4afe-a601-b669add8d613",
+      "data": [
+        {
+          "text": "i want to read "
+        },
+        {
+          "text": "yahoo news",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f9d6cfda-f6e0-45c8-9f80-340f3c793851",
+      "data": [
+        {
+          "text": "headlines from "
+        },
+        {
+          "text": "dhaka tribune",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9b3119b8-d238-4987-bfd2-e922d4bbe185",
+      "data": [
+        {
+          "text": "what is the headline from "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "morning local news",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9cc38abf-e7b7-431f-ad73-b83fdf12fff9",
+      "data": [
+        {
+          "text": "get me the latest news in "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3e5c4334-1547-4c5b-b39d-9e02cf07cee3",
+      "data": [
+        {
+          "text": "what are the news stories on the "
+        },
+        {
+          "text": "cnn",
+          "alias": "media_type",
+          "meta": "@media_type",
+          "userDefined": true
+        },
+        {
+          "text": " website"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8363bcb6-977e-4557-948f-45b2e3f9d712",
+      "data": [
+        {
+          "text": "latest news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b2e6d856-5957-42b0-ab44-0b4c69ee2ee9",
+      "data": [
+        {
+          "text": "olly please read me "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f3a287d1-0417-4e16-a2e3-200a604d59f8",
+      "data": [
+        {
+          "text": "what is trending in tech "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "504d5483-80a1-439b-bdc4-1b400d78f945",
+      "data": [
+        {
+          "text": "give me the headline news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7ec2636-c04d-4110-a21a-e5f2112675e7",
+      "data": [
+        {
+          "text": "get me fresh news"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "57d6338b-942d-4ff0-9399-d7828fb39483",
+      "data": [
+        {
+          "text": "please share up to the minute details on "
+        },
+        {
+          "text": "sprint",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "42688259-bd8d-4894-a9d7-6768f833b29e",
+      "data": [
+        {
+          "text": "any recent news about "
+        },
+        {
+          "text": "north korea",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c9ed5629-16d0-4909-a402-52d98fbf65ab",
+      "data": [
+        {
+          "text": "tell the latest news about the "
+        },
+        {
+          "text": "trump",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4ed70f49-63f1-4243-b203-c92701b6ec61",
+      "data": [
+        {
+          "text": "tell me updates"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "624d5a6f-db38-4936-9c49-31c023f6a3eb",
+      "data": [
+        {
+          "text": "is "
+        },
+        {
+          "text": "india win today cricket match",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b6ea71c-8242-4339-8095-8ecff0dde83c",
+      "data": [
+        {
+          "text": "automobiles"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "925a87d8-2cdd-412b-8c5b-186cc038fc94",
+      "data": [
+        {
+          "text": "is "
+        },
+        {
+          "text": "snap",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        },
+        {
+          "text": " doing good after the "
+        },
+        {
+          "text": "ipo",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1fc108f8-7154-41c2-9b82-bdfc560a320c",
+      "data": [
+        {
+          "text": "can you search "
+        },
+        {
+          "text": "trump",
+          "alias": "news_topic",
+          "meta": "@news_topic",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "9a2025bf-87bd-456b-a635-14276fc7c933",
+  "name": "news_query",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@date",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "dataType": "@media_type",
+          "name": "media_type",
+          "value": "$media_type"
+        },
+        {
+          "dataType": "@news_topic",
+          "name": "news_topic",
+          "value": "$news_topic"
+        },
+        {
+          "dataType": "@person",
+          "name": "person",
+          "value": "$person"
+        },
+        {
+          "dataType": "@place_name",
+          "name": "place_name",
+          "value": "$place_name"
+        },
+        {
+          "dataType": "@time",
+          "name": "time",
+          "value": "$time"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

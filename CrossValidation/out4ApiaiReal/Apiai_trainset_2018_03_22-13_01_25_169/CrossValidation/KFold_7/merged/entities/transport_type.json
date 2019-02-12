@@ -1,0 +1,33 @@
+{
+  "id": "3db24bac-519f-4dec-9dbc-a235f027d74f",
+  "name": "transport_type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "train",
+      "synonyms": [
+        "train"
+      ]
+    },
+    {
+      "value": "bus",
+      "synonyms": [
+        "bus"
+      ]
+    },
+    {
+      "value": "trains",
+      "synonyms": [
+        "trains"
+      ]
+    },
+    {
+      "value": "walk",
+      "synonyms": [
+        "walk"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": true
+}

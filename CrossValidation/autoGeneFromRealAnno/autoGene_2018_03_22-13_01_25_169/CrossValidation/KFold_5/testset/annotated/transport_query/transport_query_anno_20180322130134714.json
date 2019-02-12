@@ -1,0 +1,357 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "train to athens how to",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "athens",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what time is the train to san francisco due",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 26,
+          "end": 39,
+          "value": "san francisco",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "go to agha station",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 6,
+          "end": 18,
+          "value": "agha station",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how do i get to the mall",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "the mall",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what time does the train arrive at edinburgh",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 44,
+          "value": "edinburgh",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how do i get from where i'm at to universal in orlando florida",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 43,
+          "value": "universal",
+          "entity": "place_name"
+        },
+        {
+          "start": 47,
+          "end": 62,
+          "value": "orlando florida",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "train times location",
+      "intent": "transport_query",
+      "entities": []
+    },
+    {
+      "text": "tell me how to get from here to the chimes in covington",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 55,
+          "value": "chimes in covington",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what time does the last train arrive in dallas",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 29,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 40,
+          "end": 46,
+          "value": "dallas",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please tell em the list of trains to chicago via california",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 33,
+          "value": "trains",
+          "entity": "transport_type"
+        },
+        {
+          "start": 37,
+          "end": 44,
+          "value": "chicago",
+          "entity": "place_name"
+        },
+        {
+          "start": 49,
+          "end": 59,
+          "value": "california",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "search for trains leaving tonight for london",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 33,
+          "value": "tonight",
+          "entity": "timeofday"
+        },
+        {
+          "start": 38,
+          "end": 44,
+          "value": "london",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is time of indianapolis express",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 36,
+          "value": "indianapolis express",
+          "entity": "transport_name"
+        }
+      ]
+    },
+    {
+      "text": "how long is it from dalls to san antonio by train",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "dalls",
+          "entity": "place_name"
+        },
+        {
+          "start": 29,
+          "end": 40,
+          "value": "san antonio",
+          "entity": "place_name"
+        },
+        {
+          "start": 44,
+          "end": 49,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me the trains from california to new jersey after eleven pm",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "trains",
+          "entity": "transport_type"
+        },
+        {
+          "start": 24,
+          "end": 34,
+          "value": "california",
+          "entity": "place_name"
+        },
+        {
+          "start": 38,
+          "end": 48,
+          "value": "new jersey",
+          "entity": "place_name"
+        },
+        {
+          "start": 49,
+          "end": 64,
+          "value": "after eleven pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "what are the train times between eight am and ten am at east chicago station going west on sunday",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "value": "eight am",
+          "entity": "time"
+        },
+        {
+          "start": 46,
+          "end": 52,
+          "value": "ten am",
+          "entity": "time"
+        },
+        {
+          "start": 56,
+          "end": 76,
+          "value": "east chicago station",
+          "entity": "place_name"
+        },
+        {
+          "start": 83,
+          "end": 87,
+          "value": "west",
+          "entity": "place_name"
+        },
+        {
+          "start": 91,
+          "end": 97,
+          "value": "sunday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the departure time for the next train leaving new york city",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 40,
+          "end": 45,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 54,
+          "end": 67,
+          "value": "new york city",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "give me train times from station to location",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 25,
+          "end": 32,
+          "value": "station",
+          "entity": "place_name"
+        },
+        {
+          "start": 36,
+          "end": 44,
+          "value": "location",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what times do the trains run between here and the met",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 50,
+          "end": 53,
+          "value": "met",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how can i go from boston to new york by train",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 24,
+          "value": "boston",
+          "entity": "place_name"
+        },
+        {
+          "start": 28,
+          "end": 36,
+          "value": "new york",
+          "entity": "place_name"
+        },
+        {
+          "start": 40,
+          "end": 45,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i need to submit a complaint",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "open twitter type my complaint and post to @consumer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "twitter",
+          "entity": "media_type"
+        },
+        {
+          "start": 43,
+          "end": 60,
+          "value": "@consumer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet consumer service that the quantity is wrong",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 6,
+          "end": 22,
+          "value": "consumer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "send a tweet to kroger about being overcharged for groceries",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 16,
+          "end": 22,
+          "value": "kroger",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "send twitter to mattel that they need to stop making toys in china",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "twitter",
+          "entity": "media_type"
+        },
+        {
+          "start": 16,
+          "end": 22,
+          "value": "mattel",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "post a tweet as follows very bad follow up by abc company not satisfied in my account",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "it would be nice if you post status for me",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "send a tweet to kroger about spoiled milk",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 16,
+          "end": 22,
+          "value": "kroger",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "bring up twitter to target customer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tell company their service is bad",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "please send a complaint to someone",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 27,
+          "end": 34,
+          "value": "someone",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tell comcast their customer service is slow",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "comcast",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet consumer service that i am very disappointed with my recent interaction",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 6,
+          "end": 22,
+          "value": "consumer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "write a tweet to this company",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "post complaint about service a",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "let national grid know the power is out again",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 4,
+          "end": 17,
+          "value": "national grid",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "@nikesupport i need some assistance regarding some shoes i bought last week",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "@nikesupport",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "hello my item which i bought from some one has gone out of order",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "please post so bored to facebook",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 24,
+          "end": 32,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

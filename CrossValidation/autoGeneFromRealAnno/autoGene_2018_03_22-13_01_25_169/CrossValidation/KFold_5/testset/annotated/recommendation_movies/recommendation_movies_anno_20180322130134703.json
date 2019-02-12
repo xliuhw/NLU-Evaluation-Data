@@ -1,0 +1,89 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what do you suggest that i watch this weekend",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 33,
+          "end": 45,
+          "value": "this weekend",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what film should i watch",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "movies with good reviews",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what's a good movie that's out right now",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "fast and the furious",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 0,
+          "end": 20,
+          "value": "fast and the furious",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "what are good movies playing now",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "show me best in class theatre",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "theatre",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what movies are being shown at the regal cinema",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 35,
+          "end": 47,
+          "value": "regal cinema",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "whats a new sci fi movie",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "sci fi",
+          "entity": "movie_type"
+        }
+      ]
+    },
+    {
+      "text": "suggest movies and songs that i would like but that aren't necessarily like ones i've already said i like",
+      "intent": "recommendation_movies",
+      "entities": []
+    }
+  ]
+}

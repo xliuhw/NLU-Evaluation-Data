@@ -1,0 +1,109 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "increase light brightness",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "can you please turn up the lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "turn the chandelier all the way up",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "make it brighter in here please",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "increase the brightness of lights bedroom",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 34,
+          "end": 41,
+          "value": "bedroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "increase the brightness of the light it is hard to see down here",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "raise lights to full power",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 13,
+          "end": 26,
+          "value": "to full power",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "more light please",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "make it brighter",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "bring up all the runner lights",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 17,
+          "end": 23,
+          "value": "runner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "slightly raise the light",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "slightly",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "lights up",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "please raise the lights to max",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 24,
+          "end": 30,
+          "value": "to max",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "please increase the light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    }
+  ]
+}

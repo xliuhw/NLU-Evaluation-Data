@@ -1,0 +1,81 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "turn on the geyser",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "geyser",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "flip the wemo on",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "wemo",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on the fan socket",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 12,
+          "end": 22,
+          "value": "fan socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on my plug",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "power up the plug socket one",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 13,
+          "end": 28,
+          "value": "plug socket one",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "on the plug",
+      "intent": "iot_wemo_on",
+      "entities": []
+    },
+    {
+      "text": "turn on new smart socket",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 12,
+          "end": 24,
+          "value": "smart socket",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

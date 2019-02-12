@@ -1,0 +1,77 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "Update my contacts with the new contact sam@gmail dot com",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 40,
+          "end": 57,
+          "value": "sam@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "add this new email with contact",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "can you add a new email to my contacts",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "remember this email",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "store my contacts",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add a new contact for daniel bell dbell@aol dot com",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 22,
+          "end": 33,
+          "value": "daniel bell",
+          "entity": "person"
+        },
+        {
+          "start": 34,
+          "end": 51,
+          "value": "dbell@aol dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "make a new contact with this email",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add erosser@hotmail dot com as a new contact for emily rosser",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 27,
+          "value": "erosser@hotmail dot com",
+          "entity": "email_address"
+        },
+        {
+          "start": 49,
+          "end": 61,
+          "value": "emily rosser",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

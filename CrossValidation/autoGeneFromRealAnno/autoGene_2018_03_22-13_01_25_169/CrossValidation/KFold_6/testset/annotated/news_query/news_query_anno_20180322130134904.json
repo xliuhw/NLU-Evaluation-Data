@@ -1,0 +1,248 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "give me international news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 21,
+          "value": "international",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the latest news on sprint",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 33,
+          "value": "sprint",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what are they saying about donald trump on this topic",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 39,
+          "value": "donald trump",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "usa today headlines",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 9,
+          "value": "usa today",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "read me the most updated news on bbc",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 36,
+          "value": "bbc",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "i would like to know the latest from nbc news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 37,
+          "end": 45,
+          "value": "nbc news",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "find the this week's news about emigration legislation in the us please",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "this week",
+          "entity": "date"
+        },
+        {
+          "start": 32,
+          "end": 54,
+          "value": "emigration legislation",
+          "entity": "news_topic"
+        },
+        {
+          "start": 62,
+          "end": 64,
+          "value": "us",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "political news of importance for the day",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 9,
+          "value": "political",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what happened yesterday on samurai jack",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 23,
+          "value": "yesterday",
+          "entity": "date"
+        },
+        {
+          "start": 27,
+          "end": 39,
+          "value": "samurai jack",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what's the latest news about us election",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 40,
+          "value": "us election",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "latest updates on syrian civil war",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 34,
+          "value": "syrian civil war",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "i need sport's news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "sport",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "get me the latest news of world",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "world",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is happening in the world today",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "world",
+          "entity": "place_name"
+        },
+        {
+          "start": 31,
+          "end": 36,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "keep me up to date on the election news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 34,
+          "value": "election",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "access latest news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "which teams are playing today in the premier league",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 29,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 37,
+          "end": 51,
+          "value": "premier league",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "let me know if anything happens on that subject",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "what is happening in the world right now",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "world",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

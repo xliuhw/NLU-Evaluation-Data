@@ -1,0 +1,190 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how old is tom hanks",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 20,
+          "value": "tom hanks",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what high school did halley barry go to",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 21,
+          "end": 33,
+          "value": "halley barry",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how old is rihanna",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "rihanna",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell me when obama was born",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "obama",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how is jennifer garner's career doing",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 7,
+          "end": 22,
+          "value": "jennifer garner",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "where is the statue of liberty located",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "who is the better half of obama",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "obama",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how much of the earth is made up of water",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "why did gotse shoot mahatma gandhi",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 20,
+          "end": 34,
+          "value": "mahatma gandhi",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "why are whales big",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "how many rivers are there in europe",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 29,
+          "end": 35,
+          "value": "europe",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when is sunset",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "what creates buttermilk",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 13,
+          "end": 23,
+          "value": "buttermilk",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "how old was elvis when he died",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "elvis",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how many tablespoons are there in a cup",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "how big is russia",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 17,
+          "value": "russia",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "does pink have a new baby",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "pink",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "look up information on mount rushmore",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "just let me know the population of india",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 35,
+          "end": 40,
+          "value": "india",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

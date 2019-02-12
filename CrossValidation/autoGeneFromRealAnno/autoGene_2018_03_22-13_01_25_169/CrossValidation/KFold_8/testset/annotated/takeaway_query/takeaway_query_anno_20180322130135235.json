@@ -1,0 +1,257 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how is my order",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "does ming ten do take out",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 13,
+          "value": "ming ten",
+          "entity": "business_name"
+        },
+        {
+          "start": 17,
+          "end": 25,
+          "value": "take out",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to know if the olive garden provides takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 34,
+          "value": "olive garden",
+          "entity": "business_name"
+        },
+        {
+          "start": 44,
+          "end": 52,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me if the olive garden allows takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 27,
+          "value": "olive garden",
+          "entity": "business_name"
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does mcdonalds do takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "mcdonalds",
+          "entity": "business_name"
+        },
+        {
+          "start": 18,
+          "end": 26,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "how long until my order is ready",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "who takes less of duration of time for delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 39,
+          "end": 47,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "charges of delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "is there takeaway at papa john's",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 30,
+          "value": "papa john",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "does brick grill deliver",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "brick grill",
+          "entity": "business_name"
+        },
+        {
+          "start": 17,
+          "end": 24,
+          "value": "deliver",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "will they deliver to me",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "can i get delivery from here",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "hey does open sesame do take out",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 20,
+          "value": "open sesame",
+          "entity": "business_name"
+        },
+        {
+          "start": 24,
+          "end": 32,
+          "value": "take out",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does pizza hut have my order ready",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "pizza hut",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "find out if the olive garden will let me do takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 28,
+          "value": "olive garden",
+          "entity": "business_name"
+        },
+        {
+          "start": 44,
+          "end": 52,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "how long until my order arrives",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "remember i've ordered a cake for tonight's birthday party let me know the status please",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 28,
+          "value": "cake",
+          "entity": "food_type"
+        },
+        {
+          "start": 33,
+          "end": 40,
+          "value": "tonight",
+          "entity": "timeofday"
+        },
+        {
+          "start": 43,
+          "end": 57,
+          "value": "birthday party",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "is the last order is ready",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "does mr pizza deliver",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 13,
+          "value": "mr pizza",
+          "entity": "business_name"
+        },
+        {
+          "start": 14,
+          "end": 21,
+          "value": "deliver",
+          "entity": "order_type"
+        }
+      ]
+    }
+  ]
+}

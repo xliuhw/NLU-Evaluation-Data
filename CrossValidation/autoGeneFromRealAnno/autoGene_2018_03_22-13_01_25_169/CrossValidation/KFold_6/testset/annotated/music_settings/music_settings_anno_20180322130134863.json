@@ -1,0 +1,74 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please use shuffle",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "please check and repeat this song one time more",
+      "intent": "music_settings",
+      "entities": []
+    },
+    {
+      "text": "equalize the bass of this music",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "equalize",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "please turn on repeat all",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 15,
+          "end": 21,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "shuffle song",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "display volume strength on current track",
+      "intent": "music_settings",
+      "entities": []
+    },
+    {
+      "text": "show current track in music player",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 22,
+          "end": 34,
+          "value": "music player",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

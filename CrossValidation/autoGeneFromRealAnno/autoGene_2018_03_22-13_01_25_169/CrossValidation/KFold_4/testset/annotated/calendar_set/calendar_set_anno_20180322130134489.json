@@ -1,0 +1,356 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please set reminder",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "remind me if i miss my evening walk routine",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 23,
+          "end": 43,
+          "value": "evening walk routine",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "please remind me about the event later five pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 39,
+          "end": 46,
+          "value": "five pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "schedule a reminder on fifteenth march and input name as meeting",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 23,
+          "end": 38,
+          "value": "fifteenth march",
+          "entity": "date"
+        },
+        {
+          "start": 57,
+          "end": 64,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me when my next doctors appointment is",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 21,
+          "end": 40,
+          "value": "doctors appointment",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "meeting this friday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 13,
+          "end": 19,
+          "value": "friday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "set a reminder on fifteenth march as meeting",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 18,
+          "end": 33,
+          "value": "fifteenth march",
+          "entity": "date"
+        },
+        {
+          "start": 37,
+          "end": 44,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "set generic calendar event for next saturday at ten am",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 4,
+          "end": 26,
+          "value": "generic calendar event",
+          "entity": "event_name"
+        },
+        {
+          "start": 36,
+          "end": 44,
+          "value": "saturday",
+          "entity": "date"
+        },
+        {
+          "start": 48,
+          "end": 54,
+          "value": "ten am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "add a reminder to april fourth to go to the dentist",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 18,
+          "end": 30,
+          "value": "april fourth",
+          "entity": "date"
+        },
+        {
+          "start": 44,
+          "end": 51,
+          "value": "dentist",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "remind me to move so there is no weight gain",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "set a reminder for twelve thirty meeting with the boss",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 32,
+          "value": "twelve thirty",
+          "entity": "time"
+        },
+        {
+          "start": 33,
+          "end": 40,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 50,
+          "end": 54,
+          "value": "boss",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "remind me of my appointment on the fifteenth",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 16,
+          "end": 27,
+          "value": "appointment",
+          "entity": "event_name"
+        },
+        {
+          "start": 35,
+          "end": 44,
+          "value": "fifteenth",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remind me to pay the electricity bill on this weekend at nine am",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 37,
+          "value": "pay the electricity bill",
+          "entity": "event_name"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "value": "weekend",
+          "entity": "time"
+        },
+        {
+          "start": 57,
+          "end": 64,
+          "value": "nine am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "schedule a meeting with reeta today evening at five pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 24,
+          "end": 29,
+          "value": "reeta",
+          "entity": "person"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 36,
+          "end": 54,
+          "value": "evening at five pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "open calendar schedule event meeting",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 29,
+          "end": 36,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "can you remind me of sunday gym every saturday evening",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 21,
+          "end": 31,
+          "value": "sunday gym",
+          "entity": "event_name"
+        },
+        {
+          "start": 32,
+          "end": 46,
+          "value": "every saturday",
+          "entity": "date"
+        },
+        {
+          "start": 47,
+          "end": 54,
+          "value": "evening",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "remind me about tomorrow meeting at ten am",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 25,
+          "end": 32,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 36,
+          "end": 42,
+          "value": "ten am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "hi please remind the next meeting with my boss it will be at eleven am next monday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 26,
+          "end": 33,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 42,
+          "end": 46,
+          "value": "boss",
+          "entity": "relation"
+        },
+        {
+          "start": 61,
+          "end": 70,
+          "value": "eleven am",
+          "entity": "time"
+        },
+        {
+          "start": 76,
+          "end": 82,
+          "value": "monday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please remind me for the function at miami tomorrow",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "function",
+          "entity": "event_name"
+        },
+        {
+          "start": 37,
+          "end": 42,
+          "value": "miami",
+          "entity": "place_name"
+        },
+        {
+          "start": 43,
+          "end": 51,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

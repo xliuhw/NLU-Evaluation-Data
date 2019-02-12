@@ -1,0 +1,221 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "where's the closest zoo to where i'm at",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "where can i shop around here",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "any good bike shops in oxford",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 9,
+          "end": 19,
+          "value": "bike shops",
+          "entity": "business_type"
+        },
+        {
+          "start": 23,
+          "end": 29,
+          "value": "oxford",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where can i go shopping here",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "tell me what is the nicest place to go",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "is there any grocery nearby",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 13,
+          "end": 20,
+          "value": "grocery",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where is a nearby park where i can go running",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 18,
+          "end": 22,
+          "value": "park",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "show me all the shops that i can find in milan",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 41,
+          "end": 46,
+          "value": "milan",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find local shops",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "help me locate a shop that sells clothes for classy ladies",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 27,
+          "end": 58,
+          "value": "sells clothes for classy ladies",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what train companies are near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 20,
+          "value": "train companies",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "i need a good shop",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "shop",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "please give me all shop names in a two mile radius",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 19,
+          "end": 23,
+          "value": "shop",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "which shops can i find in milan",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "milan",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please find the most popular store in the area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 29,
+          "end": 34,
+          "value": "store",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "i need a place that will deliver pizza to me in benton ar",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 33,
+          "end": 38,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 48,
+          "end": 57,
+          "value": "benton ar",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "wine shop",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 0,
+          "end": 9,
+          "value": "wine shop",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me about expensive sushi restaurants in west philadelphia",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 32,
+          "end": 37,
+          "value": "sushi",
+          "entity": "food_type"
+        },
+        {
+          "start": 38,
+          "end": 49,
+          "value": "restaurants",
+          "entity": "business_type"
+        },
+        {
+          "start": 53,
+          "end": 70,
+          "value": "west philadelphia",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where is the nearest smoke shop",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 21,
+          "end": 31,
+          "value": "smoke shop",
+          "entity": "business_type"
+        }
+      ]
+    }
+  ]
+}

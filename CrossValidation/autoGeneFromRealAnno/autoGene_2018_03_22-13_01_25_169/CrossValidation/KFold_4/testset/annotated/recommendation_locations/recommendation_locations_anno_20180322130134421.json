@@ -1,0 +1,278 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "where i can find a bakery",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "bakery",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "where is the nearest pub in the city",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 21,
+          "end": 24,
+          "value": "pub",
+          "entity": "business_type"
+        },
+        {
+          "start": 32,
+          "end": 36,
+          "value": "city",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "are there any veg restaurants in phoenix",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 14,
+          "end": 17,
+          "value": "veg",
+          "entity": "food_type"
+        },
+        {
+          "start": 18,
+          "end": 29,
+          "value": "restaurants",
+          "entity": "business_type"
+        },
+        {
+          "start": 33,
+          "end": 40,
+          "value": "phoenix",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tea shop",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "tea shop",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "list the shops near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "shops",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "recommend me some shops to shopping in angel",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "shops",
+          "entity": "business_type"
+        },
+        {
+          "start": 39,
+          "end": 44,
+          "value": "angel",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where's the best and most affordable place to stay in san diego",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 54,
+          "end": 63,
+          "value": "san diego",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where is a walking trail near me",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "will the fast food shop at the corner open today",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "fast food",
+          "entity": "food_type"
+        },
+        {
+          "start": 19,
+          "end": 23,
+          "value": "shop",
+          "entity": "business_type"
+        },
+        {
+          "start": 43,
+          "end": 48,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "where is a good place to eat cheap pakistani food",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 35,
+          "end": 49,
+          "value": "pakistani food",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "where is the nearest olive garden",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 21,
+          "end": 33,
+          "value": "olive garden",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "What's close by for dinner",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "dinner",
+          "entity": "meal_type"
+        }
+      ]
+    },
+    {
+      "text": "which is the best place to visit in this month",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 36,
+          "end": 46,
+          "value": "this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "have any suggestions for local italian food",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 31,
+          "end": 38,
+          "value": "italian",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "search for nearby chinese restaurants",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 18,
+          "end": 25,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 26,
+          "end": 37,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "find shoe shopping near my home",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "shoe shopping",
+          "entity": "business_type"
+        },
+        {
+          "start": 27,
+          "end": 31,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find me a bar in cleveland open until two am",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 10,
+          "end": 13,
+          "value": "bar",
+          "entity": "business_type"
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "value": "cleveland",
+          "entity": "place_name"
+        },
+        {
+          "start": 38,
+          "end": 44,
+          "value": "two am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "markets near by",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "markets",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what's around me",
+      "intent": "recommendation_locations",
+      "entities": []
+    }
+  ]
+}

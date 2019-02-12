@@ -1,0 +1,19 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please turn the lights on",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "turn on the lights that are outdoors",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "i can't see anything",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    }
+  ]
+}

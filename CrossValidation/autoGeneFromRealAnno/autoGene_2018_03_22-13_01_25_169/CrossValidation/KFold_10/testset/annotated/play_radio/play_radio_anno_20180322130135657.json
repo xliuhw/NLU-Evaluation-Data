@@ -1,0 +1,242 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please start fm eight hundred and ninety radio channel",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 13,
+          "end": 40,
+          "value": "fm eight hundred and ninety",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "have remainder of the program to listen",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "start radio station one oh seven point five fm",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 6,
+          "end": 19,
+          "value": "radio station",
+          "entity": "radio_name"
+        },
+        {
+          "start": 20,
+          "end": 46,
+          "value": "one oh seven point five fm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "start pandora",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "pandora",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "begin radio play",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play billybob show on bbc radio four",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 22,
+          "end": 36,
+          "value": "bbc radio four",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "can you play acoustic music with no commercials",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 13,
+          "end": 27,
+          "value": "acoustic music",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "scan the radio for howard stern",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "set radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play miley cyrus radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "miley cyrus",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tune to pandora",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "pandora",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "let's hear ninety two point one",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 11,
+          "end": 31,
+          "value": "ninety two point one",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "please open my fm radio and play nine hundred and eighty seven",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "fm radio",
+          "entity": "radio_name"
+        },
+        {
+          "start": 33,
+          "end": 62,
+          "value": "nine hundred and eighty seven",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to hear this week's midweek motorsport",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 15,
+          "end": 24,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "play for me american idol on television",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 29,
+          "end": 39,
+          "value": "television",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "play the radio for me",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play a pop station on the radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 7,
+          "end": 18,
+          "value": "pop station",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play the radio music band",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play the health show on the television in the living room",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 28,
+          "end": 38,
+          "value": "television",
+          "entity": "device_type"
+        },
+        {
+          "start": 46,
+          "end": 57,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "open pandora and play top hits",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "pandora",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to listen to today's hits",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "open the radio app",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play any country music station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 9,
+          "end": 30,
+          "value": "country music station",
+          "entity": "radio_name"
+        }
+      ]
+    }
+  ]
+}

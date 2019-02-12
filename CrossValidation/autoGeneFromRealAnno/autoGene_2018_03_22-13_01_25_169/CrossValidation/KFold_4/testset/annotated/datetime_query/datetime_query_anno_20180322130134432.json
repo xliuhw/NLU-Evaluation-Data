@@ -1,0 +1,208 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "show me boston's current time",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "boston",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the current date time group",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "display date",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what time is it in denver",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "denver",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what time is it in akron",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "akron",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what day does easter fall on",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 20,
+          "value": "easter",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "do we have thirty first day on this month",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 23,
+          "value": "thirty first",
+          "entity": "date"
+        },
+        {
+          "start": 31,
+          "end": 41,
+          "value": "this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is it Monday today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 6,
+          "end": 12,
+          "value": "Monday",
+          "entity": "date"
+        },
+        {
+          "start": 13,
+          "end": 18,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "hey what time is it in london now",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 29,
+          "value": "london",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "just let me know the current date today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 39,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "on what date is easter this year",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "easter",
+          "entity": "event_name"
+        },
+        {
+          "start": 28,
+          "end": 32,
+          "value": "year",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "time in chicago",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "chicago",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "may i know the time in london",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 29,
+          "value": "london",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show me the date of today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what day of the month is it",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what is the date and time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what time is it in mountain time zone",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "mountain",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "would like to see the time zone",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "show me what time it is",
+      "intent": "datetime_query",
+      "entities": []
+    }
+  ]
+}

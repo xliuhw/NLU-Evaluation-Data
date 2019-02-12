@@ -1,0 +1,74 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "turn on the socket",
+      "intent": "iot_wemo_on",
+      "entities": []
+    },
+    {
+      "text": "could you please turn on the plug",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 29,
+          "end": 33,
+          "value": "plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "make the socket available for me",
+      "intent": "iot_wemo_on",
+      "entities": []
+    },
+    {
+      "text": "turn my smart plug socket on",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 8,
+          "end": 25,
+          "value": "smart plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on wemo",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "wemo",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn wemo plug socket on",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 5,
+          "end": 21,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "wemo socket on",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 0,
+          "end": 11,
+          "value": "wemo socket",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

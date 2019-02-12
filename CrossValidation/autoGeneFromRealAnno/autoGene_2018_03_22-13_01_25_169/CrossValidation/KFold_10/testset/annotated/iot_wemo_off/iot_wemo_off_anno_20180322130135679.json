@@ -1,0 +1,186 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "cut wemo power please",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "wemo",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "will you please turn off the smart plug",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 29,
+          "end": 39,
+          "value": "smart plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn wemo plug socket off",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 5,
+          "end": 21,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "if idle then turn off else turn on",
+      "intent": "iot_wemo_off",
+      "entities": []
+    },
+    {
+      "text": "please turn socket off",
+      "intent": "iot_wemo_off",
+      "entities": []
+    },
+    {
+      "text": "can you turn off wemo plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 17,
+          "end": 33,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off on the socket",
+      "intent": "iot_wemo_off",
+      "entities": []
+    },
+    {
+      "text": "turn off wemo socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 9,
+          "end": 20,
+          "value": "wemo socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off my wemo plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 12,
+          "end": 28,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off wemo plug in game room",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "wemo plug",
+          "entity": "device_type"
+        },
+        {
+          "start": 22,
+          "end": 31,
+          "value": "game room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "Switch off the smart socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 15,
+          "end": 27,
+          "value": "smart socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "can you turn off the smart socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 21,
+          "end": 33,
+          "value": "smart socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off socket",
+      "intent": "iot_wemo_off",
+      "entities": []
+    },
+    {
+      "text": "mute your android phone when you arrive at work",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 10,
+          "end": 23,
+          "value": "android phone",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "disable wemo socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 8,
+          "end": 19,
+          "value": "wemo socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off wemo",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "wemo",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "switch off the wemo plug",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 15,
+          "end": 24,
+          "value": "wemo plug",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

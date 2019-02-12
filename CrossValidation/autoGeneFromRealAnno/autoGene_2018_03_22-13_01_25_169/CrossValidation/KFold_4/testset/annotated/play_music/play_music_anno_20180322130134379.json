@@ -1,0 +1,215 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "show me the best podcast of folk songs having good rating and play it",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 28,
+          "end": 32,
+          "value": "folk",
+          "entity": "music_genre"
+        },
+        {
+          "start": 46,
+          "end": 57,
+          "value": "good rating",
+          "entity": "music_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play my most played songs",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play from favorites song",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play music by taylor swift",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 14,
+          "end": 26,
+          "value": "taylor swift",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "reshuffle and play music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 0,
+          "end": 9,
+          "value": "reshuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "set a classic music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "classic",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play led zeppelin houses of the holy",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 36,
+          "value": "led zeppelin houses of the holy",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "please play the beatles ps i love you",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "beatles",
+          "entity": "artist_name"
+        },
+        {
+          "start": 24,
+          "end": 37,
+          "value": "ps i love you",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play me some melody song",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 13,
+          "end": 19,
+          "value": "melody",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "let's hear some indie rock okay",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 16,
+          "end": 26,
+          "value": "indie rock",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play jazz from jennifer's latest album",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "jazz",
+          "entity": "music_genre"
+        },
+        {
+          "start": 15,
+          "end": 23,
+          "value": "jennifer",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "time to hear me some blake shelton",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 21,
+          "end": 34,
+          "value": "blake shelton",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play the song for me",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "i want to hear my favorite jazz music genre",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 27,
+          "end": 31,
+          "value": "jazz",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "queue up ymca",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "ymca",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "open songs by prince",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 14,
+          "end": 20,
+          "value": "prince",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play my playlist",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "please play help",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 12,
+          "end": 16,
+          "value": "help",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "can you play my music file",
+      "intent": "play_music",
+      "entities": []
+    }
+  ]
+}

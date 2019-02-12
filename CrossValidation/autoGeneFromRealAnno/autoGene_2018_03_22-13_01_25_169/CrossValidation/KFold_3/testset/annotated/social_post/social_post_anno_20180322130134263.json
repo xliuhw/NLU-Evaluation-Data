@@ -1,0 +1,261 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "bring up facebook and wish a happy birthday to the country usa",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 9,
+          "end": 17,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "value": "birthday",
+          "entity": "event_name"
+        },
+        {
+          "start": 59,
+          "end": 62,
+          "value": "usa",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet british airways that my last flight from chicago to london was delayed",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 6,
+          "end": 21,
+          "value": "british airways",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "send report to consumer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 15,
+          "end": 31,
+          "value": "consumer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "take me to the huffington post website",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 15,
+          "end": 30,
+          "value": "huffington post",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "start complaint to walmart",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 19,
+          "end": 26,
+          "value": "walmart",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "log a complaint about smart tv to sony customer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 34,
+          "end": 55,
+          "value": "sony customer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "let wendy's know i hate them",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "wendy",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet my current location",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "customer service from microsoft never called me back",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 22,
+          "end": 31,
+          "value": "microsoft",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "fraud in weighing products",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "post the following as a status on facebook",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 34,
+          "end": 42,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "complain about walmart service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 15,
+          "end": 30,
+          "value": "walmart service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet bad day at starbucks",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "value": "starbucks",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "post this on my facebook",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "place family phone on instagram",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 6,
+          "end": 18,
+          "value": "family phone",
+          "entity": "personal_info"
+        },
+        {
+          "start": 22,
+          "end": 31,
+          "value": "instagram",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "write a complaint to best buy",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "best buy",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "post a facebook status engaged",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "i would like to make a post on times twitter",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 37,
+          "end": 44,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "complaint on service provider on my twitter",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 13,
+          "end": 29,
+          "value": "service provider",
+          "entity": "business_name"
+        },
+        {
+          "start": 36,
+          "end": 43,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "disable the alarm which is set at nine thirty pm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 34,
+          "end": 48,
+          "value": "nine thirty pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "delete scheduled alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "turn off my first alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "please cancel all alarms for tomorrow",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 29,
+          "end": 37,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please delete the wednesday evening alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 18,
+          "end": 27,
+          "value": "wednesday",
+          "entity": "date"
+        },
+        {
+          "start": 28,
+          "end": 35,
+          "value": "evening",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "please delete my morning alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "remove all of my alarms",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "cancel alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "delete the alarm i just set",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "could you please remove the set of alarms between eight and nine",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 50,
+          "end": 64,
+          "value": "eight and nine",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please turn off the alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    }
+  ]
+}

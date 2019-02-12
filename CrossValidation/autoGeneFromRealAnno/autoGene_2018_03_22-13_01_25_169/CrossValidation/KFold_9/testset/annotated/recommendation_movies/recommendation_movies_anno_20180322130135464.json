@@ -1,0 +1,115 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what's a movie in theaters that doesn't suck",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 18,
+          "end": 26,
+          "value": "theaters",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "theaters near to me",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "theaters",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "look up movies near me",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "check for all the movie theater prices and availability for a newly released movie in my location",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "local theater screening which movie",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "theater",
+          "entity": "business_type"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "movie",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what movies is out there in the local cinema",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 32,
+          "end": 44,
+          "value": "local cinema",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me movies playing in oceanside tonight",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 26,
+          "end": 35,
+          "value": "oceanside",
+          "entity": "place_name"
+        },
+        {
+          "start": 36,
+          "end": 43,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "top ten movies",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what should i watch today",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "ocean eleven",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "ocean eleven",
+          "entity": "movie_name"
+        }
+      ]
+    }
+  ]
+}

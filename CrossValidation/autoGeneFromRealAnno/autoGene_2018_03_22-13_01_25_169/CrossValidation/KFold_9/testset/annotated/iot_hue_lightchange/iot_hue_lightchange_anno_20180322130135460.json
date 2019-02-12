@@ -1,0 +1,234 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "rotate the light colors",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "rotate",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "modify the light colours of the house and make them dark instead",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 52,
+          "end": 56,
+          "value": "dark",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "make the lights blue in here",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "blue",
+          "entity": "color_type"
+        },
+        {
+          "start": 24,
+          "end": 28,
+          "value": "here",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "adjust the light",
+      "intent": "iot_hue_lightchange",
+      "entities": []
+    },
+    {
+      "text": "change the bedroom lights to green",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "bedroom",
+          "entity": "house_place"
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "value": "green",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "change my room lights to some romantic colour",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 30,
+          "end": 38,
+          "value": "romantic",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "lights at percent",
+      "intent": "iot_hue_lightchange",
+      "entities": []
+    },
+    {
+      "text": "romantic light setting please",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "romantic",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "set lights to twenty percent",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 11,
+          "end": 28,
+          "value": "to twenty percent",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "replace color from light to dark",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "light",
+          "entity": "color_type"
+        },
+        {
+          "start": 28,
+          "end": 32,
+          "value": "dark",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "select a different color for the lights",
+      "intent": "iot_hue_lightchange",
+      "entities": []
+    },
+    {
+      "text": "change to blue",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "blue",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "can you change the light colors into dark in the house",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 37,
+          "end": 41,
+          "value": "dark",
+          "entity": "color_type"
+        },
+        {
+          "start": 49,
+          "end": 54,
+          "value": "house",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "can you change the lights to white",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 29,
+          "end": 34,
+          "value": "white",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "can you change the colour to red",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 29,
+          "end": 32,
+          "value": "red",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "make the lights blue please",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "blue",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "change the color of the lights",
+      "intent": "iot_hue_lightchange",
+      "entities": []
+    },
+    {
+      "text": "make the room light blue",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "room",
+          "entity": "house_place"
+        },
+        {
+          "start": 20,
+          "end": 24,
+          "value": "blue",
+          "entity": "color_type"
+        }
+      ]
+    },
+    {
+      "text": "change the light color to white",
+      "intent": "iot_hue_lightchange",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "white",
+          "entity": "color_type"
+        }
+      ]
+    }
+  ]
+}

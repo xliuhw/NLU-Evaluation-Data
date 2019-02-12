@@ -1,0 +1,9 @@
+answerid;scenario;intent;answer_annotation;answer_from_anno;answer_from_user
+9000;datetime;convert;"what is the [time : nine am] [place_name : cst] to [place_name : est]";"what is the nine am cst to est";"What is the time 9 AM CST in EST"
+2936;datetime;convert;"can you tell how many hours of difference are between [place_name : boston] and [place_name : los angeles]";"can you tell how many hours of difference are between boston and los angeles";"can you tell how many hours of difference are between  Boston and los Angeles?"
+3216;datetime;convert;"change the time in [place_name : this location] to [time_zone : ist]";"change the time in this location to ist";"change the time in this location to IST"
+22710;datetime;convert;"what time can i call from [place_name : pennsylvania] and it will be business hours in [place_name : australia]";"what time can i call from pennsylvania and it will be business hours in australia";"What time can I call from Pennsylvania and it will be business hours in Australia?"
+8998;datetime;convert;"please convert [time : nine am] [place_name : cst] to [place_name : est] time";"please convert nine am cst to est time";"Please convert 9 AM CST to EST time"
+6934;datetime;convert;"what is the time difference between [place_name : new york] and [place_name : lagos]";"what is the time difference between new york and lagos";"What is the time difference between New York and Lagos?"
+21705;datetime;convert;"time difference between [place_name : uk] and [place_name : us]";"time difference between uk and us";"Time difference between UK and US"
+4904;datetime;convert;"if it's [time : five am] in [place_name : berlin] what time is it here";"if it's five am in berlin what time is it here";"If it's 5 am in Berlin, what time is it here?"

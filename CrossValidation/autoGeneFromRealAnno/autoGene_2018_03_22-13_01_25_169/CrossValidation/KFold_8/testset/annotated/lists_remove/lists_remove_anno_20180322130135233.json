@@ -1,0 +1,167 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "delete item four",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove eggs for the shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 20,
+          "end": 28,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove cheese from my list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "clear list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "get rid of tax list from nineteen ninety",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 14,
+          "value": "tax",
+          "entity": "list_name"
+        },
+        {
+          "start": 25,
+          "end": 40,
+          "value": "nineteen ninety",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remove the item from list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete from playlist my old english songs list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 24,
+          "end": 35,
+          "value": "old english",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "erase spaghetti from list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "please remove the following list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "please remove list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "abolish an item from list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "erase my grocery list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete the list created yesterday",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 24,
+          "end": 33,
+          "value": "yesterday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remove the santana music list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 24,
+          "value": "santana music",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete the shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete the list item about the meeting",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove vegetables from the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "i need you to remove item s from my list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove a list of accessories purchase last week",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 17,
+          "end": 28,
+          "value": "accessories",
+          "entity": "list_name"
+        },
+        {
+          "start": 38,
+          "end": 47,
+          "value": "last week",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "add jpearsonjessica@gmail dot com to email contacts",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 33,
+          "value": "jpearsonjessica@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "change my mum's email in my phonebook",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 10,
+          "end": 13,
+          "value": "mum",
+          "entity": "relation"
+        },
+        {
+          "start": 16,
+          "end": 21,
+          "value": "email",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "save new email addresses to my contacts",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "please add an email for john doe to my contacts johndoe@yahoo dot com",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 24,
+          "end": 32,
+          "value": "john doe",
+          "entity": "person"
+        },
+        {
+          "start": 48,
+          "end": 69,
+          "value": "johndoe@yahoo dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "add carl's email to my contact",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "carl",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "open up contacts and add email something@gmail dot com",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 31,
+          "end": 54,
+          "value": "something@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "create new contact with email",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 24,
+          "end": 29,
+          "value": "email",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "add a new email in my contacts from john",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 36,
+          "end": 40,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "add car service to my list of things to do today",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 37,
+          "end": 42,
+          "value": "to do",
+          "entity": "list_name"
+        },
+        {
+          "start": 43,
+          "end": 48,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "make a new list for me",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "open grocery list and add milk",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add ashley to the wedding invite list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 4,
+          "end": 10,
+          "value": "ashley",
+          "entity": "person"
+        },
+        {
+          "start": 18,
+          "end": 32,
+          "value": "wedding invite",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "start me a new list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "include this item",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "my new health check up new list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 7,
+          "end": 22,
+          "value": "health check up",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "create a new list of my due bills",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 24,
+          "end": 33,
+          "value": "due bills",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add eggs to list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "make a list of camera photos",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 15,
+          "end": 28,
+          "value": "camera photos",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete the old playlist and create new",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 11,
+          "end": 23,
+          "value": "old playlist",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "i need more milk",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "add the post office to my list of errands for Saturday",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 34,
+          "end": 41,
+          "value": "errands",
+          "entity": "list_name"
+        },
+        {
+          "start": 46,
+          "end": 54,
+          "value": "Saturday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "add juice to my grocery list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add paav bhaji in menu card",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "add coffee to the grocery list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 4,
+          "end": 10,
+          "value": "coffee",
+          "entity": "drink_type"
+        },
+        {
+          "start": 18,
+          "end": 25,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "buying of groceries new list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 0,
+          "end": 19,
+          "value": "buying of groceries",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add milk to grocery list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 12,
+          "end": 19,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add detergent to the list of things i need to buy",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 29,
+          "end": 49,
+          "value": "things i need to buy",
+          "entity": "list_name"
+        }
+      ]
+    }
+  ]
+}

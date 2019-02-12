@@ -1,0 +1,140 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "could you fix me some coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "make me coffee in five minutes",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 18,
+          "end": 30,
+          "value": "five minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "make me a cup of coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "make a coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "can you please make a coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "prepare a coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "prepare coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "i want coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "turn on the coffee pot",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 12,
+          "end": 22,
+          "value": "coffee pot",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "prepare a cup of coffee for me",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "please set my coffee machine to start at four pm time",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 14,
+          "end": 28,
+          "value": "coffee machine",
+          "entity": "device_type"
+        },
+        {
+          "start": 41,
+          "end": 48,
+          "value": "four pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "how do i set the timer on my coffee machine",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 29,
+          "end": 43,
+          "value": "coffee machine",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "want to wake up can you order a cappochino",
+      "intent": "iot_coffee",
+      "entities": [
+        {
+          "start": 32,
+          "end": 42,
+          "value": "cappochino",
+          "entity": "coffee_type"
+        }
+      ]
+    },
+    {
+      "text": "brew a pot of coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "can you begin the brew",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "i fancy some coffee now",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "make a coffee please",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "please make ke a coffee",
+      "intent": "iot_coffee",
+      "entities": []
+    },
+    {
+      "text": "please make some coffee for me",
+      "intent": "iot_coffee",
+      "entities": []
+    }
+  ]
+}

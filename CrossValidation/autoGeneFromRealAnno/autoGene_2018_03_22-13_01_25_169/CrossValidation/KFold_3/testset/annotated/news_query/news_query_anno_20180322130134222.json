@@ -1,0 +1,218 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how is president's trump office proceeding",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 42,
+          "value": "president's trump office proceeding",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "show me rediff masala",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 21,
+          "value": "rediff masala",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "keep me updated on the election results",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 31,
+          "value": "election",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what are today's headlines",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "breaking news fox news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 17,
+          "value": "fox",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the news today",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what does the analysts say about the new immigration policies",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 41,
+          "end": 61,
+          "value": "immigration policies",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "check the news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "please let me know about topic elections",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 40,
+          "value": "elections",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "show current news from bbc",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 26,
+          "value": "bbc",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me the top stories in the news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "open news about bp oil",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "bp oil",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "get me match highlights",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 23,
+          "value": "match highlights",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what is trending",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "trending",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "let me know when you hear about france",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 38,
+          "value": "france",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "give me the latest on paul ryan",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 31,
+          "value": "paul ryan",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "have there been updates on abortion law",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 39,
+          "value": "abortion law",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what is the bbc's latest news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 15,
+          "value": "bbc",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "check for recent news stories on msnbc",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 38,
+          "value": "msnbc",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

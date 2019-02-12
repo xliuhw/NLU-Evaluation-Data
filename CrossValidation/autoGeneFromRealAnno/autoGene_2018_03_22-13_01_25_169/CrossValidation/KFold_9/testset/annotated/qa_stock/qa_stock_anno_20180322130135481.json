@@ -1,0 +1,235 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "current stock price intel",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "intel",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the average five year stock price of home depot",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "how's microsoft's stock",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 6,
+          "end": 15,
+          "value": "microsoft",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how are stocks for google",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "google",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how much would it cost to buy stock in apple",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 39,
+          "end": 44,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "stock price fb",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 12,
+          "end": 14,
+          "value": "fb",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "stock details",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "is i. b. m. up today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 3,
+          "end": 11,
+          "value": "i. b. m.",
+          "entity": "business_name"
+        },
+        {
+          "start": 15,
+          "end": 20,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "set notification for news on the stock market",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 33,
+          "end": 45,
+          "value": "stock market",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "turn on notification for all news on the stock market",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 41,
+          "end": 53,
+          "value": "stock market",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what is apple's stock price",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what are i. b. m.'s stock prices",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 9,
+          "end": 17,
+          "value": "i. b. m.",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please find today's stock prices for samsung company",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 37,
+          "end": 44,
+          "value": "samsung",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "is now a good time to sell some euros",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 32,
+          "end": 37,
+          "value": "euros",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "were the stocks rising or declining",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "show me the stock price for google",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 28,
+          "end": 34,
+          "value": "google",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "i would like to receive updates about the stock market every day",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 42,
+          "end": 54,
+          "value": "stock market",
+          "entity": "news_topic"
+        },
+        {
+          "start": 55,
+          "end": 64,
+          "value": "every day",
+          "entity": "general_frequency"
+        }
+      ]
+    },
+    {
+      "text": "please indicate the opening price of fra stock",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 37,
+          "end": 40,
+          "value": "fra",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how strong is the dollar compared to the peso",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 18,
+          "end": 24,
+          "value": "dollar",
+          "entity": "currency_name"
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "value": "peso",
+          "entity": "currency_name"
+        }
+      ]
+    }
+  ]
+}

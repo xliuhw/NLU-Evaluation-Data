@@ -1,0 +1,106 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "tell me a joke please",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "tell me some joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "show me a funny joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "funny",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "jokes",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "tell me a funny joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "funny",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "find the joke about the orange and the banana",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 20,
+          "end": 45,
+          "value": "the orange and the banana",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "be funny for me",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "i want to hear a good joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "good",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "please tell me a joke that i'll think is funny",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "hey olly have you heard any funny jokes lately",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "funny",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "have you heard any good jokes lately",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 19,
+          "end": 23,
+          "value": "good",
+          "entity": "joke_type"
+        }
+      ]
+    }
+  ]
+}

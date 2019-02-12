@@ -1,0 +1,167 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "take milk off my grocery list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete the item two from the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove a list of employees",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "take off this list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove that from my list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete that item from my list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "erase previous list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove any kind of list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove grocery list please",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete this list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete call newspaper from my vacation list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 30,
+          "end": 43,
+          "value": "vacation list",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete bread from shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 18,
+          "end": 26,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove the second row from the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete my list of appointments for tomorrow",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 18,
+          "end": 30,
+          "value": "appointments",
+          "entity": "list_name"
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can you remove my to do list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "open lists remove list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "find my shopping list and delete it",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to cancel the recording i have on the dvr list for this morning",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 45,
+          "end": 48,
+          "value": "dvr",
+          "entity": "list_name"
+        },
+        {
+          "start": 63,
+          "end": 70,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "remove the last item",
+      "intent": "lists_remove",
+      "entities": []
+    }
+  ]
+}

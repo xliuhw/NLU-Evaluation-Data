@@ -1,0 +1,4043 @@
+{
+  "userSays": [
+    {
+      "id": "c80efa1e-2bc7-4a34-9d9c-a3ed0ea7e23c",
+      "data": [
+        {
+          "text": "request a driver for "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in five minutes",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c34da71b-78c7-4d28-9394-7dd7a81e947a",
+      "data": [
+        {
+          "text": "order me an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " ride please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9fbff7a3-121e-4aa6-9b2e-a771f0358824",
+      "data": [
+        {
+          "text": "call "
+        },
+        {
+          "text": "yellow cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "386bafb1-3b4f-4689-8f80-24aec1b1dc44",
+      "data": [
+        {
+          "text": "find an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " that can get me to the "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8818489e-4b05-44f3-8c5e-14cacff09f6b",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "castle street",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "05b284d3-eb13-4e00-bc7e-3beddb075a08",
+      "data": [
+        {
+          "text": "call a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0eda94d8-8c9c-40a3-97d3-9535b8cad959",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "61acdf5d-143e-42ad-aa19-203729ded9e9",
+      "data": [
+        {
+          "text": "book an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " to pick me up outside of "
+        },
+        {
+          "text": "long island bar",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "328280ff-95a9-4fbc-b115-fc350c44d4fb",
+      "data": [
+        {
+          "text": "call a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to pick me up at work"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7baa1d45-4627-42ed-a459-a4c750ca6e7e",
+      "data": [
+        {
+          "text": "find an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " driver available for "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " after "
+        },
+        {
+          "text": "ten pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a2d1c69a-c084-4bff-8412-1ef39f595fd2",
+      "data": [
+        {
+          "text": "book me an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7fc12a72-e5f7-49db-9508-44ff128f2a31",
+      "data": [
+        {
+          "text": "schedule an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "twenty minutes",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "tesco",
+          "alias": "business_name",
+          "meta": "@business_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "fifth street",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1c6d6547-9dcc-42a3-b1c8-e94a20bff35a",
+      "data": [
+        {
+          "text": "get me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to the "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "71a90759-bbfb-46f2-9958-ce6e7385c14f",
+      "data": [
+        {
+          "text": "have a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " pick me up"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3110fa2f-998f-4e2c-a392-ba5a9a176194",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "six pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "28abbba2-ff76-458f-9d92-eb93a50e30c2",
+      "data": [
+        {
+          "text": "book for me an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "carmen drive",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6416e540-0e59-4f9b-b66a-2b12d3b4f707",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "949d7f31-53ec-4512-ad4a-71e227410ba9",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to start from here"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "df0884b8-c15b-431c-94d3-8fa5381006fd",
+      "data": [
+        {
+          "text": "call an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "922ba9bb-7a35-4429-a43f-5d9cc6b33c9f",
+      "data": [
+        {
+          "text": "call a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f52e10fa-5ddd-454b-87c7-355e8169052d",
+      "data": [
+        {
+          "text": "find the nearest "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bf9fe7e1-a654-4e16-b4a7-9a33a879fbd2",
+      "data": [
+        {
+          "text": "please book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "227236f0-37fd-4982-a97b-c12540519cf2",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "29ec33f6-6e68-43b4-a0fa-469f3ea16e42",
+      "data": [
+        {
+          "text": "book "
+        },
+        {
+          "text": "ola",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fdfa0f30-906c-4a06-bf8b-eb3cc8813a38",
+      "data": [
+        {
+          "text": "open uber app and book me a "
+        },
+        {
+          "text": "car",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for pick up at "
+        },
+        {
+          "text": "the airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "04119fba-4d4f-4c64-a5bd-2ffcd0f3fba2",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to the "
+        },
+        {
+          "text": "mall of america",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e7acb6d-da45-4f61-b026-0865c61190d2",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "086590ad-bb15-40f6-841e-7caccd419f39",
+      "data": [
+        {
+          "text": "book "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " city"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2b851c60-37ea-42aa-9bfc-c42d2f9b6dd7",
+      "data": [
+        {
+          "text": "find transportation to "
+        },
+        {
+          "text": "rome",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9e66c63c-b11b-4f4a-90b4-3d37d925a83e",
+      "data": [
+        {
+          "text": "call a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " company"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7da53f3c-b54e-49f2-849a-818bbe2da6a0",
+      "data": [
+        {
+          "text": "find a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to book"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "589f797f-c0b2-41b0-a587-64e06e566316",
+      "data": [
+        {
+          "text": "get me the number for local "
+        },
+        {
+          "text": "taxi service",
+          "alias": "business_type",
+          "meta": "@business_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a73203fa-cb33-4bcc-856d-62fd409caf23",
+      "data": [
+        {
+          "text": "find a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " service close to me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c928d33a-d305-41f8-96f4-b989da5b36d5",
+      "data": [
+        {
+          "text": "i need a ride "
+        },
+        {
+          "text": "home",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "84751124-8b71-44f3-a4c6-f54f7dded57f",
+      "data": [
+        {
+          "text": "call city "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c658c287-0933-4fb2-b1cd-00a036973207",
+      "data": [
+        {
+          "text": "call a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for me to where i am "
+        },
+        {
+          "text": "currently located",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bd092c21-b71d-4cab-b135-abdc82bef4f6",
+      "data": [
+        {
+          "text": "i am going to "
+        },
+        {
+          "text": "chinatown",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "half an hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " book an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1e71da18-8c5f-44fb-b752-aaec4e9027a0",
+      "data": [
+        {
+          "text": "hail "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a81b42e2-a081-43b6-b67d-0efa373f5d29",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to the "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f6b78d74-eefd-4df5-a08e-beef459e5799",
+      "data": [
+        {
+          "text": "open the "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " app and get me a "
+        },
+        {
+          "text": "car",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "be078d1b-fd6f-40c5-81fc-5ea223738293",
+      "data": [
+        {
+          "text": "catcha a ride"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3db24816-ed0a-455f-af81-7efef8596af1",
+      "data": [
+        {
+          "text": "could you please have "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " be at my "
+        },
+        {
+          "text": "house",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "fifteen minutes",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "33e4f5f5-5506-4bdb-8236-247138b88dbf",
+      "data": [
+        {
+          "text": "send "
+        },
+        {
+          "text": "golden taxi",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " to pick me up "
+        },
+        {
+          "text": "as soon as possible",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "29e22bc1-9c56-478f-b8d4-0fe469700c02",
+      "data": [
+        {
+          "text": "please reserve the next "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "nine am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "671cc490-e009-41a7-98a4-32c9bc161898",
+      "data": [
+        {
+          "text": "book an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " to the "
+        },
+        {
+          "text": "nearest mall",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "next half hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1565f101-647f-4e71-9a6b-897e3b0e3fff",
+      "data": [
+        {
+          "text": "call me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "afa8cd0c-d7d6-4f11-be8a-22db80dce13d",
+      "data": [
+        {
+          "text": "find a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to go "
+        },
+        {
+          "text": "home",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "17f64a3e-582c-4b58-9124-a3b35d4750fb",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to take me to the "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4918fd97-5207-44e0-a8e3-6f071fcb1f18",
+      "data": [
+        {
+          "text": "call an "
+        },
+        {
+          "text": "uberpool",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to get me at "
+        },
+        {
+          "text": "long island bar",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7b6cc281-6ed7-472d-b9df-42f3f5180bae",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "16328c38-62a1-496f-9c74-716abdece1a2",
+      "data": [
+        {
+          "text": "call me an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " to the "
+        },
+        {
+          "text": "movie theater",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1f3251fa-94fe-4730-87fe-cc05dd5b51d4",
+      "data": [
+        {
+          "text": "call a "
+        },
+        {
+          "text": "car",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8dee216b-8071-48b5-b825-a78565786a3f",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ride now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff99ca85-81a1-4232-a659-9d314daa57e2",
+      "data": [
+        {
+          "text": "open "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " and book a car for "
+        },
+        {
+          "text": "twelve",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " o'clock"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7daeb5db-2394-4ac5-851a-ca67f0f58e1d",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eight",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " to take me to work"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "672300e7-6197-4695-9de4-032390dc953e",
+      "data": [
+        {
+          "text": "i need to book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3ad00eb2-a062-4c76-98f9-4128220b3909",
+      "data": [
+        {
+          "text": "set up "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f7fb87c9-1458-45ba-8f43-18f8eebdb468",
+      "data": [
+        {
+          "text": "what's the closest "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fd10eba5-cf8e-429d-94eb-fcedfe12d8a3",
+      "data": [
+        {
+          "text": "need a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for my travel"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "efa6a5c6-cf2f-4dd5-83a0-b2b455c9f275",
+      "data": [
+        {
+          "text": "book my nearest available "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "faf66a12-4efa-40e5-ab9a-601df16ec5ed",
+      "data": [
+        {
+          "text": "where is the closest "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "96b76680-5815-437c-8a0c-286e0a1c1a38",
+      "data": [
+        {
+          "text": "call a "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "thirty minutes",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eeee3909-fcb8-4015-aaa1-ba733ba9f1b1",
+      "data": [
+        {
+          "text": "get city "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " here to "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d0848ffe-dc66-412e-ae5c-19cfd045e71f",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "rental cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8e4022f9-f199-4934-8d62-ec9f3a1af0c5",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d0f7d98f-da2e-422c-b197-415f287623a5",
+      "data": [
+        {
+          "text": "tell "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to pick me up at "
+        },
+        {
+          "text": "four pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ae209a68-4d40-4e3f-99a0-adab41633d3a",
+      "data": [
+        {
+          "text": "can you call an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9b444f59-b8ee-46a9-98e5-d4dd4a691936",
+      "data": [
+        {
+          "text": "find a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f7a449e8-b282-45ea-88f3-c84a7b560f1f",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " at my "
+        },
+        {
+          "text": "home",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " address for right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c2bfeea7-c338-4d9b-9391-b39dab9f37f0",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5bb16fa9-67bd-4a28-8597-87f2a2c7a548",
+      "data": [
+        {
+          "text": "book "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for my travel"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4f3e48ba-2019-4b7d-b045-3999a15792b7",
+      "data": [
+        {
+          "text": "book "
+        },
+        {
+          "text": "ola",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "evening",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a89618a1-4634-4137-b0d0-bb1a96db912e",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3b714835-ba5a-4f4a-8391-f7fc688a6538",
+      "data": [
+        {
+          "text": "book a local "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a6b4bb31-6987-4bc2-a99e-9e6678da1d76",
+      "data": [
+        {
+          "text": "can you book an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9fb4e03c-b99a-4b48-878e-867f3309aab1",
+      "data": [
+        {
+          "text": "send a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to come pick me up from my location"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c5c59b98-b2b1-4dd2-a7eb-ae0f3447116a",
+      "data": [
+        {
+          "text": "call me a "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eb4e74b1-24ad-4bbf-9748-f60a7564bcab",
+      "data": [
+        {
+          "text": "check in a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for booking"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "54c0fb9a-387f-4582-99d0-2b872b0be63a",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "one pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9178e2a4-f6ea-4555-a5ad-d7b6370b0378",
+      "data": [
+        {
+          "text": "make a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " booking in "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eefbd574-0a55-4778-80a9-25342f5f1a2e",
+      "data": [
+        {
+          "text": "help me find transportation to the "
+        },
+        {
+          "text": "mall of america",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c9d0561a-4dd6-4434-b6e0-06e5df451836",
+      "data": [
+        {
+          "text": "get me a "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ae71a49-c6d6-483c-8a41-1a94038bb46b",
+      "data": [
+        {
+          "text": "could you please book a "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for me in "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "la",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "ny",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b6b0b66f-5b4c-45df-abc2-73958dc4692b",
+      "data": [
+        {
+          "text": "call a "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e16314ef-2aaf-4b8c-a83f-6efae8a8f1ef",
+      "data": [
+        {
+          "text": "please call a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to arrive at "
+        },
+        {
+          "text": "four hundred",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " and take me to the "
+        },
+        {
+          "text": "manor theater",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1e4216e2-e3a8-4892-91b2-bedb6250000e",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " me to the "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9a57a218-22bb-4c1f-97e3-4088e2c1e65e",
+      "data": [
+        {
+          "text": "get me a "
+        },
+        {
+          "text": "car",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c94e91f1-acbe-4607-9b94-d250507bc1c3",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ceeb009-ca0f-4f23-9aed-d96070660a0d",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to go "
+        },
+        {
+          "text": "home",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07746661-caeb-4a99-a4e5-9ab0ed665d33",
+      "data": [
+        {
+          "text": "please reserve an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a5bcf204-e5ee-4f95-8d32-650b9067804a",
+      "data": [
+        {
+          "text": "call "
+        },
+        {
+          "text": "golden taxi",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " to pick me up at "
+        },
+        {
+          "text": "seven pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "be1995a1-fa44-4dea-b82d-11dce9b189c6",
+      "data": [
+        {
+          "text": "find me a ride to the "
+        },
+        {
+          "text": "mall of america",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ee71a1a1-62c6-4c7c-9957-fa9b233c676e",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "thirty minutes",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5657e91b-65eb-4349-8709-521df394cd2c",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "thirty minutes",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07a2a5ce-d79d-4914-9c3c-b6a12b41f14a",
+      "data": [
+        {
+          "text": "could you please book me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " going to location"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2271703d-23d4-467a-af4b-1a9958a25e58",
+      "data": [
+        {
+          "text": "book an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " to pick me up now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "78923aa7-4bf7-4e0b-a9ae-46d7075049d8",
+      "data": [
+        {
+          "text": "please book me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "64f11154-230c-4146-9a90-b64ba5305e48",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "ride",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8f896265-dda3-494a-b7b4-dc8ec150d6e3",
+      "data": [
+        {
+          "text": "what is the number of the closest "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " company"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "303f04cf-e5b0-4eb4-bd0a-e06c161167ea",
+      "data": [
+        {
+          "text": "call "
+        },
+        {
+          "text": "rta",
+          "alias": "business_name",
+          "meta": "@business_name",
+          "userDefined": true
+        },
+        {
+          "text": " and book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "three",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " o'clock in the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cf6255da-2ecc-4972-82f2-3210bcd701a8",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to go to the "
+        },
+        {
+          "text": "movies",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "one",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff52686f-4eb0-4974-bd66-3099b8b89b1a",
+      "data": [
+        {
+          "text": "need a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eight",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e05724e4-c3c8-4f28-9ad5-c17d451a8a3d",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "office",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5945011c-775c-401e-99d2-e49bd7bf11ea",
+      "data": [
+        {
+          "text": "could you please hire me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to go to the "
+        },
+        {
+          "text": "opera",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d82c4225-0a80-4aa3-acc9-0c5a5fe07b73",
+      "data": [
+        {
+          "text": "open "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a7920fa8-52b0-41f3-b1d4-ab95888ec4ae",
+      "data": [
+        {
+          "text": "book an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3e4728dc-dbc4-4517-b7be-67ba27d904be",
+      "data": [
+        {
+          "text": "book an outstation "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "ola",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5b2fc511-d2e8-42d7-9b73-701ada12ec23",
+      "data": [
+        {
+          "text": "call me a "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to the "
+        },
+        {
+          "text": "train station",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ee9f54d4-6925-44f6-aea1-3f651f1b4c78",
+      "data": [
+        {
+          "text": "find me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9fa8514c-c4a8-4d9f-bd1c-3ca361a2b03b",
+      "data": [
+        {
+          "text": "book an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " from my location to "
+        },
+        {
+          "text": "the theatre",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba2f77c6-9a29-4336-966d-225af91a5e49",
+      "data": [
+        {
+          "text": "just book for me a "
+        },
+        {
+          "text": "lyft",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "bardonia",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4429e57a-f4cd-42b1-a7b8-7a63bf5d23ef",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "leith",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "half an hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "13dc7f6f-17e3-4aac-8fa3-a5d8a1e8a181",
+      "data": [
+        {
+          "text": "find an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "twenty ninth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f72db88e-a58c-482a-bc16-d6a8a4390a11",
+      "data": [
+        {
+          "text": "schedule city "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "home",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "713666c9-19a0-4d1c-8580-2e4766e6efdf",
+      "data": [
+        {
+          "text": "can i get a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to come to "
+        },
+        {
+          "text": "my house",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in an hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a0ded25d-bb13-4c9d-8058-0162981a0ad8",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to the "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5d8dc91b-eee4-40a5-9d40-edb9d41fb0a6",
+      "data": [
+        {
+          "text": "book "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "seven pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b335712c-9da2-4a72-a348-a47b00986894",
+      "data": [
+        {
+          "text": "get me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "54f3595a-34d2-42f4-841d-0afe53563b5a",
+      "data": [
+        {
+          "text": "get me an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "56694f19-023c-4acc-969e-4a3e5d4e1751",
+      "data": [
+        {
+          "text": "find the nearest "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fc7c4044-0b4d-4e44-906a-10fa8103976c",
+      "data": [
+        {
+          "text": "get me a "
+        },
+        {
+          "text": "ride",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "hospital",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b4bf3fe-8cf2-4b9b-bc91-68518765798a",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " to my current location"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3474107c-e1fe-4964-8309-9efaab21cb79",
+      "data": [
+        {
+          "text": "please book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " for me to go to the "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c15cfca7-99ea-4d81-8982-404d460800b6",
+      "data": [
+        {
+          "text": "find me an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a726237f-b2a2-4d2e-bed9-f979c27458ed",
+      "data": [
+        {
+          "text": "reserve the closest "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8e15f84e-3d74-4904-a96d-50f263c60f78",
+      "data": [
+        {
+          "text": "can you get me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "home",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fdaad769-8f0e-463a-9f51-903ccd037ac2",
+      "data": [
+        {
+          "text": "call me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to the "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "21b2a7ae-621c-49b3-af78-1d466014554f",
+      "data": [
+        {
+          "text": "i need a ride "
+        },
+        {
+          "text": "in an hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6aff9ded-e6e2-4268-8431-18fa00cd8311",
+      "data": [
+        {
+          "text": "open "
+        },
+        {
+          "text": "lyft",
+          "alias": "app_name",
+          "meta": "@app_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9f9c2c58-93ef-4202-9ee3-ed57d7e09773",
+      "data": [
+        {
+          "text": "look for a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to go "
+        },
+        {
+          "text": "home",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ea990163-3805-49e2-a6a1-65b0fa398638",
+      "data": [
+        {
+          "text": "can you book me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ac516f0-9005-40bb-8124-bbf19f6f2b33",
+      "data": [
+        {
+          "text": "please book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for me to go to the "
+        },
+        {
+          "text": "railway station",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "22eb2cc3-2b18-4688-9e39-224cda0484de",
+      "data": [
+        {
+          "text": "schedule "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " pickup for "
+        },
+        {
+          "text": "monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "noon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "557ceb2d-bf40-422e-99aa-1250b355960b",
+      "data": [
+        {
+          "text": "please send a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "my house",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ff07aa9-511d-43f3-8d62-2ac120258267",
+      "data": [
+        {
+          "text": "i need you to book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c9903fa1-6d49-4dc1-9e29-72b45eac79be",
+      "data": [
+        {
+          "text": "call an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8485de66-1bd7-4bb1-9d7a-bcea13d15232",
+      "data": [
+        {
+          "text": "request a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "udrive service",
+          "alias": "business_name",
+          "meta": "@business_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3497fb92-1960-4fb7-9a58-9a186c5e7ff2",
+      "data": [
+        {
+          "text": "find a ride to the "
+        },
+        {
+          "text": "bar",
+          "alias": "business_type",
+          "meta": "@business_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "68251922-9f63-4f68-a9ca-91fbe1305590",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "seven pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " to the "
+        },
+        {
+          "text": "arena",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d587849c-d9e7-44ae-929a-578b8bc2a94e",
+      "data": [
+        {
+          "text": "call me an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " for right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "abcc35b0-15e0-4dad-a3a0-1f15d7b329e8",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " which have cheapest price"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4eaed401-9d31-40c4-be80-3608581ef932",
+      "data": [
+        {
+          "text": "please book the next "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5313df3a-a043-4d4d-81a3-23969695e0e6",
+      "data": [
+        {
+          "text": "schedule me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for after my "
+        },
+        {
+          "text": "thursday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b4f29fb9-0f87-4b6a-a0dc-8dfc08342939",
+      "data": [
+        {
+          "text": "can i get an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "home",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " from the "
+        },
+        {
+          "text": "fox downtown",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " as soon as possible"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1bb6f473-3fd8-415e-a0d7-9adcd6488c67",
+      "data": [
+        {
+          "text": "can you book an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "47ab606c-42cd-4d4a-b5ad-622d87b8ce82",
+      "data": [
+        {
+          "text": "flag me an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "ten pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "55ae8429-50c3-4bfb-8be6-2108dafc198c",
+      "data": [
+        {
+          "text": "book for me an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "bardonia",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "71013f78-9aa3-4b74-b354-6a7995f873dc",
+      "data": [
+        {
+          "text": "check all "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " companies and get a time booked for "
+        },
+        {
+          "text": "three pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "93c0d8eb-404b-4117-947e-4e6721476916",
+      "data": [
+        {
+          "text": "call a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for me to arrive "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "five",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9866aca0-2a83-4a6b-be8f-fbb1dece8cbb",
+      "data": [
+        {
+          "text": "arrange a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "173c9bea-5797-423f-b397-fd4e6bf18f27",
+      "data": [
+        {
+          "text": "get me a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to take me to the "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "five thirty am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fac0e3f2-028e-4b01-99fc-99856b4c95a2",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " going to location"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "feb61ea9-764f-4660-9b30-e2c09931134d",
+      "data": [
+        {
+          "text": "i need to get to location call a "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4359a0ef-c59b-42cf-b381-589ced9711d2",
+      "data": [
+        {
+          "text": "get me an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "42d706b7-842f-45e4-913f-8381c132d3f9",
+      "data": [
+        {
+          "text": "lets get a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9baa32b6-0650-4a64-a31f-431795b63914",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "cab",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "evening",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "46984522-f6da-44f4-be17-5b8c0aeac59a",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c6677755-d42a-48f7-91fd-f08c8c289b9f",
+      "data": [
+        {
+          "text": "request an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "857b6e47-ce23-4d90-b267-39c66a60b0a9",
+      "data": [
+        {
+          "text": "book "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " from my "
+        },
+        {
+          "text": "home",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e7ec17a8-afa2-49b6-8aab-b02bf896d00b",
+      "data": [
+        {
+          "text": "book me an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f315815e-208e-44dc-91e9-746a9a0de8cf",
+      "data": [
+        {
+          "text": "can you book an "
+        },
+        {
+          "text": "uber",
+          "alias": "transport_agency",
+          "meta": "@transport_agency",
+          "userDefined": true
+        },
+        {
+          "text": " after i left for office"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5048dbe1-00cf-4ce3-a70c-a3c56b8f6211",
+      "data": [
+        {
+          "text": "i need a ride to the "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "41332370-343e-442f-bf10-228458a04472",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "taxi",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "airport",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for me in the "
+        },
+        {
+          "text": "evening",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "fa731c2e-0c53-44b5-a485-6e51252604e7",
+  "name": "transport_taxi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@app_name",
+          "name": "app_name",
+          "value": "$app_name"
+        },
+        {
+          "dataType": "@business_name",
+          "name": "business_name",
+          "value": "$business_name"
+        },
+        {
+          "dataType": "@business_type",
+          "name": "business_type",
+          "value": "$business_type"
+        },
+        {
+          "dataType": "@date",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "dataType": "@event_name",
+          "name": "event_name",
+          "value": "$event_name"
+        },
+        {
+          "dataType": "@place_name",
+          "name": "place_name",
+          "value": "$place_name"
+        },
+        {
+          "dataType": "@time",
+          "name": "time",
+          "value": "$time"
+        },
+        {
+          "dataType": "@timeofday",
+          "name": "timeofday",
+          "value": "$timeofday"
+        },
+        {
+          "dataType": "@transport_agency",
+          "name": "transport_agency",
+          "value": "$transport_agency"
+        },
+        {
+          "dataType": "@transport_type",
+          "name": "transport_type",
+          "value": "$transport_type"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

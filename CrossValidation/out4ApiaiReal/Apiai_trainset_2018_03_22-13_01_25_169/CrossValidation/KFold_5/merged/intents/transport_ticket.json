@@ -1,0 +1,5024 @@
+{
+  "userSays": [
+    {
+      "id": "5df0e054-a8d6-4d0f-a609-580ccb31b997",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "chicago",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " morning before "
+        },
+        {
+          "text": "ten",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ecfe634f-a2fb-42df-abb7-8d8fb630100a",
+      "data": [
+        {
+          "text": "find out the the "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " arrival time and book me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b236da3d-2fea-4ac0-87e0-359d72dafd72",
+      "data": [
+        {
+          "text": "google "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " tickets to "
+        },
+        {
+          "text": "washington dc",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "44553948-fc8d-4554-a60f-b6983c4c9d43",
+      "data": [
+        {
+          "text": "book ticket for "
+        },
+        {
+          "text": "paris",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9159164b-8996-44a4-914f-987e94a50e0c",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "da85ff3c-711c-447e-b2a5-139cbfdac2d8",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "canada",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " this "
+        },
+        {
+          "text": "evening",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d9f537c8-fbdc-4a30-951f-29f493fef4aa",
+      "data": [
+        {
+          "text": "book me on a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " leaving "
+        },
+        {
+          "text": "penn station",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " travelling to "
+        },
+        {
+          "text": "any city more than two hundred miles away",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "62e5f3cc-5582-464d-8c80-44bec7f1d32f",
+      "data": [
+        {
+          "text": "get me two "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " tickets from where i am now to "
+        },
+        {
+          "text": "dallas",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " arriving "
+        },
+        {
+          "text": "before dark",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9b788924-cac6-41e5-ae8c-3054041c9157",
+      "data": [
+        {
+          "text": "book and pay for a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "denver",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dfe5d6e8-e19c-4317-8dcd-2a557b13021f",
+      "data": [
+        {
+          "text": "please book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "london",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "manchester",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "668eadc8-e48b-41f5-a2d5-774b614ff98c",
+      "data": [
+        {
+          "text": "google i need one "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " can you book that for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "288667f5-e394-40bb-afd1-3a38a9fb3443",
+      "data": [
+        {
+          "text": "i need to buy a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a36b2307-3d93-44aa-bcea-4f368f09e505",
+      "data": [
+        {
+          "text": "book a ticket in irctc website from "
+        },
+        {
+          "text": "sbc",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "mdu",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "may two",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " for stored passenger list"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "136a0f00-e346-4342-b954-a531f81a68b4",
+      "data": [
+        {
+          "text": "google search booking "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7f00a80f-e6c6-4d1e-9188-06f7737646d8",
+      "data": [
+        {
+          "text": "please purchase a amtrak ticket from "
+        },
+        {
+          "text": "las vegas nevada",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "lakeland florida",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " leaving on the "
+        },
+        {
+          "text": "first of april",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3bb7f16f-ba76-46e0-98f0-ab98678ada66",
+      "data": [
+        {
+          "text": "book the the next "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "chennai",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9c4d8a1f-6802-4693-85d7-649ece8f7bb0",
+      "data": [
+        {
+          "text": "find me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "boston",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "68f5b7ee-384e-405a-9320-7d3d2459a5ce",
+      "data": [
+        {
+          "text": "get me a ride on the commuter "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "nj",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "ny",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b745fc02-0c4e-4625-ae54-bce14a06a11f",
+      "data": [
+        {
+          "text": "open "
+        },
+        {
+          "text": "irctc",
+          "alias": "app_name",
+          "meta": "@app_name",
+          "userDefined": true
+        },
+        {
+          "text": " application and go to book ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2b0e1762-f7a4-4a51-b810-3c7d0287a63f",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket in any "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "bombay",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3a8335ec-4ba3-44c4-b359-a0d0aa5a8873",
+      "data": [
+        {
+          "text": "i need the current dart rail schedule from "
+        },
+        {
+          "text": "west irving station",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "north lake college",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1526d9f1-4b95-4c85-9ea8-12bc8d893fe0",
+      "data": [
+        {
+          "text": "schedule a journey to "
+        },
+        {
+          "text": "las vegas",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a77620bf-d581-43a2-8258-de5cc39a4e0c",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "boston",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cdba078a-aeab-4ce7-b6ae-3f324c9696e2",
+      "data": [
+        {
+          "text": "reserve a seat for me on the "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "march twentieth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "30ec886b-6f44-43bc-9541-346e76f4f0b0",
+      "data": [
+        {
+          "text": "confirm a travel ticket to "
+        },
+        {
+          "text": "german",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "431ba872-75ca-4233-87ac-990a9a401533",
+      "data": [
+        {
+          "text": "i want a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3e148123-33ab-4b16-bb5e-22b18f09efff",
+      "data": [
+        {
+          "text": "please book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "jodhpur",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "jaisalmer",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "sunday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "67c3c098-393e-4ec7-882c-bfba0bf2eacc",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for one "
+        },
+        {
+          "text": "one way",
+          "alias": "transport_descriptor",
+          "meta": "@transport_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " for this "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "nine am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4065df44-6db3-40f5-9c9b-077d5f7190e6",
+      "data": [
+        {
+          "text": "get me a seat on the next "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " going to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d5f6f66c-6f73-4cb4-9d36-4da38b412868",
+      "data": [
+        {
+          "text": "order a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "boston",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9de817df-33f4-4d7f-9129-80dade3712d5",
+      "data": [
+        {
+          "text": "show me "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " tickets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "74bf7aca-c0d9-466c-baa1-28ac29a0a5db",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9bac9cc0-c4ac-403d-ad2f-9036a1ed97a0",
+      "data": [
+        {
+          "text": "can you please buy me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2af8a980-228a-4607-8a15-40575c9615d4",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "twenty two march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "twelve pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "987e22ea-01d7-47f0-bb39-27086b0ef618",
+      "data": [
+        {
+          "text": "book ticket to depart in the "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b6567d24-d289-44dc-9e8a-bab7266694de",
+      "data": [
+        {
+          "text": "secure "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " passage for me on "
+        },
+        {
+          "text": "july three",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "547dc11a-e22e-471b-bddb-c957a81dd74c",
+      "data": [
+        {
+          "text": "i want a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "oregon",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "be8d98ff-c759-4e4b-a289-2b54c1829612",
+      "data": [
+        {
+          "text": "can you please book "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " tickets for two for this "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fe0b8e91-ad11-4aad-a49f-aa72623a2aaa",
+      "data": [
+        {
+          "text": "i want to book rajdhani "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "mumbai to ahmadabad",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b4cf35c2-3aad-4d7d-832d-f9f61b101675",
+      "data": [
+        {
+          "text": "please book "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cf301051-e37e-46a4-a23e-76ddf19d0693",
+      "data": [
+        {
+          "text": "book me the cheapest "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8a4f2609-8f0a-4213-b70b-d46f00602dbf",
+      "data": [
+        {
+          "text": "best ticket price air plane to "
+        },
+        {
+          "text": "chester",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " on the "
+        },
+        {
+          "text": "twenty first",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69915457-f47c-4586-80d1-567691107315",
+      "data": [
+        {
+          "text": "book a ticket for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "irctc",
+          "alias": "app_name",
+          "meta": "@app_name",
+          "userDefined": true
+        },
+        {
+          "text": " site for the stored information"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff7e10bc-578f-47a1-bac5-e114053981cb",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "rome",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " book ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e6938cea-19b2-442a-8b4b-8c68d4639faa",
+      "data": [
+        {
+          "text": "help me book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "050e2eb9-6c8f-4730-b59c-da44ff8fd2e6",
+      "data": [
+        {
+          "text": "i need the times for the "
+        },
+        {
+          "text": "south bound",
+          "alias": "transport_descriptor",
+          "meta": "@transport_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "allison rd",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2173f071-5376-42ac-8acc-e11091b5fbaa",
+      "data": [
+        {
+          "text": "i want a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "edinburgh",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "04570dde-f69a-4c44-9972-57042818db48",
+      "data": [
+        {
+          "text": "could you make a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e58145d-4437-4c60-950f-ffcd325f51ae",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "41387b2c-c182-4d50-9770-f94cb0a43b23",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " city on the "
+        },
+        {
+          "text": "third",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " i "
+        },
+        {
+          "text": "don't care",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " what time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "282688d4-c9cf-42e7-9b02-50e97ddd0550",
+      "data": [
+        {
+          "text": "travel book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6bc0a0be-8623-4ae6-ba9f-34d4ca689321",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "return",
+          "alias": "transport_descriptor",
+          "meta": "@transport_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " trip from "
+        },
+        {
+          "text": "edinburgh",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "london",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cb831f7a-043a-47f2-8248-45210e62e9ae",
+      "data": [
+        {
+          "text": "book "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " best deal"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c1fef728-13cd-420c-96d3-5efbf8980ffe",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f99b399-460b-45b0-8aba-e3e24a32b770",
+      "data": [
+        {
+          "text": "find me the cheapest "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "spain",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f293acf-90a2-402f-b439-79a3075c71f0",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to city "
+        },
+        {
+          "text": "leeds",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4788a233-ebff-4cfa-8879-52fd438b7d6f",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "canada",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "las vegas",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c3a643c8-a1cd-4706-a68c-96f4315a63cf",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ride"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2661160d-f9db-4f26-b15e-08de28a9f6ff",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ee2a491f-2b1e-4d60-b4dd-be273bc7ff99",
+      "data": [
+        {
+          "text": "order a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "los angeles",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19caff98-3a3b-47ae-9d86-f777369247bf",
+      "data": [
+        {
+          "text": "get a me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "milwaukee",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "chicago",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "sunday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e44c8c05-c93f-498d-906d-822680854114",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "barcelona",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7885aa1c-5ff0-4d7d-aa32-7d8842e8c625",
+      "data": [
+        {
+          "text": "i need to book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "mumbai to goa",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "001aab8a-e3cc-4376-bbe9-0a9832b6eed8",
+      "data": [
+        {
+          "text": "please purchase me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "atlanta",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4585f93f-2544-4ad2-b695-4e30eb3059cc",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket traveling to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "may",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4b38a474-40e6-426b-a77a-8001dcc60c15",
+      "data": [
+        {
+          "text": "hey i want to get trains to "
+        },
+        {
+          "text": "manchester",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "Wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7999a89d-327d-4fe0-b3cd-43f4da015712",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " going to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "23638771-bcf4-43b6-b29d-e1c6037e2191",
+      "data": [
+        {
+          "text": "book my "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "las vegas",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "los angeles",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b3273106-044f-4788-8903-1daac8396d1d",
+      "data": [
+        {
+          "text": "ticket for "
+        },
+        {
+          "text": "delhi",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "09073529-37b9-4f65-b274-721db03d23fb",
+      "data": [
+        {
+          "text": "find a non stop "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "seattle",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d404cd6c-ca09-467c-9b2d-95bdf905d414",
+      "data": [
+        {
+          "text": "find "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ebd76584-fa30-4db2-9e6a-aa6a5e8f1903",
+      "data": [
+        {
+          "text": "can you book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "bombay",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " in any train"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5c818210-6dd6-4e14-b0e1-508dbc71793d",
+      "data": [
+        {
+          "text": "i want a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "boston",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "35cfa738-025d-4d5b-994b-91093342a036",
+      "data": [
+        {
+          "text": "look for "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " tickets to "
+        },
+        {
+          "text": "edinburgh",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c11f4220-9bff-41fb-92fc-dd63c51435c7",
+      "data": [
+        {
+          "text": "i need a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9f453f13-b76f-43e9-a8d5-df0464c40c7f",
+      "data": [
+        {
+          "text": "book for me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "washingdon dc",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f4e3dcac-521a-4c08-82a1-553194cdbf5e",
+      "data": [
+        {
+          "text": "search for two tickets on "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "paris",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c7e03623-93c1-4269-9d3a-5faff19383b4",
+      "data": [
+        {
+          "text": "i need to book rajdhani "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "mumbai to ahmedabad",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19aade8e-a7f8-439b-b548-58d824ebe208",
+      "data": [
+        {
+          "text": "can you book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for me under "
+        },
+        {
+          "text": "dollars",
+          "alias": "currency_name",
+          "meta": "@currency_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "56d81859-0f1c-47a2-b55c-ab8fe3fd4e2c",
+      "data": [
+        {
+          "text": "bring me ticket of "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to city "
+        },
+        {
+          "text": "leeds",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f9e02ca3-e1ee-4d69-b4b0-009746eb8082",
+      "data": [
+        {
+          "text": "can you book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "boston",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for next "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d2502507-df59-41ac-97ba-5aee78ea8122",
+      "data": [
+        {
+          "text": "book for me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "61df07f9-3b44-4d4a-adef-edfa37981033",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket on "
+        },
+        {
+          "text": "the five hundred and two",
+          "alias": "transport_name",
+          "meta": "@transport_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "in fifteen minutes",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d560e6f3-9805-4cc3-ab64-e873d0fda420",
+      "data": [
+        {
+          "text": "buy "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c853ea25-dcfc-438a-87c8-7be5f48ab61b",
+      "data": [
+        {
+          "text": "i want you to book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "391fe767-d1b2-41b9-ba85-f0506f41c5a0",
+      "data": [
+        {
+          "text": "book "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for this time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c0fa096f-177d-47ae-902b-961823dd1a99",
+      "data": [
+        {
+          "text": "book next "
+        },
+        {
+          "text": "ny",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "09ef471a-83f8-4958-962a-e5e14632d0e7",
+      "data": [
+        {
+          "text": "get me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to go to"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e9e0a70c-d42a-4f0a-a0cb-7c7b1fb62d9f",
+      "data": [
+        {
+          "text": "can you book "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "mumbai",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "sangli",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c8617bfb-8ed6-4901-8f83-15d8c8ead1c5",
+      "data": [
+        {
+          "text": "can you please book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for next "
+        },
+        {
+          "text": "saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "boston",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d106250b-83fe-4899-a725-fd2760cf75e8",
+      "data": [
+        {
+          "text": "book my chair class ac "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "manhattan",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "270df966-108c-4eff-9003-ac74b5c21708",
+      "data": [
+        {
+          "text": "book a ticket for the "
+        },
+        {
+          "text": "evening",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " line"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7d672e70-1c5d-46ab-9ada-37fe848b432e",
+      "data": [
+        {
+          "text": "can you book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2592b8ac-5782-4b0b-ab49-e418fcce9635",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for "
+        },
+        {
+          "text": "saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b0296614-54d6-4202-8905-a596546bb510",
+      "data": [
+        {
+          "text": "go to www dot metronorth dot com for "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " tickets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "34da36e2-489c-4f44-ab05-6d6516ce795e",
+      "data": [
+        {
+          "text": "read the ticket for tesla"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cead4bf8-5857-43f0-8174-48ba74680366",
+      "data": [
+        {
+          "text": "buy a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "cleveland",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "april fourteenth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "52935069-6120-4749-8200-3a0e50f76781",
+      "data": [
+        {
+          "text": "book a rajdhani "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "mumbai to ahmedabad",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "621d30a9-46e5-4f3d-82d0-2edcc16bd081",
+      "data": [
+        {
+          "text": "book for me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "california",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f683f18-ece1-44fa-8a2e-393d04904165",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "atlanta",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b99dc183-88bf-4da3-a6ce-8b9a6c935347",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for "
+        },
+        {
+          "text": "friday april fourteenth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "boston",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6bb45b6c-98f4-4a58-95bc-610f504efcd6",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ride "
+        },
+        {
+          "text": "covering five destinations",
+          "alias": "transport_descriptor",
+          "meta": "@transport_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " to see in "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4df23cf4-ed17-421e-86f7-8a386aa96440",
+      "data": [
+        {
+          "text": "i need to leave on the "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "rockville",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d95668b9-9d2c-4956-bdfb-fffb6eea015c",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket at earliest time "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9b841c08-81e9-480a-9bf3-a2ff8744f244",
+      "data": [
+        {
+          "text": "repurchase last "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "phillyx",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "086dd4a7-08ef-40cb-b4d4-2aa17912644c",
+      "data": [
+        {
+          "text": "book a ticket to "
+        },
+        {
+          "text": "paris",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "eurostar",
+          "alias": "transport_name",
+          "meta": "@transport_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this Friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "50862fc8-7bec-48f2-b2d7-de6ba376181f",
+      "data": [
+        {
+          "text": "buy me a ticket to take the "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "atlanta",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "570b7155-a72b-4757-a927-c29b498d3107",
+      "data": [
+        {
+          "text": "buy me "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to city "
+        },
+        {
+          "text": "leeds",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5612b361-fcdb-402a-afef-2f0c431cd9b5",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket with a "
+        },
+        {
+          "text": "berth seat",
+          "alias": "transport_descriptor",
+          "meta": "@transport_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "lucknow",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "next week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "df0eb8a8-bdbc-4fc2-b61a-3564786eb7e4",
+      "data": [
+        {
+          "text": "open "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket app"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "964b6f59-1135-4cec-823e-da83741c3daf",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for the next available train"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "648f2e3a-0df1-45e1-bd74-efd2409639e9",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "first class",
+          "alias": "transport_descriptor",
+          "meta": "@transport_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " ticket in the next "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "miami",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8833ad58-ba07-4c4e-b0b5-cfbffd3b25fa",
+      "data": [
+        {
+          "text": "i need you to book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket that leaves at "
+        },
+        {
+          "text": "two pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3cb71f3f-e4fa-460a-9bbd-693f27304174",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "mumbai",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f4db07d7-7f29-4ecb-9ab8-e39894f45ddc",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "10c371d9-e46c-41cf-bbd6-9e18800a686b",
+      "data": [
+        {
+          "text": "reserve a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for me "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "des moines",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f2bae4f1-2c28-4bf1-97b9-f3afde940b50",
+      "data": [
+        {
+          "text": "book my "
+        },
+        {
+          "text": "first class",
+          "alias": "transport_descriptor",
+          "meta": "@transport_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " ac "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "san francisco",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aaa20cdb-b300-4708-8ca9-2f0fb8b6f3ba",
+      "data": [
+        {
+          "text": "could you please cancel my "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7816b292-c013-4ff8-ac27-123e8ab914b5",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "washington dc",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "savannah georgia",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e3d6a51-2e96-481b-a7bd-43eeb06533d3",
+      "data": [
+        {
+          "text": "book "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f97cddb7-c20a-45b9-a323-b3ee279f3800",
+      "data": [
+        {
+          "text": "tell me about the cheapest flight fares to "
+        },
+        {
+          "text": "nj",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "46209445-b908-45f2-8b36-dfea68d0399a",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from here to "
+        },
+        {
+          "text": "charleston west virginia",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "89f4da83-ce7f-4f9f-86b4-89cb2a1f0321",
+      "data": [
+        {
+          "text": "please go to amtrak dot com to purchase tickets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2700177f-c40f-42c9-b028-5ec930c9c67f",
+      "data": [
+        {
+          "text": "find me "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " tickets"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f43964fb-b43c-4ac2-8701-515773ecc9ea",
+      "data": [
+        {
+          "text": "i need to book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " to go to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ffb196b-d297-4649-a953-ddd4ba6535a4",
+      "data": [
+        {
+          "text": "find me the earliest "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket departing "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "miami",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f04b5a3c-91a5-4845-8391-dda8c0b124e8",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to arrive in "
+        },
+        {
+          "text": "cambridge",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "eight thirty pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "de98e228-e6b6-4495-a14f-93e1154b7050",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "orlando",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "chicago",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2a8ed091-8007-474c-911e-0f1b132a9c5a",
+      "data": [
+        {
+          "text": "help me buy a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "denver",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for next "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "95f555ba-a632-4814-9cdf-955ad572aa45",
+      "data": [
+        {
+          "text": "ticket for "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5fc803a7-bc14-482f-a2c9-9f046093ceab",
+      "data": [
+        {
+          "text": "buy a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for "
+        },
+        {
+          "text": "one week from now",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " from "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "las vegas nevada",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "14040b97-14a2-4205-b1a0-c52f7a7e9121",
+      "data": [
+        {
+          "text": "buy a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff7cb2d6-b7ff-4f65-a15a-822c9f9f08a8",
+      "data": [
+        {
+          "text": "can you check "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " schedule to "
+        },
+        {
+          "text": "berkeley",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a62fe723-662e-4fa9-a40b-4b423e818b42",
+      "data": [
+        {
+          "text": "get "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "78e2cf3b-be96-4101-af58-528bac391e1b",
+      "data": [
+        {
+          "text": "id like to get on the next "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " that will be departing "
+        },
+        {
+          "text": "indianapolis",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " headed to "
+        },
+        {
+          "text": "chicago",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3559c349-5333-459d-8227-df1ee370a14d",
+      "data": [
+        {
+          "text": "buy me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "48a535f0-1623-4bc4-a65b-ada4fcfbcd94",
+      "data": [
+        {
+          "text": "i need to get to "
+        },
+        {
+          "text": "bristol",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "Friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "night",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " can you book me a ticket please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2cc98514-3e1b-44b1-b10a-a3e620b887af",
+      "data": [
+        {
+          "text": "can you book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for my "
+        },
+        {
+          "text": "father",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "66568918-7e37-4e35-bc0e-f1edb2b4b62a",
+      "data": [
+        {
+          "text": "i want the cheapest "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "886cee36-a388-4718-9733-42899b551b61",
+      "data": [
+        {
+          "text": "can i get a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fa1e6735-c07b-4b3d-b954-73d75ddec34d",
+      "data": [
+        {
+          "text": "buy an "
+        },
+        {
+          "text": "acela",
+          "alias": "transport_name",
+          "meta": "@transport_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket on "
+        },
+        {
+          "text": "thursday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e01462c5-b913-4205-8757-ec174933bfb7",
+      "data": [
+        {
+          "text": "can you reserve a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for "
+        },
+        {
+          "text": "this day",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "73d8c184-5841-42c2-98ec-0be0e8ad0288",
+      "data": [
+        {
+          "text": "buy "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " tickets from "
+        },
+        {
+          "text": "delhi",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "mumbai",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "twenty third march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "764ce9aa-3d21-4ae9-810c-e2c97ab94a55",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " tickets for two people from "
+        },
+        {
+          "text": "delhi",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "mumbai",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f848c8ef-8a89-4982-8942-23d45d91e02e",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "charleston west virginia",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8ba98787-0cfa-45e0-bccc-eb9950f94947",
+      "data": [
+        {
+          "text": "buy a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "lakeland florida",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f5cf321c-f887-4d27-a53a-d2833481cf6b",
+      "data": [
+        {
+          "text": "can you book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "berkeley",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "03be9181-2224-4cb0-bce5-ac052b23bf5e",
+      "data": [
+        {
+          "text": "Hello book "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "mumbai",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "sangli",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "850d8aad-b9fd-4db0-9fa0-0dfc1bfbd3cc",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "los angeles",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "chicago",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " that "
+        },
+        {
+          "text": "goes via miami",
+          "alias": "transport_descriptor",
+          "meta": "@transport_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ed1461fa-9291-4e34-b1b3-3fc0ffee32a3",
+      "data": [
+        {
+          "text": "i need to go to "
+        },
+        {
+          "text": "dundee",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "five am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "sunday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "024e31e7-0eb9-48d9-990b-2dee8bedc097",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " tickets for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5be610ef-9dae-4508-882b-d7dd0e985b72",
+      "data": [
+        {
+          "text": "book me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for "
+        },
+        {
+          "text": "this afternoon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "chicago",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b9f5f9ec-400c-4730-846f-3f1fe7d4f1ec",
+      "data": [
+        {
+          "text": "book a ticket for the "
+        },
+        {
+          "text": "ethan allen express",
+          "alias": "transport_name",
+          "meta": "@transport_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "vermont",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "de24be5c-be74-47df-9667-5817df100051",
+      "data": [
+        {
+          "text": "find me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket next "
+        },
+        {
+          "text": "monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "new york city",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cfc94958-7938-4986-95de-d7fd5139a3b7",
+      "data": [
+        {
+          "text": "i want to buy a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "boston",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "02da5a3d-e4ca-499d-b6f2-53324ec32c23",
+      "data": [
+        {
+          "text": "book a ride from "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "orlando",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " covering "
+        },
+        {
+          "text": "ten places to see",
+          "alias": "transport_descriptor",
+          "meta": "@transport_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1615bae3-d170-44f5-9d74-9d1efe000e08",
+      "data": [
+        {
+          "text": "book a ticket to "
+        },
+        {
+          "text": "ny",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "67ee355c-6318-40e0-8680-d5ee8b781394",
+      "data": [
+        {
+          "text": "i need to book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "la",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "846d4199-99a3-4830-8239-4d73366956a3",
+      "data": [
+        {
+          "text": "fetch me two "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " tickets for the earliest "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "paris",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b1108f3a-505d-419f-aa56-c2f08bb1b6ec",
+      "data": [
+        {
+          "text": "transportation ticket booking "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "34898431-dec1-4cc6-8f93-f69ba0c3f974",
+      "data": [
+        {
+          "text": "please purchase a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for this "
+        },
+        {
+          "text": "weekend",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "886f8035-4fec-409e-96a5-679caded3707",
+      "data": [
+        {
+          "text": "reserve a ticket to go to "
+        },
+        {
+          "text": "destination",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " by "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7d244d17-d2cc-4bf6-a181-685b2a4de60c",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "baltimore maryland",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "new york new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cd89e02f-fca3-4fd5-8b59-80c60ae0b3ba",
+      "data": [
+        {
+          "text": "book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "mumbai to goa",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "33d332a4-a365-4ce6-b104-29a255737ca8",
+      "data": [
+        {
+          "text": "i want a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "los angeles",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "phoenix",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6e170ece-8ede-4c95-865d-9b81086231ee",
+      "data": [
+        {
+          "text": "google can you book me a ticket on the "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "61e8fe8c-ae81-4808-a0ae-32ac6ff6c54b",
+      "data": [
+        {
+          "text": "search for a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "newcastle",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d754cc72-3f4d-4ea2-bf87-18173e750159",
+      "data": [
+        {
+          "text": "book "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "ny",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1c7c3a6e-99f5-42f7-b605-8b8dfe47fc4f",
+      "data": [
+        {
+          "text": "please book the "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " to "
+        },
+        {
+          "text": "rockville",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aad7fe65-9dc8-42a2-866c-1b40e2444a29",
+      "data": [
+        {
+          "text": "get me a ticket to "
+        },
+        {
+          "text": "boston",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "be1b52c3-57f5-4cb3-ace6-3174f9a9b908",
+      "data": [
+        {
+          "text": "can you book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket for my "
+        },
+        {
+          "text": "mother",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "295e9745-9ef2-404f-8e39-029c2bb36fe9",
+      "data": [
+        {
+          "text": "get me a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket from "
+        },
+        {
+          "text": "mumbai to goa",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8b0271e5-4313-44ed-813e-9acc138e061f",
+      "data": [
+        {
+          "text": "please order one "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket to "
+        },
+        {
+          "text": "los angeles",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "514bc5cf-b083-46b6-a089-4e95d3b12696",
+      "data": [
+        {
+          "text": "i need to go to "
+        },
+        {
+          "text": "lyon",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " book a "
+        },
+        {
+          "text": "train",
+          "alias": "transport_type",
+          "meta": "@transport_type",
+          "userDefined": true
+        },
+        {
+          "text": " ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "75ed8cf3-1bc2-47e1-bb5e-4c2ace103fcf",
+      "data": [
+        {
+          "text": "order travel ticket"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "414f9660-ab73-4beb-99dd-236f9fb36fec",
+  "name": "transport_ticket",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@app_name",
+          "name": "app_name",
+          "value": "$app_name"
+        },
+        {
+          "dataType": "@currency_name",
+          "name": "currency_name",
+          "value": "$currency_name"
+        },
+        {
+          "dataType": "@date",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "dataType": "@place_name",
+          "name": "place_name",
+          "value": "$place_name"
+        },
+        {
+          "dataType": "@relation",
+          "name": "relation",
+          "value": "$relation"
+        },
+        {
+          "dataType": "@time",
+          "name": "time",
+          "value": "$time"
+        },
+        {
+          "dataType": "@timeofday",
+          "name": "timeofday",
+          "value": "$timeofday"
+        },
+        {
+          "dataType": "@transport_descriptor",
+          "name": "transport_descriptor",
+          "value": "$transport_descriptor"
+        },
+        {
+          "dataType": "@transport_name",
+          "name": "transport_name",
+          "value": "$transport_name"
+        },
+        {
+          "dataType": "@transport_type",
+          "name": "transport_type",
+          "value": "$transport_type"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

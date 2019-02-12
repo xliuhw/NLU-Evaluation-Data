@@ -1,0 +1,211 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "describe rock sand",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "rock sand",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "describe london for me please",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "london",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what defines a triangle",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "triangle",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "give me the definition of arrow",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "arrow",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is rock sand",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 8,
+          "end": 17,
+          "value": "rock sand",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is telekenesis",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 8,
+          "end": 19,
+          "value": "telekenesis",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "siri what is the definition of ziggurat",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 31,
+          "end": 39,
+          "value": "ziggurat",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is this thing",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "please describe a car",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 18,
+          "end": 21,
+          "value": "car",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me what haggis looks like",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 21,
+          "end": 27,
+          "value": "haggis",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "i need to get the definition of a word massive",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 39,
+          "end": 46,
+          "value": "massive",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "origin of word",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "give me the specs on the bugatti veyron",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 21,
+          "end": 39,
+          "value": "the bugatti veyron",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "whats the definition of indignation",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 24,
+          "end": 35,
+          "value": "indignation",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "could you explain the meaning of exorbitant for me please",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 33,
+          "end": 43,
+          "value": "exorbitant",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "please describe an elephant to me",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "elephant",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does potato mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 16,
+          "value": "potato",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is this",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "give me the description of a mobile battery functioning",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 29,
+          "end": 55,
+          "value": "mobile battery functioning",
+          "entity": "definition_word"
+        }
+      ]
+    }
+  ]
+}

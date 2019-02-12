@@ -1,0 +1,177 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "anything new on insta",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "insta",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "has anyone tagged me in a photo on facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 35,
+          "end": 43,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "please give me the latest feed updates",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "who recently posted on social media",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "hows twitter",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "do i have any new friend requests",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "social media",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "has wendy posted on facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "wendy",
+          "entity": "person"
+        },
+        {
+          "start": 20,
+          "end": 28,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what did happen today",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is there anything new on reddit",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 31,
+          "value": "reddit",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "can i see my facebook feed",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 21,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "check my last post on instagram",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 31,
+          "value": "instagram",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "find me new comments from my facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 37,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me whats on the web",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "anything new on social media",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "are there any updates on facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "new updates",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "what are the latest photos on my instagram account",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 42,
+          "value": "instagram",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

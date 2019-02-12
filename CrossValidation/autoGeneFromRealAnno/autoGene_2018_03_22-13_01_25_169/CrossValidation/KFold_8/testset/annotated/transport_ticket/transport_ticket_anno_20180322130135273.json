@@ -1,0 +1,399 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "train ticket please",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "reserve a train ticket for me today to des moines",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 39,
+          "end": 49,
+          "value": "des moines",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book my first class ac train ticket from new york to san francisco",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 8,
+          "end": 19,
+          "value": "first class",
+          "entity": "transport_descriptor"
+        },
+        {
+          "start": 23,
+          "end": 28,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "value": "new york",
+          "entity": "place_name"
+        },
+        {
+          "start": 53,
+          "end": 66,
+          "value": "san francisco",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "could you please cancel my train ticket",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book a train ticket from washington dc to savannah georgia",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 25,
+          "end": 38,
+          "value": "washington dc",
+          "entity": "place_name"
+        },
+        {
+          "start": 42,
+          "end": 58,
+          "value": "savannah georgia",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book train ticket to new york",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 21,
+          "end": 29,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me about the cheapest flight fares to nj today",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 43,
+          "end": 45,
+          "value": "nj",
+          "entity": "place_name"
+        },
+        {
+          "start": 46,
+          "end": 51,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "book a train ticket from here to charleston west virginia at eight am today",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 33,
+          "end": 57,
+          "value": "charleston west virginia",
+          "entity": "place_name"
+        },
+        {
+          "start": 61,
+          "end": 69,
+          "value": "eight am",
+          "entity": "time"
+        },
+        {
+          "start": 70,
+          "end": 75,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please go to amtrak dot com to purchase tickets",
+      "intent": "transport_ticket",
+      "entities": []
+    },
+    {
+      "text": "find me train tickets",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "i need to book a train for tomorrow to go to new york",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find me the earliest train ticket departing friday morning to miami",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 44,
+          "end": 50,
+          "value": "friday",
+          "entity": "date"
+        },
+        {
+          "start": 51,
+          "end": 58,
+          "value": "morning",
+          "entity": "timeofday"
+        },
+        {
+          "start": 62,
+          "end": 67,
+          "value": "miami",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book a train ticket to arrive in cambridge by eight thirty pm today",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 33,
+          "end": 42,
+          "value": "cambridge",
+          "entity": "place_name"
+        },
+        {
+          "start": 46,
+          "end": 61,
+          "value": "eight thirty pm",
+          "entity": "time"
+        },
+        {
+          "start": 62,
+          "end": 67,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "book a train ticket from orlando to chicago",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 25,
+          "end": 32,
+          "value": "orlando",
+          "entity": "place_name"
+        },
+        {
+          "start": 36,
+          "end": 43,
+          "value": "chicago",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "help me buy a train ticket to denver for next tuesday morning",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 30,
+          "end": 36,
+          "value": "denver",
+          "entity": "place_name"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "value": "tuesday",
+          "entity": "date"
+        },
+        {
+          "start": 54,
+          "end": 61,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "ticket for new york",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "buy a train ticket for one week from now from new york to las vegas nevada",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 23,
+          "end": 40,
+          "value": "one week from now",
+          "entity": "date"
+        },
+        {
+          "start": 46,
+          "end": 54,
+          "value": "new york",
+          "entity": "place_name"
+        },
+        {
+          "start": 58,
+          "end": 74,
+          "value": "las vegas nevada",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "buy a train ticket to",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "can you check train schedule to berkeley",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 32,
+          "end": 40,
+          "value": "berkeley",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

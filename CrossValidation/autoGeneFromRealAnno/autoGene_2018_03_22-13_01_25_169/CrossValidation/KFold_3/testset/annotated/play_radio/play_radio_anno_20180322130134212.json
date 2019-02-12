@@ -1,0 +1,190 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "change the station to eighty two point four",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 22,
+          "end": 43,
+          "value": "eighty two point four",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "i need you to find a good channels to listen to",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "could you please help me in listening to the radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "turn on my pandora radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "pandora",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "put the radio on",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "rj raunak programme play on ninety two point seven fm",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 28,
+          "end": 53,
+          "value": "ninety two point seven fm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "open radia",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "radia",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play new radio channel",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "turn on one oh seven point five",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 8,
+          "end": 31,
+          "value": "one oh seven point five",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "can you turn msnbc on in the car",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "msnbc",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "open pandora app",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "pandora",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to hear program one on lastfm",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 30,
+          "end": 36,
+          "value": "lastfm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "go to sirius and play the hip hop channel",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 6,
+          "end": 12,
+          "value": "sirius",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "play program on xmtune please",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "xmtune",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to listen to the new sam harris episode",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 28,
+          "end": 38,
+          "value": "sam harris",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please play red fm",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "red fm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "switch on the radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "can you start fm eight hundred and ninety radio channel",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 14,
+          "end": 41,
+          "value": "fm eight hundred and ninety",
+          "entity": "radio_name"
+        }
+      ]
+    }
+  ]
+}

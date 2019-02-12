@@ -1,0 +1,333 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "is the train time to a location long",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the fastest way to get to starbucks",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 43,
+          "value": "starbucks",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can you see if there any trains going to",
+      "intent": "transport_query",
+      "entities": []
+    },
+    {
+      "text": "what time does the train departs lagos",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 33,
+          "end": 38,
+          "value": "lagos",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how long is the walk from nyack to valley cottage",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "walk",
+          "entity": "transport_type"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "value": "nyack",
+          "entity": "place_name"
+        },
+        {
+          "start": 35,
+          "end": 49,
+          "value": "valley cottage",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "calculate the travel time if i go to orlando by train",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 37,
+          "end": 44,
+          "value": "orlando",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find a train going from prague to brno",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 24,
+          "end": 30,
+          "value": "prague",
+          "entity": "place_name"
+        },
+        {
+          "start": 34,
+          "end": 38,
+          "value": "brno",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "price of train ticket from delhi to mumbai",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 27,
+          "end": 32,
+          "value": "delhi",
+          "entity": "place_name"
+        },
+        {
+          "start": 36,
+          "end": 42,
+          "value": "mumbai",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please give me directions to a park near me",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 35,
+          "value": "park",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what are the prices to get to chicago on a train book the cheapest one",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 37,
+          "value": "chicago",
+          "entity": "place_name"
+        },
+        {
+          "start": 43,
+          "end": 48,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "what time does the train to place leave",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "can i get the directions to the nearest bar",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 40,
+          "end": 43,
+          "value": "bar",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "when is the next train to b street",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 26,
+          "end": 34,
+          "value": "b street",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when is the next train leaving for austin",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 41,
+          "value": "austin",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show me today train time of kalka at jodhpur",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 14,
+          "end": 19,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 37,
+          "end": 44,
+          "value": "jodhpur",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what time does the train arrive",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "is there a train from philadelphia to new york city at noon",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 22,
+          "end": 34,
+          "value": "philadelphia",
+          "entity": "place_name"
+        },
+        {
+          "start": 38,
+          "end": 46,
+          "value": "new york",
+          "entity": "place_name"
+        },
+        {
+          "start": 55,
+          "end": 59,
+          "value": "noon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "what is the time of the morning train headed to chicago",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "morning",
+          "entity": "timeofday"
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 48,
+          "end": 55,
+          "value": "chicago",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where is the closest mexican restaurant",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "mexican",
+          "entity": "food_type"
+        },
+        {
+          "start": 29,
+          "end": 39,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    }
+  ]
+}

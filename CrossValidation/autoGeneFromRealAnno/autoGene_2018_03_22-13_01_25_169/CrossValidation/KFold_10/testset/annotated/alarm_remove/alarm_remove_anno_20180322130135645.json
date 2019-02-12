@@ -1,0 +1,182 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "remove alarm of seven thirty am on monday",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 16,
+          "end": 31,
+          "value": "seven thirty am",
+          "entity": "time"
+        },
+        {
+          "start": 35,
+          "end": 41,
+          "value": "monday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can you please remove the alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "cancel alarm for tenth of march two thousand seventeen",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 17,
+          "end": 54,
+          "value": "tenth of march two thousand seventeen",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "this alarm needs to be permanently silenced",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "remove the alarm for tomorrow",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i dont want any alarms",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "delete my eight pm alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "eight pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remove finlee's bedtime alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 13,
+          "value": "finlee",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "reset alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "remove the alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "will you turn the alarm off for me",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "remove my morning alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "delete my alarm for eight am",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 20,
+          "end": 28,
+          "value": "eight am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remove my alarm for tomorrow morning",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 20,
+          "end": 28,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 29,
+          "end": 36,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "remove seven am alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "seven am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "cancel the alarm at four am ten pm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "four am",
+          "entity": "time"
+        },
+        {
+          "start": 28,
+          "end": 34,
+          "value": "ten pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "turn off the alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "snooze",
+      "intent": "alarm_remove",
+      "entities": []
+    }
+  ]
+}

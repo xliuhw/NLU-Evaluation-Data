@@ -1,0 +1,280 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how much later is new york than la",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 18,
+          "end": 26,
+          "value": "new york",
+          "entity": "place_name"
+        },
+        {
+          "start": 32,
+          "end": 34,
+          "value": "la",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "change the time zone from washington to new york",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 26,
+          "end": 36,
+          "value": "washington",
+          "entity": "place_name"
+        },
+        {
+          "start": 40,
+          "end": 48,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "if it's sunrise in stockholm what time is it in okinawa",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "sunrise",
+          "entity": "time"
+        },
+        {
+          "start": 19,
+          "end": 28,
+          "value": "stockholm",
+          "entity": "place_name"
+        },
+        {
+          "start": 48,
+          "end": 55,
+          "value": "okinawa",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "change the time zone from irish time zone to moscow time zone",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "irish",
+          "entity": "time_zone"
+        },
+        {
+          "start": 45,
+          "end": 51,
+          "value": "moscow",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "how many hours difference is hong kong from new york city",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 29,
+          "end": 38,
+          "value": "hong kong",
+          "entity": "place_name"
+        },
+        {
+          "start": 44,
+          "end": 57,
+          "value": "new york city",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "eight am in manila is what in new york",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "eight am",
+          "entity": "time"
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "value": "manila",
+          "entity": "place_name"
+        },
+        {
+          "start": 30,
+          "end": 38,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "convert new york time to london",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "new york",
+          "entity": "place_name"
+        },
+        {
+          "start": 25,
+          "end": 31,
+          "value": "london",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "if it's midnight in colorado what time is it in munich",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "midnight",
+          "entity": "time"
+        },
+        {
+          "start": 20,
+          "end": 28,
+          "value": "colorado",
+          "entity": "place_name"
+        },
+        {
+          "start": 48,
+          "end": 54,
+          "value": "munich",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "convert g. m. t. to ist",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "g. m. t.",
+          "entity": "time_zone"
+        },
+        {
+          "start": 20,
+          "end": 23,
+          "value": "ist",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "switch to los angeles time",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 10,
+          "end": 21,
+          "value": "los angeles",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "it's eight fifty five here what time is it in england",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 5,
+          "end": 21,
+          "value": "eight fifty five",
+          "entity": "time"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "value": "england",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "change this time zone to washington",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 25,
+          "end": 35,
+          "value": "washington",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the time difference between california and michegan",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 36,
+          "end": 46,
+          "value": "california",
+          "entity": "place_name"
+        },
+        {
+          "start": 51,
+          "end": 59,
+          "value": "michegan",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you change my time zone from central time to pacific",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 33,
+          "end": 40,
+          "value": "central",
+          "entity": "time_zone"
+        },
+        {
+          "start": 49,
+          "end": 56,
+          "value": "pacific",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "what is time now in japan compared to usa",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "japan",
+          "entity": "place_name"
+        },
+        {
+          "start": 38,
+          "end": 41,
+          "value": "usa",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

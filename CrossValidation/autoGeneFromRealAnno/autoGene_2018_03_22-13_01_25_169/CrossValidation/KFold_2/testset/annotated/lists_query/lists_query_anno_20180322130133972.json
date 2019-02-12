@@ -1,0 +1,147 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i finished my to do list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "list the items on my shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what are all my lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "display my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what kind of lists do i have saved",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "read out my list for today",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "to do list for today please",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "to do",
+          "entity": "list_name"
+        },
+        {
+          "start": 15,
+          "end": 20,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can i know what i on the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "any sport event is on my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "tell me the list about",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "please provide the contents of the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "how many lists are open",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "get me to my friends list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 25,
+          "value": "friends list",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me what is next on my query",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "tell me my list names",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "tell me what's on my holiday list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "holiday",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what is on this specific list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "read out the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what is my grocery list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    }
+  ]
+}

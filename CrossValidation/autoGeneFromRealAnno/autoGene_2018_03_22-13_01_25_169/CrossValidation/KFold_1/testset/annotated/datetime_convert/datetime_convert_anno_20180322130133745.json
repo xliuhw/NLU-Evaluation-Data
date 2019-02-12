@@ -1,0 +1,154 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "if it's eight pm on the east coast what time is it in sacramento california",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "eight pm",
+          "entity": "time"
+        },
+        {
+          "start": 24,
+          "end": 34,
+          "value": "east coast",
+          "entity": "place_name"
+        },
+        {
+          "start": 54,
+          "end": 75,
+          "value": "sacramento california",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "if it is four pm in missouri what time is it in london",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "four pm",
+          "entity": "time"
+        },
+        {
+          "start": 20,
+          "end": 28,
+          "value": "missouri",
+          "entity": "place_name"
+        },
+        {
+          "start": 48,
+          "end": 54,
+          "value": "london",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you please change the time zone to us",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 39,
+          "end": 41,
+          "value": "us",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "which time zone are we in please change to current",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 43,
+          "end": 50,
+          "value": "current",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "please change time zone to canada",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 27,
+          "end": 33,
+          "value": "canada",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what time will it be locally at nine am bangalore india time",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 32,
+          "end": 39,
+          "value": "nine am",
+          "entity": "time"
+        },
+        {
+          "start": 40,
+          "end": 49,
+          "value": "bangalore",
+          "entity": "place_name"
+        },
+        {
+          "start": 50,
+          "end": 55,
+          "value": "india",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "it is ten am in eastern standard time what time it is now it pacific standard time",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 6,
+          "end": 12,
+          "value": "ten am",
+          "entity": "time"
+        },
+        {
+          "start": 16,
+          "end": 23,
+          "value": "eastern",
+          "entity": "time_zone"
+        },
+        {
+          "start": 61,
+          "end": 68,
+          "value": "pacific",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "change mountain standard to pacific",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "mountain",
+          "entity": "time_zone"
+        },
+        {
+          "start": 28,
+          "end": 35,
+          "value": "pacific",
+          "entity": "time_zone"
+        }
+      ]
+    }
+  ]
+}

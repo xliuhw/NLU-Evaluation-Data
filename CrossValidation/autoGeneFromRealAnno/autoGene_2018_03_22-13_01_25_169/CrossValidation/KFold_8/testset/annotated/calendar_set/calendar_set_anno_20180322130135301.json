@@ -1,0 +1,361 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "remind me about my monday meeting with peter francis fifteen minutes before the meeting",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "monday",
+          "entity": "date"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 39,
+          "end": 52,
+          "value": "peter francis",
+          "entity": "person"
+        },
+        {
+          "start": 53,
+          "end": 68,
+          "value": "fifteen minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "show me the events in my work calendar for next week",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 25,
+          "end": 29,
+          "value": "work",
+          "entity": "event_name"
+        },
+        {
+          "start": 43,
+          "end": 52,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "the meeting with justin and katrina has been changed put it on thursday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 4,
+          "end": 11,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "value": "justin",
+          "entity": "person"
+        },
+        {
+          "start": 28,
+          "end": 35,
+          "value": "katrina",
+          "entity": "person"
+        },
+        {
+          "start": 63,
+          "end": 71,
+          "value": "thursday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "open calendar and make an event reminder",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "remind me off about my tomorrow meeting sharply at ten",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 23,
+          "end": 31,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 51,
+          "end": 54,
+          "value": "ten",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please add shopping at mall on twenty six march at twelve pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 23,
+          "end": 27,
+          "value": "mall",
+          "entity": "place_name"
+        },
+        {
+          "start": 31,
+          "end": 47,
+          "value": "twenty six march",
+          "entity": "date"
+        },
+        {
+          "start": 51,
+          "end": 60,
+          "value": "twelve pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "repeat birthday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "put working out on my calendar for eight am every day this week",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 35,
+          "end": 43,
+          "value": "eight am",
+          "entity": "time"
+        },
+        {
+          "start": 44,
+          "end": 53,
+          "value": "every day",
+          "entity": "general_frequency"
+        },
+        {
+          "start": 54,
+          "end": 63,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "add event to date",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "schedule meeting with laura",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 22,
+          "end": 27,
+          "value": "laura",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "remind me on fifth march of every year to arrange wedding anniversary presents",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 24,
+          "value": "fifth march",
+          "entity": "date"
+        },
+        {
+          "start": 28,
+          "end": 38,
+          "value": "every year",
+          "entity": "general_frequency"
+        },
+        {
+          "start": 50,
+          "end": 78,
+          "value": "wedding anniversary presents",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me on tuesday to give jane a call",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 26,
+          "value": "tuesday",
+          "entity": "date"
+        },
+        {
+          "start": 35,
+          "end": 39,
+          "value": "jane",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "make a meeting with friend",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 20,
+          "end": 26,
+          "value": "friend",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "tell me when i need to leave the airport",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "set meeting with the ceo tomorrow",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 4,
+          "end": 11,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 17,
+          "end": 24,
+          "value": "the ceo",
+          "entity": "relation"
+        },
+        {
+          "start": 25,
+          "end": 33,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "set a calendar event to repeat yearly on this date",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 31,
+          "end": 37,
+          "value": "yearly",
+          "entity": "general_frequency"
+        }
+      ]
+    },
+    {
+      "text": "please set a reminder for church services on sundays for eleven am",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 26,
+          "end": 41,
+          "value": "church services",
+          "entity": "event_name"
+        },
+        {
+          "start": 45,
+          "end": 52,
+          "value": "sundays",
+          "entity": "date"
+        },
+        {
+          "start": 57,
+          "end": 66,
+          "value": "eleven am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "flag two day after this day as my holiday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 5,
+          "end": 27,
+          "value": "two day after this day",
+          "entity": "date"
+        },
+        {
+          "start": 31,
+          "end": 41,
+          "value": "my holiday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "set meeting with joanna on Saturday four pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 23,
+          "value": "joanna",
+          "entity": "person"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "value": "Saturday",
+          "entity": "date"
+        },
+        {
+          "start": 36,
+          "end": 43,
+          "value": "four pm",
+          "entity": "time"
+        }
+      ]
+    }
+  ]
+}

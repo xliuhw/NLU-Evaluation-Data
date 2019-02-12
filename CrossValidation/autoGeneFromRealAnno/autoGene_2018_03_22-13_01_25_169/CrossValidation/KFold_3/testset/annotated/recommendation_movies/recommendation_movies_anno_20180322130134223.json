@@ -1,0 +1,109 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how is the new movie swat",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 21,
+          "end": 25,
+          "value": "swat",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "what time does thor start",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 15,
+          "end": 19,
+          "value": "thor",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "logan",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "logan",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "what movies are playing at carmike cinemas",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 27,
+          "end": 42,
+          "value": "carmike cinemas",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "give me a movie for tonight",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "what movies are playing near me",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "recommend a movie playing in me area",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "recommend a movie with justin bieber",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "movie",
+          "entity": "event_name"
+        },
+        {
+          "start": 23,
+          "end": 36,
+          "value": "justin bieber",
+          "entity": "movie_type"
+        }
+      ]
+    },
+    {
+      "text": "what is a good movie to see right now",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "recommend a romantic comedy in me area",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 12,
+          "end": 27,
+          "value": "romantic comedy",
+          "entity": "movie_type"
+        }
+      ]
+    }
+  ]
+}

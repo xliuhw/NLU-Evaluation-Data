@@ -1,0 +1,119 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "make the lights less bright",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower the lights in the house please",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 24,
+          "end": 29,
+          "value": "house",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "please turn down the lights to fifty percent in the den",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 28,
+          "end": 44,
+          "value": "to fifty percent",
+          "entity": "change_amount"
+        },
+        {
+          "start": 52,
+          "end": 55,
+          "value": "den",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "reduce the brightness",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower lights in kitchen",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "kitchen",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "please dim the overhead lights",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "overhead",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn the lights down a bit",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "a bit",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "will you dim all the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "please lower the lights a little bit",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 24,
+          "end": 36,
+          "value": "a little bit",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "dim the lights in the hall",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 22,
+          "end": 26,
+          "value": "hall",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "turn down the brightness",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lighter shade on the lights please",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    }
+  ]
+}

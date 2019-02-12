@@ -1,0 +1,291 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what are the train times today",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how far is walmart from here",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "walmart",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what time are the trains going to chennai leaving",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 41,
+          "value": "chennai",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is the four hundred and thirty pm train running late",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 33,
+          "value": "four hundred and thirty pm",
+          "entity": "time"
+        },
+        {
+          "start": 34,
+          "end": 39,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "i would like to know the train timings to bournemouth tomorrow",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 31,
+          "end": 38,
+          "value": "timings",
+          "entity": "transport_descriptor"
+        },
+        {
+          "start": 42,
+          "end": 53,
+          "value": "bournemouth",
+          "entity": "place_name"
+        },
+        {
+          "start": 54,
+          "end": 62,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "show me the shortest route towards nearest train station",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 43,
+          "end": 56,
+          "value": "train station",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "next train to dc",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 14,
+          "end": 16,
+          "value": "dc",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "running train status to vienna",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 24,
+          "end": 30,
+          "value": "vienna",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "could you list out the list of trains heading to chester the day after",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 49,
+          "end": 56,
+          "value": "chester",
+          "entity": "place_name"
+        },
+        {
+          "start": 57,
+          "end": 70,
+          "value": "the day after",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how long does it take to get there",
+      "intent": "transport_query",
+      "entities": []
+    },
+    {
+      "text": "how do i get to brighton",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "brighton",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you reserve a ticket to grand rapids by train",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 40,
+          "value": "grand rapids",
+          "entity": "place_name"
+        },
+        {
+          "start": 44,
+          "end": 49,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "can you get me train ticket prices please",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "where is the closest train depot",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 32,
+          "value": "train depot",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what time does the train arrive in sacremento",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 45,
+          "value": "sacremento",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show me the path of nearest railway station",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 43,
+          "value": "railway station",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please send me info on how to go about purchasing a train ticket to new york",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 52,
+          "end": 57,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 68,
+          "end": 76,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "are there any trips to location a provided by the train",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 50,
+          "end": 55,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to go to mcdo",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "mcdo",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

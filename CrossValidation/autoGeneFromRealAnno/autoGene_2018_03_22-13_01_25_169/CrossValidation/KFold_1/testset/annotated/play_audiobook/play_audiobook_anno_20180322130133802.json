@@ -1,0 +1,292 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i want to hear more audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "pause resume",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "pause",
+          "entity": "player_setting"
+        },
+        {
+          "start": 6,
+          "end": 12,
+          "value": "resume",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "resume my audio book from karl pilkington",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 26,
+          "end": 41,
+          "value": "karl pilkington",
+          "entity": "audiobook_author"
+        }
+      ]
+    },
+    {
+      "text": "book please",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "start playing american gods where i last stopped",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "start playing",
+          "entity": "player_setting"
+        },
+        {
+          "start": 14,
+          "end": 27,
+          "value": "american gods",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play from my last session of joes book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 29,
+          "end": 38,
+          "value": "joes book",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "open audio book history of rome",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 16,
+          "end": 31,
+          "value": "history of rome",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "start audiobook the time traveller",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "start",
+          "entity": "player_setting"
+        },
+        {
+          "start": 6,
+          "end": 15,
+          "value": "audiobook",
+          "entity": "media_type"
+        },
+        {
+          "start": 16,
+          "end": 34,
+          "value": "the time traveller",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "resume animal farm",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 18,
+          "value": "animal farm",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "can you play file",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 13,
+          "end": 17,
+          "value": "file",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "audio",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "audio",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "start from my last session of joes book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "start",
+          "entity": "player_setting"
+        },
+        {
+          "start": 30,
+          "end": 39,
+          "value": "joes book",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play from this point from this audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 31,
+          "end": 40,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "resume my audiobook where we paused last",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 10,
+          "end": 19,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "resume the last kingdom for me",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 23,
+          "value": "the last kingdom",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "end pause on audio book history of rome",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 9,
+          "value": "end pause",
+          "entity": "player_setting"
+        },
+        {
+          "start": 24,
+          "end": 39,
+          "value": "history of rome",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to finish listening to the book one thousand nine hundred and eighty four from where i left off",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 39,
+          "end": 80,
+          "value": "one thousand nine hundred and eighty four",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "keep reading",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "keep reading",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "can you play my favorite audio book of tarzan",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 39,
+          "end": 45,
+          "value": "tarzan",
+          "entity": "audiobook_name"
+        }
+      ]
+    }
+  ]
+}

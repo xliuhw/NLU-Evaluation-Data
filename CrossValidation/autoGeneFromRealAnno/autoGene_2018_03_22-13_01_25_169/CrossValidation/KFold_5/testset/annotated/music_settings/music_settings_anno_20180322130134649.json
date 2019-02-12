@@ -1,0 +1,73 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "loop this track",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "loop",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "change the music mode to rock",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "change",
+          "entity": "player_setting"
+        },
+        {
+          "start": 25,
+          "end": 29,
+          "value": "rock",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "olly skip song",
+      "intent": "music_settings",
+      "entities": []
+    },
+    {
+      "text": "please program volume settings for sixteen when i'm in the room at fourteen for when i've gone to bed",
+      "intent": "music_settings",
+      "entities": []
+    },
+    {
+      "text": "please skip to the next song",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "skip",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "save settings",
+      "intent": "music_settings",
+      "entities": []
+    },
+    {
+      "text": "make sure my shuffles are always repeat and always shuffled",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 26,
+          "end": 59,
+          "value": "always repeat and always shuffled",
+          "entity": "player_setting"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "when is president's day",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "michael jackson family background",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 0,
+          "end": 15,
+          "value": "michael jackson",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "what is clint eastwood doing these days",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 8,
+          "end": 22,
+          "value": "clint eastwood",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what country has the most population",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "what is glass made of",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "where jackie chan currently live",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 6,
+          "end": 17,
+          "value": "jackie chan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how tall is roraima mount",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 12,
+          "end": 25,
+          "value": "roraima mount",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me distance between sun and moon",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "what is elvis favorite ride",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "elvis",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "find me the perfect girlfriend",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "what is the plot of the most recent will smith movie",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 36,
+          "end": 46,
+          "value": "will smith",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how many kids jackie chan does have",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 14,
+          "end": 25,
+          "value": "jackie chan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell me about neal adams",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 14,
+          "end": 24,
+          "value": "neal adams",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "give me a geographic fact about vilnius",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 32,
+          "end": 39,
+          "value": "vilnius",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the temperature right now in new york",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 37,
+          "end": 45,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "area of north america",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 8,
+          "end": 21,
+          "value": "north america",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "do you know actor surya",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "surya",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "when was born abraham lincoln",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 14,
+          "end": 29,
+          "value": "abraham lincoln",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "did angelina jolie leave brad pitt",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 4,
+          "end": 18,
+          "value": "angelina jolie",
+          "entity": "person"
+        },
+        {
+          "start": 25,
+          "end": 34,
+          "value": "brad pitt",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "bring up a complaint form",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "write a tweet to burger king expressing my disapproval",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 17,
+          "end": 28,
+          "value": "burger king",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "this is a tweet for comcast if i have my internet and phone service from you and it goes out how can i contact you",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 20,
+          "end": 27,
+          "value": "comcast",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet my complaint to @consumer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 22,
+          "end": 39,
+          "value": "@consumer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "post this to my facebook lol",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet freedom pop customer service i am dissatisfied",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 6,
+          "end": 34,
+          "value": "freedom pop customer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "i have a complaint",
+      "intent": "social_post",
+      "entities": []
+    },
+    {
+      "text": "tweet I'm complaining about to consumer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 31,
+          "end": 47,
+          "value": "consumer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "pull up the complaint website for starbucks",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 34,
+          "end": 43,
+          "value": "starbucks",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet complaint to consumer service",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 19,
+          "end": 35,
+          "value": "consumer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can you upload my latest selfie in my instagram",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 38,
+          "end": 47,
+          "value": "instagram",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "send tweet to united airlines i'm angry you lost my bags",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 14,
+          "end": 29,
+          "value": "united airlines",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please tweet the following complaint",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to see the twitter handler of samsung",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 18,
+          "end": 33,
+          "value": "twitter handler",
+          "entity": "personal_info"
+        },
+        {
+          "start": 37,
+          "end": 44,
+          "value": "samsung",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet for me the complaint about drainage work",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet a disgusted face about mcdonalds",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 29,
+          "end": 38,
+          "value": "mcdonalds",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tweet insight cable's customer service and tell them i have been waiting on hold for thirty minutes",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 6,
+          "end": 38,
+          "value": "insight cable's customer service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "post to facebook at the spa yay with a smiley face emoticon",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tweet @bobburgers they screwed up my order and i had to wait an extra hour",
+      "intent": "social_post",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "tweet",
+          "entity": "media_type"
+        },
+        {
+          "start": 6,
+          "end": 17,
+          "value": "@bobburgers",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

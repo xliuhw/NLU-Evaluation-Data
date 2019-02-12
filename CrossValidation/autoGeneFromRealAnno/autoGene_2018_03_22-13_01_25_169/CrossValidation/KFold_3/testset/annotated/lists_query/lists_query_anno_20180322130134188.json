@@ -1,0 +1,174 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "open my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what are the current lists i have",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "count the number of food items on the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what are my lists so far",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "can you tell me what the items on my grocery list are",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 37,
+          "end": 44,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "make a list of all the clothing range available on ralph and lauren",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 51,
+          "end": 67,
+          "value": "ralph and lauren",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can you please tell me what i have on my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "can you find my lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what is available in your stock of lists",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "stock",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "do i have anything on the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "pull up the shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "can you read me my lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "list items on my work list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "work",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what is on my rap playlist",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 17,
+          "value": "rap",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "what does the list contain",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what are the list of things i need to buy today",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 41,
+          "value": "things i need to buy",
+          "entity": "list_name"
+        },
+        {
+          "start": 42,
+          "end": 47,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what do i need to get done today",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 26,
+          "value": "get done",
+          "entity": "list_name"
+        },
+        {
+          "start": 27,
+          "end": 32,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what do i need to complete first from the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "whats on my shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    }
+  ]
+}

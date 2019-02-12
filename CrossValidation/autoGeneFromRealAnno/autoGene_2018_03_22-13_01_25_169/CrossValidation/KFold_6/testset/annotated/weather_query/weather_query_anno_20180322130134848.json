@@ -1,0 +1,267 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what's it like outside",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "is it going to rain later",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 19,
+          "value": "rain",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "what is the weather going to be like on march twentieth two thousand and seventeen",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 40,
+          "end": 82,
+          "value": "march twentieth two thousand and seventeen",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "it is cloudy today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 6,
+          "end": 12,
+          "value": "cloudy",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 13,
+          "end": 18,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is home town weather",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 17,
+          "value": "home town",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "check and see what will be the weather condition in new jersey at eight am tomorrow",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 52,
+          "end": 62,
+          "value": "new jersey",
+          "entity": "place_name"
+        },
+        {
+          "start": 66,
+          "end": 74,
+          "value": "eight am",
+          "entity": "time"
+        },
+        {
+          "start": 75,
+          "end": 83,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how many degrees is it in orange tx right now",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 35,
+          "value": "orange tx",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "on Tuesday what is the weather supposed to be",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 10,
+          "value": "Tuesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what will the weather be next week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 34,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the weather forecast for chicago",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 40,
+          "value": "chicago",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is it snowing in seattle",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "snowing",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 17,
+          "end": 24,
+          "value": "seattle",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is it raining now",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "raining",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "am i going to need a jacket tomorrow",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 27,
+          "value": "jacket",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 28,
+          "end": 36,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how is the weather likely to be this week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 41,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is it sunny in gonbad now",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "sunny",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 15,
+          "end": 21,
+          "value": "gonbad",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the weather in utah",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 27,
+          "value": "utah",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the weather in toronto today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "toronto",
+          "entity": "place_name"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "home town weather",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 9,
+          "value": "home town",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "shall i change my car tyres to snow tyres soon",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 41,
+          "value": "snow tyres",
+          "entity": "weather_descriptor"
+        }
+      ]
+    }
+  ]
+}

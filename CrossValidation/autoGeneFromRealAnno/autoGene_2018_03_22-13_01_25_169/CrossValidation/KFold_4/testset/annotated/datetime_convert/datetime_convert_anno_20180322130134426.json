@@ -1,0 +1,142 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what time is twelve pm eastern time in pacific time",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 13,
+          "end": 22,
+          "value": "twelve pm",
+          "entity": "time"
+        },
+        {
+          "start": 23,
+          "end": 30,
+          "value": "eastern",
+          "entity": "time_zone"
+        },
+        {
+          "start": 39,
+          "end": 46,
+          "value": "pacific",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "how many hours difference is there between london and new york",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 43,
+          "end": 49,
+          "value": "london",
+          "entity": "place_name"
+        },
+        {
+          "start": 54,
+          "end": 62,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you change my time zone to central",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 31,
+          "end": 38,
+          "value": "central",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "change my clock to central time zone from my current zone",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 19,
+          "end": 26,
+          "value": "central",
+          "entity": "time_zone"
+        },
+        {
+          "start": 42,
+          "end": 57,
+          "value": "my current zone",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "tell me the time in g. m. t. plus five",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 20,
+          "end": 38,
+          "value": "g. m. t. plus five",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "please can i know what time will it be at six pm here in australia",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 42,
+          "end": 48,
+          "value": "six pm",
+          "entity": "time"
+        },
+        {
+          "start": 57,
+          "end": 66,
+          "value": "australia",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when it's ten pm here what time is it in brisbane",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 10,
+          "end": 16,
+          "value": "ten pm",
+          "entity": "time"
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "value": "brisbane",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the time difference between california and new york",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 36,
+          "end": 46,
+          "value": "california",
+          "entity": "place_name"
+        },
+        {
+          "start": 51,
+          "end": 59,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

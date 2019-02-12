@@ -1,0 +1,140 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "an graphical images effects to be required",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "the weather is sunny today",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "if you put a velociraptor and a hippo together what would happen",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "Is country better today or ten years ago",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 27,
+          "end": 40,
+          "value": "ten years ago",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i want to know more about this person",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "today i couldn't find my phone",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "ask me an arithmetic question",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "show me what i can do with fitness",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "please explain space",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "who won the sports game last night",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i would like to crack jokes",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "how do i buy tickets for that",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i am exhausted from work",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "can you be my best friend",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "friend",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "about reality in world",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "veganism",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "how many calories did i burn with my fifty minutes of yoga",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "show me the places where i was",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "give me the most recent stuff you have angelina jolie",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 39,
+          "end": 53,
+          "value": "angelina jolie",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

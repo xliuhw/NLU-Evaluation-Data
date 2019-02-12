@@ -1,0 +1,12 @@
+answerid;scenario;intent;answer_annotation;answer_from_anno;answer_from_user
+12340;alarm;remove;"cancel all alarms";"cancel all alarms";"cancel all alarms"
+12429;alarm;remove;"remove all alarms set [date : today]";"remove all alarms set today";"remove all alarms set today"
+4504;alarm;remove;"[time : two am] removed";"two am removed";"2AM REMOVED 4PM SET"
+19607;alarm;remove;"take away my alarm for [date : tomorrow] at [time : four thirty am]";"take away my alarm for tomorrow at four thirty am";"Take away my alarm for [date : tomorrow] at 4:30am"
+3684;alarm;remove;"turn off any [timeofday : morning] alarms [date : after Friday]";"turn off any morning alarms after Friday";"Turn off any morning alarms after Friday"
+11271;alarm;remove;"please remove any alarms that i have set";"please remove any alarms that i have set";"Please remove any alarms that I have set."
+15083;alarm;remove;"remove my [alarm_type : wake up] alarm";"remove my wake up alarm";"Olly, remove my wake up alarm."
+8760;alarm;remove;"change my alarm";"change my alarm";"change my alarm"
+2689;alarm;remove;"turn off [time : eight am] alarm";"turn off eight am alarm";"Turn off 8AM alarm"
+3984;alarm;remove;"please turn off my alarm for [timeofday : this evening]";"please turn off my alarm for this evening";"Please turn off my alarm for this evening"
+3682;alarm;remove;"turn off the alarm for [date : tomorrow] [timeofday : morning]";"turn off the alarm for tomorrow morning";"Turn off the alarm for tomorrow morning"

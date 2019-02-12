@@ -1,0 +1,148 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "am i gonna hit traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "check the traffic to our home",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 25,
+          "end": 29,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is traffic heavy",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how heavy is traffic on interstate twenty",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how is the traffic at the moment",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 22,
+          "end": 32,
+          "value": "the moment",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "is traffic to work clear",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what is the fastest route to town",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "is there any traffic to work",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "is the traffic smooth right now",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what is the traffic like",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how long will it take me to drive to work today",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 42,
+          "end": 47,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how is the traffic in florida",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "florida",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "just let me know about current traffic in carmen drive",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 42,
+          "end": 54,
+          "value": "carmen drive",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where should i avoid this morning",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 26,
+          "end": 33,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "give me a current traffic report",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how's the traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "system pull any traffic news for my commute",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "please update me the traffic status",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "whats the traffic like near ypsilanti",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 28,
+          "end": 37,
+          "value": "ypsilanti",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

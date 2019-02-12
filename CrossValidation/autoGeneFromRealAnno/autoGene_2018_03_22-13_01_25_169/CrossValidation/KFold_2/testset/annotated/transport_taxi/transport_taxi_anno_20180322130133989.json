@@ -1,0 +1,262 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "call an uber for me",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "call a taxi for me",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "find the nearest taxi",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "please book a taxi for me",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book a taxi uber",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 12,
+          "end": 16,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "book ola cab for now",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "ola",
+          "entity": "transport_agency"
+        },
+        {
+          "start": 9,
+          "end": 12,
+          "value": "cab",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "open uber app and book me a car for pick up at the airport",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 28,
+          "end": 31,
+          "value": "car",
+          "entity": "transport_type"
+        },
+        {
+          "start": 47,
+          "end": 58,
+          "value": "the airport",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book me a taxi to the mall of america please",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 22,
+          "end": 37,
+          "value": "mall of america",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book me a taxi",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book taxi to new york city",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 13,
+          "end": 21,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find transportation to rome",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 23,
+          "end": 27,
+          "value": "rome",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "call a taxi company",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "find a taxi to book",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "get me the number for local taxi service",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 28,
+          "end": 40,
+          "value": "taxi service",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "find a taxi service close to me",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "i need a ride home",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "call city cab to airport",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 10,
+          "end": 13,
+          "value": "cab",
+          "entity": "transport_type"
+        },
+        {
+          "start": 17,
+          "end": 24,
+          "value": "airport",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "call a taxi for me to where i am currently located",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 33,
+          "end": 50,
+          "value": "currently located",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

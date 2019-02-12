@@ -1,0 +1,106 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "search for a good nerd joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 18,
+          "end": 22,
+          "value": "nerd",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to listen to a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "i would like a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "say a good joke for me right now",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 6,
+          "end": 10,
+          "value": "good",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "send a giggle my way",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "hey do you know any jokes",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "tell funny things",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "funny",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "i need to hear a joke can you tell me one",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "i wanna laugh can you make it happen",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "what is a funny joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "funny",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to hear a funny joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "funny",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me a joke about lawyers",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "lawyers",
+          "entity": "relation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "check my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "evaluate today's schedule",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "make sure bread is on my grocery list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 32,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please tell me what lists i have",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "list entry",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "anything else left on the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what are the jobs to be done today",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 34,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "recite the schedules of the list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 20,
+          "value": "schedules",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please read me my current lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "read list for me please",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "check item five on my to do list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what are my available lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what all lists are available",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "can you tell me whats on my shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 36,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "did i add milk to the shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what lists do i have",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "name the lists available",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "find list in my pda",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "read available lists",
+      "intent": "lists_query",
+      "entities": []
+    }
+  ]
+}

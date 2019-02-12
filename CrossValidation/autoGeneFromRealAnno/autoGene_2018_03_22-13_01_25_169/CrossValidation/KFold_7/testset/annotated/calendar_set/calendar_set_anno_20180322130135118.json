@@ -1,0 +1,393 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "twelveth july is bola's birthday and my calendar to be updated with this date",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "twelveth july",
+          "entity": "date"
+        },
+        {
+          "start": 17,
+          "end": 21,
+          "value": "bola",
+          "entity": "person"
+        },
+        {
+          "start": 24,
+          "end": 32,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "set reminder for tennis game with peter on Sunday at four pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 28,
+          "value": "tennis game",
+          "entity": "event_name"
+        },
+        {
+          "start": 34,
+          "end": 39,
+          "value": "peter",
+          "entity": "person"
+        },
+        {
+          "start": 43,
+          "end": 49,
+          "value": "Sunday",
+          "entity": "date"
+        },
+        {
+          "start": 53,
+          "end": 60,
+          "value": "four pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please block off friday at eight am on my calendar",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 23,
+          "value": "friday",
+          "entity": "date"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "value": "eight am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "all rccg march event is to be added to my calendar",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "rccg",
+          "entity": "place_name"
+        },
+        {
+          "start": 9,
+          "end": 14,
+          "value": "march",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "add valia's wedding the next saturday at eight o clock",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 4,
+          "end": 19,
+          "value": "valia's wedding",
+          "entity": "event_name"
+        },
+        {
+          "start": 29,
+          "end": 37,
+          "value": "saturday",
+          "entity": "date"
+        },
+        {
+          "start": 41,
+          "end": 54,
+          "value": "eight o clock",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "i have a meeting tomorrow morning at ten please remind me",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 17,
+          "end": 25,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "morning",
+          "entity": "timeofday"
+        },
+        {
+          "start": 37,
+          "end": 40,
+          "value": "ten",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "i need you to remind me to go to store tomorrow",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 39,
+          "end": 47,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remind me of this meeting soon",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 18,
+          "end": 25,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "dentist appointment today at nine am",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 0,
+          "end": 19,
+          "value": "dentist appointment",
+          "entity": "event_name"
+        },
+        {
+          "start": 20,
+          "end": 25,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 29,
+          "end": 36,
+          "value": "nine am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "create a repeating event on mondays at seven pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "repeating",
+          "entity": "general_frequency"
+        },
+        {
+          "start": 28,
+          "end": 35,
+          "value": "mondays",
+          "entity": "date"
+        },
+        {
+          "start": 39,
+          "end": 47,
+          "value": "seven pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remind me of meeting five minutes before time",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 20,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 21,
+          "end": 40,
+          "value": "five minutes before",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remind me to meet with steve at one pm tomorrow",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 28,
+          "value": "meet with steve",
+          "entity": "event_name"
+        },
+        {
+          "start": 32,
+          "end": 38,
+          "value": "one pm",
+          "entity": "time"
+        },
+        {
+          "start": 39,
+          "end": 47,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "add new year with family next week",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 4,
+          "end": 12,
+          "value": "new year",
+          "entity": "event_name"
+        },
+        {
+          "start": 18,
+          "end": 24,
+          "value": "family",
+          "entity": "relation"
+        },
+        {
+          "start": 25,
+          "end": 34,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "schedule a lunch meeting with brent on Wednesday at noon",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 11,
+          "end": 24,
+          "value": "lunch meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "brent",
+          "entity": "person"
+        },
+        {
+          "start": 39,
+          "end": 48,
+          "value": "Wednesday",
+          "entity": "date"
+        },
+        {
+          "start": 52,
+          "end": 56,
+          "value": "noon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "call me for this meeting",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "schedule dinner with sara and jamie",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "dinner",
+          "entity": "meal_type"
+        },
+        {
+          "start": 21,
+          "end": 25,
+          "value": "sara",
+          "entity": "person"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "jamie",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "remind me later",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "just set me reminders about pending payment of children school fees",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 28,
+          "end": 67,
+          "value": "pending payment of children school fees",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "add a reminder for april twenty as my bro's birthday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 31,
+          "value": "april twenty",
+          "entity": "date"
+        },
+        {
+          "start": 38,
+          "end": 41,
+          "value": "bro",
+          "entity": "relation"
+        },
+        {
+          "start": 44,
+          "end": 52,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    }
+  ]
+}

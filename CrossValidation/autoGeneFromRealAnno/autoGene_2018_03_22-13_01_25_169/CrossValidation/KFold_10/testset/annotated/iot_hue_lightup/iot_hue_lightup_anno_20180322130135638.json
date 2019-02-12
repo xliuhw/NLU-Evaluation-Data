@@ -1,0 +1,128 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please increase the brightness in this room",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 39,
+          "end": 43,
+          "value": "room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "its dark in here mind turning up the light intensity",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "raise the light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "increase brightness in the room",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 23,
+          "end": 31,
+          "value": "the room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "do more light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "i want to bright the room more",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 21,
+          "end": 25,
+          "value": "room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "set lights brightness higher",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "please increase the light of table lamp",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 29,
+          "end": 39,
+          "value": "table lamp",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please turn up the screen brightness all the way",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "screen",
+          "entity": "device_type"
+        },
+        {
+          "start": 37,
+          "end": 48,
+          "value": "all the way",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "increase the bright of the light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "please olly put on multi colored lightning in my apartment set for festival diwali",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 19,
+          "end": 42,
+          "value": "multi colored lightning",
+          "entity": "device_type"
+        },
+        {
+          "start": 49,
+          "end": 58,
+          "value": "apartment",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "i want to raise the light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "brighten light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "more light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    }
+  ]
+}

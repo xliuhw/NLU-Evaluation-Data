@@ -1,0 +1,104 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "can you turn off on the wemo plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 24,
+          "end": 40,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "shut off my living room plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 12,
+          "end": 23,
+          "value": "living room",
+          "entity": "house_place"
+        },
+        {
+          "start": 24,
+          "end": 28,
+          "value": "plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "i would love the wemo socket to not be active right now",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "wemo",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "off all type of active devices",
+      "intent": "iot_wemo_off",
+      "entities": []
+    },
+    {
+      "text": "turn off my smart plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 12,
+          "end": 29,
+          "value": "smart plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off smart plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 9,
+          "end": 26,
+          "value": "smart plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "switch off wemo",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "wemo",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off on wemo outlet",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 12,
+          "end": 23,
+          "value": "wemo outlet",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "socket off",
+      "intent": "iot_wemo_off",
+      "entities": []
+    }
+  ]
+}

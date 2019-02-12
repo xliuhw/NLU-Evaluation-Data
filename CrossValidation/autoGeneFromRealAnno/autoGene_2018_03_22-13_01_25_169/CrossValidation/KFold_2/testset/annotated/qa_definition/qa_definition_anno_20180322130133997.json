@@ -1,0 +1,225 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "give me the definition of the word fondle",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 35,
+          "end": 41,
+          "value": "fondle",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "sanctimonious definition",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "sanctimonious",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does a sea lion look like",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "sea lion",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "define a phrase blue sky research",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 16,
+          "end": 33,
+          "value": "blue sky research",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "please tell me what a crankshaft is",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 22,
+          "end": 32,
+          "value": "crankshaft",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "define oscillate",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 16,
+          "value": "oscillate",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "do you know the definition of school",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 30,
+          "end": 36,
+          "value": "school",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does it look like",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "tell me what the word organism means",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "organism",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "can you describe to me what a pineapple looks like",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 30,
+          "end": 39,
+          "value": "pineapple",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "describe what a sphere is",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "sphere",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "describe joe for me please",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 9,
+          "end": 12,
+          "value": "joe",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "hey what's a book",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 13,
+          "end": 17,
+          "value": "book",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "give me the definition of carion",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 26,
+          "end": 32,
+          "value": "carion",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "please describe about microwave",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 22,
+          "end": 31,
+          "value": "microwave",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "define loquaciousness",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 21,
+          "value": "loquaciousness",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is the definition of inchoate",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 26,
+          "end": 34,
+          "value": "inchoate",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is a chair",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "chair",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is the meaning of this word",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 23,
+          "end": 32,
+          "value": "this word",
+          "entity": "definition_word"
+        }
+      ]
+    }
+  ]
+}

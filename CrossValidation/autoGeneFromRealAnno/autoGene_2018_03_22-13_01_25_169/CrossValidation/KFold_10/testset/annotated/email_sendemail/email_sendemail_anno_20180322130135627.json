@@ -1,0 +1,300 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "send email to gary",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "gary",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send happy new year to john@gmail dot com",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 23,
+          "end": 41,
+          "value": "john@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "email my mom",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 9,
+          "end": 12,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "compose email",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send email to family and tell them to bring the bug spray before coming to the park",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 20,
+          "value": "family",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "respond to my bosses email with the word that i will be in at four in the evening",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 20,
+          "value": "bosses",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "email mom and ask how the weather is there",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 6,
+          "end": 9,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "answer email",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send this message to the family group starts with a",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 25,
+          "end": 31,
+          "value": "family",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "please send mom an email saying that i can make it next week",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 12,
+          "end": 15,
+          "value": "mom",
+          "entity": "relation"
+        },
+        {
+          "start": 51,
+          "end": 60,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "send an email to adele",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "adele",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "i need to add a new email to my contacts",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send an email to my mum that i will visit her next weekend",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 20,
+          "end": 23,
+          "value": "mum",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "email dad how is the weather this week",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 6,
+          "end": 9,
+          "value": "dad",
+          "entity": "relation"
+        },
+        {
+          "start": 29,
+          "end": 38,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "email my sister about mom's birthday jane we should think about arranging the party at the park",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "sister",
+          "entity": "relation"
+        },
+        {
+          "start": 22,
+          "end": 25,
+          "value": "mom",
+          "entity": "relation"
+        },
+        {
+          "start": 28,
+          "end": 36,
+          "value": "birthday",
+          "entity": "event_name"
+        },
+        {
+          "start": 37,
+          "end": 41,
+          "value": "jane",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell chris i will be late through email",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "chris",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send an email to george brown",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 29,
+          "value": "george brown",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please send the email to abc@gmail dot com instead of xyz@gmail dot com",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 25,
+          "end": 42,
+          "value": "abc@gmail dot com",
+          "entity": "email_address"
+        },
+        {
+          "start": 54,
+          "end": 71,
+          "value": "xyz@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "please send an email to mom",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 24,
+          "end": 27,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "email my mother",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "mother",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "i'd like to send a reply",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "email chris add following content sorry I will be late today",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "chris",
+          "entity": "person"
+        },
+        {
+          "start": 55,
+          "end": 60,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "send email to mommy that i'll be going the party",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "mommy",
+          "entity": "relation"
+        },
+        {
+          "start": 43,
+          "end": 48,
+          "value": "party",
+          "entity": "event_name"
+        }
+      ]
+    }
+  ]
+}

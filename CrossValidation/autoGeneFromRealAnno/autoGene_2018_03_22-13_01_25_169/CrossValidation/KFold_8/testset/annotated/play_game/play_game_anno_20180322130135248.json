@@ -1,0 +1,204 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play chess with me please",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "would you like to play a game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "play solitaire with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "solitaire",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "i'm thinking of a number one to ten",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 18,
+          "end": 35,
+          "value": "number one to ten",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play you'll be the keeper and never change position",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "start a competitive crossword for us",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 8,
+          "end": 29,
+          "value": "competitive crossword",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "would you like to play a game with me",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "let's play nine ball against me adapt with my skill level always let me win",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 20,
+          "value": "nine ball",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "could you harvest the crops in farmvile",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 31,
+          "end": 39,
+          "value": "farmvile",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "please open go fish game and play it with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 12,
+          "end": 19,
+          "value": "go fish",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "open fishdom game",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "fishdom",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "open minestart game from previous played level",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "minestart",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "open up angry birds",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 8,
+          "end": 19,
+          "value": "angry birds",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to play fifa seventeen",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 15,
+          "end": 29,
+          "value": "fifa seventeen",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "lets play pinball",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "pinball",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "I'd like to play UNO with you",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 17,
+          "end": 20,
+          "value": "UNO",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play uno together",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "uno",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "want to play a game with me",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "play candy crush with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "candy crush",
+          "entity": "game_name"
+        }
+      ]
+    }
+  ]
+}

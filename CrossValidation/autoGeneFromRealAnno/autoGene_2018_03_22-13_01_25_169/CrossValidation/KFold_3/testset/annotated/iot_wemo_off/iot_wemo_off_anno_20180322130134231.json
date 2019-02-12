@@ -1,0 +1,111 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please turn off the plug socket of my phone when it'll be charged",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 20,
+          "end": 31,
+          "value": "plug socket",
+          "entity": "device_type"
+        },
+        {
+          "start": 38,
+          "end": 43,
+          "value": "phone",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please turn off the smart socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 20,
+          "end": 32,
+          "value": "smart socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "off mobile charger plug",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 4,
+          "end": 23,
+          "value": "mobile charger plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn the plug off",
+      "intent": "iot_wemo_off",
+      "entities": []
+    },
+    {
+      "text": "turn off kettle socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 9,
+          "end": 22,
+          "value": "kettle socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "deactivate smart plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 11,
+          "end": 28,
+          "value": "smart plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please turn off the smart plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 20,
+          "end": 37,
+          "value": "smart plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off plug",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off the lamp socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 13,
+          "end": 24,
+          "value": "lamp socket",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

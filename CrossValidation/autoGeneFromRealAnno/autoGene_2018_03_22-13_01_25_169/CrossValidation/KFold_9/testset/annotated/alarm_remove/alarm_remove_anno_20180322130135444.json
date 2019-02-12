@@ -1,0 +1,106 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "disable my three pm alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "three pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remove my bedtime alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "turn off all alarms",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "remove alarms set for tomorrow",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "olly cancel all soccer practice alarms",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 16,
+          "end": 31,
+          "value": "soccer practice",
+          "entity": "alarm_type"
+        }
+      ]
+    },
+    {
+      "text": "remove my eight pm alarm and set it to seven pm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "eight pm",
+          "entity": "time"
+        },
+        {
+          "start": 39,
+          "end": 47,
+          "value": "seven pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remove alarm if any",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "cancel the alarm that is set for tomorrow at eight am",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 33,
+          "end": 41,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "value": "eight am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "delete the first alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "remove alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "unset all alarm which is set",
+      "intent": "alarm_remove",
+      "entities": []
+    }
+  ]
+}

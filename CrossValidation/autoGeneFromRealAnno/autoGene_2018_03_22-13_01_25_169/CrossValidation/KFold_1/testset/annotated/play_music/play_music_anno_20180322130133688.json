@@ -1,0 +1,221 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play music i have liked",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "i would like to hear the theme song to this is us",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 25,
+          "end": 35,
+          "value": "theme song",
+          "entity": "music_descriptor"
+        },
+        {
+          "start": 39,
+          "end": 49,
+          "value": "this is us",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play the list from my favorites",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "put poker face by lady gaga next in the play queue",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 4,
+          "end": 14,
+          "value": "poker face",
+          "entity": "song_name"
+        },
+        {
+          "start": 18,
+          "end": 27,
+          "value": "lady gaga",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "turn on the tunes",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "rock",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "rock",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play jumper by third eye blind",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "jumper",
+          "entity": "song_name"
+        },
+        {
+          "start": 15,
+          "end": 30,
+          "value": "third eye blind",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play music playlist",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "please turn on my music",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play my rap playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 8,
+          "end": 11,
+          "value": "rap",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "after this song play atmosphere",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 21,
+          "end": 31,
+          "value": "atmosphere",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play true love next",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "true love",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play hip hop songs",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "hip hop",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "hey play crazy by britney spears",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 18,
+          "end": 32,
+          "value": "britney spears",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play marvin gaye i want you",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "marvin gaye",
+          "entity": "artist_name"
+        },
+        {
+          "start": 17,
+          "end": 27,
+          "value": "i want you",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play tonic",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "tonic",
+          "entity": "music_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play jingle bells next",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "jingle bells",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "open jazz",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "jazz",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play all third day",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "third day",
+          "entity": "artist_name"
+        }
+      ]
+    }
+  ]
+}

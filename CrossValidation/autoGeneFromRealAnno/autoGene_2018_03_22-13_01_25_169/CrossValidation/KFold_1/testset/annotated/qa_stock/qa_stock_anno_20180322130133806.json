@@ -1,0 +1,236 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what are the stock prices of target",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "fill me in on stock symbol",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "what is the price of stock for gm",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 31,
+          "end": 33,
+          "value": "gm",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "google i. b. m. stock prices",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "google",
+          "entity": "business_name"
+        },
+        {
+          "start": 7,
+          "end": 15,
+          "value": "i. b. m.",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how is shell s stock doing today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "stock price for gss energy",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 16,
+          "end": 26,
+          "value": "gss energy",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "list me the stock of apple right now",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "stock price for sprint",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "sprint",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the value of apple",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "compare the stock prices for nintendo and sony and tell me which ones are better",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 29,
+          "end": 37,
+          "value": "nintendo",
+          "entity": "business_name"
+        },
+        {
+          "start": 42,
+          "end": 46,
+          "value": "sony",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how much did facebook stock increase last night",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 13,
+          "end": 21,
+          "value": "facebook",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the stock information of walmart",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 33,
+          "end": 40,
+          "value": "walmart",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is now stock price of tata",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 27,
+          "end": 31,
+          "value": "tata",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the current price of jindel stock",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 29,
+          "end": 35,
+          "value": "jindel",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how is coca cola stock doing today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 7,
+          "end": 16,
+          "value": "coca cola",
+          "entity": "business_name"
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "for how much is hp selling for",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 16,
+          "end": 18,
+          "value": "hp",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what price are google stocks trading for",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 15,
+          "end": 21,
+          "value": "google",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "is starbucks stock up or down from last quarter",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 3,
+          "end": 12,
+          "value": "starbucks",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how much to buy stock in i. b. m.",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "i. b. m.",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "delete the following list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "cancel list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "get rid of the wednesday list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 15,
+          "end": 24,
+          "value": "wednesday",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "show list items",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove item from list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove my list of contacts from work",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "take out the milk from the shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 27,
+          "end": 35,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete list for groceries",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 16,
+          "end": 25,
+          "value": "groceries",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove night night playlist",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 18,
+          "value": "night night",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please delete this item",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete list blank",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "please remove item a from my list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove apple from list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "reset my locations list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "locations",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove my to do list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove the list of person starting from letter m in my contact list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 55,
+          "end": 67,
+          "value": "contact list",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove my shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove apples from my shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    }
+  ]
+}

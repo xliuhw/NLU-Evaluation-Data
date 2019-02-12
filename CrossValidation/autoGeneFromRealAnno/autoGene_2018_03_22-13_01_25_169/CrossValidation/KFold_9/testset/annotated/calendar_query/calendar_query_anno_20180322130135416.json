@@ -1,0 +1,265 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what time is the party tonight",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "party",
+          "entity": "event_name"
+        },
+        {
+          "start": 23,
+          "end": 30,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "am i on vacation this week",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "vacation",
+          "entity": "event_name"
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what meetings do i have next thursday",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 13,
+          "value": "meetings",
+          "entity": "event_name"
+        },
+        {
+          "start": 29,
+          "end": 37,
+          "value": "thursday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's going on between three hundred and thirty and four",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 57,
+          "value": "between three hundred and thirty and four",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "do i have any appointments coming up",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 26,
+          "value": "appointments",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what is my afternoon schedule tomorrow",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 20,
+          "value": "afternoon",
+          "entity": "timeofday"
+        },
+        {
+          "start": 30,
+          "end": 38,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "am i free between six to seven pm",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 33,
+          "value": "six to seven pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "do i have a party tomorrow save on my calendar",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "party",
+          "entity": "event_name"
+        },
+        {
+          "start": 18,
+          "end": 26,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "when monet's exhibition takes place",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 23,
+          "value": "monet's exhibition",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "do i have meeting with steve this week",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 23,
+          "end": 28,
+          "value": "steve",
+          "entity": "person"
+        },
+        {
+          "start": 29,
+          "end": 38,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what time do i work tomorrow",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 28,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "when is dale's birthday",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "dale",
+          "entity": "person"
+        },
+        {
+          "start": 15,
+          "end": 23,
+          "value": "birthday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "give me today's calendar events after six pm",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 32,
+          "end": 44,
+          "value": "after six pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "can you check the facts on this issue",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "what's my next events",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "what date is my anniversary",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 27,
+          "value": "anniversary",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "show me my events",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "is there valet service at the event",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 22,
+          "value": "valet service",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "show me my meetings this Friday",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 31,
+          "value": "this Friday",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

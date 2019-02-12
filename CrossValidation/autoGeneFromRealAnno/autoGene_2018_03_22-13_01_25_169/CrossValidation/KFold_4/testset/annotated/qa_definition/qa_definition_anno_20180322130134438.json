@@ -1,0 +1,225 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is the definition of forensic",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 26,
+          "end": 34,
+          "value": "forensic",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does settle mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 16,
+          "value": "settle",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "give me the definition of school",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 26,
+          "end": 32,
+          "value": "school",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "Define perpetual",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 16,
+          "value": "perpetual",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "tell me what a freeway is",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "freeway",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does apple of my eye mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 25,
+          "value": "apple of my eye",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "siri what does survey mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 15,
+          "end": 21,
+          "value": "survey",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "where can i use this word",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 16,
+          "end": 25,
+          "value": "this word",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "define transcendet",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 18,
+          "value": "transcendet",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is the meaning of the word home",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 32,
+          "end": 36,
+          "value": "home",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what's the meaning of rumplestiltskin",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 22,
+          "end": 37,
+          "value": "rumplestiltskin",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "define elaborate",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 16,
+          "value": "elaborate",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is a sphere",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 16,
+          "value": "sphere",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me what the white house is",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 21,
+          "end": 36,
+          "value": "the white house",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does pesto mean",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "pesto",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "explain photosynthesis",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 8,
+          "end": 22,
+          "value": "photosynthesis",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "look up a lamp",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "lamp",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "get me new definition",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "define what a wizard is",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 14,
+          "end": 20,
+          "value": "wizard",
+          "entity": "definition_word"
+        }
+      ]
+    }
+  ]
+}

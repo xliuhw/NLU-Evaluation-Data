@@ -1,0 +1,95 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "make the light more brighter",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "please turn the lights up to eight",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "brighten the lights please",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "more lights please",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "bring up lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "change up the light colors at home",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 30,
+          "end": 34,
+          "value": "home",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "connect to lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "increase light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "make the room brighter",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "spread some lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "can you bright the lights please",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "can the lights be turned up",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "make the ceiling lights brighter",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "ceiling",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "brighten more light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    }
+  ]
+}

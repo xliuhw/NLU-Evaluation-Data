@@ -1,0 +1,273 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "set an alarm for nine am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "nine am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "change alarm to start at midnight",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "midnight",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "alarm ten am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 6,
+          "end": 12,
+          "value": "ten am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set an alarm for me for tomorrow",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 24,
+          "end": 32,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "set an alarm for twelve",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 23,
+          "value": "twelve",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set a timer at five am seven days a week",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "five am",
+          "entity": "time"
+        },
+        {
+          "start": 23,
+          "end": 40,
+          "value": "seven days a week",
+          "entity": "general_frequency"
+        }
+      ]
+    },
+    {
+      "text": "i need to set an alarm for next friday at noon",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 32,
+          "end": 38,
+          "value": "friday",
+          "entity": "date"
+        },
+        {
+          "start": 42,
+          "end": 46,
+          "value": "noon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "please sound an alarm three hours before a scheduled event",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 22,
+          "end": 33,
+          "value": "three hours",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "can you set an alarm for seven am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "seven am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "alert me at ten am please",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "ten am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set the alarm to seven am for work",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "seven am",
+          "entity": "time"
+        },
+        {
+          "start": 30,
+          "end": 34,
+          "value": "work",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "wake up time",
+      "intent": "alarm_set",
+      "entities": []
+    },
+    {
+      "text": "change my alarms to mountain time",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 20,
+          "end": 28,
+          "value": "mountain",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "set up each day an alarm at ten time for my meal",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 28,
+          "end": 31,
+          "value": "ten",
+          "entity": "time"
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "value": "meal",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "please set an alarm clock for my next meeting with the team at three pm next friday",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 38,
+          "end": 45,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 51,
+          "end": 59,
+          "value": "the team",
+          "entity": "relation"
+        },
+        {
+          "start": 63,
+          "end": 71,
+          "value": "three pm",
+          "entity": "time"
+        },
+        {
+          "start": 77,
+          "end": 83,
+          "value": "friday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "set my alarm for six am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 23,
+          "value": "six am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set an alarm for this eight hundred pm this evening",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 22,
+          "end": 38,
+          "value": "eight hundred pm",
+          "entity": "time"
+        },
+        {
+          "start": 39,
+          "end": 51,
+          "value": "this evening",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "set alarm at six thirty am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 26,
+          "value": "six thirty am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "make me a wake up alarm for eight forty five am",
+      "intent": "alarm_set",
+      "entities": [
+        {
+          "start": 28,
+          "end": 47,
+          "value": "eight forty five am",
+          "entity": "time"
+        }
+      ]
+    }
+  ]
+}

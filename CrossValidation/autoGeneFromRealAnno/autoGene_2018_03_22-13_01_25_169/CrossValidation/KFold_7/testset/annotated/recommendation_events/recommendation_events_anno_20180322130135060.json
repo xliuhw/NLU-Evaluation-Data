@@ -1,0 +1,212 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i want to know what are happening now in me area",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "is there any concerts taking place in new york today",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 13,
+          "end": 21,
+          "value": "concerts",
+          "entity": "event_name"
+        },
+        {
+          "start": 38,
+          "end": 46,
+          "value": "new york",
+          "entity": "place_name"
+        },
+        {
+          "start": 47,
+          "end": 52,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's going on around the neighborhood",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 16,
+          "end": 39,
+          "value": "around the neighborhood",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what's happening in my town",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "whats happening in ny",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 19,
+          "end": 21,
+          "value": "ny",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what events are going in my town this week",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 28,
+          "end": 32,
+          "value": "town",
+          "entity": "place_name"
+        },
+        {
+          "start": 33,
+          "end": 42,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "show local events near me",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "i need all the local events for this area that are being held this weekend",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 32,
+          "end": 41,
+          "value": "this area",
+          "entity": "place_name"
+        },
+        {
+          "start": 62,
+          "end": 74,
+          "value": "this weekend",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "any specific event in washington",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 22,
+          "end": 32,
+          "value": "washington",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what events are going on in the area",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what is going on today in biloxi",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 26,
+          "end": 32,
+          "value": "biloxi",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "running competitions on the west side",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 0,
+          "end": 20,
+          "value": "running competitions",
+          "entity": "event_name"
+        },
+        {
+          "start": 24,
+          "end": 37,
+          "value": "the west side",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what events are in me area",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "local events",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "to which event can i go in milan now",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "milan",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what gun shows are in tulsa",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "gun shows",
+          "entity": "event_name"
+        },
+        {
+          "start": 22,
+          "end": 27,
+          "value": "tulsa",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "Show current local events",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "today's local events",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is there anything special going on nearby",
+      "intent": "recommendation_events",
+      "entities": []
+    }
+  ]
+}

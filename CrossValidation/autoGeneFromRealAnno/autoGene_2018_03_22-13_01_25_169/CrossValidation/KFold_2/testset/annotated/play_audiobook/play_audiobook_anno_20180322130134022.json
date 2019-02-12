@@ -1,0 +1,309 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "progress from the last paused point of my audio book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "progress",
+          "entity": "player_setting"
+        },
+        {
+          "start": 42,
+          "end": 52,
+          "value": "audio book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "go back to animal farm",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 10,
+          "value": "go back to",
+          "entity": "player_setting"
+        },
+        {
+          "start": 11,
+          "end": 22,
+          "value": "animal farm",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play next episode of harry potter by j. k. rowling",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 21,
+          "end": 33,
+          "value": "harry potter",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 37,
+          "end": 50,
+          "value": "j. k. rowling",
+          "entity": "audiobook_author"
+        }
+      ]
+    },
+    {
+      "text": "resume the two towers",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 21,
+          "value": "the two towers",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "start playing again",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "start playing",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "resume lord of the rings",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 24,
+          "value": "lord of the rings",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "resume the reading of the french lesson",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 26,
+          "end": 39,
+          "value": "french lesson",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "continue the smurfs book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "continue",
+          "entity": "player_setting"
+        },
+        {
+          "start": 13,
+          "end": 19,
+          "value": "smurfs",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "can you put on the giver",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "put on",
+          "entity": "player_setting"
+        },
+        {
+          "start": 15,
+          "end": 24,
+          "value": "the giver",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "read that back",
+      "intent": "play_audiobook",
+      "entities": []
+    },
+    {
+      "text": "start audio playback of twilight again",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "start",
+          "entity": "player_setting"
+        },
+        {
+          "start": 24,
+          "end": 32,
+          "value": "twilight",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to finally read the mars trilogy",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 23,
+          "end": 39,
+          "value": "the mars trilogy",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "pick up we left off on battle royale",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 23,
+          "end": 36,
+          "value": "battle royale",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "i would like to listen to my audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 29,
+          "end": 38,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "lets have a break for five minutes",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "break",
+          "entity": "player_setting"
+        },
+        {
+          "start": 22,
+          "end": 34,
+          "value": "five minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "resume the two towers audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 21,
+          "value": "the two towers",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 22,
+          "end": 31,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "can you play my favorite audio book of king kong",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 39,
+          "end": 48,
+          "value": "king kong",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to listen to treasure island by robert louis stevenson",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 20,
+          "end": 35,
+          "value": "treasure island",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 39,
+          "end": 61,
+          "value": "robert louis stevenson",
+          "entity": "audiobook_author"
+        }
+      ]
+    },
+    {
+      "text": "resume pride and prejudice",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 26,
+          "value": "pride and prejudice",
+          "entity": "audiobook_name"
+        }
+      ]
+    }
+  ]
+}

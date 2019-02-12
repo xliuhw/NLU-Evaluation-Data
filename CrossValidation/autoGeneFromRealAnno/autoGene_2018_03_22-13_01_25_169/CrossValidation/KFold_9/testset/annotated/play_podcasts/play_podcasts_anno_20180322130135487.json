@@ -1,0 +1,200 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play the podcast named ringcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 23,
+          "end": 31,
+          "value": "ringcast",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to listen to podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "find the serial podcast and play it",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "play me a podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "play musician play list",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 5,
+          "end": 23,
+          "value": "musician play list",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "next episode in podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "go to beginning of previous episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 19,
+          "end": 35,
+          "value": "previous episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "npr ted talks",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "npr ted talks",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "next episode of nyt podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        },
+        {
+          "start": 16,
+          "end": 19,
+          "value": "nyt",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "play this podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "next podcast play",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "move on to the next podcast episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "move on",
+          "entity": "player_setting"
+        },
+        {
+          "start": 15,
+          "end": 35,
+          "value": "next podcast episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "go back to the last episode in this podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "go back",
+          "entity": "player_setting"
+        },
+        {
+          "start": 15,
+          "end": 27,
+          "value": "last episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play me the latest podcast about online surveys",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "play newest reason podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "reason",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "play podcast episode new",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "open podcast player",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "list and play all theory podcasts under ten min",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 14,
+          "end": 24,
+          "value": "all theory",
+          "entity": "podcast_descriptor"
+        },
+        {
+          "start": 34,
+          "end": 47,
+          "value": "under ten min",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play next episode on podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    }
+  ]
+}

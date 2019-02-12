@@ -1,0 +1,112 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "dim the living room lights",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 8,
+          "end": 19,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "turn the lights down to seven",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "to seven",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "decrease lighting",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower the light of hall percent",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 19,
+          "end": 23,
+          "value": "hall",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "dim lights in living room",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 14,
+          "end": 25,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "please lights less brighter",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "reduce the light power",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "reduce the strength of the bedroom lights",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 27,
+          "end": 34,
+          "value": "bedroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "dim the bedroom lights to half",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "bedroom",
+          "entity": "house_place"
+        },
+        {
+          "start": 23,
+          "end": 30,
+          "value": "to half",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "i need to turn the lights down",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower lights now",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "dim the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "bingo",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "do homework for me please",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "hey today i was fired from my job",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the story of the movie titanic",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 31,
+          "end": 38,
+          "value": "titanic",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "do you know of any good free knitting patterns",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "how can you get basalt",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what's on your mind today",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can you lie",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "can i tell you about my day",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "give me some health tips",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "do you think today will be nice out",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is there a groomer in town for cats only",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "compare prices of dairy items in local shops",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "downloads management",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "let's make some popcorn and watch an old movie together",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "its very tough one",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "cheering me up",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what is your age",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "find me the cheapest copy of the four hour body",
+      "intent": "general_quirky",
+      "entities": []
+    }
+  ]
+}

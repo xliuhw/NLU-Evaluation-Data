@@ -1,0 +1,175 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "are there any detours that i need to know about",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how is the current traffic between",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "is traffic heavy on route eighty today",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 20,
+          "end": 32,
+          "value": "route eighty",
+          "entity": "place_name"
+        },
+        {
+          "start": 33,
+          "end": 38,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the current traffic situation",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what's traffic look like over the golden gate bridge",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 34,
+          "end": 52,
+          "value": "golden gate bridge",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please give me the traffic report for this afternoon",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 38,
+          "end": 52,
+          "value": "this afternoon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "how slow is traffic on the five",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 23,
+          "end": 31,
+          "value": "the five",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "which route has less traffic today",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 29,
+          "end": 34,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "could you please check the traffic to our home",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 42,
+          "end": 46,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how is the traffic on third street",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 22,
+          "end": 34,
+          "value": "third street",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "are there any accidents on my way to work",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how long should the drive to work take",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "is there any traffic right now",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "any traffic issues today",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "may i know the traffic situation",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how is traffic from work to home",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 28,
+          "end": 32,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the traffic situation right in broadway street",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 39,
+          "end": 54,
+          "value": "broadway street",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "traffic report",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "i would have avoided the traffic if i went early",
+      "intent": "transport_traffic",
+      "entities": []
+    }
+  ]
+}

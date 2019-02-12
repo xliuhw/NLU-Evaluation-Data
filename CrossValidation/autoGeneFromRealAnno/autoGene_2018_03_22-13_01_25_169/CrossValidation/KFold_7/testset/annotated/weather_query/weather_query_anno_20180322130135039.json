@@ -1,0 +1,271 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is the forecast",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "what is the weather like outside",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "what will the weather be for the next week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 42,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what a sunny day",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "sunny",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "how is the weather down in orange tx",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 36,
+          "value": "orange tx",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "should i take an umbrella today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "umbrella",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the current temperature outside",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 31,
+          "value": "temperature",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "will it be raining on thursday",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "raining",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 22,
+          "end": 30,
+          "value": "thursday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is it going to be nice tomorrow",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 22,
+          "value": "nice",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i am need my hat today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 16,
+          "value": "hat",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 17,
+          "end": 22,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the forecast for the week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 33,
+          "value": "week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "whats the weather like",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "weather report of the week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 26,
+          "value": "week",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "is it going to snow",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 19,
+          "value": "snow",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "what are the estimated temperatures this afternoon",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 35,
+          "value": "estimated temperatures",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 36,
+          "end": 50,
+          "value": "this afternoon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "how's weather today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i need to wear a coat today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 24,
+          "value": "coat",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "whats the average temperature in mangalore for this week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 29,
+          "value": "average temperature",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 33,
+          "end": 42,
+          "value": "mangalore",
+          "entity": "place_name"
+        },
+        {
+          "start": 47,
+          "end": 56,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is mysore going to be very hot and humid today whats the weather status",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 9,
+          "value": "mysore",
+          "entity": "place_name"
+        },
+        {
+          "start": 22,
+          "end": 40,
+          "value": "very hot and humid",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 41,
+          "end": 46,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

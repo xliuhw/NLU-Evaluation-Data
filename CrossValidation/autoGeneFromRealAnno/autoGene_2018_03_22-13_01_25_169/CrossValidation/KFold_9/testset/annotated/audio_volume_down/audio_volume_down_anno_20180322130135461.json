@@ -1,0 +1,58 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "lower the speakers",
+      "intent": "audio_volume_down",
+      "entities": []
+    },
+    {
+      "text": "lower the volume of the speakers",
+      "intent": "audio_volume_down",
+      "entities": []
+    },
+    {
+      "text": "lower your volume please",
+      "intent": "audio_volume_down",
+      "entities": []
+    },
+    {
+      "text": "turn down media volume",
+      "intent": "audio_volume_down",
+      "entities": []
+    },
+    {
+      "text": "lower the volume",
+      "intent": "audio_volume_down",
+      "entities": []
+    },
+    {
+      "text": "please decrease the volume of music player",
+      "intent": "audio_volume_down",
+      "entities": [
+        {
+          "start": 30,
+          "end": 42,
+          "value": "music player",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn the speakers down to five percent",
+      "intent": "audio_volume_down",
+      "entities": [
+        {
+          "start": 23,
+          "end": 38,
+          "value": "to five percent",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "lower the volume please",
+      "intent": "audio_volume_down",
+      "entities": []
+    }
+  ]
+}

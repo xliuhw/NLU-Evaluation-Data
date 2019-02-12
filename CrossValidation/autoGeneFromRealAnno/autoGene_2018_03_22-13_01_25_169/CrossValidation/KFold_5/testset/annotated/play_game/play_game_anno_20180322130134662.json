@@ -1,0 +1,197 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "want to play a game of trivia",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 15,
+          "end": 29,
+          "value": "game of trivia",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "want to play a game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "i want to play a game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "let's play space invaders together",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 25,
+          "value": "space invaders",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play for me the game star wars",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 21,
+          "end": 30,
+          "value": "star wars",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "my games to play in my computers",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "i want to play a trivia game",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 17,
+          "end": 28,
+          "value": "trivia game",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "can you play a game with me",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "Play my favorite game by name naughty dog",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 30,
+          "end": 41,
+          "value": "naughty dog",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play candy crush",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "candy crush",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play football match for myself now",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 19,
+          "value": "football match",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "start game temple runner",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 24,
+          "value": "temple runner",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play tic tac toe",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 22,
+          "value": "tic tac toe",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play rummy",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "rummy",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "please open chess game i would like to play with you",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "chess",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "open subway surfers",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 19,
+          "value": "subway surfers",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "search for the correct game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "i want to play poker with you",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "poker",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "load up ghost recon wildlands",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 8,
+          "end": 29,
+          "value": "ghost recon wildlands",
+          "entity": "game_name"
+        }
+      ]
+    }
+  ]
+}

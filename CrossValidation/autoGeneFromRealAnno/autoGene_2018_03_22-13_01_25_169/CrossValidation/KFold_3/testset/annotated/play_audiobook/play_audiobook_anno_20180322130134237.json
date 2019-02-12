@@ -1,0 +1,328 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play the game of thrones audio book from the last chapter i was on",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 24,
+          "value": "the game of thrones",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 25,
+          "end": 35,
+          "value": "audio book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play the book which i heard on some particular day",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "stop play",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 9,
+          "value": "stop play",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "get me resume of newest release audio book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 32,
+          "end": 42,
+          "value": "audio book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "keep playing secret garden",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "keep playing",
+          "entity": "player_setting"
+        },
+        {
+          "start": 13,
+          "end": 26,
+          "value": "secret garden",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "can you pause and rewind the audio then resume",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 8,
+          "end": 24,
+          "value": "pause and rewind",
+          "entity": "player_setting"
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "value": "audio",
+          "entity": "media_type"
+        },
+        {
+          "start": 40,
+          "end": 46,
+          "value": "resume",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "play the last played audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 21,
+          "end": 30,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "start reading that alan partridge book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "start reading",
+          "entity": "player_setting"
+        },
+        {
+          "start": 19,
+          "end": 33,
+          "value": "alan partridge",
+          "entity": "audiobook_author"
+        },
+        {
+          "start": 34,
+          "end": 38,
+          "value": "book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play magic run after thirty min",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "magic run",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 15,
+          "end": 31,
+          "value": "after thirty min",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "resume play on my most recent audiobook selection",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "start reading fifty shades of grey from chapter four",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "start reading",
+          "entity": "player_setting"
+        },
+        {
+          "start": 14,
+          "end": 34,
+          "value": "fifty shades of grey",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "start chapter five of physics for future presidents",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 18,
+          "value": "start chapter five",
+          "entity": "player_setting"
+        },
+        {
+          "start": 22,
+          "end": 51,
+          "value": "physics for future presidents",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "continue pride and prejudice",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "continue",
+          "entity": "player_setting"
+        },
+        {
+          "start": 9,
+          "end": 28,
+          "value": "pride and prejudice",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "resume audio",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 12,
+          "value": "audio",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "read some more of the daisy goodwin book for me",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "read",
+          "entity": "player_setting"
+        },
+        {
+          "start": 22,
+          "end": 35,
+          "value": "daisy goodwin",
+          "entity": "audiobook_author"
+        },
+        {
+          "start": 36,
+          "end": 40,
+          "value": "book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "can you play my latest audio book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 23,
+          "end": 33,
+          "value": "audio book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "open harrypotter audiobook and play from last played",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "harrypotter",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play audiobook of planets",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "audiobook",
+          "entity": "media_type"
+        },
+        {
+          "start": 18,
+          "end": 25,
+          "value": "planets",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "resume my audiobook from the beginning of the last chapter i started",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 10,
+          "end": 19,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

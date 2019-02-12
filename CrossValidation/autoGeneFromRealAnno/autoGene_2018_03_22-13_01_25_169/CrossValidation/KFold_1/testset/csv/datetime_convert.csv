@@ -1,0 +1,9 @@
+answerid;scenario;intent;answer_annotation;answer_from_anno;answer_from_user
+3788;datetime;convert;"if it's [time : eight pm] on the [place_name : east coast] what time is it in [place_name : sacramento california]";"if it's eight pm on the east coast what time is it in sacramento california";"Cortana, if it's 8 PM on the east coast, what time is it in Sacramento, California?"
+5983;datetime;convert;"if it is [time : four pm] in [place_name : missouri] what time is it in [place_name : london]";"if it is four pm in missouri what time is it in london";"If it is four pm in Missouri, what time is it in London?"
+13243;datetime;convert;"can you please change the time zone to [place_name : us]";"can you please change the time zone to us";"can u pls change the timezone to us"
+21840;datetime;convert;"which time zone are we in please change to [time_zone : current]";"which time zone are we in please change to current";"Which time zone are we in? Please change to current"
+13244;datetime;convert;"please change time zone to [place_name : canada]";"please change time zone to canada";"pls change timezone to canada"
+12729;datetime;convert;"what time will it be locally at [time : nine am] [place_name : bangalore] [place_name : india] time";"what time will it be locally at nine am bangalore india time";"PDA, what time will it be locally at 9AM Bangalore, India, time?"
+9259;datetime;convert;"it is [time : ten am] in [time_zone : eastern] standard time what time it is now it [time_zone : pacific] standard time";"it is ten am in eastern standard time what time it is now it pacific standard time";"It is 10:00 am in Eastern Standard Time, what time it is now it Pacific Standard Time?"
+16054;datetime;convert;"change [time_zone : mountain] standard to [time_zone : pacific]";"change mountain standard to pacific";"change mountain standard to pacific"

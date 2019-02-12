@@ -1,0 +1,183 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "show latest news about migration",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 32,
+          "value": "migration",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "the current news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "Show me articles about the new iphone eight",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 43,
+          "value": "the new iphone eight",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "please tell me the news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "give me the headlines from sky news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 35,
+          "value": "sky news",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "is there any new news on trump",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "trump",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "give me the latest updates",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "pull up my cnn app and read it to me",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 14,
+          "value": "cnn",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me a latest news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "google search the topic",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "can the latest news be pulled up on the latest weather forecast for the week",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 47,
+          "end": 63,
+          "value": "weather forecast",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "how is the news in ireland",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 26,
+          "value": "ireland",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the latest on donald trump",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 34,
+          "value": "donald trump",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "update me on the standing rock protest",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 38,
+          "value": "standing rock protest",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "new policies",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "get me news on trump",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "trump",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please advise what the current news is on fox news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 42,
+          "end": 50,
+          "value": "fox news",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "latest news update",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "what's happening with the hurricane in the gulf",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 47,
+          "value": "hurricane in the gulf",
+          "entity": "news_topic"
+        }
+      ]
+    }
+  ]
+}

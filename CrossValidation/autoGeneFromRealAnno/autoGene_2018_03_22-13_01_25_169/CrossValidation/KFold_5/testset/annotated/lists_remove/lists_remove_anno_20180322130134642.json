@@ -1,0 +1,181 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "remove the list called party time",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 23,
+          "end": 33,
+          "value": "party time",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "kill item",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove last played song",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "drop it from list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "please delete the shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 18,
+          "end": 26,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete an item",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove the guest list i created last week",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "guest",
+          "entity": "list_name"
+        },
+        {
+          "start": 32,
+          "end": 41,
+          "value": "last week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i have already given mark his gift today please remove him on my christmas gift list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 21,
+          "end": 25,
+          "value": "mark",
+          "entity": "person"
+        },
+        {
+          "start": 65,
+          "end": 84,
+          "value": "christmas gift list",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "cross out bread from shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove noodles from the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "can you remove remove buying eggs item from my to do list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 47,
+          "end": 52,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please remove apples from my grocery list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 29,
+          "end": 36,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "please clean my shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove list of due payment of rajesh",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 15,
+          "end": 36,
+          "value": "due payment of rajesh",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please delete bananas from my shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 30,
+          "end": 38,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please delete this file",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "take that off there",
+      "intent": "lists_remove",
+      "entities": []
+    }
+  ]
+}

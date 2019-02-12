@@ -1,0 +1,234 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is latest on the recent events happening right now",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "people canceling iowa vacations over congressman's words",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 56,
+          "value": "people canceling iowa vacations over congressman's words",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "top news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "what is happening with brexit today",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 29,
+          "value": "brexit",
+          "entity": "news_topic"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's happening in world news today",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "world",
+          "entity": "place_name"
+        },
+        {
+          "start": 31,
+          "end": 36,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what and how is india's economy at the moment",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 31,
+          "value": "india's economy",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "keep me informed about bitcoin price",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 36,
+          "value": "bitcoin price",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what happened last week",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 23,
+          "value": "last week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the news about terrorist attack in afghanistan",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 39,
+          "value": "terrorist attack",
+          "entity": "news_topic"
+        },
+        {
+          "start": 43,
+          "end": 54,
+          "value": "afghanistan",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what news updates are there from news express",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 45,
+          "value": "news express",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what's happening on bbc news today",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 23,
+          "value": "bbc",
+          "entity": "media_type"
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "let me know the latest weather news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 30,
+          "value": "weather",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what are the news notification",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "find me news about trumps speech",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 32,
+          "value": "trumps speech",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "cnn headlines",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 3,
+          "value": "cnn",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me about current status of sunderland vs liverpool match",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 61,
+          "value": "sunderland vs liverpool match",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what's happening in the news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "get latest news report on kidnapping in ny",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 36,
+          "value": "kidnapping",
+          "entity": "news_topic"
+        },
+        {
+          "start": 40,
+          "end": 42,
+          "value": "ny",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you give me the latest sports news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 33,
+          "value": "sports",
+          "entity": "news_topic"
+        }
+      ]
+    }
+  ]
+}

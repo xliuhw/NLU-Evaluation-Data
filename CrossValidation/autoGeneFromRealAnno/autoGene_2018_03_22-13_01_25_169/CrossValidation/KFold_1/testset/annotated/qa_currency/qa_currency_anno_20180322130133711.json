@@ -1,0 +1,340 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is the most current exchange rate in china",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 42,
+          "end": 47,
+          "value": "china",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "if i have five dollars how many rupies is that",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "dollars",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how much is dollars american worth in yen",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 12,
+          "end": 19,
+          "value": "dollars",
+          "entity": "currency_name"
+        },
+        {
+          "start": 38,
+          "end": 41,
+          "value": "yen",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "convert euros to dollars",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "euros",
+          "entity": "currency_name"
+        },
+        {
+          "start": 17,
+          "end": 24,
+          "value": "dollars",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how much is ten dollars in euros",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "dollars",
+          "entity": "currency_name"
+        },
+        {
+          "start": 27,
+          "end": 32,
+          "value": "euros",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how much is b. p. in u. s. d.",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "b. p.",
+          "entity": "currency_name"
+        },
+        {
+          "start": 21,
+          "end": 29,
+          "value": "u. s. d.",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the value of the euro relative to nzd",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 24,
+          "end": 28,
+          "value": "euro",
+          "entity": "currency_name"
+        },
+        {
+          "start": 41,
+          "end": 44,
+          "value": "nzd",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "exchange rate of euro with dollar",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "euro",
+          "entity": "currency_name"
+        },
+        {
+          "start": 27,
+          "end": 33,
+          "value": "dollar",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how much money in us would i need to have a thousand pesos",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 18,
+          "end": 20,
+          "value": "us",
+          "entity": "currency_name"
+        },
+        {
+          "start": 53,
+          "end": 58,
+          "value": "pesos",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "u. s. d. to g. b. p.",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "u. s. d.",
+          "entity": "currency_name"
+        },
+        {
+          "start": 12,
+          "end": 20,
+          "value": "g. b. p.",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "i have ten us dollars how many canadian dollars do i have",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 11,
+          "end": 21,
+          "value": "us dollars",
+          "entity": "currency_name"
+        },
+        {
+          "start": 31,
+          "end": 47,
+          "value": "canadian dollars",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how much is the us dollar worth in canada",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 16,
+          "end": 25,
+          "value": "us dollar",
+          "entity": "currency_name"
+        },
+        {
+          "start": 35,
+          "end": 41,
+          "value": "canada",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the exchange rate between the us and canada",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 38,
+          "end": 40,
+          "value": "us",
+          "entity": "currency_name"
+        },
+        {
+          "start": 45,
+          "end": 51,
+          "value": "canada",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how much indian rupees per u. s. d. today",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 9,
+          "end": 22,
+          "value": "indian rupees",
+          "entity": "currency_name"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "value": "u. s. d.",
+          "entity": "currency_name"
+        },
+        {
+          "start": 36,
+          "end": 41,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how many g. b. p. can i get for one dollar",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 9,
+          "end": 17,
+          "value": "g. b. p.",
+          "entity": "currency_name"
+        },
+        {
+          "start": 36,
+          "end": 42,
+          "value": "dollar",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the exchange rate for dollar in euros",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 30,
+          "end": 36,
+          "value": "dollar",
+          "entity": "currency_name"
+        },
+        {
+          "start": 40,
+          "end": 45,
+          "value": "euros",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how much australian dollars one can buy for one pound sterling",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "dollars",
+          "entity": "currency_name"
+        },
+        {
+          "start": 48,
+          "end": 62,
+          "value": "pound sterling",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "and the pound is doing how badly against the euro",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "pound",
+          "entity": "currency_name"
+        },
+        {
+          "start": 45,
+          "end": 49,
+          "value": "euro",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the exchange rate between money i'm the united states and switzerland",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 44,
+          "end": 61,
+          "value": "the united states",
+          "entity": "currency_name"
+        },
+        {
+          "start": 66,
+          "end": 77,
+          "value": "switzerland",
+          "entity": "currency_name"
+        }
+      ]
+    }
+  ]
+}

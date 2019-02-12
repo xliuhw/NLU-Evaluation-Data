@@ -1,0 +1,128 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "which rom com movie can i watch in theatres around new york",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "rom com",
+          "entity": "movie_type"
+        },
+        {
+          "start": 51,
+          "end": 59,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me what movies are playing at the movies tonight",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 54,
+          "end": 61,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "what movies are playing at theatres near me",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 27,
+          "end": 35,
+          "value": "theatres",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show me theatre where pirates of caribbean is playing",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 22,
+          "end": 42,
+          "value": "pirates of caribbean",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "what new movies are good",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what is the biggest blockbuster this week",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 20,
+          "end": 31,
+          "value": "blockbuster",
+          "entity": "movie_type"
+        },
+        {
+          "start": 32,
+          "end": 41,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "find an oscar nominee movie",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "recommend a movie which is released last Friday",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "movie",
+          "entity": "event_name"
+        },
+        {
+          "start": 36,
+          "end": 47,
+          "value": "last Friday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "training day",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "training day",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "is swat a good movie",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 3,
+          "end": 7,
+          "value": "swat",
+          "entity": "movie_name"
+        }
+      ]
+    }
+  ]
+}

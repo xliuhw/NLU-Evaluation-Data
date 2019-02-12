@@ -1,0 +1,382 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how long does it take for the train to get to orlando",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 35,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "value": "orlando",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where is the nearest train to me",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the estimated travel time for the train ride to orlando",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 42,
+          "end": 47,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 56,
+          "end": 63,
+          "value": "orlando",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the time when punjab mail will reach gwalior",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 28,
+          "value": "punjab",
+          "entity": "place_name"
+        },
+        {
+          "start": 45,
+          "end": 52,
+          "value": "gwalior",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the direction to miami from chicago",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "miami",
+          "entity": "place_name"
+        },
+        {
+          "start": 36,
+          "end": 43,
+          "value": "chicago",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the exact arrival time of train from newcastle to edinburgh",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 39,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 45,
+          "end": 54,
+          "value": "newcastle",
+          "entity": "place_name"
+        },
+        {
+          "start": 58,
+          "end": 67,
+          "value": "edinburgh",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "whats the travel time from here to dallas by train",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 35,
+          "end": 41,
+          "value": "dallas",
+          "entity": "place_name"
+        },
+        {
+          "start": 45,
+          "end": 50,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "give me directions to get from here to crescent city brewhouse in new orleans",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 39,
+          "end": 62,
+          "value": "crescent city brewhouse",
+          "entity": "place_name"
+        },
+        {
+          "start": 66,
+          "end": 77,
+          "value": "new orleans",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what are the train times from san francisco to new york",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 30,
+          "end": 43,
+          "value": "san francisco",
+          "entity": "place_name"
+        },
+        {
+          "start": 47,
+          "end": 55,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i need a train ticket to denver",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 25,
+          "end": 31,
+          "value": "denver",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how to go to multi specialty hospital",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 37,
+          "value": "multi specialty hospital",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "siri find train tickets to nc",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 27,
+          "end": 29,
+          "value": "nc",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show me today all train times of next two hours at jodhpur to pali",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 33,
+          "end": 47,
+          "value": "next two hours",
+          "entity": "time"
+        },
+        {
+          "start": 51,
+          "end": 58,
+          "value": "jodhpur",
+          "entity": "place_name"
+        },
+        {
+          "start": 62,
+          "end": 66,
+          "value": "pali",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find me the distance and direction by train to rccg in ikoyi lagos",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 38,
+          "end": 43,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 47,
+          "end": 66,
+          "value": "rccg in ikoyi lagos",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "give the shortest route to the airport",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 38,
+          "value": "airport",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "train times to new york",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 15,
+          "end": 23,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can i get a train ticket to chicago for next saturday around noon",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 28,
+          "end": 35,
+          "value": "chicago",
+          "entity": "place_name"
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "value": "saturday",
+          "entity": "date"
+        },
+        {
+          "start": 61,
+          "end": 65,
+          "value": "noon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "show me today all train times of next two hours at jodhpur to jaisalmer",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 33,
+          "end": 47,
+          "value": "next two hours",
+          "entity": "time"
+        },
+        {
+          "start": 51,
+          "end": 58,
+          "value": "jodhpur",
+          "entity": "place_name"
+        },
+        {
+          "start": 62,
+          "end": 71,
+          "value": "jaisalmer",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the timing of bagmati express",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 37,
+          "value": "bagmati express",
+          "entity": "transport_name"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2623 @@
+{
+  "userSays": [
+    {
+      "id": "ddb4ee60-fea2-47e3-ae92-078109c03b59",
+      "data": [
+        {
+          "text": "what is the last email i received"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d3636db1-2f09-4822-8e7b-6b898ddea93d",
+      "data": [
+        {
+          "text": "refresh the "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        },
+        {
+          "text": " and update about any unread mails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "29855f50-0119-4ca9-8896-fb2ff43603cb",
+      "data": [
+        {
+          "text": "check "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        },
+        {
+          "text": " for mail from "
+        },
+        {
+          "text": "sarah",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "139a8130-dbf6-47a2-b4ea-a7a24f41e4e5",
+      "data": [
+        {
+          "text": "any recent emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "00a6d426-04c6-4ce1-836b-b1ccd4d38a60",
+      "data": [
+        {
+          "text": "have i gotten any emails from "
+        },
+        {
+          "text": "mom",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": " lately"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5e9460ad-419e-460b-84cd-ccd45d864cd6",
+      "data": [
+        {
+          "text": "tell me when i get new emails from "
+        },
+        {
+          "text": "principal lowry",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fe367a57-b63b-4571-8baf-45a508690b12",
+      "data": [
+        {
+          "text": "are there any unread messages in my "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f4bbf09a-a240-4af7-a0ea-2a635d284994",
+      "data": [
+        {
+          "text": "what did the "
+        },
+        {
+          "text": "clinic",
+          "alias": "business_name",
+          "meta": "@business_name",
+          "userDefined": true
+        },
+        {
+          "text": " say about my exams"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "84c8a468-e13b-497f-89d5-fc7dc5624e5b",
+      "data": [
+        {
+          "text": "are there any unread emails from "
+        },
+        {
+          "text": "patrick",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0b12b9d4-e4be-403b-b189-2b7f6b61c07e",
+      "data": [
+        {
+          "text": "list new emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c93a33ac-62ce-4b79-afb8-14e11d3b8993",
+      "data": [
+        {
+          "text": "have i gotten any new emails from "
+        },
+        {
+          "text": "mary",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "35191217-5555-4c1a-a937-3b7ad3b69e2e",
+      "data": [
+        {
+          "text": "did "
+        },
+        {
+          "text": "bert",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " write me "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d7ee5f24-5108-451b-84c3-0b4b53457c3e",
+      "data": [
+        {
+          "text": "please check recent emails from new contact"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "035e879b-0e73-4825-8237-2029e5ff4476",
+      "data": [
+        {
+          "text": "please check if there is a new email on the "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0ab3072e-7c77-417c-908a-2de1998880ce",
+      "data": [
+        {
+          "text": "have i received any emails since "
+        },
+        {
+          "text": "noon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f4d1783c-cd13-45cb-ba2b-8082924e543b",
+      "data": [
+        {
+          "text": "read new messages from my "
+        },
+        {
+          "text": "wife",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "08cc3675-d48c-4fd7-8ed5-29d2808c3266",
+      "data": [
+        {
+          "text": "check if there any new email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c67b82f2-f2ce-4aa0-a1a1-f9fd48d048dc",
+      "data": [
+        {
+          "text": "what new emails do i have form "
+        },
+        {
+          "text": "amie",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "253108dc-ae0f-40e9-a9bc-c0a2f1e49759",
+      "data": [
+        {
+          "text": "tell me who send the email about the boss "
+        },
+        {
+          "text": "yesterday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "398f3eae-05eb-4afd-83f5-f9bf3939e33a",
+      "data": [
+        {
+          "text": "check all the new them emails and mark them star"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e23765fc-36df-4db0-9a6c-b7b24be25f45",
+      "data": [
+        {
+          "text": "can you check to see if i have any recent email alerts"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "88ce0a6f-e085-4dcd-8662-818d0820157c",
+      "data": [
+        {
+          "text": "tell me my latest email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "52bfaf98-7ebf-4a48-9b26-d52832bcf83c",
+      "data": [
+        {
+          "text": "what is the email i got from my "
+        },
+        {
+          "text": "girlfriend",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "61519422-1f28-4613-b57d-72779bc07b26",
+      "data": [
+        {
+          "text": "when did "
+        },
+        {
+          "text": "dave matthews",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " email me about the contract"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3f495e58-eada-42f3-a745-9ef992f876b4",
+      "data": [
+        {
+          "text": "look at my email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "12ad6906-d937-4b83-992a-5cf73bcdad94",
+      "data": [
+        {
+          "text": "have i received any mail in the "
+        },
+        {
+          "text": "last hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8b3b789e-1304-4338-a702-81e19c8525e8",
+      "data": [
+        {
+          "text": "do i have any new emails from my "
+        },
+        {
+          "text": "dad",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e9a8601e-9fa5-48b2-8a11-b56f2e384768",
+      "data": [
+        {
+          "text": "what was the name of my last email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "76a90e87-6e9a-43fc-bace-5fa9121caf5c",
+      "data": [
+        {
+          "text": "compile information on the data breach"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "66289065-b76b-445b-a78e-a65756cce14b",
+      "data": [
+        {
+          "text": "tell me about new emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a4bb2096-8b1e-44da-940d-0505cb9070bc",
+      "data": [
+        {
+          "text": "check for all emails from "
+        },
+        {
+          "text": "tom brady",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "25605a08-c556-4018-b648-450581d82da9",
+      "data": [
+        {
+          "text": "update my "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4b9148a1-6c12-49d2-9db9-a1f6d8c395bf",
+      "data": [
+        {
+          "text": "how many emails do i have from work "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9e3577e8-9b0f-425a-ae1b-a7e16cdb0769",
+      "data": [
+        {
+          "text": "how many emails have i got since "
+        },
+        {
+          "text": "yesterday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ce2eb4a-2f42-4263-9dbb-b132eef24b38",
+      "data": [
+        {
+          "text": "any new emails after "
+        },
+        {
+          "text": "five pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e6b00680-dda0-4ec4-bdfa-8639c365e820",
+      "data": [
+        {
+          "text": "is there anything new in my email folder"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5c3c2df9-22d0-4d21-b099-4279b0124408",
+      "data": [
+        {
+          "text": "did "
+        },
+        {
+          "text": "paul",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " email me recently"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "484f6b04-cd82-4570-a414-2a6668336e95",
+      "data": [
+        {
+          "text": "do i have any new emails from "
+        },
+        {
+          "text": "sarah",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "921076d6-347f-49ed-bb57-ac3275e06226",
+      "data": [
+        {
+          "text": "read email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b760bfa0-33d4-4340-b2ac-4ab697769130",
+      "data": [
+        {
+          "text": "please check if i got any emails from "
+        },
+        {
+          "text": "mom",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "20ee78a5-024d-48c3-9645-f22e39d68755",
+      "data": [
+        {
+          "text": "do i have any new entries in my "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7d294932-25c9-4a90-9af8-d081060f6061",
+      "data": [
+        {
+          "text": "check mails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f1e7a63-6199-48a0-9034-520e47310748",
+      "data": [
+        {
+          "text": "how is my "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        },
+        {
+          "text": " looking at the moment"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "94a7ae8a-69b1-45d7-92a5-d2f2cc7f7119",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "jane doe",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3f4e6e38-88e3-4432-9116-0c963c74d303",
+      "data": [
+        {
+          "text": "read me the last email from "
+        },
+        {
+          "text": "stefan",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " and oil change"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c0c2374f-05d1-44f5-9857-48450c056d66",
+      "data": [
+        {
+          "text": "all new mail"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "24fea57b-d0cb-4cb3-85af-21cc1bec31ed",
+      "data": [
+        {
+          "text": "inform me of my new emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "48228e43-b4b9-451d-86e2-93a7f889ade5",
+      "data": [
+        {
+          "text": "check emails for "
+        },
+        {
+          "text": "last hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "45f37666-4dda-4012-ac93-fdfdb5b83241",
+      "data": [
+        {
+          "text": "show me my emails from the "
+        },
+        {
+          "text": "past hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4c98d3f6-610f-4952-8b80-531860e04bf4",
+      "data": [
+        {
+          "text": "please check my gmail for new mail"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "46d3a76a-8ea0-46d7-8dd1-4fe148b77b51",
+      "data": [
+        {
+          "text": "scan my "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        },
+        {
+          "text": " for any new emails from "
+        },
+        {
+          "text": "robert",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "66689b8d-cc03-48d8-bc08-b4b2a5890c4c",
+      "data": [
+        {
+          "text": "did "
+        },
+        {
+          "text": "linda connors",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " reply to any of my emails this "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f59761ea-8e59-4c8d-87fe-a87af6f75a3e",
+      "data": [
+        {
+          "text": "how many emails "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b63d57bc-d9e5-435c-b6ed-d187165a8bb2",
+      "data": [
+        {
+          "text": "did "
+        },
+        {
+          "text": "mike",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " send me an email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "14d0d36f-a5bb-46ef-b853-ad59ade69591",
+      "data": [
+        {
+          "text": "have i gotten any new emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "47948e7d-0598-4d69-b0be-8a0b3b4c44dc",
+      "data": [
+        {
+          "text": "check email for otp sent by my bank"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d7cd8b23-8937-4b3e-9861-a560780f1c3a",
+      "data": [
+        {
+          "text": "did i get any replies from "
+        },
+        {
+          "text": "jan",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dadeb905-ffad-4e1b-a99a-4c9d5f0a275f",
+      "data": [
+        {
+          "text": "please alert me when "
+        },
+        {
+          "text": "john",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " emails me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e6e2db58-b42f-4f0a-95b2-6f0dd28abdbe",
+      "data": [
+        {
+          "text": "what are my new contact emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e3412365-b2da-47af-a3f3-04468a6fad03",
+      "data": [
+        {
+          "text": "check my email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eadd069b-ecc5-4b7d-b9d2-1654dc8dfe87",
+      "data": [
+        {
+          "text": "please archive my read messages"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "960eeaa6-8f0f-4b87-b8eb-d06e8f1b0a6d",
+      "data": [
+        {
+          "text": "do i have new emails from "
+        },
+        {
+          "text": "john",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "baff4dab-24c6-4297-bcb9-ae0cdde4564f",
+      "data": [
+        {
+          "text": "can you please read the my "
+        },
+        {
+          "text": "mom",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": " sent this "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "ten am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b908a17e-2b67-4440-ae00-85a91e0516c9",
+      "data": [
+        {
+          "text": "show unread new emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6b3cc340-3401-44d3-a5fb-c44a55508a82",
+      "data": [
+        {
+          "text": "is there any new email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a28feb0d-4485-4ae3-9dda-9453cc04da69",
+      "data": [
+        {
+          "text": "Has "
+        },
+        {
+          "text": "john",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " sent me any new emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fcd9b315-0c06-4c40-98b7-70c79a68c82e",
+      "data": [
+        {
+          "text": "has "
+        },
+        {
+          "text": "tom",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " emailed me about ammunition"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "57810315-dffd-4e03-b65c-e6c116475f00",
+      "data": [
+        {
+          "text": "can you see if "
+        },
+        {
+          "text": "john",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " has replied to my email yet"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f82ebfe5-adec-4417-aee4-4c98ee627744",
+      "data": [
+        {
+          "text": "what is my recent email activity"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "06655d26-a29f-4e01-ab22-24a15ca2155a",
+      "data": [
+        {
+          "text": "can you tell me my recent emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "956b3529-5d0d-401a-bc56-d293042a6a4f",
+      "data": [
+        {
+          "text": "check someone's recent emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1c392b25-a8f5-4fea-adc6-79ea3272106a",
+      "data": [
+        {
+          "text": "what is my email from "
+        },
+        {
+          "text": "steve",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " about"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7290bb5a-d524-4442-a90f-4c647b31f2e0",
+      "data": [
+        {
+          "text": "how many new emails since i last checked"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7a8e06f6-1fd2-45a9-aa2d-e2b705bfa16e",
+      "data": [
+        {
+          "text": "update me on my emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4fd87b1a-8dab-47ef-a9cd-955863db06c8",
+      "data": [
+        {
+          "text": "please tell me how many emails i have"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c0a57e51-99ba-410b-8763-c7caecbcaebd",
+      "data": [
+        {
+          "text": "did "
+        },
+        {
+          "text": "dan",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " send me any emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "35ce1a3b-3795-49a9-9d30-ab2f578cc09b",
+      "data": [
+        {
+          "text": "check all new emails in my "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7976d06-dfde-4431-b6e0-e4a7a8846386",
+      "data": [
+        {
+          "text": "any incoming emails in the "
+        },
+        {
+          "text": "last five minutes",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c1ab0da5-edf6-4ad3-b911-6ad2d0a6ec72",
+      "data": [
+        {
+          "text": "read me new emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6b608ff9-3db7-4b17-b061-3a5e6878be84",
+      "data": [
+        {
+          "text": "any new emails for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "beddfc45-b966-48e6-9788-8ad1ab923e77",
+      "data": [
+        {
+          "text": "what is the email sent by this contact read"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "16dd0257-1a42-4c9f-adad-b1c8a963b2aa",
+      "data": [
+        {
+          "text": "hey do i have any emails from "
+        },
+        {
+          "text": "bob",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " about the bulldog"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bbfc6ba0-e6d3-479a-80f4-77d6d41fadc4",
+      "data": [
+        {
+          "text": "did my "
+        },
+        {
+          "text": "mom",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": " send me an email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b0c91a36-690f-4b4f-a23f-efd196b7c31b",
+      "data": [
+        {
+          "text": "read me new messages from name"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6ee5e7b7-f178-4064-a7c8-e93c35e821b3",
+      "data": [
+        {
+          "text": "do i have a new email from "
+        },
+        {
+          "text": "eric",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fba2ea53-49c8-479c-aedc-1af65a8ad190",
+      "data": [
+        {
+          "text": "any important notifications"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3a7f3f55-02ba-4d73-9238-5aec63a7a5d3",
+      "data": [
+        {
+          "text": "check email client"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8d95f9e0-63ca-4f39-86f4-b0f4d0e79f35",
+      "data": [
+        {
+          "text": "please check email from my "
+        },
+        {
+          "text": "boss",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "23281adf-93f8-44df-806f-265afd4134f0",
+      "data": [
+        {
+          "text": "let me know of any incoming emails for the "
+        },
+        {
+          "text": "last hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bded5695-2539-4989-98fe-7567ce9f0703",
+      "data": [
+        {
+          "text": "have i received any emails from "
+        },
+        {
+          "text": "my father",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f77a3b0d-21d4-4b75-afc5-12defeb64b3f",
+      "data": [
+        {
+          "text": "new messages"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "077f8041-694e-4f82-a6c4-5e42b6b5c7ca",
+      "data": [
+        {
+          "text": "what is the latest email from "
+        },
+        {
+          "text": "zita",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4cac2f68-c9ae-44cb-b948-71aee77fc2b5",
+      "data": [
+        {
+          "text": "are there any new emails from "
+        },
+        {
+          "text": "robert jones",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4b059fdd-291f-42a4-978d-1edfdda74de3",
+      "data": [
+        {
+          "text": "is there any new mail for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c01a1546-6be3-4b32-b533-d7c2497d2035",
+      "data": [
+        {
+          "text": "beep when i get an email from "
+        },
+        {
+          "text": "john",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dfd92630-99d8-4b01-97c4-6c7d50a135b1",
+      "data": [
+        {
+          "text": "do i have any emails from "
+        },
+        {
+          "text": "katherine",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "811a2e72-b8a5-4281-a767-9e25f1018dd2",
+      "data": [
+        {
+          "text": "did i get an email from "
+        },
+        {
+          "text": "sarah",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "067f2265-0947-4ee8-9ded-8fa23a4267bc",
+      "data": [
+        {
+          "text": "display latest emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "031be7a4-c642-433a-a1b0-4d9c5518f215",
+      "data": [
+        {
+          "text": "please read the last email for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b387d4fd-9fc0-4b99-810d-44ce58ac8f68",
+      "data": [
+        {
+          "text": "are there any new emails in outlook"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2a4bc5aa-c9cd-4097-ad47-90a4b4d83266",
+      "data": [
+        {
+          "text": "do i have any new email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e01bf0f2-8905-42b8-9351-2b969a668431",
+      "data": [
+        {
+          "text": "please check new email from "
+        },
+        {
+          "text": "andy",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2e078aff-b131-4eeb-8e05-b8eee30a8fdd",
+      "data": [
+        {
+          "text": "did "
+        },
+        {
+          "text": "trey",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " sand any messages"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d8298998-bcde-4449-ba77-4ee34dfc0324",
+      "data": [
+        {
+          "text": "who was the last person to email me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8a55c680-f676-439c-83d9-99cb4218bc6c",
+      "data": [
+        {
+          "text": "hey read any email to me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c9034fbf-b569-49a7-ae29-9d6a45ab4653",
+      "data": [
+        {
+          "text": "do i have any mail"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dc851012-a66d-4565-95bd-6b495f54c74c",
+      "data": [
+        {
+          "text": "are there any recent emails from "
+        },
+        {
+          "text": "rohit",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f4e7af18-10a4-4381-a538-0f2d3ba93fe9",
+      "data": [
+        {
+          "text": "please check all new email of "
+        },
+        {
+          "text": "income tax department",
+          "alias": "business_name",
+          "meta": "@business_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "445e550a-ddeb-402a-8666-8d98a1b0a96e",
+      "data": [
+        {
+          "text": "find my email for date"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "db0e1750-39ae-4e56-838b-28cde9d64a21",
+      "data": [
+        {
+          "text": "did you receive this person email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "47f9b05a-57f8-470b-beb8-26863d2ca6bc",
+      "data": [
+        {
+          "text": "did i email "
+        },
+        {
+          "text": "tom",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " on the subject of gun control"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f5d73c8f-f7e3-4781-aa4a-db261cb345d0",
+      "data": [
+        {
+          "text": "have i received any emails about "
+        },
+        {
+          "text": "jared",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": "'s "
+        },
+        {
+          "text": "birthday",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "af4b4d3a-abf4-44f7-87b7-061662aefad1",
+      "data": [
+        {
+          "text": "what and who was i emailed about "
+        },
+        {
+          "text": "last week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a7b2ff39-b109-4be7-9289-fcaf9f386a43",
+      "data": [
+        {
+          "text": "do have any new email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "56fb992f-5a4c-4bc8-9706-3015cf5823f2",
+      "data": [
+        {
+          "text": "are there any new emails received "
+        },
+        {
+          "text": "after four",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " o'clock "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0da8b61d-8a2e-4f87-9b29-9d88af5b0abd",
+      "data": [
+        {
+          "text": "find new email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9980120a-94e1-4d4b-b2ce-8af4da1dbd85",
+      "data": [
+        {
+          "text": "any new email since last time"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "341a24cd-408d-4607-a862-ad19046c0fe3",
+      "data": [
+        {
+          "text": "are there any emails i haven't read yet"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f780a279-6e0b-42a8-81e4-1e596b04c963",
+      "data": [
+        {
+          "text": "check for new emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c2637242-918f-4a2a-8fb9-c6271fd38d66",
+      "data": [
+        {
+          "text": "did i get an email from "
+        },
+        {
+          "text": "jen",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "last night",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d31daa59-80df-4e28-9ec2-41f73909393d",
+      "data": [
+        {
+          "text": "did i receive any new email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9500274b-2bc5-4ecf-b914-20167ba898ff",
+      "data": [
+        {
+          "text": "please check whether the email of "
+        },
+        {
+          "text": "jancy",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " has come"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a0043b9c-4cdb-4e92-abd2-b92f47b12f93",
+      "data": [
+        {
+          "text": "do i have any emails from "
+        },
+        {
+          "text": "robert",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fa922af5-4520-4173-9003-5f7d9ae28d91",
+      "data": [
+        {
+          "text": "has any mail received with an attachment"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7a73a0f0-6591-4062-b809-e2d9cbbfda82",
+      "data": [
+        {
+          "text": "check to see if my "
+        },
+        {
+          "text": "mom",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": " sent me any emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8cfd77c5-0f01-447b-b1e9-a859121a33f1",
+      "data": [
+        {
+          "text": "check any mail from "
+        },
+        {
+          "text": "amazon",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "803d6a18-cc69-4ddb-909b-217bd88956d5",
+      "data": [
+        {
+          "text": "have any emails come in since "
+        },
+        {
+          "text": "four hundred",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "db363d93-8301-4063-a89e-d169d459f9b8",
+      "data": [
+        {
+          "text": "is the mail from "
+        },
+        {
+          "text": "chris",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " about work"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c86c8481-0e28-4732-bc49-abfb045b6458",
+      "data": [
+        {
+          "text": "who's emailed me recently"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e7261d80-8dfb-48ba-a925-a733dda0ce41",
+      "data": [
+        {
+          "text": "please send a notification when "
+        },
+        {
+          "text": "john",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " replies"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fcdb21f4-3f45-4f96-9ea5-4de3cf6fd5f6",
+      "data": [
+        {
+          "text": "do i have a new email from "
+        },
+        {
+          "text": "sandy",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f39e9081-3ae9-46e8-a756-ddc902762a53",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "jane doe",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ee3bc0b2-c23d-4d2a-9271-8e3197b9f508",
+      "data": [
+        {
+          "text": "display recent email from "
+        },
+        {
+          "text": "john",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ae5342ae-e2d6-47bc-93d0-11582485391a",
+      "data": [
+        {
+          "text": "initiate polling for new email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4f321542-33c4-4615-bae1-9738cefd774c",
+      "data": [
+        {
+          "text": "show me the latest emails from "
+        },
+        {
+          "text": "amazon",
+          "alias": "business_name",
+          "meta": "@business_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "40696c86-88ff-46b3-9501-194ffb2c7fbd",
+      "data": [
+        {
+          "text": "hey check emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4d9942df-08e4-42cf-a48b-7dc04f5e985d",
+      "data": [
+        {
+          "text": "do i have email from my "
+        },
+        {
+          "text": "friend",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "rachel",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "239d7db0-7c08-4be7-8e41-3d171c3e0c44",
+      "data": [
+        {
+          "text": "how many emails do i have in the last "
+        },
+        {
+          "text": "fifteen minutes",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7e56a158-a67b-4ff7-b0d9-3a09c797ecb1",
+      "data": [
+        {
+          "text": "have i gotten any emails lately"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7f0624a8-4dd6-498b-a585-edc33920cad4",
+      "data": [
+        {
+          "text": "has "
+        },
+        {
+          "text": "amy",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " sent me any new emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "23a72e60-154d-4674-ace8-533feea44d6a",
+      "data": [
+        {
+          "text": "do i have any new emails from "
+        },
+        {
+          "text": "dan",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "62ada95a-dc84-4c91-9d66-1c764ced8c1a",
+      "data": [
+        {
+          "text": "read unchecked email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e2c0831d-cb57-4701-9f8c-fe42f2eb27bf",
+      "data": [
+        {
+          "text": "update on email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f2291d94-f9e1-499a-9126-bae41b45e248",
+      "data": [
+        {
+          "text": "what were the first number of email subjects i got "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "37e6d791-5c95-42a6-9a30-e9429e86ec28",
+      "data": [
+        {
+          "text": "what new messages do i have"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "572456ed-21f6-4be6-8d48-7eba9885bfab",
+      "data": [
+        {
+          "text": "play back the last message"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "38c6170b-ef6e-4b6b-8bbd-c1bf4d0b88fb",
+      "data": [
+        {
+          "text": "what are my newest emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "64ddd878-bc0a-4741-a743-844af94c449c",
+      "data": [
+        {
+          "text": "open email for unread mails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "795d3c24-18f5-414d-be0f-6ae55c8dc154",
+      "data": [
+        {
+          "text": "are any of my new emails from "
+        },
+        {
+          "text": "amy",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f43309cf-6c4d-45a9-943d-f5ebaa8570a6",
+      "data": [
+        {
+          "text": "which new emails were received"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4da6413f-4f13-4f79-af2d-3a21c4960533",
+      "data": [
+        {
+          "text": "show me the email of "
+        },
+        {
+          "text": "jack",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cc206b29-cb50-4ef8-941b-57eba35b8907",
+      "data": [
+        {
+          "text": "list all emails with subject contract"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba2ef7f3-0fba-4446-b383-1dadd1bb5b1a",
+      "data": [
+        {
+          "text": "did i receive any email in the "
+        },
+        {
+          "text": "past hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5ea494b3-6ba4-4bf6-b682-75a2c54c0140",
+      "data": [
+        {
+          "text": "what are the subject line and sender from "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s email "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d4582c8c-9f26-4748-87a2-12237ad20f03",
+      "data": [
+        {
+          "text": "would you go check my emails for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e593069b-1c63-4543-8b3e-8919ee2767ec",
+      "data": [
+        {
+          "text": "open "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "80a0a9a4-e0ea-4ed3-88e9-943a75943016",
+      "data": [
+        {
+          "text": "show all emails regarding the breach"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bc64a6fa-b769-413d-9dbb-3d29c9255fa2",
+      "data": [
+        {
+          "text": "show me emails from my "
+        },
+        {
+          "text": "friends",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c87892ac-0c08-4e1d-ae16-6db7c7a18bce",
+      "data": [
+        {
+          "text": "have i received any emails from "
+        },
+        {
+          "text": "beth",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3e2ced41-d1b4-4283-8d0f-33f8ef981e19",
+      "data": [
+        {
+          "text": "refresh my "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        },
+        {
+          "text": " and inform me about new emails"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e5c01722-5655-46a4-91d6-c9e04006e151",
+      "data": [
+        {
+          "text": "do i have an email from person a"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5850108f-6cd9-49e5-8653-58b24cb9ab48",
+      "data": [
+        {
+          "text": "get contact"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "350c8c53-2792-4aa3-8410-7adac1924fd3",
+      "data": [
+        {
+          "text": "i need to see if i got any new email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bb3c577c-d70a-49fc-9d8d-49e086f5cf63",
+      "data": [
+        {
+          "text": "have i got any new email from my "
+        },
+        {
+          "text": "company",
+          "alias": "relation",
+          "meta": "@relation",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "377220d0-aa2e-4dd5-8774-2b1111119028",
+      "data": [
+        {
+          "text": "did i get an email from "
+        },
+        {
+          "text": "mike",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6b6250e4-7aa6-49a7-8480-a66c4ba98b39",
+      "data": [
+        {
+          "text": "check email from "
+        },
+        {
+          "text": "john",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "69b0f575-358e-4aa4-8e3f-535326aea1d3",
+      "data": [
+        {
+          "text": "do i have any new emails in my "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2d80c635-ea74-4f56-b2f6-808eb9fb0851",
+      "data": [
+        {
+          "text": "give a last minute update on incoming emails please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6fdf4f37-fcf1-4dc5-b068-8e6f86280bef",
+      "data": [
+        {
+          "text": "Check outlook"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "99cea43c-ea4c-4d14-beed-39ca021cdbb1",
+      "data": [
+        {
+          "text": "are there new emails for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "121773e3-058f-4d13-ae59-d74a73e1c2ab",
+      "data": [
+        {
+          "text": "check by "
+        },
+        {
+          "text": "inbox",
+          "alias": "email_folder",
+          "meta": "@email_folder",
+          "userDefined": true
+        },
+        {
+          "text": " for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5ff71ff5-face-4a5c-8008-b02023dfd5a1",
+      "data": [
+        {
+          "text": "check my email messages"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c769c88d-c593-406e-b940-2b1d0a20ab3d",
+      "data": [
+        {
+          "text": "has "
+        },
+        {
+          "text": "mike",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " sent me an email"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "11c408a0-caca-48c2-ae7c-993c776073c5",
+      "data": [
+        {
+          "text": "check emails from "
+        },
+        {
+          "text": "gary",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "last hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3a3440a0-c9fd-445a-b2e7-248013d3894d",
+      "data": [
+        {
+          "text": "pull up all emails sent to me from "
+        },
+        {
+          "text": "amazon",
+          "alias": "business_name",
+          "meta": "@business_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "51d6c8ad-726f-45df-8368-9283cc6bb390",
+  "name": "email_query",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@business_name",
+          "name": "business_name",
+          "value": "$business_name"
+        },
+        {
+          "dataType": "@date",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "dataType": "@email_folder",
+          "name": "email_folder",
+          "value": "$email_folder"
+        },
+        {
+          "dataType": "@event_name",
+          "name": "event_name",
+          "value": "$event_name"
+        },
+        {
+          "dataType": "@person",
+          "name": "person",
+          "value": "$person"
+        },
+        {
+          "dataType": "@relation",
+          "name": "relation",
+          "value": "$relation"
+        },
+        {
+          "dataType": "@time",
+          "name": "time",
+          "value": "$time"
+        },
+        {
+          "dataType": "@timeofday",
+          "name": "timeofday",
+          "value": "$timeofday"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

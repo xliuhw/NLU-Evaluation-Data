@@ -1,0 +1,100 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "turn the smart plug on",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 9,
+          "end": 19,
+          "value": "smart plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on the tv socket when i arrive home",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 12,
+          "end": 14,
+          "value": "tv",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "enable my plug",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "wemo plug socket on",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 0,
+          "end": 16,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on my son's room plug socket on off",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 11,
+          "end": 14,
+          "value": "son",
+          "entity": "relation"
+        },
+        {
+          "start": 17,
+          "end": 21,
+          "value": "room",
+          "entity": "house_place"
+        },
+        {
+          "start": 22,
+          "end": 26,
+          "value": "plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please turn on the wemo plug socket",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 19,
+          "end": 35,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on the light socket",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 12,
+          "end": 24,
+          "value": "light socket",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

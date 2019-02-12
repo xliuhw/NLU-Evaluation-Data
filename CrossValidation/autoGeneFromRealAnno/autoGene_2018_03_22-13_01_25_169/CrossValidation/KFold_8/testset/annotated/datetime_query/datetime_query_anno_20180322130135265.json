@@ -1,0 +1,253 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "tell me current time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "can you tell me the time at san francisco",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 41,
+          "value": "san francisco",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "may twenty two is my birthdate and i want to know the what day is twenty third may",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 14,
+          "value": "may twenty two",
+          "entity": "date"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "value": "birthdate",
+          "entity": "event_name"
+        },
+        {
+          "start": 66,
+          "end": 82,
+          "value": "twenty third may",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "report the time in miami",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "miami",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "whats the time now",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what is the current time in lagos nigeria",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 41,
+          "value": "lagos nigeria",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when is the third monday of this month",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 38,
+          "value": "the third monday of this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's today date",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please give me the time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what is today's day",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "today is monday is it",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 9,
+          "end": 15,
+          "value": "monday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what day of the week does the twenty second fall on this month",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 43,
+          "value": "twenty second",
+          "entity": "date"
+        },
+        {
+          "start": 52,
+          "end": 62,
+          "value": "this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the date and month today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the date for next tuesday",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 33,
+          "value": "tuesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what time is it on the east coast of the united states",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 33,
+          "value": "east coast",
+          "entity": "time_zone"
+        },
+        {
+          "start": 41,
+          "end": 54,
+          "value": "united states",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what time is it in england",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 26,
+          "value": "england",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the current time in san paulo brazil",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 37,
+          "value": "san paulo",
+          "entity": "place_name"
+        },
+        {
+          "start": 38,
+          "end": 44,
+          "value": "brazil",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the time in canada now",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "canada",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "date in new york",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "date",
+          "entity": "date"
+        },
+        {
+          "start": 8,
+          "end": 16,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

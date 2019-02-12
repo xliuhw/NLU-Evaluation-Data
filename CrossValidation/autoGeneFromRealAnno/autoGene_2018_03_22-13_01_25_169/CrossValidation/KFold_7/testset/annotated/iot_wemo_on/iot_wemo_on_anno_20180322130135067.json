@@ -1,0 +1,87 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "turn my bathroom plug socket on",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "bathroom",
+          "entity": "house_place"
+        },
+        {
+          "start": 17,
+          "end": 21,
+          "value": "plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "activate the wemo plug socket",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 13,
+          "end": 29,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please turn on wemo socket",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 15,
+          "end": 26,
+          "value": "wemo socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "can you turn on the wemo plug socket",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 20,
+          "end": 36,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please turn on my smart plug socket",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 18,
+          "end": 35,
+          "value": "smart plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "if switch is on then turn on else turn off",
+      "intent": "iot_wemo_on",
+      "entities": []
+    },
+    {
+      "text": "turn on the wemo plug",
+      "intent": "iot_wemo_on",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "wemo plug",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

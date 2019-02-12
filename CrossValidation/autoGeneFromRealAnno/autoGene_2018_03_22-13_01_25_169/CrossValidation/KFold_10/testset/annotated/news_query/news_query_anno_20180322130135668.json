@@ -1,0 +1,250 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "notification regarding the new iphone release update",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 52,
+          "value": "new iphone release update",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "get news from bbc",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 17,
+          "value": "bbc",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "iphone",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "iphone",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what's going on in the world these days",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 28,
+          "value": "world",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "i want to read yahoo news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 25,
+          "value": "yahoo news",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "headlines from dhaka tribune",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 28,
+          "value": "dhaka tribune",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the headline from today's morning local news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 34,
+          "end": 52,
+          "value": "morning local news",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "get me the latest news in new york",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 34,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what are the news stories on the cnn website",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 36,
+          "value": "cnn",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "latest news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "olly please read me today's news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is trending in tech today",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "give me the headline news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "get me fresh news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "please share up to the minute details on sprint",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 41,
+          "end": 47,
+          "value": "sprint",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "any recent news about north korea",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 33,
+          "value": "north korea",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell the latest news about the trump",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 36,
+          "value": "trump",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "tell me updates",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "is india win today cricket match",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 32,
+          "value": "india win today cricket match",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "automobiles",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "is snap doing good after the ipo",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 7,
+          "value": "snap",
+          "entity": "news_topic"
+        },
+        {
+          "start": 29,
+          "end": 32,
+          "value": "ipo",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "can you search trump",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "trump",
+          "entity": "news_topic"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+"project": "FinalNormMainV1",
+"fixed_model_name": "model_KFold_3_spacy_sklearn_2018_03_22-13_01_25_169",
+"pipeline": ["nlp_spacy", "tokenizer_spacy", "intent_entity_featurizer_regex", "intent_featurizer_spacy", "ner_crf", "ner_synonyms",  "intent_classifier_sklearn"],
+"num_threads": 4,
+"path" : "./trained_models",
+"data": "./preprocessResults/out4RasaReal/rasa_json_2018_03_22-13_01_25_169_80Train/CrossValidation/KFold_3/merged/RasaNlu_Merged_KFold_3_2018_03_22-13_01_25_169.json"
+}

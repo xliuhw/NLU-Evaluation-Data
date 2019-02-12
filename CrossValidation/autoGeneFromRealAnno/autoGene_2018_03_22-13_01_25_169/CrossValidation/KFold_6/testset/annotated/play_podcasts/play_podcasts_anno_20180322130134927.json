@@ -1,0 +1,200 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please play a podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "skip to next",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "skip",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "start podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "please go to the next episode of the podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 17,
+          "end": 29,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "start the gilmore guys",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 10,
+          "end": 22,
+          "value": "gilmore guys",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "play the most recent podcast for this american life",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 9,
+          "end": 28,
+          "value": "most recent podcast",
+          "entity": "podcast_descriptor"
+        },
+        {
+          "start": 38,
+          "end": 51,
+          "value": "american life",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "play the next show on podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "next show",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "start the podcast i was last listening to",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "please play next episode of bbc history podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 12,
+          "end": 24,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        },
+        {
+          "start": 28,
+          "end": 39,
+          "value": "bbc history",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "play current episode",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "plays the podcast from the beginning",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "play podcast a",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 13,
+          "end": 14,
+          "value": "a",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "can you find the dave ramsey podcast that aired earlier today",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 17,
+          "end": 28,
+          "value": "dave ramsey",
+          "entity": "person"
+        },
+        {
+          "start": 56,
+          "end": 61,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "hey play my favourite podcast from list",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "favourite",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play the next episode of radiolab",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 9,
+          "end": 21,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        },
+        {
+          "start": 25,
+          "end": 33,
+          "value": "radiolab",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "please play podcasts on science",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "science",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "play my favourite podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "play the next recording",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "back one episode",
+      "intent": "play_podcasts",
+      "entities": []
+    }
+  ]
+}

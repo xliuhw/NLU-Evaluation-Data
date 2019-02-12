@@ -1,0 +1,99 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "tell me random joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "random",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "find me a joke related to baseball",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 26,
+          "end": 34,
+          "value": "baseball",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "i need to be cheered up right now can you tell me a good joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 52,
+          "end": 56,
+          "value": "good",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "today's jokes",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do you have a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "look for a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "do you know what a joke is",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "i want a nerd joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "nerd",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "what about this joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "have any jokes",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "joke please",
+      "intent": "general_joke",
+      "entities": []
+    }
+  ]
+}

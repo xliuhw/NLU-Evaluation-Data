@@ -1,0 +1,204 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please tell me the date",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "date today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the time in geneva",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "geneva",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "let me know the time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "new york time please",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the time difference between here and dakar",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 45,
+          "end": 50,
+          "value": "dakar",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "let me know the time in india",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 29,
+          "value": "india",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the time in this time zone",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 34,
+          "value": "this time zone",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "which date is on next monday",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 28,
+          "value": "monday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "tell me what time it is in dallas texas",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 39,
+          "value": "dallas texas",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what time is it in the other time zones",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 39,
+          "value": "other time zones",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "hey what's the current time in austin",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 37,
+          "value": "austin",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "hey what is the time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "could you tell me what time it is",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what day of the week does the next holiday fall on",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 42,
+          "value": "next holiday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "august fifteenth is what day of the week",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 16,
+          "value": "august fifteenth",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me the date today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "hey what's today's date",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

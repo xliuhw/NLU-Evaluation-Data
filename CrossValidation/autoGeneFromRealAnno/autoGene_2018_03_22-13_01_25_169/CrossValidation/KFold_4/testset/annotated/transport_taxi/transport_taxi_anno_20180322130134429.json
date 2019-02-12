@@ -1,0 +1,292 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i need a taxi at eight tomorrow morning to take me to work",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 17,
+          "end": 22,
+          "value": "eight",
+          "entity": "time"
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "i need to book a taxi",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "set up uber",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "what's the closest taxi to me",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 19,
+          "end": 23,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "need a taxi for my travel",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book my nearest available taxi",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 26,
+          "end": 30,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "where is the closest uber",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 21,
+          "end": 25,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "call a uber in thirty minutes",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "uber",
+          "entity": "transport_agency"
+        },
+        {
+          "start": 15,
+          "end": 29,
+          "value": "thirty minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "get city cab here to airport",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 9,
+          "end": 12,
+          "value": "cab",
+          "entity": "transport_type"
+        },
+        {
+          "start": 21,
+          "end": 28,
+          "value": "airport",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book a rental cab of uber",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 17,
+          "value": "rental cab",
+          "entity": "transport_type"
+        },
+        {
+          "start": 21,
+          "end": 25,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "uber please",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "tell taxi to pick me up at four pm",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 27,
+          "end": 34,
+          "value": "four pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "can you call an uber for me",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "find a taxi for me",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book a taxi at my home address for right now",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book a taxi for me",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book uber taxi for my travel",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "uber",
+          "entity": "transport_agency"
+        },
+        {
+          "start": 10,
+          "end": 14,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book ola for airport today evening",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "ola",
+          "entity": "transport_agency"
+        },
+        {
+          "start": 13,
+          "end": 20,
+          "value": "airport",
+          "entity": "place_name"
+        },
+        {
+          "start": 21,
+          "end": 26,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 27,
+          "end": 34,
+          "value": "evening",
+          "entity": "timeofday"
+        }
+      ]
+    }
+  ]
+}

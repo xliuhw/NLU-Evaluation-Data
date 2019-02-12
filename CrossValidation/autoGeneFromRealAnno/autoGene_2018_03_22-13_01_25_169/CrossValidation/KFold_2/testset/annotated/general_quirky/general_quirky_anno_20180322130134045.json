@@ -1,0 +1,147 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i had a relaxing day today",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i want a not only to direct me to an internet site but actually answer any given question",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "can you feel",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "have a anyinput day",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "tell me about economy and gdp about india versus china",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 36,
+          "end": 41,
+          "value": "india",
+          "entity": "place_name"
+        },
+        {
+          "start": 49,
+          "end": 54,
+          "value": "china",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the best chocolate chip cookie recipe",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "is it true the hanging tree really had someone hung from it",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i am happy",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "nightime",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "nice to meet you",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what is the best method to decide what the best thing to do isre",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "how can i make your day a little better",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "can you explain string theory to me",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what do you think i should have for breakfast",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 36,
+          "end": 45,
+          "value": "breakfast",
+          "entity": "meal_type"
+        }
+      ]
+    },
+    {
+      "text": "i really enjoyed sunny day today",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "when i want it to take down notes",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what rihanna is doing",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "rihanna",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "famous person biographies",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i hate how long the traffic jams get",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "long",
+          "entity": "time"
+        }
+      ]
+    }
+  ]
+}

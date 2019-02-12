@@ -1,0 +1,284 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "open the profile of allen from my contact",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "profile",
+          "entity": "personal_info"
+        },
+        {
+          "start": 20,
+          "end": 25,
+          "value": "allen",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell me the area code for jen k",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "area code",
+          "entity": "personal_info"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "value": "jen k",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "will you look up joe's contact information for me",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 17,
+          "end": 20,
+          "value": "joe",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "read about mary s.",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "mary s.",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "is alex saved in my contacts list",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 3,
+          "end": 7,
+          "value": "alex",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is mary s.'s phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "mary s.",
+          "entity": "person"
+        },
+        {
+          "start": 18,
+          "end": 30,
+          "value": "phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "are my contacts mostly female or male",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "search jack in contacts",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "jack",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "is bills pager number in my contacts",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 3,
+          "end": 8,
+          "value": "bills",
+          "entity": "person"
+        },
+        {
+          "start": 9,
+          "end": 21,
+          "value": "pager number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "tell me mary's cell number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "mary",
+          "entity": "person"
+        },
+        {
+          "start": 15,
+          "end": 26,
+          "value": "cell number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "what is derek's phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "derek",
+          "entity": "person"
+        },
+        {
+          "start": 16,
+          "end": 28,
+          "value": "phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "help me call james",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "james",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is the home phone number of mark",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 12,
+          "end": 29,
+          "value": "home phone number",
+          "entity": "personal_info"
+        },
+        {
+          "start": 33,
+          "end": 37,
+          "value": "mark",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how many contacts do i have in my phone book",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 34,
+          "end": 44,
+          "value": "phone book",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me joe joe's home address",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "joe joe",
+          "entity": "person"
+        },
+        {
+          "start": 18,
+          "end": 30,
+          "value": "home address",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "check for this mail in my contact if not then add it",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "do i have a home number for shelly",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 12,
+          "end": 23,
+          "value": "home number",
+          "entity": "personal_info"
+        },
+        {
+          "start": 28,
+          "end": 34,
+          "value": "shelly",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please find a contact number of jayesh and tell me",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 22,
+          "end": 28,
+          "value": "number",
+          "entity": "personal_info"
+        },
+        {
+          "start": 32,
+          "end": 38,
+          "value": "jayesh",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how do i reach sarah",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "reach",
+          "entity": "personal_info"
+        },
+        {
+          "start": 15,
+          "end": 20,
+          "value": "sarah",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

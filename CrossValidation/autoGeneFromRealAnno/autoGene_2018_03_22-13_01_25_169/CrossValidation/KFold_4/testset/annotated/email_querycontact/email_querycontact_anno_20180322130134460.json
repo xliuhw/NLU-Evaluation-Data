@@ -1,0 +1,259 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "open contacts and call john smith",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 23,
+          "end": 33,
+          "value": "john smith",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "can you provide me with the contact information assigned to this person",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "open derek's contact information",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "derek",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how many phone numbers do i have for brenden",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 9,
+          "end": 22,
+          "value": "phone numbers",
+          "entity": "personal_info"
+        },
+        {
+          "start": 37,
+          "end": 44,
+          "value": "brenden",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "is there a way to pull up information about a contact",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "find john smith from alabama",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "john smith",
+          "entity": "person"
+        },
+        {
+          "start": 21,
+          "end": 28,
+          "value": "alabama",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "open contacts and find john smith",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 23,
+          "end": 33,
+          "value": "john smith",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "show me derek's contact information",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "derek",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what's june's address nowadays",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "june",
+          "entity": "person"
+        },
+        {
+          "start": 14,
+          "end": 21,
+          "value": "address",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "where seth lives",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 6,
+          "end": 10,
+          "value": "seth",
+          "entity": "person"
+        },
+        {
+          "start": 11,
+          "end": 16,
+          "value": "lives",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "find my wife",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "wife",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "where does tar work currently",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 14,
+          "value": "tar",
+          "entity": "person"
+        },
+        {
+          "start": 15,
+          "end": 19,
+          "value": "work",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "give me the details of friend",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "is there email id of john in the list",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 9,
+          "end": 17,
+          "value": "email id",
+          "entity": "personal_info"
+        },
+        {
+          "start": 21,
+          "end": 25,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "fetch me the phone number of Alexander",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 13,
+          "end": 25,
+          "value": "phone number",
+          "entity": "personal_info"
+        },
+        {
+          "start": 29,
+          "end": 38,
+          "value": "Alexander",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is jimmy johns's corporate number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 19,
+          "value": "jimmy johns",
+          "entity": "person"
+        },
+        {
+          "start": 22,
+          "end": 38,
+          "value": "corporate number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "open the contact named john",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 23,
+          "end": 27,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "locate information on john smith about his work location",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 22,
+          "end": 32,
+          "value": "john smith",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please delete the contacts that i havent spoken to in three of months",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 54,
+          "end": 69,
+          "value": "three of months",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play fishing podcasts that are favorited",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "play podcast for the philadelphia eagles content",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 21,
+          "end": 48,
+          "value": "philadelphia eagles content",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "play me the new podcast from npr",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 29,
+          "end": 32,
+          "value": "npr",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "keep playing the episodes in order",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "keep playing",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "play next episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play my play list",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 8,
+          "end": 17,
+          "value": "play list",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play favorites listed in podcasts starting with first one",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "play previous episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 5,
+          "end": 21,
+          "value": "previous episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play my favourite podcasts",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "get the next episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 8,
+          "end": 20,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "please start the next podcast episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 17,
+          "end": 37,
+          "value": "next podcast episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "please play next episode of podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "show me podcasts",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "can you play back to december",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "december",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can you please download my podcast file available in internet and play it once",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "skip this episode",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "skip this one",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "skip",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "what are my top played podcasts",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "go back to previous episode of podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 11,
+          "end": 27,
+          "value": "previous episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    }
+  ]
+}

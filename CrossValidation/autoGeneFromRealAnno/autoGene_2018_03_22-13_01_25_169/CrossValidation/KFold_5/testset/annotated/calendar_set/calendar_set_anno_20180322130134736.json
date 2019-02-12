@@ -1,0 +1,351 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "put a seven pm meeting time down for march fourteenth",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 6,
+          "end": 14,
+          "value": "seven pm",
+          "entity": "time"
+        },
+        {
+          "start": 15,
+          "end": 22,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 37,
+          "end": 53,
+          "value": "march fourteenth",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remember dinner on thursday at bistro italia",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "dinner",
+          "entity": "meal_type"
+        },
+        {
+          "start": 19,
+          "end": 27,
+          "value": "thursday",
+          "entity": "date"
+        },
+        {
+          "start": 31,
+          "end": 44,
+          "value": "bistro italia",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "remind me after a month",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "in the following week repeat this event at ten am every day",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 7,
+          "end": 21,
+          "value": "following week",
+          "entity": "time"
+        },
+        {
+          "start": 43,
+          "end": 49,
+          "value": "ten am",
+          "entity": "time"
+        },
+        {
+          "start": 50,
+          "end": 59,
+          "value": "every day",
+          "entity": "general_frequency"
+        }
+      ]
+    },
+    {
+      "text": "can you notify the event in my calendar",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "add event baseball practice five pm tonight",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 10,
+          "end": 27,
+          "value": "baseball practice",
+          "entity": "event_name"
+        },
+        {
+          "start": 28,
+          "end": 35,
+          "value": "five pm",
+          "entity": "time"
+        },
+        {
+          "start": 36,
+          "end": 43,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "remind me of my twelve oclock meeting by eleven thirty",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "twelve",
+          "entity": "time"
+        },
+        {
+          "start": 30,
+          "end": 37,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "calendar event send invite bill malinda",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 27,
+          "end": 39,
+          "value": "bill malinda",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "add dentist appointment for friday at five",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 4,
+          "end": 23,
+          "value": "dentist appointment",
+          "entity": "event_name"
+        },
+        {
+          "start": 28,
+          "end": 34,
+          "value": "friday",
+          "entity": "date"
+        },
+        {
+          "start": 38,
+          "end": 42,
+          "value": "five",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "my calendar is to be updated with all rccg event in march",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 38,
+          "end": 42,
+          "value": "rccg",
+          "entity": "place_name"
+        },
+        {
+          "start": 52,
+          "end": 57,
+          "value": "march",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please remind to sleep at nine pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "sleep",
+          "entity": "event_name"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "nine pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "church with mom and dad on sunday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "church",
+          "entity": "event_name"
+        },
+        {
+          "start": 12,
+          "end": 15,
+          "value": "mom",
+          "entity": "relation"
+        },
+        {
+          "start": 20,
+          "end": 23,
+          "value": "dad",
+          "entity": "relation"
+        },
+        {
+          "start": 27,
+          "end": 33,
+          "value": "sunday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can you sync my calendar with mark",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 30,
+          "end": 34,
+          "value": "mark",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "hey turn on your reminders for tomorrow's meeting at ten am",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 31,
+          "end": 39,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 53,
+          "end": 59,
+          "value": "ten am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "add a reminder to my calendar every year on this date",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 30,
+          "end": 40,
+          "value": "every year",
+          "entity": "general_frequency"
+        }
+      ]
+    },
+    {
+      "text": "remind me to water my plants every tuesday thursday and saturday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 28,
+          "value": "water my plants",
+          "entity": "event_name"
+        },
+        {
+          "start": 29,
+          "end": 64,
+          "value": "every tuesday thursday and saturday",
+          "entity": "general_frequency"
+        }
+      ]
+    },
+    {
+      "text": "on twenty third february rahul will come with me on india cricket match",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 3,
+          "end": 24,
+          "value": "twenty third february",
+          "entity": "date"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "value": "rahul",
+          "entity": "person"
+        },
+        {
+          "start": 52,
+          "end": 71,
+          "value": "india cricket match",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "i have to go to a meting on friday at noon can you remind me",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 28,
+          "end": 34,
+          "value": "friday",
+          "entity": "date"
+        },
+        {
+          "start": 38,
+          "end": 42,
+          "value": "noon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "set the event to recur on the first monday of the month",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 30,
+          "end": 55,
+          "value": "first monday of the month",
+          "entity": "general_frequency"
+        }
+      ]
+    }
+  ]
+}

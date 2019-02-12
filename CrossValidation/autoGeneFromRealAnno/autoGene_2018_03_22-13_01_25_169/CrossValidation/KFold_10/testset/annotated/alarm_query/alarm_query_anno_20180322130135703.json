@@ -1,0 +1,200 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what time have you set the alarm",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "list my different alarm",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "what time i am waking up tomorrow",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what alarms did i set today",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what alarms are coming up",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "if there any alarm is set then let me know",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "review all alarms",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "is the alarm set for tomorrow morning",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 30,
+          "end": 37,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "what time is alarm set for",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "do i have alarms set",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "what time is my alarm set for tomorrow morning",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 38,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 39,
+          "end": 46,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "is my reminder alarm set for dance class",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 40,
+          "value": "dance class",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "when is my alarm set for",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "what time will my alarm wake me up",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "how many alarms are set",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "how many alarms have i set",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "what time will my alarm go off today",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 36,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please let me know the alarm kept for tuesday's meeting",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 38,
+          "end": 45,
+          "value": "tuesday",
+          "entity": "date"
+        },
+        {
+          "start": 48,
+          "end": 55,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "did you set the alarm for five am",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 33,
+          "value": "five am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "let me know about the alarms you set",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "what alarms do i have set for today",
+      "intent": "alarm_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 35,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's my next alarm",
+      "intent": "alarm_query",
+      "entities": []
+    },
+    {
+      "text": "let me see my alarms",
+      "intent": "alarm_query",
+      "entities": []
+    }
+  ]
+}

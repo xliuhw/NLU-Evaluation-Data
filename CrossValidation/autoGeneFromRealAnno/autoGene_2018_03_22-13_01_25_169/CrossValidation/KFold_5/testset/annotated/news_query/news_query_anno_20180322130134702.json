@@ -1,0 +1,229 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "open cnn app",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "cnn",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what is happening in the world news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "world",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is new",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "has anything happened to mass effect",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 36,
+          "value": "mass effect",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "tell me the news about jallikattu in tamil nadu",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 33,
+          "value": "jallikattu",
+          "entity": "news_topic"
+        },
+        {
+          "start": 37,
+          "end": 47,
+          "value": "tamil nadu",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please tell me the latest news about politics",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 37,
+          "end": 45,
+          "value": "politics",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what's the latest on the travel ban",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 35,
+          "value": "the travel ban",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "set notification from world news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 32,
+          "value": "world news",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to know the latest local news of the city",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 36,
+          "value": "local news",
+          "entity": "news_topic"
+        },
+        {
+          "start": 40,
+          "end": 48,
+          "value": "the city",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me about the latest sports news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 31,
+          "value": "sports",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "get news about new foreign policy",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 33,
+          "value": "foreign policy",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "open the local news app",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 19,
+          "value": "local news",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what is latest news about this world",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 36,
+          "value": "world",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me about the presidential race",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 35,
+          "value": "presidential race",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what's happened in the news recently",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "what's the latest news on donald trump",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 38,
+          "value": "donald trump",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please tell me the latest news about the election scenario in our state",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 41,
+          "end": 58,
+          "value": "election scenario",
+          "entity": "news_topic"
+        },
+        {
+          "start": 66,
+          "end": 71,
+          "value": "state",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "whats the latest",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "what are the top stories on cnn",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 31,
+          "value": "cnn",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

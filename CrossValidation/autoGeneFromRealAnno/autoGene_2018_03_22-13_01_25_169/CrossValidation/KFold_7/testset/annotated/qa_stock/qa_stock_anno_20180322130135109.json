@@ -1,0 +1,197 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what's my stock fluctuations",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "what is the daily price of johnson and johnson stock",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 27,
+          "end": 46,
+          "value": "johnson and johnson",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "display stock price for lexmark international",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "lexmark",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "stock price for apple",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the value of the yen right now",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 25,
+          "end": 28,
+          "value": "yen",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "google stock symbol",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "google",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me about the stock for shell",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "shell",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the stock price of amazon",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 27,
+          "end": 33,
+          "value": "amazon",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "google stock price",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "google",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to know the stocks of amazon",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 29,
+          "end": 35,
+          "value": "amazon",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "could you give me the exact rate for dow nifty futures",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "give me the opening stock price of acer computers",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 35,
+          "end": 39,
+          "value": "acer",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how effective will be to buy nike stock",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 29,
+          "end": 33,
+          "value": "nike",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me which mutual funds have maximum yearly returns",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "update me on stock price of this company stock",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "give me the opening stock price of sony",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 35,
+          "end": 39,
+          "value": "sony",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "show me share price of amazon",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 23,
+          "end": 29,
+          "value": "amazon",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "detail for stock price",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "how much is apple stock worth",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

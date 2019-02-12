@@ -1,0 +1,307 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is the exchange rate for dollars to pounds",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 30,
+          "end": 37,
+          "value": "dollars",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "new exchange rate",
+      "intent": "qa_currency",
+      "entities": []
+    },
+    {
+      "text": "what is the exchange rate between the dollar and the euro currently",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 38,
+          "end": 44,
+          "value": "dollar",
+          "entity": "currency_name"
+        },
+        {
+          "start": 53,
+          "end": 57,
+          "value": "euro",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the exchange rate of euro today to dirham",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 29,
+          "end": 33,
+          "value": "euro",
+          "entity": "currency_name"
+        },
+        {
+          "start": 34,
+          "end": 39,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 43,
+          "end": 49,
+          "value": "dirham",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "exchanges rates any problems",
+      "intent": "qa_currency",
+      "entities": []
+    },
+    {
+      "text": "how much is ten u. s. d. to cad",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "u. s. d.",
+          "entity": "currency_name"
+        },
+        {
+          "start": 28,
+          "end": 31,
+          "value": "cad",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the exchange rate between united states dollar and japanese yen",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 34,
+          "end": 54,
+          "value": "united states dollar",
+          "entity": "currency_name"
+        },
+        {
+          "start": 59,
+          "end": 71,
+          "value": "japanese yen",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the current exchange rate for the euro against u. s. d.",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 41,
+          "end": 45,
+          "value": "euro",
+          "entity": "currency_name"
+        },
+        {
+          "start": 54,
+          "end": 62,
+          "value": "u. s. d.",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the exchange rate between czk and euro",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 33,
+          "end": 36,
+          "value": "czk",
+          "entity": "currency_name"
+        },
+        {
+          "start": 41,
+          "end": 45,
+          "value": "euro",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "please give me detail one dollars equals rs",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 26,
+          "end": 33,
+          "value": "dollars",
+          "entity": "currency_name"
+        },
+        {
+          "start": 41,
+          "end": 43,
+          "value": "rs",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "forex rate of euro to u. s. d.",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "euro",
+          "entity": "currency_name"
+        },
+        {
+          "start": 22,
+          "end": 30,
+          "value": "u. s. d.",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the exchange rate us versus indian rupees",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 26,
+          "end": 28,
+          "value": "us",
+          "entity": "currency_name"
+        },
+        {
+          "start": 36,
+          "end": 49,
+          "value": "indian rupees",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the pound to dollar exchange rate",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "pound",
+          "entity": "currency_name"
+        },
+        {
+          "start": 20,
+          "end": 26,
+          "value": "dollar",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the exchange of euro to dollars",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 24,
+          "end": 28,
+          "value": "euro",
+          "entity": "currency_name"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "value": "dollars",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the current dollar ratio for the us and canada",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 41,
+          "end": 43,
+          "value": "us",
+          "entity": "place_name"
+        },
+        {
+          "start": 48,
+          "end": 54,
+          "value": "canada",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the exchange rate between japanese yen and the australian dollar",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 34,
+          "end": 46,
+          "value": "japanese yen",
+          "entity": "currency_name"
+        },
+        {
+          "start": 55,
+          "end": 72,
+          "value": "australian dollar",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the currency conversion charges applicable",
+      "intent": "qa_currency",
+      "entities": []
+    },
+    {
+      "text": "is a peso worth more than a dollar",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "peso",
+          "entity": "currency_name"
+        },
+        {
+          "start": 28,
+          "end": 34,
+          "value": "dollar",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how much is a g. b. p. in u. s. d.",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 14,
+          "end": 22,
+          "value": "g. b. p.",
+          "entity": "currency_name"
+        },
+        {
+          "start": 26,
+          "end": 34,
+          "value": "u. s. d.",
+          "entity": "currency_name"
+        }
+      ]
+    }
+  ]
+}

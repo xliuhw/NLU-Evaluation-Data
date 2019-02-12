@@ -1,0 +1,147 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is on my shopping list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 22,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "read that list back to me please",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "send me the last list uploaded",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "the list contain what",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "my list please",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "pull up list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "i have my clothes list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "clothes",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "how many lists do i have",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "please show my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what groups are listed in my contacts",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "is there anything left on my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "list my lists please",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "do i have coffee on the grocery list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "do i have anything outstanding on any lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "can i see my work lists",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "check my to do list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what's on my todo list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 17,
+          "value": "todo",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what's my to do list for today",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "to do",
+          "entity": "list_name"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "which lists are present in the notes app",
+      "intent": "lists_query",
+      "entities": []
+    }
+  ]
+}

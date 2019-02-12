@@ -1,0 +1,222 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "send email to joanne@aol dot com and add as new contact",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 32,
+          "value": "joanne@aol dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "send reply thank you so much mom to mom",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 29,
+          "end": 32,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "send an email to mom subject weather body what is the weather like there this week",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 20,
+          "value": "mom",
+          "entity": "relation"
+        },
+        {
+          "start": 73,
+          "end": 82,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "reply to john's email today saying i will be late",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "john",
+          "entity": "person"
+        },
+        {
+          "start": 22,
+          "end": 27,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i want to email my supervisor",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 19,
+          "end": 29,
+          "value": "supervisor",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "write email to family member and read it back",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 15,
+          "end": 28,
+          "value": "family member",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "send an email to frank and ask them what the weather going to be like this week",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "frank",
+          "entity": "person"
+        },
+        {
+          "start": 70,
+          "end": 79,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please open a reply to the email",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "compose an email to parisa",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "parisa",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "open terry's email",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "terry",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "email my meeting details to my manager",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 31,
+          "end": 38,
+          "value": "manager",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "send a mail to alex asking about the due payment",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 15,
+          "end": 19,
+          "value": "alex",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send mom an email now",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "email tom",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 6,
+          "end": 9,
+          "value": "tom",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send email to mom asking about the weather",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 17,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "open a new email to contact",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "reply to the latest email",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "can you send an email to my mother about the weekly weather",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 28,
+          "end": 34,
+          "value": "mother",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "compose this email to this new email address",
+      "intent": "email_sendemail",
+      "entities": []
+    }
+  ]
+}

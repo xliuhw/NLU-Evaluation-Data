@@ -1,0 +1,26 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "light up the lights in the kitchen",
+      "intent": "iot_hue_lighton",
+      "entities": [
+        {
+          "start": 27,
+          "end": 34,
+          "value": "kitchen",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "turn the lights on full bright",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    },
+    {
+      "text": "it's dark in here",
+      "intent": "iot_hue_lighton",
+      "entities": []
+    }
+  ]
+}

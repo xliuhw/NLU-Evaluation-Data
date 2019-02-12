@@ -1,0 +1,218 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please tell me what is the definition of cylinder",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 41,
+          "end": 49,
+          "value": "cylinder",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "can you define conservative politics",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 15,
+          "end": 36,
+          "value": "conservative politics",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "describe a romantic love",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 11,
+          "end": 24,
+          "value": "romantic love",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does a geranium look like",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "geranium",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does this stitch long sleeved shirt look like",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 15,
+          "end": 40,
+          "value": "stitch long sleeved shirt",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "definition of velocity",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 14,
+          "end": 22,
+          "value": "velocity",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me what an chaise is",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 24,
+          "end": 30,
+          "value": "chaise",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "show meaning of clarion",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "clarion",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "give me the description of a smartphone circuit",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 29,
+          "end": 47,
+          "value": "smartphone circuit",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "describe a chart",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "chart",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "define what's a goalkeeper",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 16,
+          "end": 26,
+          "value": "goalkeeper",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is google",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "define cpu",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 10,
+          "value": "cpu",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is photosynthesis",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 8,
+          "end": 22,
+          "value": "photosynthesis",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "could you describe that object please",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "give me the definition of the word armor",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 35,
+          "end": 40,
+          "value": "armor",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "tell me about medieval war engines",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 14,
+          "end": 34,
+          "value": "medieval war engines",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "hey what is the definition of recipe",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 30,
+          "end": 36,
+          "value": "recipe",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "the definition of life",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 18,
+          "end": 22,
+          "value": "life",
+          "entity": "definition_word"
+        }
+      ]
+    }
+  ]
+}

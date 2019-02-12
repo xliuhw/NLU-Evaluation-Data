@@ -1,0 +1,387 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please repeat the last sentence from that book",
+      "intent": "play_audiobook",
+      "entities": []
+    },
+    {
+      "text": "resume harry potter book one",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 28,
+          "value": "harry potter book one",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "restart american gods",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "restart",
+          "entity": "player_setting"
+        },
+        {
+          "start": 8,
+          "end": 21,
+          "value": "american gods",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "start play johns audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "johns",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 17,
+          "end": 26,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "resume audio playback of twilight",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 25,
+          "end": 33,
+          "value": "twilight",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "please continue playing odd thomas by dean koontz",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 7,
+          "end": 23,
+          "value": "continue playing",
+          "entity": "player_setting"
+        },
+        {
+          "start": 24,
+          "end": 34,
+          "value": "odd thomas",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 38,
+          "end": 49,
+          "value": "dean koontz",
+          "entity": "audiobook_author"
+        }
+      ]
+    },
+    {
+      "text": "stop audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "stop",
+          "entity": "player_setting"
+        },
+        {
+          "start": 5,
+          "end": 14,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "pause the audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "pause",
+          "entity": "player_setting"
+        },
+        {
+          "start": 10,
+          "end": 19,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to start war and peace where i left off",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "start",
+          "entity": "player_setting"
+        },
+        {
+          "start": 16,
+          "end": 29,
+          "value": "war and peace",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 30,
+          "end": 46,
+          "value": "where i left off",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "look for this playback in audiobook and play for me",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 26,
+          "end": 35,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "resume war and peace",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 20,
+          "value": "war and peace",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play the jungle book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "the jungle",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play this audiobook for me",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 10,
+          "end": 19,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "resume playing you are joking mr feynman",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 14,
+          "value": "resume playing",
+          "entity": "player_setting"
+        },
+        {
+          "start": 15,
+          "end": 40,
+          "value": "you are joking mr feynman",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play the god of small things",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 28,
+          "value": "the god of small things",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to resume where i last left off in my audio book",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 10,
+          "end": 16,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 45,
+          "end": 55,
+          "value": "audio book",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play the two towers",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 19,
+          "value": "the two towers",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "start the audiobook file for where i left off in a tale of two cities",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "start",
+          "entity": "player_setting"
+        },
+        {
+          "start": 49,
+          "end": 69,
+          "value": "a tale of two cities",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "find me an audio book version of ready player one and play it for me",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 11,
+          "end": 21,
+          "value": "audio book",
+          "entity": "media_type"
+        },
+        {
+          "start": 33,
+          "end": 49,
+          "value": "ready player one",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "begin playing the audiobook beauty and the beast",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "begin playing",
+          "entity": "player_setting"
+        },
+        {
+          "start": 18,
+          "end": 27,
+          "value": "audiobook",
+          "entity": "media_type"
+        },
+        {
+          "start": 28,
+          "end": 48,
+          "value": "beauty and the beast",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "play the audiobook swan from first",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "audiobook",
+          "entity": "media_type"
+        },
+        {
+          "start": 19,
+          "end": 23,
+          "value": "swan",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "open audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "resume audiobook playback",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 16,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

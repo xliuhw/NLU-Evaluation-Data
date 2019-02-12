@@ -1,0 +1,203 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "show me the time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what is the date easter falls on",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 23,
+          "value": "easter",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what day of the week is the twenty second march",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 47,
+          "value": "twenty second march",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what time is it in the eastern half of the us right now",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 30,
+          "value": "eastern",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "what day of the month is next tuesday",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "month",
+          "entity": "date"
+        },
+        {
+          "start": 30,
+          "end": 37,
+          "value": "tuesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what time is it in another city",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 31,
+          "value": "another city",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "current time please",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what day is it on fifth december",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 32,
+          "value": "fifth december",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the current time right now",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what day is the fifteenth",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 25,
+          "value": "the fifteenth",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what day of the week is june twenty seventh on this year",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 43,
+          "value": "june twenty seventh",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "uh what does the current date happen to be",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what is the current time in delhi",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "delhi",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what day today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the day on twenty third march",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 37,
+          "value": "twenty third march",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i want exact time in washington right now",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 31,
+          "value": "washington",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what day is it today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "show me what day the thirty first is on",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 33,
+          "value": "the thirty first",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "give me the current time",
+      "intent": "datetime_query",
+      "entities": []
+    }
+  ]
+}

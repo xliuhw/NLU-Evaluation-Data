@@ -1,0 +1,203 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "put classic rock on",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 4,
+          "end": 16,
+          "value": "classic rock",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "let me hear some music",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play me all jazz music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 12,
+          "end": 16,
+          "value": "jazz",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play all the latest pop songs",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 20,
+          "end": 23,
+          "value": "pop",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "please play for me elvis presley song again",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 19,
+          "end": 32,
+          "value": "elvis presley",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play music",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "i want to hear play that funky music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 15,
+          "end": 36,
+          "value": "play that funky music",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play happy playlist next",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 19,
+          "value": "happy playlist",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "play music from workout playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 16,
+          "end": 32,
+          "value": "workout playlist",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "please play me a song from my favourite list",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play me an upbeat song through your speakers",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 11,
+          "end": 17,
+          "value": "upbeat",
+          "entity": "music_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "coordinate all pop song genres",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 15,
+          "end": 18,
+          "value": "pop",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play my country playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "country",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "Play something random from google play",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 27,
+          "end": 38,
+          "value": "google play",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "Song next please",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "time to workout",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play the latest song adele",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "adele",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play from smashing pumpkins",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 10,
+          "end": 27,
+          "value": "smashing pumpkins",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "please play only sad song in music player",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 17,
+          "end": 20,
+          "value": "sad",
+          "entity": "music_descriptor"
+        },
+        {
+          "start": 29,
+          "end": 41,
+          "value": "music player",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

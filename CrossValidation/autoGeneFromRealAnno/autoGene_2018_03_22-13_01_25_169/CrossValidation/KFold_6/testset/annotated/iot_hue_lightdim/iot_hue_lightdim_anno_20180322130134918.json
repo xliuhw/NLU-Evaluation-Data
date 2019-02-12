@@ -1,0 +1,92 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "these lights are too bright please lower them",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "please dim the lights in the bedrooms",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 29,
+          "end": 37,
+          "value": "bedrooms",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "dim all interior lights",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "interior",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "bring the lights down a bit",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "a bit",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "can you lower the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower the brightness",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "it is too bright in here dim the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "the lights are too bright",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "decrease brightness",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "please turn the lights down",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "turn the lights down in the living room",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 28,
+          "end": 39,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "turn down the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    }
+  ]
+}

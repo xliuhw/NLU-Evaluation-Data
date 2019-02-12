@@ -1,0 +1,284 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "can you order me some buffalo chicken pizza",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 22,
+          "end": 43,
+          "value": "buffalo chicken pizza",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "order a pizza",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "pizza",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "who delivers near here",
+      "intent": "takeaway_order",
+      "entities": []
+    },
+    {
+      "text": "what places can i order takeout from near by",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "give me options for indian carryout under dollars",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "indian",
+          "entity": "food_type"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "value": "carryout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to order some takeaway food",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to order some chinese food tonight what's delivering to me",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 34,
+          "end": 41,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "call china wok",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "china wok",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "hey order two wings with french fries from the chinese food store",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 14,
+          "end": 37,
+          "value": "wings with french fries",
+          "entity": "food_type"
+        },
+        {
+          "start": 47,
+          "end": 65,
+          "value": "chinese food store",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "i am so hungry and tired and i think i might order some food now",
+      "intent": "takeaway_order",
+      "entities": []
+    },
+    {
+      "text": "order a large plain pizza from mimo's for me",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 14,
+          "end": 25,
+          "value": "plain pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "value": "mimo",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "order a pizza with sausage from domino's",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 19,
+          "end": 26,
+          "value": "sausage",
+          "entity": "ingredient"
+        },
+        {
+          "start": 32,
+          "end": 38,
+          "value": "domino",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please order me lo mein and egg rolls from panda express now",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 16,
+          "end": 37,
+          "value": "lo mein and egg rolls",
+          "entity": "food_type"
+        },
+        {
+          "start": 43,
+          "end": 56,
+          "value": "panda express",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "call and order pizza for delivery",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 25,
+          "end": 33,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "checkout subway food centre near me and order tandoori roti",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "subway",
+          "entity": "business_name"
+        },
+        {
+          "start": 46,
+          "end": 59,
+          "value": "tandoori roti",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "please order take from jason's deli",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 23,
+          "end": 35,
+          "value": "jason's deli",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can you direct me to the menu for the highest rated chinese carryout near me",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 52,
+          "end": 59,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 60,
+          "end": 68,
+          "value": "carryout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "place an order for a pepperoni pizza at papa johns",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 21,
+          "end": 36,
+          "value": "pepperoni pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 40,
+          "end": 50,
+          "value": "papa johns",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "when i get home can you please order a pizza",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 39,
+          "end": 44,
+          "value": "pizza",
+          "entity": "food_type"
+        }
+      ]
+    }
+  ]
+}

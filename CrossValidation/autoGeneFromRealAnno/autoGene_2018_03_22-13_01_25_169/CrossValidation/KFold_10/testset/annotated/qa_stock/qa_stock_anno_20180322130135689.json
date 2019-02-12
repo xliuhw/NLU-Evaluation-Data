@@ -1,0 +1,256 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "did the price of walmart stock go up or down",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "walmart",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is amazon worth",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "amazon",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "stock google find out",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 6,
+          "end": 12,
+          "value": "google",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how is the stock going in general",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "what's the closing price of abc",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 28,
+          "end": 31,
+          "value": "abc",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the lowest microsoft stock price today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 19,
+          "end": 28,
+          "value": "microsoft",
+          "entity": "business_name"
+        },
+        {
+          "start": 41,
+          "end": 46,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "tell me which stocks were the biggest gainers in stock market nasdaq today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 69,
+          "end": 74,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "let me know about the stock rate of a microsoft",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 38,
+          "end": 47,
+          "value": "microsoft",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the stock for hp company",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 22,
+          "end": 24,
+          "value": "hp",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what's new with the stock market",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 20,
+          "end": 32,
+          "value": "stock market",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what's the stock price of this item",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "let me know up and down in stock price of this company stock",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "what is the price of amd on the stock market",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 21,
+          "end": 24,
+          "value": "amd",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "stock",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "what was the stock price for google yesterday",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 29,
+          "end": 35,
+          "value": "google",
+          "entity": "business_name"
+        },
+        {
+          "start": 36,
+          "end": 45,
+          "value": "yesterday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "stock please",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "open td ameritrade",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "what is terranova stock going for",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 8,
+          "end": 17,
+          "value": "terranova",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tvs stock price",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 0,
+          "end": 3,
+          "value": "tvs",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the price of ge right now",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 20,
+          "end": 22,
+          "value": "ge",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "whats the current price of mcdonalds stock",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 27,
+          "end": 36,
+          "value": "mcdonalds",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "send me the stock market updates for today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 12,
+          "end": 24,
+          "value": "stock market",
+          "entity": "news_topic"
+        },
+        {
+          "start": 37,
+          "end": 42,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what are amd stock prices",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 9,
+          "end": 12,
+          "value": "amd",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

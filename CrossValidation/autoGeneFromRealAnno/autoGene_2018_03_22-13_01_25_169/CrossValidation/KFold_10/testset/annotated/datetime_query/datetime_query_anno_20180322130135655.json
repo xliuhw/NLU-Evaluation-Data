@@ -1,0 +1,263 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what time is it eastern",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "eastern",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "can you give me the time in new delhi",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 37,
+          "value": "new delhi",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what is the date today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what date is easter sunday this year",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 26,
+          "value": "easter sunday",
+          "entity": "event_name"
+        },
+        {
+          "start": 27,
+          "end": 36,
+          "value": "this year",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the time for the eastern time zone",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 32,
+          "value": "eastern",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "what's the time in china right now",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "china",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what will be the time now in washington",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 39,
+          "value": "washington",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what day of the week is it",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "whats the time in denver",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 24,
+          "value": "denver",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the day today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 15,
+          "value": "day",
+          "entity": "time_zone"
+        },
+        {
+          "start": 16,
+          "end": 21,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the current day month and year",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what is today's current date",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please let me know today's date",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the month day and year",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "show time in china",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "china",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "give me new york's current time",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "current time new york",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "time",
+          "entity": "time_zone"
+        },
+        {
+          "start": 13,
+          "end": 21,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "be my clock",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "give me the time in pst",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 23,
+          "value": "pst",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "what time is it in new york city",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 32,
+          "value": "new york city",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please give me today's date",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what time i sit in china right now",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "china",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

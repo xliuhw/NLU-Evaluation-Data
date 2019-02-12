@@ -1,0 +1,235 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "find the events",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "could you suggest some fun in new york",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 30,
+          "end": 38,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "Show latest events around new york",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 26,
+          "end": 34,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show me upcoming events in the quad cities",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 31,
+          "end": 42,
+          "value": "quad cities",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "are there any events happening in town",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 34,
+          "end": 38,
+          "value": "town",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "do i need to undertake any particular activity during my stay at the yellowstone national park",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 69,
+          "end": 94,
+          "value": "yellowstone national park",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me all the current events in my hometown",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 37,
+          "end": 45,
+          "value": "hometown",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "any cultural events in california",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 23,
+          "end": 33,
+          "value": "california",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "are there any events going on close by",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what are the local concerts tonight",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 28,
+          "end": 35,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "what is the event name going in me area",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "where should i go for dinner in san francisco tonight",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 22,
+          "end": 28,
+          "value": "dinner",
+          "entity": "meal_type"
+        },
+        {
+          "start": 32,
+          "end": 45,
+          "value": "san francisco",
+          "entity": "place_name"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "what is happening tomorrow",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 18,
+          "end": 26,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what type of event",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "fun things to do today",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 0,
+          "end": 10,
+          "value": "fun things",
+          "entity": "event_name"
+        },
+        {
+          "start": 17,
+          "end": 22,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "show me events nearby",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "find events in local area",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "refer local current events",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 6,
+          "end": 26,
+          "value": "local current events",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "show me upcoming events in this area",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what events are happening in los angeles",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 29,
+          "end": 40,
+          "value": "los angeles",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is planned for today in my local area",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is going on around here",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what's happening around me",
+      "intent": "recommendation_events",
+      "entities": []
+    }
+  ]
+}

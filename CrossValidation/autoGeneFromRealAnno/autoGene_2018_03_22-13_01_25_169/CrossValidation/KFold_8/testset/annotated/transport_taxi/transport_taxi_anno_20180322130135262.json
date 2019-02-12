@@ -1,0 +1,310 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "call me a taxi to the airport at five am",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 22,
+          "end": 29,
+          "value": "airport",
+          "entity": "place_name"
+        },
+        {
+          "start": 33,
+          "end": 40,
+          "value": "five am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "i need a ride in an hour",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 14,
+          "end": 24,
+          "value": "in an hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "open lyft",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "lyft",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "look for a taxi to go home",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 22,
+          "end": 26,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you book me a taxi",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 18,
+          "end": 22,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "please book a taxi for me to go to the railway station",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 39,
+          "end": 54,
+          "value": "railway station",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "schedule taxi pickup for monday at noon",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 25,
+          "end": 31,
+          "value": "monday",
+          "entity": "date"
+        },
+        {
+          "start": 35,
+          "end": 39,
+          "value": "noon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "please send a taxi to my house",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 22,
+          "end": 30,
+          "value": "my house",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i need you to book a taxi for me",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 21,
+          "end": 25,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "call an uber now",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "request a taxi from udrive service",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 20,
+          "end": 34,
+          "value": "udrive service",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "find a ride to the bar",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 19,
+          "end": 22,
+          "value": "bar",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "i need a taxi for tomorrow at seven pm to the arena",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 18,
+          "end": 26,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 30,
+          "end": 38,
+          "value": "seven pm",
+          "entity": "time"
+        },
+        {
+          "start": 46,
+          "end": 51,
+          "value": "arena",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "call me an uber for right now",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "uber",
+          "entity": "transport_agency"
+        }
+      ]
+    },
+    {
+      "text": "book a cab which have cheapest price",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 7,
+          "end": 10,
+          "value": "cab",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "please book the next taxi",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 21,
+          "end": 25,
+          "value": "taxi",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "schedule me a taxi for after my thursday meeting",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "taxi",
+          "entity": "transport_type"
+        },
+        {
+          "start": 32,
+          "end": 40,
+          "value": "thursday",
+          "entity": "date"
+        },
+        {
+          "start": 41,
+          "end": 48,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "can i get an uber home from the fox downtown as soon as possible",
+      "intent": "transport_taxi",
+      "entities": [
+        {
+          "start": 13,
+          "end": 17,
+          "value": "uber",
+          "entity": "transport_agency"
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "value": "home",
+          "entity": "place_name"
+        },
+        {
+          "start": 32,
+          "end": 44,
+          "value": "fox downtown",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

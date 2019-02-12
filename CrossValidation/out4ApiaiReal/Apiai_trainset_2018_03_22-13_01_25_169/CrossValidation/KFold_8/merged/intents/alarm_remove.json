@@ -1,0 +1,1785 @@
+{
+  "userSays": [
+    {
+      "id": "5a4c7ca7-be3c-4836-8f75-19ef9de6d754",
+      "data": [
+        {
+          "text": "disable the alarm which is set at "
+        },
+        {
+          "text": "nine thirty pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff07dfb6-b8fb-44bb-ab28-cdab8a56b26c",
+      "data": [
+        {
+          "text": "delete scheduled alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d52549dc-3752-4b76-b3ff-fb998fb19e56",
+      "data": [
+        {
+          "text": "turn off my first alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "095c9c93-a355-44eb-b2e7-05bc494795a3",
+      "data": [
+        {
+          "text": "please cancel all alarms for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "96a4cea4-7cd2-454d-b99b-400721bcc1fd",
+      "data": [
+        {
+          "text": "please delete the "
+        },
+        {
+          "text": "wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "evening",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ca0ebcb0-fcfa-4ae3-8997-820c6b151e08",
+      "data": [
+        {
+          "text": "please delete my "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ae005ebf-b3f2-49f1-b5e3-9bcf29f0f528",
+      "data": [
+        {
+          "text": "remove all of my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "993078d9-2502-4b96-9b84-a3f0ca9cf9a0",
+      "data": [
+        {
+          "text": "cancel alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4447522b-d152-42c2-90e9-7d3976204e1c",
+      "data": [
+        {
+          "text": "delete the alarm i just set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7ed2f1fe-3698-43b8-84e1-e754624db97d",
+      "data": [
+        {
+          "text": "could you please remove the set of alarms between "
+        },
+        {
+          "text": "eight and nine",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fb53a96d-19e9-45af-97b5-cceecab25aff",
+      "data": [
+        {
+          "text": "please turn off the alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cc01ea3f-753d-470f-a202-a3a52523e048",
+      "data": [
+        {
+          "text": "delete alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2b3120bf-2007-4ce5-9bd3-b26d72ae87c4",
+      "data": [
+        {
+          "text": "remove the latest alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "30b16af1-e9dd-4048-8bfc-ca5eee4c7867",
+      "data": [
+        {
+          "text": "stop "
+        },
+        {
+          "text": "wake up",
+          "alias": "alarm_type",
+          "meta": "@alarm_type",
+          "userDefined": true
+        },
+        {
+          "text": " calls for "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fcdfd8e4-2a64-4b00-a707-34bee5d59f6a",
+      "data": [
+        {
+          "text": "remove the first alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "006d2839-9e08-4002-adb2-a4eee7ffb51a",
+      "data": [
+        {
+          "text": "remove my earliest alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "693b844e-faef-456a-b810-2636ce46ed4d",
+      "data": [
+        {
+          "text": "kickball is over i do not need the alarm for kickball on "
+        },
+        {
+          "text": "wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "evening",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " any longer"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "90a4f49e-42ef-4067-9710-d5f4f45cb090",
+      "data": [
+        {
+          "text": "remove all alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3f0fcaf4-716c-4295-bed2-7d6ded86e239",
+      "data": [
+        {
+          "text": "take off my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fbe6f21d-f027-46bc-9180-d7921dbb0460",
+      "data": [
+        {
+          "text": "cancel my "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fdc3f89f-98cf-45e0-8b83-8d49543205d3",
+      "data": [
+        {
+          "text": "disable all alarms set for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c47772fa-61f7-4a4d-b7da-18836e32bb8a",
+      "data": [
+        {
+          "text": "olly cancel alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "271c7137-cd91-4b84-ba84-875f824204cd",
+      "data": [
+        {
+          "text": "remove my "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "24e09c87-ffe1-4996-a61f-aaa5db6a9cfc",
+      "data": [
+        {
+          "text": "snooze all "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s alarms permanently"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e7a4236f-60d7-4f60-8f07-e6809a756864",
+      "data": [
+        {
+          "text": "remove my work alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9f43b3cd-dc6c-489e-b570-50b60589e3ec",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "one pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " removed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "befb0f34-fac4-4d94-9573-74d32fab3a5a",
+      "data": [
+        {
+          "text": "olly cancel yoga alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "562474cb-7d66-4799-9a18-7c668feb6e94",
+      "data": [
+        {
+          "text": "do not wake me up on "
+        },
+        {
+          "text": "weekends",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a9f5d1a4-1510-4d6e-97e4-18f86ee82c0e",
+      "data": [
+        {
+          "text": "remove "
+        },
+        {
+          "text": "wake up",
+          "alias": "alarm_type",
+          "meta": "@alarm_type",
+          "userDefined": true
+        },
+        {
+          "text": " calls for "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9ad2918c-b49e-46ee-bc11-39151aa29f24",
+      "data": [
+        {
+          "text": "cancel my alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e30539bb-8160-44fa-85f5-09f43a578661",
+      "data": [
+        {
+          "text": "reset the alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "352c8838-fda6-45fd-9117-f0f787f51984",
+      "data": [
+        {
+          "text": "remove "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f11f8b8b-e30a-4d64-9b8f-8ebf4ac7b9a8",
+      "data": [
+        {
+          "text": "set the alarm off"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2115ee8a-9f0b-4e4b-817e-ddaa0751c5a8",
+      "data": [
+        {
+          "text": "remove my "
+        },
+        {
+          "text": "four am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5c8edc27-39ca-47dd-bce6-d2603eb95835",
+      "data": [
+        {
+          "text": "cancel my "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1c2d3736-56ce-4386-abeb-609b6382d99e",
+      "data": [
+        {
+          "text": "delete the "
+        },
+        {
+          "text": "meeting",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        },
+        {
+          "text": " alarm at "
+        },
+        {
+          "text": "two pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "738fda22-a30e-49ab-bc99-9adb1c2fdc66",
+      "data": [
+        {
+          "text": "please remove this alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4c3a40c2-737a-464e-8b4f-4217547fad10",
+      "data": [
+        {
+          "text": "remove "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm of "
+        },
+        {
+          "text": "whole week",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " for future"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "867da2e6-c092-4f8b-a412-5fe14f492854",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "twelve am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " removed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4b0905f2-ccdd-402c-8294-afae55e811cb",
+      "data": [
+        {
+          "text": "delete my "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c6b24e5f-f830-49bf-aa71-bcf45fd6b10c",
+      "data": [
+        {
+          "text": "i need to delete the alarm for church on "
+        },
+        {
+          "text": "sundays",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eleven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ee99a2e6-3f19-4d34-a306-77e791c7c805",
+      "data": [
+        {
+          "text": "cancel my "
+        },
+        {
+          "text": "three pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "18bb72c0-59cb-4af3-b868-d1be376b7cb0",
+      "data": [
+        {
+          "text": "please remove the alarm which i set for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0c337db3-f9ae-4af1-aa66-dd711c1708bd",
+      "data": [
+        {
+          "text": "cancel alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "62d52e95-efc6-4fc9-b1f8-3cf6c0ef88f3",
+      "data": [
+        {
+          "text": "remove number three alarm of list"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "97cce82c-b0ce-4c99-8103-d0bcf8e488e0",
+      "data": [
+        {
+          "text": "cancel "
+        },
+        {
+          "text": "wake up",
+          "alias": "alarm_type",
+          "meta": "@alarm_type",
+          "userDefined": true
+        },
+        {
+          "text": " calls for "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8d82ff39-053e-40f1-a534-6b0cc89ae4ec",
+      "data": [
+        {
+          "text": "please remove the the alarm which i set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8dd4de16-5b50-4c24-a4b2-e971d3930c35",
+      "data": [
+        {
+          "text": "Get rid of my current alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c6f27490-8e11-460c-92f1-50952350e962",
+      "data": [
+        {
+          "text": "please remove the alarm that is set for "
+        },
+        {
+          "text": "weekdays",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "nine",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0bc1dda7-1c83-4365-89b0-1c722448e975",
+      "data": [
+        {
+          "text": "disable the alarm at "
+        },
+        {
+          "text": "ten am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bb22de08-ca93-4c16-b803-68f8e6c11080",
+      "data": [
+        {
+          "text": "remove "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " alarm of "
+        },
+        {
+          "text": "nine am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "05400f4a-f183-49a0-ba02-486915a54c54",
+      "data": [
+        {
+          "text": "get rid of my "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19a0250d-9b4f-42cd-b33b-572284ee77ad",
+      "data": [
+        {
+          "text": "clear my "
+        },
+        {
+          "text": "nine am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bd76e2b2-406a-4054-8188-37978866d865",
+      "data": [
+        {
+          "text": "remove alarm of "
+        },
+        {
+          "text": "six am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9c519510-f830-41ad-bf54-c1709f0805fc",
+      "data": [
+        {
+          "text": "turn off all of my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7832bbd6-f38a-41e0-afcc-8b3ae0871e5e",
+      "data": [
+        {
+          "text": "get rid of my "
+        },
+        {
+          "text": "wake up",
+          "alias": "alarm_type",
+          "meta": "@alarm_type",
+          "userDefined": true
+        },
+        {
+          "text": " alarm set for "
+        },
+        {
+          "text": "saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b235c7a9-0c8c-4c94-b97e-74c8be8c00a6",
+      "data": [
+        {
+          "text": "disable alarm for "
+        },
+        {
+          "text": "three pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "818f6d40-48ec-4011-ade2-9a0dc3ff8b9a",
+      "data": [
+        {
+          "text": "remove set alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6dfb25cf-a94d-4645-8ed6-fc253f4b0780",
+      "data": [
+        {
+          "text": "remove the alarm set for "
+        },
+        {
+          "text": "ten pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "47a68e05-8b8f-455e-897a-b048e8a5a39e",
+      "data": [
+        {
+          "text": "remove all alarm of "
+        },
+        {
+          "text": "sunday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "124fc8a7-6fe0-4faa-a894-4a92c38e9f34",
+      "data": [
+        {
+          "text": "do not wake me up "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "58a7a0a2-b77c-431e-95c1-056d64a77354",
+      "data": [
+        {
+          "text": "please remove the alarm set for "
+        },
+        {
+          "text": "wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " called "
+        },
+        {
+          "text": "kickball",
+          "alias": "event_name",
+          "meta": "@event_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2591019e-5079-4d9e-b8e2-2f1ce03ad142",
+      "data": [
+        {
+          "text": "turn off my alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "663485db-d13f-4df0-9cbf-fe32f77e5260",
+      "data": [
+        {
+          "text": "forget alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1b2d3eae-48e1-484a-9495-4d5cf99b78f6",
+      "data": [
+        {
+          "text": "set off this alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ac2544f5-6c90-4072-884f-94fd473dc6af",
+      "data": [
+        {
+          "text": "turn off my alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7a1ca52c-dc98-4c50-9d9a-8d283f6ec2e7",
+      "data": [
+        {
+          "text": "cancel all alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "016f04eb-730b-4223-9173-031d0fbf7caf",
+      "data": [
+        {
+          "text": "remove all alarms set "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "842a7663-d374-4d92-97c0-f3d7bd7d644a",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "two am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " removed"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "84dccee5-76bd-4328-98ad-54652323469f",
+      "data": [
+        {
+          "text": "take away my alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "four thirty am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b38ea25d-db77-4e31-a83f-8d9e6c483dcc",
+      "data": [
+        {
+          "text": "turn off any "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " alarms "
+        },
+        {
+          "text": "after Friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b28a30f9-e14a-4645-bd77-d9506cd0e3ea",
+      "data": [
+        {
+          "text": "please remove any alarms that i have set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "141351fc-ae08-452a-86eb-e9e3703046a8",
+      "data": [
+        {
+          "text": "remove my "
+        },
+        {
+          "text": "wake up",
+          "alias": "alarm_type",
+          "meta": "@alarm_type",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b8a33af1-afc6-4ac1-b95d-ddc528bcd76d",
+      "data": [
+        {
+          "text": "change my alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f7e3766d-da41-4f30-afb3-9fde5671e701",
+      "data": [
+        {
+          "text": "turn off "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5ce5e7ea-23d0-4c20-876e-ab18bf1851bc",
+      "data": [
+        {
+          "text": "please turn off my alarm for "
+        },
+        {
+          "text": "this evening",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "31384091-8f59-406e-be8e-6dedd196fa17",
+      "data": [
+        {
+          "text": "turn off the alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "41aa1aaa-a872-429f-b326-287ace7cc1bc",
+      "data": [
+        {
+          "text": "disable my "
+        },
+        {
+          "text": "three pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f74c2555-6f85-4f12-9334-05d20da8223e",
+      "data": [
+        {
+          "text": "remove my bedtime alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "02d1dd0e-14e6-4b91-825e-9fad2b46f92e",
+      "data": [
+        {
+          "text": "turn off all alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "13d5d181-a232-416c-93e9-b107289dfa41",
+      "data": [
+        {
+          "text": "remove alarms set for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "92b58f0b-c4c7-4c1d-b3e3-33642e829542",
+      "data": [
+        {
+          "text": "olly cancel all "
+        },
+        {
+          "text": "soccer practice",
+          "alias": "alarm_type",
+          "meta": "@alarm_type",
+          "userDefined": true
+        },
+        {
+          "text": " alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bc141335-5c7f-4765-9d0c-34963bac0074",
+      "data": [
+        {
+          "text": "remove my "
+        },
+        {
+          "text": "eight pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm and set it to "
+        },
+        {
+          "text": "seven pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "be9bd601-df58-47ac-889b-9e062f0c68bb",
+      "data": [
+        {
+          "text": "remove alarm if any"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "00664de1-3c37-4dee-979b-04c61d37713c",
+      "data": [
+        {
+          "text": "cancel the alarm that is set for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3230d4e2-6d1f-41d2-a2ff-0b0a03125b1c",
+      "data": [
+        {
+          "text": "delete the first alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9ad85f0e-0bde-47f0-afa6-bcab383929e4",
+      "data": [
+        {
+          "text": "remove alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c670feb2-bdf5-42d8-8cd2-8868afe23425",
+      "data": [
+        {
+          "text": "unset all alarm which is set"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f7022ab6-bcad-47e6-b1ff-a4fb114183a0",
+      "data": [
+        {
+          "text": "remove alarm of "
+        },
+        {
+          "text": "seven thirty am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7384ac8f-53c4-41a9-89dd-41b60805be91",
+      "data": [
+        {
+          "text": "can you please remove the alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "14b69c95-642b-4c69-9424-c4e712699128",
+      "data": [
+        {
+          "text": "cancel alarm for "
+        },
+        {
+          "text": "tenth of march two thousand seventeen",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3dc420ef-be36-409e-b16c-df1d747e312a",
+      "data": [
+        {
+          "text": "this alarm needs to be permanently silenced"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e0c2fea3-7489-42ab-8236-f24ad0359bcd",
+      "data": [
+        {
+          "text": "remove the alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a627564c-044c-4d53-8fd8-f7c96d1e18ee",
+      "data": [
+        {
+          "text": "i dont want any alarms"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "caaf30c2-ae23-4b44-bd49-d7ba705f7592",
+      "data": [
+        {
+          "text": "delete my "
+        },
+        {
+          "text": "eight pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6f2c19cc-6177-4a4c-9aeb-8e48e8b7c58a",
+      "data": [
+        {
+          "text": "remove "
+        },
+        {
+          "text": "finlee",
+          "alias": "person",
+          "meta": "@person",
+          "userDefined": true
+        },
+        {
+          "text": "'s bedtime alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e446c656-edd2-4dac-a36a-4769c7806070",
+      "data": [
+        {
+          "text": "reset alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "267dce75-c08f-4a7c-9663-91ebb35bfb05",
+      "data": [
+        {
+          "text": "remove the alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "29225d09-25e9-4de4-a58a-580ae083041d",
+      "data": [
+        {
+          "text": "will you turn the alarm off for me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9a391ffc-dac6-46ab-93a3-e50b080ebcb4",
+      "data": [
+        {
+          "text": "remove my "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "41b35117-e6d4-4a43-aa5b-8c29503ea462",
+      "data": [
+        {
+          "text": "delete my alarm for "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3cb846ae-7648-4051-b786-4534f73a74c3",
+      "data": [
+        {
+          "text": "remove my alarm for "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "morning",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e7a20cbd-a595-4e26-b235-98db20774db2",
+      "data": [
+        {
+          "text": "remove "
+        },
+        {
+          "text": "seven am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b9a9781f-da5e-4fd1-84bf-82058c126d0d",
+      "data": [
+        {
+          "text": "cancel the alarm at "
+        },
+        {
+          "text": "four am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "ten pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1edb2e4c-79e6-46dc-8e6b-07d03faaf966",
+      "data": [
+        {
+          "text": "turn off the alarm"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "78cb0ee2-ead4-49be-a473-49291ea95b1f",
+      "data": [
+        {
+          "text": "snooze"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "97140fa9-6bc8-4c51-b9c1-50e4aa0fca9b",
+  "name": "alarm_remove",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@alarm_type",
+          "name": "alarm_type",
+          "value": "$alarm_type"
+        },
+        {
+          "dataType": "@date",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "dataType": "@event_name",
+          "name": "event_name",
+          "value": "$event_name"
+        },
+        {
+          "dataType": "@person",
+          "name": "person",
+          "value": "$person"
+        },
+        {
+          "dataType": "@time",
+          "name": "time",
+          "value": "$time"
+        },
+        {
+          "dataType": "@timeofday",
+          "name": "timeofday",
+          "value": "$timeofday"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

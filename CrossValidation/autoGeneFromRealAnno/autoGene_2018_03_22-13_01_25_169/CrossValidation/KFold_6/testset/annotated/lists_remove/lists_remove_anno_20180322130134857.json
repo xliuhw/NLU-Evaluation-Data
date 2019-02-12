@@ -1,0 +1,173 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "rearrange that off the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "get rid of a list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "please remove sporty event from list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "please remove a list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "please remove dallas from my travel itinerary",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 29,
+          "end": 45,
+          "value": "travel itinerary",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "clear the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete my groceries list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 19,
+          "value": "groceries",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please remove the first list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove grocery list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove my list of notes from last week",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 23,
+          "value": "list of notes",
+          "entity": "list_name"
+        },
+        {
+          "start": 29,
+          "end": 38,
+          "value": "last week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "find apple on list and remove",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove that item",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete last item listed",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove cereal from my shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "i'm done with today's to do list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 22,
+          "end": 27,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete the last list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "please remove the grocery list from my set of lists",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 18,
+          "end": 25,
+          "value": "grocery",
+          "entity": "list_name"
+        },
+        {
+          "start": 39,
+          "end": 51,
+          "value": "set of lists",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "clear list things to do this weekend",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 24,
+          "end": 36,
+          "value": "this weekend",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "delete everything on the menu",
+      "intent": "lists_remove",
+      "entities": []
+    }
+  ]
+}

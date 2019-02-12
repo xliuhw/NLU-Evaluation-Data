@@ -1,0 +1,93 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please set the equalizer in the party mode",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 15,
+          "end": 24,
+          "value": "equalizer",
+          "entity": "device_type"
+        },
+        {
+          "start": 32,
+          "end": 42,
+          "value": "party mode",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "lower battery consumption to save setting",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 25,
+          "value": "lower battery consumption",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "open music player settings",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "music player",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "put the last song on repeat",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 8,
+          "end": 17,
+          "value": "last song",
+          "entity": "song_name"
+        },
+        {
+          "start": 21,
+          "end": 27,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "repeat the current song",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "turn off shuffle",
+      "intent": "music_settings",
+      "entities": []
+    },
+    {
+      "text": "replay the musics",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "replay",
+          "entity": "player_setting"
+        }
+      ]
+    }
+  ]
+}

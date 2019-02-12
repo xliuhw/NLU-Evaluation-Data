@@ -1,0 +1,318 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "don't let me forget i have a parent teacher conference this monday at four hundred pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 29,
+          "end": 54,
+          "value": "parent teacher conference",
+          "entity": "event_name"
+        },
+        {
+          "start": 60,
+          "end": 66,
+          "value": "monday",
+          "entity": "date"
+        },
+        {
+          "start": 70,
+          "end": 85,
+          "value": "four hundred pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "alter lunch event to repeat every friday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "lunch",
+          "entity": "meal_type"
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "value": "every friday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "add event book club debbie's house wednesday night",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 15,
+          "end": 34,
+          "value": "club debbie's house",
+          "entity": "place_name"
+        },
+        {
+          "start": 35,
+          "end": 44,
+          "value": "wednesday",
+          "entity": "date"
+        },
+        {
+          "start": 45,
+          "end": 50,
+          "value": "night",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set a reminder alert for saturday nine am towards payment of electricity bill",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "saturday",
+          "entity": "date"
+        },
+        {
+          "start": 34,
+          "end": 41,
+          "value": "nine am",
+          "entity": "time"
+        },
+        {
+          "start": 50,
+          "end": 77,
+          "value": "payment of electricity bill",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "please remind me of all the nba scores in a week",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "remind me to take out the trash",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "set on second january about soccer match of manchester",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 7,
+          "end": 21,
+          "value": "second january",
+          "entity": "date"
+        },
+        {
+          "start": 28,
+          "end": 40,
+          "value": "soccer match",
+          "entity": "event_name"
+        },
+        {
+          "start": 44,
+          "end": 54,
+          "value": "manchester",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "remind me clock that i have a event",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "can you remind my next meeting with my boss one hour before it will happen",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 23,
+          "end": 30,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 39,
+          "end": 43,
+          "value": "boss",
+          "entity": "relation"
+        },
+        {
+          "start": 44,
+          "end": 52,
+          "value": "one hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set a notification for june fifth every year",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 23,
+          "end": 44,
+          "value": "june fifth every year",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "plan a meeting in office with all employees tomorrow morning at eight",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 44,
+          "end": 52,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 53,
+          "end": 69,
+          "value": "morning at eight",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set a thanks giving event for friday",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 6,
+          "end": 19,
+          "value": "thanks giving",
+          "entity": "event_name"
+        },
+        {
+          "start": 30,
+          "end": 36,
+          "value": "friday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remind me about my anniversary in one day advance",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 30,
+          "value": "anniversary",
+          "entity": "event_name"
+        },
+        {
+          "start": 31,
+          "end": 49,
+          "value": "in one day advance",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "on every tuesday remind me to go shopping",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 3,
+          "end": 16,
+          "value": "every tuesday",
+          "entity": "general_frequency"
+        }
+      ]
+    },
+    {
+      "text": "set event on recurring",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "schedule a sales meeting for wednesday at eleven am",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 11,
+          "end": 24,
+          "value": "sales meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 29,
+          "end": 38,
+          "value": "wednesday",
+          "entity": "date"
+        },
+        {
+          "start": 42,
+          "end": 51,
+          "value": "eleven am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please tell me to take my umbrella because it will be very hot today",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 18,
+          "end": 34,
+          "value": "take my umbrella",
+          "entity": "event_name"
+        },
+        {
+          "start": 63,
+          "end": 68,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remind me to go grocery shopping today",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 33,
+          "end": 38,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "set a notification on third march about company meeting",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 22,
+          "end": 33,
+          "value": "third march",
+          "entity": "date"
+        },
+        {
+          "start": 40,
+          "end": 55,
+          "value": "company meeting",
+          "entity": "event_name"
+        }
+      ]
+    }
+  ]
+}

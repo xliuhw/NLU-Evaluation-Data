@@ -1,0 +1,370 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "book me a train ride",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book a train for me",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "order a train ticket to los angeles",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 24,
+          "end": 35,
+          "value": "los angeles",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "get a me a train ticket to milwaukee from chicago on sunday morning",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 27,
+          "end": 36,
+          "value": "milwaukee",
+          "entity": "place_name"
+        },
+        {
+          "start": 42,
+          "end": 49,
+          "value": "chicago",
+          "entity": "place_name"
+        },
+        {
+          "start": 53,
+          "end": 59,
+          "value": "sunday",
+          "entity": "date"
+        },
+        {
+          "start": 60,
+          "end": 67,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "book me a train ticket to barcelona please",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 26,
+          "end": 35,
+          "value": "barcelona",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i need to book a train ticket from mumbai to goa",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 48,
+          "value": "mumbai to goa",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please purchase me a train ticket to atlanta",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 37,
+          "end": 44,
+          "value": "atlanta",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i need a train ticket traveling to new york in may",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 43,
+          "value": "new york",
+          "entity": "place_name"
+        },
+        {
+          "start": 47,
+          "end": 50,
+          "value": "may",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "hey i want to get trains to manchester on Wednesday",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 28,
+          "end": 38,
+          "value": "manchester",
+          "entity": "place_name"
+        },
+        {
+          "start": 42,
+          "end": 51,
+          "value": "Wednesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "book a train ticket for tomorrow going to new york",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 24,
+          "end": 32,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 42,
+          "end": 50,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book my train ticket from las vegas to los angeles",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 26,
+          "end": 35,
+          "value": "las vegas",
+          "entity": "place_name"
+        },
+        {
+          "start": 39,
+          "end": 50,
+          "value": "los angeles",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "ticket for delhi",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "delhi",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find a non stop train to seattle",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 25,
+          "end": 32,
+          "value": "seattle",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find train ticket",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "can you book me a train ticket to bombay for tomorrow in any train",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 34,
+          "end": 40,
+          "value": "bombay",
+          "entity": "place_name"
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i want a train ticket from boston to new york",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 27,
+          "end": 33,
+          "value": "boston",
+          "entity": "place_name"
+        },
+        {
+          "start": 37,
+          "end": 45,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "look for train tickets to edinburgh tomorrow",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 26,
+          "end": 35,
+          "value": "edinburgh",
+          "entity": "place_name"
+        },
+        {
+          "start": 36,
+          "end": 44,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i need a train ticket to",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book for me a train ticket to washingdon dc",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 30,
+          "end": 43,
+          "value": "washingdon dc",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

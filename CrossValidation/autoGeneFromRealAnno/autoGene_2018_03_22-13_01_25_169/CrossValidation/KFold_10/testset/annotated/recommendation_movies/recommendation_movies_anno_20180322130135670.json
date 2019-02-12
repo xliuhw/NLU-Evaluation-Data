@@ -1,0 +1,204 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "do you have any suggestion action movies",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 27,
+          "end": 33,
+          "value": "action",
+          "entity": "movie_type"
+        }
+      ]
+    },
+    {
+      "text": "can you suggest a good drama for me to watch",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 23,
+          "end": 28,
+          "value": "drama",
+          "entity": "movie_type"
+        }
+      ]
+    },
+    {
+      "text": "are there any good movies running in nearby theaters",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 44,
+          "end": 52,
+          "value": "theaters",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "i need a good chick flick any thoughts",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 14,
+          "end": 25,
+          "value": "chick flick",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "what movie are playing near me",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what movie should i go see",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what highly rated movies are playing this weekend",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 37,
+          "end": 49,
+          "value": "this weekend",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "deadpool",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "deadpool",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me which movie is going on in the nearby multiplex",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "movie",
+          "entity": "event_name"
+        },
+        {
+          "start": 47,
+          "end": 63,
+          "value": "nearby multiplex",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "inform me about the most popular rom com movie playing now in theatres across new york",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 33,
+          "end": 40,
+          "value": "rom com",
+          "entity": "movie_type"
+        },
+        {
+          "start": 78,
+          "end": 86,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is logan a good movie to watch",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 3,
+          "end": 8,
+          "value": "logan",
+          "entity": "movie_name"
+        }
+      ]
+    },
+    {
+      "text": "show me movie times",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "Show times for nearest theater",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 23,
+          "end": 30,
+          "value": "theater",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "name a rom com movie playing in and around new york theatres",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "rom com",
+          "entity": "movie_type"
+        },
+        {
+          "start": 43,
+          "end": 51,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "two thousand and seventeen movies",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what movie do you recommend tonight",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 28,
+          "end": 35,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "what movies are showing in cinema today",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 27,
+          "end": 33,
+          "value": "cinema",
+          "entity": "business_type"
+        },
+        {
+          "start": 34,
+          "end": 39,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

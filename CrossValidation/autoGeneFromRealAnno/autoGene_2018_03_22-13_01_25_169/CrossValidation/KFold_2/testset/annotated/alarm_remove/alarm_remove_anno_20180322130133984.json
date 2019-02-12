@@ -1,0 +1,106 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "delete alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "remove the latest alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "stop wake up calls for this week",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "wake up",
+          "entity": "alarm_type"
+        },
+        {
+          "start": 23,
+          "end": 32,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remove the first alarm",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "remove my earliest alarm for tomorrow",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 29,
+          "end": 37,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "kickball is over i do not need the alarm for kickball on wednesday evening any longer",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 57,
+          "end": 66,
+          "value": "wednesday",
+          "entity": "date"
+        },
+        {
+          "start": 67,
+          "end": 74,
+          "value": "evening",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "remove all alarms",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "take off my alarms",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "cancel my seven am alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "seven am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "disable all alarms set for today",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "olly cancel alarms",
+      "intent": "alarm_remove",
+      "entities": []
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i want to hear purple haze",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 15,
+          "end": 26,
+          "value": "purple haze",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "hips dont lie thats the song i would like you to play for me",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "hips dont lie",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "pull up my party playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 11,
+          "end": 25,
+          "value": "party playlist",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "play green day",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "green day",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "run indian folk song",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 4,
+          "end": 15,
+          "value": "indian folk",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "i would like to hear heathens by twenty one pilots",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "heathens",
+          "entity": "song_name"
+        },
+        {
+          "start": 33,
+          "end": 50,
+          "value": "twenty one pilots",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to hear tum hi ho next",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 15,
+          "end": 24,
+          "value": "tum hi ho",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play a song that will make me smile",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play thinking out loud next",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 22,
+          "value": "thinking out loud",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play hopsin from my latest playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "hopsin",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to listen to soft rock",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "soft rock",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "i would like to hear some rap music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 26,
+          "end": 29,
+          "value": "rap",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "initiate celine dion music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 9,
+          "end": 20,
+          "value": "celine dion",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "find and queue all songs of kate perry and play all without shuffling",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 28,
+          "end": 38,
+          "value": "kate perry",
+          "entity": "artist_name"
+        },
+        {
+          "start": 52,
+          "end": 69,
+          "value": "without shuffling",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "start playing my song list",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "i want to hear chopin now",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 15,
+          "end": 21,
+          "value": "chopin",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play workout playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 11,
+          "end": 27,
+          "value": "workout playlist",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "play all songs by metallica on shuffle",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 18,
+          "end": 27,
+          "value": "metallica",
+          "entity": "artist_name"
+        },
+        {
+          "start": 31,
+          "end": 38,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "play what live",
+      "intent": "play_music",
+      "entities": []
+    }
+  ]
+}

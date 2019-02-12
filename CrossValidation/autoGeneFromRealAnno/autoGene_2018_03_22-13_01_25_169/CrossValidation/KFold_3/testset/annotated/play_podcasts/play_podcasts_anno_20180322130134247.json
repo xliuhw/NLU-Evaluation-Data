@@ -1,0 +1,221 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "go to next episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 6,
+          "end": 18,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "skip",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "start podcast from my favorites list",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "start",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "start next episode playing",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "start",
+          "entity": "player_setting"
+        },
+        {
+          "start": 6,
+          "end": 18,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "please play the podcast from happypeoplecom",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 29,
+          "end": 43,
+          "value": "happypeoplecom",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "show me the top rated podcasts",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "top rated",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "find me a podcast on wrestling",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "can you backward an episode in the podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "backward",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "move to next episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "move",
+          "entity": "player_setting"
+        },
+        {
+          "start": 8,
+          "end": 20,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "start podcast mlb daily",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 14,
+          "end": 23,
+          "value": "mlb daily",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "start podcasts on nfl",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 18,
+          "end": 21,
+          "value": "nfl",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to hear this podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "skip to next podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 8,
+          "end": 20,
+          "value": "next podcast",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "can you play the next podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 17,
+          "end": 29,
+          "value": "next podcast",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play the next episode of the BBC tech podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 9,
+          "end": 21,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        },
+        {
+          "start": 29,
+          "end": 37,
+          "value": "BBC tech",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "please play forward episode in quantico",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 12,
+          "end": 27,
+          "value": "forward episode",
+          "entity": "podcast_descriptor"
+        },
+        {
+          "start": 31,
+          "end": 39,
+          "value": "quantico",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "vitaly channel",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 14,
+          "value": "vitaly channel",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "podcast play",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "skip ahead to the next podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    }
+  ]
+}

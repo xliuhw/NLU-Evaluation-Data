@@ -1,0 +1,217 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "find recipe chicken casserole",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 12,
+          "end": 29,
+          "value": "chicken casserole",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "what type of cheese do i need for my enchiladas",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 37,
+          "end": 47,
+          "value": "enchiladas",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "recipes that can be cooked in an hour",
+      "intent": "cooking_recipe",
+      "entities": []
+    },
+    {
+      "text": "what are the steps for biriyani meal",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 23,
+          "end": 36,
+          "value": "biriyani meal",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to know how to make a chicken in the oven",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 29,
+          "end": 36,
+          "value": "chicken",
+          "entity": "food_type"
+        },
+        {
+          "start": 44,
+          "end": 48,
+          "value": "oven",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "how can i cook pizza",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "pizza",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "do you know how to cook risotto",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "risotto",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "find a recipe for homemade bread",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 18,
+          "end": 32,
+          "value": "homemade bread",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "how do i deglaze a pan",
+      "intent": "cooking_recipe",
+      "entities": []
+    },
+    {
+      "text": "what ingredient can be used to replace white wine",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 39,
+          "end": 49,
+          "value": "white wine",
+          "entity": "ingredient"
+        }
+      ]
+    },
+    {
+      "text": "give me instructions on how to cook chicken",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 36,
+          "end": 43,
+          "value": "chicken",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "how do you pan sear a porterhouse steak",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 22,
+          "end": 39,
+          "value": "porterhouse steak",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "bring up a recipe for turkey meatballs",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 22,
+          "end": 38,
+          "value": "turkey meatballs",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "Show chicken tikka recipe",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "chicken tikka",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "how many calories are in a one divided by of peanuts",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 45,
+          "end": 52,
+          "value": "peanuts",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the difference between bake and broil",
+      "intent": "cooking_recipe",
+      "entities": []
+    },
+    {
+      "text": "find the correct temperature for frying a whole turkey",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 42,
+          "end": 54,
+          "value": "whole turkey",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "how do i cook a medium rare steak",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 16,
+          "end": 33,
+          "value": "medium rare steak",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to see the recipe of veg biryani",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 28,
+          "end": 39,
+          "value": "veg biryani",
+          "entity": "food_type"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "can i pick up my large order at pizza hut",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 41,
+          "value": "pizza hut",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "does restaurant has home delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 25,
+          "end": 33,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "do they deliver",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "deliver",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does pings have takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "pings",
+          "entity": "business_name"
+        },
+        {
+          "start": 16,
+          "end": 24,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "hows the food order going",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "does dominos has a delivery option",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "dominos",
+          "entity": "business_name"
+        },
+        {
+          "start": 19,
+          "end": 27,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "what asian restaurants nearby offer to go food",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "asian",
+          "entity": "food_type"
+        },
+        {
+          "start": 11,
+          "end": 22,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "check the status of my pizza hut order please",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 32,
+          "value": "pizza hut",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "when will my chinese food be delivered",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 20,
+          "value": "chinese",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "does fongs do carry out",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "fongs",
+          "entity": "business_name"
+        },
+        {
+          "start": 14,
+          "end": 23,
+          "value": "carry out",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "status of take away",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 19,
+          "value": "take away",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "is mr pizza on skip the dishes",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 11,
+          "value": "mr pizza",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "does peking garden take orders over the phone",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "peking garden",
+          "entity": "business_name"
+        },
+        {
+          "start": 31,
+          "end": 45,
+          "value": "over the phone",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does peking garden do orders online",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "peking garden",
+          "entity": "business_name"
+        },
+        {
+          "start": 22,
+          "end": 35,
+          "value": "orders online",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does this place do takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "can i order olive garden to go",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 24,
+          "value": "olive garden",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "when is my order arriving",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "check on the delivery of my current order",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 21,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "check the dish price and all",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "dish",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "reviews of the restaurants",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 26,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "domino's has takeaway right",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "domino",
+          "entity": "business_name"
+        },
+        {
+          "start": 13,
+          "end": 21,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "where can i get a shot of tequila and some to go mexican food",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 33,
+          "value": "tequila",
+          "entity": "food_type"
+        },
+        {
+          "start": 49,
+          "end": 56,
+          "value": "mexican",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "does that restaurant allow call in orders",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 20,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 27,
+          "end": 34,
+          "value": "call in",
+          "entity": "order_type"
+        }
+      ]
+    }
+  ]
+}

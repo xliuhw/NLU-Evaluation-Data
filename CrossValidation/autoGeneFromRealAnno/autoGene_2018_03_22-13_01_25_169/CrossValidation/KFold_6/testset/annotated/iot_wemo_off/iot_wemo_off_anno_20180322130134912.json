@@ -1,0 +1,98 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "switch off the power",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "power",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "switch off the wemo plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 15,
+          "end": 31,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off the tv in",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 13,
+          "end": 15,
+          "value": "tv",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "switch wemo plug socket off",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 7,
+          "end": 23,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please turn off the wemo plug",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "wemo plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "power off please",
+      "intent": "iot_wemo_off",
+      "entities": []
+    },
+    {
+      "text": "shut down the plug",
+      "intent": "iot_wemo_off",
+      "entities": []
+    },
+    {
+      "text": "please mark the wemo socket to off",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "wemo",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "wemo plug socket off",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 0,
+          "end": 16,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

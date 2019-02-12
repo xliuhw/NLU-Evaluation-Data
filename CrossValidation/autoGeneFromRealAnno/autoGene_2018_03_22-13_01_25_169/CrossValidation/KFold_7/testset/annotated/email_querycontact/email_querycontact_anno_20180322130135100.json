@@ -1,0 +1,271 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "is this the correct area code for my boss",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 37,
+          "end": 41,
+          "value": "boss",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "tell contact mobile number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 13,
+          "end": 26,
+          "value": "mobile number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me the contact information of jo",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "jay's phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 0,
+          "end": 3,
+          "value": "jay",
+          "entity": "person"
+        },
+        {
+          "start": 6,
+          "end": 18,
+          "value": "phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "is bills house number in my contacts",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 3,
+          "end": 8,
+          "value": "bills",
+          "entity": "person"
+        },
+        {
+          "start": 9,
+          "end": 21,
+          "value": "house number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "please open my contact list",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 15,
+          "end": 27,
+          "value": "contact list",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what is amber stevens address it is in my contacts",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 21,
+          "value": "amber stevens",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please check and tell me where is the location of toms new business",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 38,
+          "end": 46,
+          "value": "location",
+          "entity": "personal_info"
+        },
+        {
+          "start": 50,
+          "end": 54,
+          "value": "toms",
+          "entity": "person"
+        },
+        {
+          "start": 55,
+          "end": 67,
+          "value": "new business",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "tell me about mary s. in my contacts",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 14,
+          "end": 21,
+          "value": "mary s.",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "is it anyone i knows birthday this month",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "birthday",
+          "entity": "event_name"
+        },
+        {
+          "start": 30,
+          "end": 40,
+          "value": "this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "when is john's birthday",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "john",
+          "entity": "person"
+        },
+        {
+          "start": 15,
+          "end": 23,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "do i have any missed call from patrick",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 31,
+          "end": 38,
+          "value": "patrick",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how can i contact this person",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "how old is joanne",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 7,
+          "value": "old",
+          "entity": "personal_info"
+        },
+        {
+          "start": 11,
+          "end": 17,
+          "value": "joanne",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "provide contact location",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "location",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "can you please give me john's email",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 23,
+          "end": 27,
+          "value": "john",
+          "entity": "person"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "email",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me the phone number of me",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "what is john's last name",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "john",
+          "entity": "person"
+        },
+        {
+          "start": 15,
+          "end": 24,
+          "value": "last name",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "please check and tell me contact details of mongomery llc company",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 25,
+          "end": 40,
+          "value": "contact details",
+          "entity": "personal_info"
+        },
+        {
+          "start": 44,
+          "end": 65,
+          "value": "mongomery llc company",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

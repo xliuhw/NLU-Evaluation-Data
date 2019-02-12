@@ -1,0 +1,161 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "initiate polling for new email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "show me the latest emails from amazon",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 37,
+          "value": "amazon",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "hey check emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "do i have email from my friend rachel",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 30,
+          "value": "friend",
+          "entity": "relation"
+        },
+        {
+          "start": 31,
+          "end": 37,
+          "value": "rachel",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how many emails do i have in the last fifteen minutes",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 38,
+          "end": 53,
+          "value": "fifteen minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "have i gotten any emails lately",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "has amy sent me any new emails",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 7,
+          "value": "amy",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "do i have any new emails from dan",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 33,
+          "value": "dan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "read unchecked email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "update on email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "what were the first number of email subjects i got today",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 51,
+          "end": 56,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what new messages do i have",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "play back the last message",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "what are my newest emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "open email for unread mails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "are any of my new emails from amy",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 33,
+          "value": "amy",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "which new emails were received",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "show me the email of jack",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 25,
+          "value": "jack",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "list all emails with subject contract",
+      "intent": "email_query",
+      "entities": []
+    }
+  ]
+}

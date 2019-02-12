@@ -1,0 +1,220 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "send a confirmation email to sandy",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 29,
+          "end": 34,
+          "value": "sandy",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "reply to the mail with the following content hello you",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send will do thanks to john as a reply to his last message",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 23,
+          "end": 27,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send email to mom and tell her see her at disney world",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 17,
+          "value": "mom",
+          "entity": "relation"
+        },
+        {
+          "start": 42,
+          "end": 54,
+          "value": "disney world",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "text sarah if she is free for brunch today",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "sarah",
+          "entity": "person"
+        },
+        {
+          "start": 30,
+          "end": 36,
+          "value": "brunch",
+          "entity": "event_name"
+        },
+        {
+          "start": 37,
+          "end": 42,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "respond back to the mail",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "forward email",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "start and email to john smith",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 19,
+          "end": 29,
+          "value": "john smith",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "i need to send an email to michael",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 27,
+          "end": 34,
+          "value": "michael",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send answer to george",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 15,
+          "end": 21,
+          "value": "george",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "email mahmoud",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "mahmoud",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send email to robert, what time is dinner",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 14,
+          "end": 20,
+          "value": "robert",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send this email to reply to the latest emails",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send an email to juanpedro@gmail dot com",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 17,
+          "end": 40,
+          "value": "juanpedro@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "mahaboobsayyad@gmail dot com",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 0,
+          "end": 28,
+          "value": "mahaboobsayyad@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "can you send an email for me to a new email address",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "send mail to bubbles i want to meet her tomorrow at two pm in office",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 13,
+          "end": 20,
+          "value": "bubbles",
+          "entity": "person"
+        },
+        {
+          "start": 40,
+          "end": 48,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 52,
+          "end": 58,
+          "value": "two pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "send an email to with the subject as test and no content",
+      "intent": "email_sendemail",
+      "entities": []
+    },
+    {
+      "text": "please start an email for my sister",
+      "intent": "email_sendemail",
+      "entities": [
+        {
+          "start": 29,
+          "end": 35,
+          "value": "sister",
+          "entity": "relation"
+        }
+      ]
+    }
+  ]
+}

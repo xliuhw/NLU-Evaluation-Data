@@ -1,0 +1,358 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "search for two tickets on tuesday's train to paris",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 26,
+          "end": 33,
+          "value": "tuesday",
+          "entity": "date"
+        },
+        {
+          "start": 36,
+          "end": 41,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 45,
+          "end": 50,
+          "value": "paris",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i need to book rajdhani train ticket from mumbai to ahmedabad",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 24,
+          "end": 29,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 42,
+          "end": 61,
+          "value": "mumbai to ahmedabad",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you book a train ticket for me under dollars",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 41,
+          "end": 48,
+          "value": "dollars",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "bring me ticket of train to city leeds",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 33,
+          "end": 38,
+          "value": "leeds",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you book me a train ticket to boston for next tuesday",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 34,
+          "end": 40,
+          "value": "boston",
+          "entity": "place_name"
+        },
+        {
+          "start": 50,
+          "end": 57,
+          "value": "tuesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "book for me a train ticket to new york",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 30,
+          "end": 38,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book a train ticket on the five hundred and two in fifteen minutes",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 23,
+          "end": 47,
+          "value": "the five hundred and two",
+          "entity": "transport_name"
+        },
+        {
+          "start": 48,
+          "end": 66,
+          "value": "in fifteen minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "buy train ticket",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "i want you to book a train ticket for me",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book train ticket for this time",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book next ny train ticket",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 10,
+          "end": 12,
+          "value": "ny",
+          "entity": "place_name"
+        },
+        {
+          "start": 13,
+          "end": 18,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "get me a train ticket to go to",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "can you book train ticket from mumbai to sangli for tomorrow morning",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 31,
+          "end": 37,
+          "value": "mumbai",
+          "entity": "place_name"
+        },
+        {
+          "start": 41,
+          "end": 47,
+          "value": "sangli",
+          "entity": "place_name"
+        },
+        {
+          "start": 52,
+          "end": 60,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 61,
+          "end": 68,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "can you please book a train ticket for next saturday to boston",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 44,
+          "end": 52,
+          "value": "saturday",
+          "entity": "date"
+        },
+        {
+          "start": 56,
+          "end": 62,
+          "value": "boston",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book my chair class ac train ticket from manhattan to new york",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 23,
+          "end": 28,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 41,
+          "end": 50,
+          "value": "manhattan",
+          "entity": "place_name"
+        },
+        {
+          "start": 54,
+          "end": 62,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "book a ticket for the evening train line",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "evening",
+          "entity": "timeofday"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "can you book a train ticket",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "book me a train ticket for saturday",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 27,
+          "end": 35,
+          "value": "saturday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "go to www dot metronorth dot com for train tickets",
+      "intent": "transport_ticket",
+      "entities": [
+        {
+          "start": 37,
+          "end": 42,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    }
+  ]
+}

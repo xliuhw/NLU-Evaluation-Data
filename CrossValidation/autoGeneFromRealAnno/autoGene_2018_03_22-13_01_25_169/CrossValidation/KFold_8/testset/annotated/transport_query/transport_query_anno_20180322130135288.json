@@ -1,0 +1,283 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "display trains going to antwerp after two pm saturday",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "antwerp",
+          "entity": "place_name"
+        },
+        {
+          "start": 32,
+          "end": 44,
+          "value": "after two pm",
+          "entity": "time"
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "value": "saturday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "when does the next train to work leave",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "what time does the train depart from downtown los angeles to santa barbara",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 46,
+          "end": 57,
+          "value": "los angeles",
+          "entity": "place_name"
+        },
+        {
+          "start": 61,
+          "end": 74,
+          "value": "santa barbara",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "you need to find an alternate route to my destination",
+      "intent": "transport_query",
+      "entities": []
+    },
+    {
+      "text": "what time is the last train headed to chicago",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 38,
+          "end": 45,
+          "value": "chicago",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the route to the closest mcdonalds",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 42,
+          "value": "mcdonalds",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "when is the last train today",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 23,
+          "end": 28,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the most convenient hour to catch a train to york on Saturday",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 44,
+          "end": 49,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 53,
+          "end": 57,
+          "value": "york",
+          "entity": "place_name"
+        },
+        {
+          "start": 61,
+          "end": 69,
+          "value": "Saturday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "map out a route from here to abita brew pub",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 43,
+          "value": "abita brew pub",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "directions to mcdo",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "mcdo",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you find me a train ticket to montauk",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 34,
+          "end": 41,
+          "value": "montauk",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can i have timing of keral express",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 34,
+          "value": "keral express",
+          "entity": "transport_name"
+        }
+      ]
+    },
+    {
+      "text": "please list the available rain trips to location a",
+      "intent": "transport_query",
+      "entities": []
+    },
+    {
+      "text": "what street do i take to get to downtown",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 40,
+          "value": "downtown",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how do i get to starbucks",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 25,
+          "value": "starbucks",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "when is the next train to new york",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 26,
+          "end": 34,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what time does the train from new york come in",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 30,
+          "end": 38,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find me a train ticket for the next trip to washington dc",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 44,
+          "end": 57,
+          "value": "washington dc",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how to get somewhere",
+      "intent": "transport_query",
+      "entities": []
+    }
+  ]
+}

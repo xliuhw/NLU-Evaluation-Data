@@ -1,0 +1,192 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "initialize the robot vacuum",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 15,
+          "end": 27,
+          "value": "robot vacuum",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "there is a pile of torn paper on the rug to suck up",
+      "intent": "iot_cleaning",
+      "entities": []
+    },
+    {
+      "text": "start vacuuming now please",
+      "intent": "iot_cleaning",
+      "entities": []
+    },
+    {
+      "text": "let's suck out the dust",
+      "intent": "iot_cleaning",
+      "entities": []
+    },
+    {
+      "text": "turn my iroomba on",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "iroomba",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "initiate vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 9,
+          "end": 23,
+          "value": "vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "vacuum the house",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "house",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "is there anything i need to know before i activate the robot vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 55,
+          "end": 75,
+          "value": "robot vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn on vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 8,
+          "end": 22,
+          "value": "vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "start the robot vacuum cleaner at one pm today",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 10,
+          "end": 30,
+          "value": "robot vacuum cleaner",
+          "entity": "device_type"
+        },
+        {
+          "start": 34,
+          "end": 40,
+          "value": "one pm",
+          "entity": "time"
+        },
+        {
+          "start": 41,
+          "end": 46,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "take it in hand",
+      "intent": "iot_cleaning",
+      "entities": []
+    },
+    {
+      "text": "get the roomba to clean the kitchen",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "roomba",
+          "entity": "device_type"
+        },
+        {
+          "start": 28,
+          "end": 35,
+          "value": "kitchen",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "start the robot vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 10,
+          "end": 30,
+          "value": "robot vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "put on the vacuum on now and clean the living room",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 11,
+          "end": 17,
+          "value": "vacuum",
+          "entity": "device_type"
+        },
+        {
+          "start": 39,
+          "end": 50,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "clean the carpets",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "carpets",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "start robo vac",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 6,
+          "end": 14,
+          "value": "robo vac",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

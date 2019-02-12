@@ -1,0 +1,258 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how many minutes do i need to wait to pick up my food from china on the go",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 59,
+          "end": 74,
+          "value": "china on the go",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "check the status of my order",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "does the nearby chinese restaurant do delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 24,
+          "end": 34,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 38,
+          "end": 46,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "find my food",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "does the nearby pizza hut deliver in my area",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 25,
+          "value": "pizza hut",
+          "entity": "business_name"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "deliver",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "can i get the food to go",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "to go",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the phone number for the nearest location of church's chicken",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 24,
+          "value": "phone number",
+          "entity": "personal_info"
+        },
+        {
+          "start": 53,
+          "end": 69,
+          "value": "church's chicken",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "will arby's offer takeaway",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "arby",
+          "entity": "business_name"
+        },
+        {
+          "start": 18,
+          "end": 26,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "what's up with my order",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "does this restaurant only do carryout",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 20,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 29,
+          "end": 37,
+          "value": "carryout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "call the restaurant to see if the delivery is on the way",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 19,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 34,
+          "end": 42,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "look up whether or not charley's steakhouse delivers",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 43,
+          "value": "charley's steakhouse",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "when will by order from taco bell be delivered",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 33,
+          "value": "taco bell",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "i just ordered food call and see it has been delivered",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 45,
+          "end": 54,
+          "value": "delivered",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "what is happening to my order",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "can i get takeaway from arby's",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 28,
+          "value": "arby",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "domino's delivery status",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "domino",
+          "entity": "business_name"
+        },
+        {
+          "start": 9,
+          "end": 17,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "please takeaway of giving required of the restaurant",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 42,
+          "end": 52,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "please find out of charley's steakhouse delivers",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 39,
+          "value": "charley's steakhouse",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

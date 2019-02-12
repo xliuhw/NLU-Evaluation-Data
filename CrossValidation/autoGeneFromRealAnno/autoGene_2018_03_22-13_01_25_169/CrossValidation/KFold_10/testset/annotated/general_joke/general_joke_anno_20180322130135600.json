@@ -1,0 +1,149 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i need a naughty joke not to naughty though",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "naughty",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "what is a funny joke about car",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "funny",
+          "entity": "joke_type"
+        },
+        {
+          "start": 27,
+          "end": 30,
+          "value": "car",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "what's the famous monty python joke about the bird",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "what's the funniest joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "funniest",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "whats a silly joke you know",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "silly",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me jokes",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "tell a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "crack a joke",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "what's the latest joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 11,
+          "end": 17,
+          "value": "latest",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "a priest walks into a bar",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 2,
+          "end": 8,
+          "value": "priest",
+          "entity": "relation"
+        },
+        {
+          "start": 22,
+          "end": 25,
+          "value": "bar",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "whats a good joke",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "good",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me something funny",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "funny",
+          "entity": "joke_type"
+        }
+      ]
+    },
+    {
+      "text": "tell a joke that puts smile on my face",
+      "intent": "general_joke",
+      "entities": []
+    },
+    {
+      "text": "can i hear the joke about the old woman again",
+      "intent": "general_joke",
+      "entities": [
+        {
+          "start": 20,
+          "end": 39,
+          "value": "about the old woman",
+          "entity": "joke_type"
+        }
+      ]
+    }
+  ]
+}

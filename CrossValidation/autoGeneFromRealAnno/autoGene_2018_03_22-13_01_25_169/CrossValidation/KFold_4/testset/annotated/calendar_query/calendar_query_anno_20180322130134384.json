@@ -1,0 +1,244 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is my next reminder",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "how soon is my anniversary",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 26,
+          "value": "anniversary",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what meetings are available in march",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 13,
+          "value": "meetings",
+          "entity": "event_name"
+        },
+        {
+          "start": 31,
+          "end": 36,
+          "value": "march",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is on the agenda for the four pm meeting with joe",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 37,
+          "value": "four pm",
+          "entity": "time"
+        },
+        {
+          "start": 51,
+          "end": 54,
+          "value": "joe",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell me what is on the schedule for july seventh",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 48,
+          "value": "july seventh",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "was my meeting today rescheduled",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 15,
+          "end": 20,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "where is tuesday's morning meeting",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "tuesday",
+          "entity": "date"
+        },
+        {
+          "start": 19,
+          "end": 26,
+          "value": "morning",
+          "entity": "timeofday"
+        },
+        {
+          "start": 27,
+          "end": 34,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "my events",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "what's my next appointment",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 26,
+          "value": "appointment",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "whats going on in my calendar",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "what else is on the list",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "what time does the dinner party start tonight",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 31,
+          "value": "dinner party",
+          "entity": "event_name"
+        },
+        {
+          "start": 38,
+          "end": 45,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "do i have a sales meeting today",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 25,
+          "value": "sales meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please tell me when's my financial meeting",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 42,
+          "value": "financial meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "confirm that my notification is set to remind me when i leave",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "open my calendar",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "when will the match start",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "match",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "do i have a meeting today",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 19,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 20,
+          "end": 25,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "shall we meet for today's party",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "value": "party",
+          "entity": "event_name"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "where does john smith live and what is his phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 21,
+          "value": "john smith",
+          "entity": "person"
+        },
+        {
+          "start": 43,
+          "end": 55,
+          "value": "phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "when was the last time that i spoke to john",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 39,
+          "end": 43,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "make a call to",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "what's the email address of silvia",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 24,
+          "value": "email address",
+          "entity": "personal_info"
+        },
+        {
+          "start": 28,
+          "end": 34,
+          "value": "silvia",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please find a mail address of manoj and tell me",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 14,
+          "end": 26,
+          "value": "mail address",
+          "entity": "personal_info"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "manoj",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "check in contacts",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "does mary smith live on main street",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "mary smith",
+          "entity": "person"
+        },
+        {
+          "start": 24,
+          "end": 35,
+          "value": "main street",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "hey ms the email address of john miller",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 24,
+          "value": "email address",
+          "entity": "personal_info"
+        },
+        {
+          "start": 28,
+          "end": 39,
+          "value": "john miller",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is email id of john",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "email id",
+          "entity": "personal_info"
+        },
+        {
+          "start": 20,
+          "end": 24,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how many numbers are saved for alex",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "numbers",
+          "entity": "personal_info"
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "value": "alex",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what's john's home phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "john",
+          "entity": "person"
+        },
+        {
+          "start": 19,
+          "end": 31,
+          "value": "phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "what do you know about mary",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 23,
+          "end": 27,
+          "value": "mary",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "who is the most frequently called person in my phone book",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 47,
+          "end": 57,
+          "value": "phone book",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "what is joe joe's home address",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "joe joe",
+          "entity": "person"
+        },
+        {
+          "start": 18,
+          "end": 30,
+          "value": "home address",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "please let me know when is sam's birthday",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 27,
+          "end": 30,
+          "value": "sam",
+          "entity": "person"
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "call raju phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "raju",
+          "entity": "person"
+        },
+        {
+          "start": 10,
+          "end": 22,
+          "value": "phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "open the contact alex in phonebook",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 17,
+          "end": 21,
+          "value": "alex",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is my daughter's phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 19,
+          "value": "my daughter",
+          "entity": "relation"
+        },
+        {
+          "start": 22,
+          "end": 34,
+          "value": "phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "tell me the office address of my brother",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 12,
+          "end": 26,
+          "value": "office address",
+          "entity": "personal_info"
+        },
+        {
+          "start": 33,
+          "end": 40,
+          "value": "brother",
+          "entity": "relation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "remove the next event on my calendar",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "format the calendar",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "remove the board meeting and reschedule for next wednesday",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 24,
+          "value": "board meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 49,
+          "end": 58,
+          "value": "wednesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "delete event from mine",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "cancel the event valentine's day from the calendar",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 17,
+          "end": 32,
+          "value": "valentine's day",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "remove my meeting today at one pm",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 27,
+          "end": 33,
+          "value": "one pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "i no longer need to see the doctor can that event be removed",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 28,
+          "end": 34,
+          "value": "doctor",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "please remove march nineteenth's scheduled event",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 14,
+          "end": 30,
+          "value": "march nineteenth",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "make sure there is no events on my calendar",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "remove all the events on my calendar",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "delete my meeting event for march nineteen at one pm",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 28,
+          "end": 42,
+          "value": "march nineteen",
+          "entity": "date"
+        },
+        {
+          "start": 46,
+          "end": 52,
+          "value": "one pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remove upcoming task",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "remove emma's birthday from events",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "emma",
+          "entity": "person"
+        },
+        {
+          "start": 14,
+          "end": 22,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "in my calendar delete all of my golf events for the current month",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 32,
+          "end": 43,
+          "value": "golf events",
+          "entity": "event_name"
+        },
+        {
+          "start": 60,
+          "end": 65,
+          "value": "month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "erase calendar events",
+      "intent": "calendar_remove",
+      "entities": []
+    },
+    {
+      "text": "take lunch meeting off my calendar",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "lunch meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "delete all my events for tomorrow",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "delete the party on june first from my calendar",
+      "intent": "calendar_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "party",
+          "entity": "event_name"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "value": "june first",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can to please clear my calendar of all events",
+      "intent": "calendar_remove",
+      "entities": []
+    }
+  ]
+}

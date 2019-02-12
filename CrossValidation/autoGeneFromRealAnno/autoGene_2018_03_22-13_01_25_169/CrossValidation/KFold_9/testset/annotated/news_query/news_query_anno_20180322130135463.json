@@ -1,0 +1,242 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what's happening in news express",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 32,
+          "value": "news express",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "give me the news on donald trump",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 32,
+          "value": "donald trump",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "whats happening in football today",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "football",
+          "entity": "news_topic"
+        },
+        {
+          "start": 28,
+          "end": 33,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is currently breaking news",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "are there any status updates on cnn news facebook page",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 35,
+          "value": "cnn",
+          "entity": "media_type"
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "newest world news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "world",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "any local news stories for my home city",
+      "intent": "news_query",
+      "entities": []
+    },
+    {
+      "text": "what's going on in new york",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please provide world hot news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "world",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me if an earthquake happens in the world",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 24,
+          "value": "earthquake",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "can you get me news from ny times",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 27,
+          "value": "ny",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "current news cnn",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 16,
+          "value": "cnn",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "show me the latest news from the un",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 35,
+          "value": "un",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "read me the front page of the new york times",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 44,
+          "value": "new york times",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "please tell me some international news",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 33,
+          "value": "international",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "will trump visit russia anytime soon",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "trump",
+          "entity": "person"
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "value": "russia",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the news today in polk county florida",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 26,
+          "end": 45,
+          "value": "polk county florida",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "did the yankees win last night",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 30,
+          "value": "last night",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "give me election updates",
+      "intent": "news_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "election",
+          "entity": "news_topic"
+        }
+      ]
+    }
+  ]
+}

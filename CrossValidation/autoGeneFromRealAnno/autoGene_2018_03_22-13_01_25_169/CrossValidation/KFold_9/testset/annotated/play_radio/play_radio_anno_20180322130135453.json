@@ -1,0 +1,189 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please tune in to fm ninety five",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 18,
+          "end": 32,
+          "value": "fm ninety five",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "radio play nine hundred and eighty nine please",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 11,
+          "end": 39,
+          "value": "nine hundred and eighty nine",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "lets hear it from fm ninety six point five",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 18,
+          "end": 42,
+          "value": "fm ninety six point five",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "open pandora play rock station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "pandora",
+          "entity": "app_name"
+        },
+        {
+          "start": 18,
+          "end": 22,
+          "value": "rock",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "start radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "the radio should play only on nine hundred and ninety nine fm",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 30,
+          "end": 61,
+          "value": "nine hundred and ninety nine fm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play all the programs pertaining to rock songs on the radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "please turn on radio on seven am",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 24,
+          "end": 32,
+          "value": "seven am",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "start radio play",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "i want to hear this radio station now",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play the jazz station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "jazz",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "i'd like to listen to my favorite morning show in the car on the way to work please",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 34,
+          "end": 46,
+          "value": "morning show",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play my favorite radio station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 17,
+          "end": 30,
+          "value": "radio station",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "broadcast the health show from the kitchen",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 35,
+          "end": 42,
+          "value": "kitchen",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "switch on the radio and play hello fm station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 29,
+          "end": 45,
+          "value": "hello fm station",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "please play the radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "can you put on the next i heart music radio show",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 19,
+          "end": 48,
+          "value": "next i heart music radio show",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "tune into my selected station",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play the radio station",
+      "intent": "play_radio",
+      "entities": []
+    }
+  ]
+}

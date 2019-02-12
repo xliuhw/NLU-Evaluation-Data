@@ -1,0 +1,452 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "put my brother's birthday in my calendar for july fourth",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "brother",
+          "entity": "relation"
+        },
+        {
+          "start": 17,
+          "end": 25,
+          "value": "birthday",
+          "entity": "event_name"
+        },
+        {
+          "start": 45,
+          "end": 56,
+          "value": "july fourth",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "add jane's birthday party at one hundred and twenty three main for two pm tomorrow on my calendar",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "jane",
+          "entity": "person"
+        },
+        {
+          "start": 11,
+          "end": 25,
+          "value": "birthday party",
+          "entity": "event_name"
+        },
+        {
+          "start": 29,
+          "end": 73,
+          "value": "one hundred and twenty three main for two pm",
+          "entity": "time"
+        },
+        {
+          "start": 74,
+          "end": 82,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "schedule my meeting with my girlfriend lisa in the night today at nine pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 12,
+          "end": 19,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 28,
+          "end": 43,
+          "value": "girlfriend lisa",
+          "entity": "relation"
+        },
+        {
+          "start": 57,
+          "end": 62,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 66,
+          "end": 73,
+          "value": "nine pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "march fifth is john's birthday please place this on the calendar",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 0,
+          "end": 11,
+          "value": "march fifth",
+          "entity": "date"
+        },
+        {
+          "start": 15,
+          "end": 19,
+          "value": "john",
+          "entity": "person"
+        },
+        {
+          "start": 22,
+          "end": 30,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "take note of today as my first date with bob",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 22,
+          "end": 44,
+          "value": "my first date with bob",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "remember to remind me about client meet at four pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 28,
+          "end": 39,
+          "value": "client meet",
+          "entity": "event_name"
+        },
+        {
+          "start": 43,
+          "end": 50,
+          "value": "four pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "set reminder for tomorrow for this item",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can you remind me to check my clothes in a hour",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 21,
+          "end": 37,
+          "value": "check my clothes",
+          "entity": "event_name"
+        },
+        {
+          "start": 38,
+          "end": 47,
+          "value": "in a hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "give me the list of all events coming up in the next month and set notifications for all of them",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 48,
+          "end": 58,
+          "value": "next month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "thirteenth june is a day of election result please set it",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 0,
+          "end": 15,
+          "value": "thirteenth june",
+          "entity": "date"
+        },
+        {
+          "start": 28,
+          "end": 43,
+          "value": "election result",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "add my spin class to the calendar for Saturday at seven am",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 7,
+          "end": 17,
+          "value": "spin class",
+          "entity": "event_name"
+        },
+        {
+          "start": 38,
+          "end": 46,
+          "value": "Saturday",
+          "entity": "date"
+        },
+        {
+          "start": 50,
+          "end": 58,
+          "value": "seven am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please set this date to repeat",
+      "intent": "calendar_set",
+      "entities": []
+    },
+    {
+      "text": "make a repeating reminder for tomorrow",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 30,
+          "end": 38,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "thursday at three pm there is a teachers meeting i need to be reminded of",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "thursday",
+          "entity": "date"
+        },
+        {
+          "start": 12,
+          "end": 20,
+          "value": "three pm",
+          "entity": "time"
+        },
+        {
+          "start": 32,
+          "end": 48,
+          "value": "teachers meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "remind me to have launch with boss today at one pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 18,
+          "end": 34,
+          "value": "launch with boss",
+          "entity": "event_name"
+        },
+        {
+          "start": 35,
+          "end": 40,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 44,
+          "end": 50,
+          "value": "one pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remind me to take the casserole out of the oven at seven hundred and forty five pm",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 13,
+          "end": 47,
+          "value": "take the casserole out of the oven",
+          "entity": "event_name"
+        },
+        {
+          "start": 51,
+          "end": 82,
+          "value": "seven hundred and forty five pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please remind me that i have a meeting tomorrow ten in the morning",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 31,
+          "end": 38,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 39,
+          "end": 47,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 48,
+          "end": 51,
+          "value": "ten",
+          "entity": "time"
+        },
+        {
+          "start": 59,
+          "end": 66,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "add to calendar may two is mary's birthday repeat every year",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "may two",
+          "entity": "date"
+        },
+        {
+          "start": 27,
+          "end": 31,
+          "value": "mary",
+          "entity": "person"
+        },
+        {
+          "start": 34,
+          "end": 42,
+          "value": "birthday",
+          "entity": "event_name"
+        },
+        {
+          "start": 50,
+          "end": 60,
+          "value": "every year",
+          "entity": "general_frequency"
+        }
+      ]
+    },
+    {
+      "text": "call sarah",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "sarah",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send me notice of meeting wednesday nine am",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 18,
+          "end": 25,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 26,
+          "end": 35,
+          "value": "wednesday",
+          "entity": "date"
+        },
+        {
+          "start": 36,
+          "end": 43,
+          "value": "nine am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "the location is my office",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "office",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "on january twenty five set meeting for twelve",
+      "intent": "calendar_set",
+      "entities": [
+        {
+          "start": 3,
+          "end": 22,
+          "value": "january twenty five",
+          "entity": "date"
+        },
+        {
+          "start": 27,
+          "end": 34,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 39,
+          "end": 45,
+          "value": "twelve",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please put me your input to know my schedule",
+      "intent": "calendar_set",
+      "entities": []
+    }
+  ]
+}

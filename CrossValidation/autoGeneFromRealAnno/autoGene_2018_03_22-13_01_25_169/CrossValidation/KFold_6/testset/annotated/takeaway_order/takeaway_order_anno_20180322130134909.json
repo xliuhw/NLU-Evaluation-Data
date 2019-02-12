@@ -1,0 +1,302 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i want to order chinese takeout",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 24,
+          "end": 31,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "get me takeaway food",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "order spaghetti from spaghetti warehouse to bring home",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 6,
+          "end": 15,
+          "value": "spaghetti",
+          "entity": "food_type"
+        },
+        {
+          "start": 21,
+          "end": 40,
+          "value": "spaghetti warehouse",
+          "entity": "business_name"
+        },
+        {
+          "start": 44,
+          "end": 54,
+          "value": "bring home",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "macdonald shops",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 0,
+          "end": 15,
+          "value": "macdonald shops",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "place an order for a combo platter from china buffet",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 21,
+          "end": 34,
+          "value": "combo platter",
+          "entity": "food_type"
+        },
+        {
+          "start": 40,
+          "end": 52,
+          "value": "china buffet",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can i order takeaway from spanish place",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "spanish",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "confirm the order and send me the confirmation",
+      "intent": "takeaway_order",
+      "entities": []
+    },
+    {
+      "text": "order me a large ham and olive pizza from dominos",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 17,
+          "end": 36,
+          "value": "ham and olive pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 42,
+          "end": 49,
+          "value": "dominos",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please order my favorite dish from my favorite restaurant",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 47,
+          "end": 57,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to order a pizza from michael's pizza",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 29,
+          "end": 44,
+          "value": "michael's pizza",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to eat two pita gyros please and some diet coke",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 18,
+          "end": 28,
+          "value": "pita gyros",
+          "entity": "food_type"
+        },
+        {
+          "start": 45,
+          "end": 54,
+          "value": "diet coke",
+          "entity": "drink_type"
+        }
+      ]
+    },
+    {
+      "text": "what are the offers in uber eats",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 23,
+          "end": 32,
+          "value": "uber eats",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "hi i want to order fried chick with white sauce",
+      "intent": "takeaway_order",
+      "entities": []
+    },
+    {
+      "text": "order pizza from domino's",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "value": "domino",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "hey order a side of hot wings with my previous order",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 12,
+          "end": 29,
+          "value": "side of hot wings",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "put an order in for two pizzas from dominoes",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 24,
+          "end": 30,
+          "value": "pizzas",
+          "entity": "food_type"
+        },
+        {
+          "start": 36,
+          "end": 44,
+          "value": "dominoes",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "order takeout from pizza restaurant",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "takeout",
+          "entity": "order_type"
+        },
+        {
+          "start": 19,
+          "end": 24,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 25,
+          "end": 35,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "order chinese from china spring wonton soup and a small beef and broccoli",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 19,
+          "end": 43,
+          "value": "china spring wonton soup",
+          "entity": "business_name"
+        },
+        {
+          "start": 56,
+          "end": 73,
+          "value": "beef and broccoli",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "near pizza shops",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "pizza shops",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

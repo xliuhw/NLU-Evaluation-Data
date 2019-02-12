@@ -1,0 +1,24 @@
+{
+  "description": "this is new agent for auto-annoated data - general_confirm",
+  "language": "en",
+  "enabledDomainFeatures": [],
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1"
+  },
+  "defaultTimezone": "Etc/Greenwich",
+  "webhook": {
+    "available": false,
+    "useForDomains": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.2
+}

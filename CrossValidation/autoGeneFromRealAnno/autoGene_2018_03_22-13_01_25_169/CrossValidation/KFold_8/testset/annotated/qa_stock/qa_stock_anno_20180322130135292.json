@@ -1,0 +1,215 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "check stock prices on this",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "have i made loss in which stocks",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "find stock price for name",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "what is today's close of goog",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 25,
+          "end": 29,
+          "value": "goog",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the stock price for lexmark",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 28,
+          "end": 35,
+          "value": "lexmark",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can i have stock rate list of ola and uber",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 30,
+          "end": 33,
+          "value": "ola",
+          "entity": "business_name"
+        },
+        {
+          "start": 38,
+          "end": 42,
+          "value": "uber",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "open stock price for name",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "how is the exchange rate for microsoft",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 29,
+          "end": 38,
+          "value": "microsoft",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the stock price of this",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "how much does bde cost",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 14,
+          "end": 17,
+          "value": "bde",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the stock price of hdfc",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 27,
+          "end": 31,
+          "value": "hdfc",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me about price of stock for innova",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 33,
+          "end": 39,
+          "value": "innova",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me amd stock prices",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 8,
+          "end": 11,
+          "value": "amd",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "refer the stock price of hdfc",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 25,
+          "end": 29,
+          "value": "hdfc",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what apple trading at",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is motorola going for today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "motorola",
+          "entity": "business_name"
+        },
+        {
+          "start": 27,
+          "end": 32,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "give the stock price details of motorolla",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 32,
+          "end": 41,
+          "value": "motorolla",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "list the latest apple stock prices",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the price of starbuck's stock",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "starbuck",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+answerid;scenario;intent;answer_annotation;answer_from_anno;answer_from_user
+16056;datetime;convert;"i need the time zone from [time_zone : london england] instead of [time_zone : central] time zone";"i need the time zone from london england instead of central time zone";"I need the time zone from london england instead of central time zone."
+20061;datetime;convert;"if i was in the [time_zone : eastern] time zone what time would it be";"if i was in the eastern time zone what time would it be";"If i was in the eastern time zone, what time would it be"
+22773;datetime;convert;"what is the time difference between here and there";"what is the time difference between here and there";"what is the time difference between here and there?"
+22866;datetime;convert;"convert [time : one oh two] from [time_zone : gtm four thirty] to [time_zone : g. m. t. one thirty]";"convert one oh two from gtm four thirty to g. m. t. one thirty";"convert 1:02 from GTM 4:30 to GMT 1:30"
+15896;datetime;convert;"what is the time difference between eastern and pacific time zones";"what is the time difference between eastern and pacific time zones";"What is the time difference between eastern and pacific time zones?"
+13056;datetime;convert;"when it is [time : nine] in the [time_zone : east] what time is it in the [time_zone : west]";"when it is nine in the east what time is it in the west";"When it is 9:00 in the East, what time is it in the West?"
+15509;datetime;convert;"convert current time from [time_zone : g. m. t.] to [time_zone : est]";"convert current time from g. m. t. to est";"Convert current time from GMT to EST"
+6153;datetime;convert;"convert [place_name : usa] time in to [place_name : indian] time";"convert usa time in to indian time";"Convert USA time in to Indian time."

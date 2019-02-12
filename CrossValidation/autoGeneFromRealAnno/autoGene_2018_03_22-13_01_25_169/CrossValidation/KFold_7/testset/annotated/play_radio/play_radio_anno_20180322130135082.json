@@ -1,0 +1,195 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "open fm",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 7,
+          "value": "fm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play npr on this station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "npr",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "can you please turn on npr where i am",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 23,
+          "end": 26,
+          "value": "npr",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play the radio station rock one hundred and eight",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 23,
+          "end": 49,
+          "value": "rock one hundred and eight",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play radio one",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "radio one",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "hey olly play the radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "open sirius app and play the classical channel",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "sirius",
+          "entity": "app_name"
+        },
+        {
+          "start": 29,
+          "end": 46,
+          "value": "classical channel",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "activate radio and tune into nine hundred and eighty nine",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 29,
+          "end": 57,
+          "value": "nine hundred and eighty nine",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "look for a radio station called rhythm on the frequency one",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 32,
+          "end": 38,
+          "value": "rhythm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "eight hundred and eighty nine fm please",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 0,
+          "end": 32,
+          "value": "eight hundred and eighty nine fm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play rush limbaugh on ninety seven fm",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "rush limbaugh",
+          "entity": "radio_name"
+        },
+        {
+          "start": 22,
+          "end": 37,
+          "value": "ninety seven fm",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "find radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play by favorite radio station",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "i want to listen some music play a radio station",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "i want to listen to the radio",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "start the radio now",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "play hot ninety seven",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 21,
+          "value": "hot ninety seven",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "channel seventy two point five",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 8,
+          "end": 30,
+          "value": "seventy two point five",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "turn on radio now",
+      "intent": "play_radio",
+      "entities": []
+    }
+  ]
+}

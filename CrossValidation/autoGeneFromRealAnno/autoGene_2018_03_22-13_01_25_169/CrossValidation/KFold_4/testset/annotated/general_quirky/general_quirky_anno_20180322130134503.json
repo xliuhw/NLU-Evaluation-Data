@@ -1,0 +1,141 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how has your life been changed by me",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "jlo fan updates",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 0,
+          "end": 3,
+          "value": "jlo",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how about you",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "uefa european championship",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "good restaurants",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what happened to charlie chaplin",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 17,
+          "end": 32,
+          "value": "charlie chaplin",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what can you do",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "what would be the a perfectly nutritionally balanced meal for dinner",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 62,
+          "end": 68,
+          "value": "dinner",
+          "entity": "meal_type"
+        }
+      ]
+    },
+    {
+      "text": "moderate",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "how much can i bleed before i die",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "tell me everything about umf",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 25,
+          "end": 28,
+          "value": "umf",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "it has a meaning of rhythm",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "it was a very hectic workday",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "can you make dinner for me",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "how often do you complete updates",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "i would like to solve maths issues",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "did you change the wallpaper",
+      "intent": "general_quirky",
+      "entities": []
+    },
+    {
+      "text": "hey i am having a bad day today what can i watch to cheer me up",
+      "intent": "general_quirky",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how would you tackle the following problem brush your teeth",
+      "intent": "general_quirky",
+      "entities": []
+    }
+  ]
+}

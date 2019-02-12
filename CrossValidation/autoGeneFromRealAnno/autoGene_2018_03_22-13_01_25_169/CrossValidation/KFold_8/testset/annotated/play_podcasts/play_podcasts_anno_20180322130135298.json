@@ -1,0 +1,227 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "let me listen to the latest lovett or leave it podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 21,
+          "end": 27,
+          "value": "latest",
+          "entity": "podcast_descriptor"
+        },
+        {
+          "start": 28,
+          "end": 46,
+          "value": "lovett or leave it",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "play cindi's favorite podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "cindi",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "play the serial podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "go to favourite list",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "jump to next podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "jump",
+          "entity": "player_setting"
+        },
+        {
+          "start": 8,
+          "end": 20,
+          "value": "next podcast",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play next on podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "skip to next episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "skip",
+          "entity": "player_setting"
+        },
+        {
+          "start": 8,
+          "end": 20,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "skip to the next episode of this podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "skip",
+          "entity": "player_setting"
+        },
+        {
+          "start": 12,
+          "end": 24,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "show me the previous episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 12,
+          "end": 28,
+          "value": "previous episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "rewind the episode of podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "rewind",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "play me some podcasts about getting rich quick",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "play the last next episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 14,
+          "end": 26,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play next reason podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 10,
+          "end": 16,
+          "value": "reason",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "forward this one",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "forward",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "i want you to play the podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "i want to listen to a new podcast on healthcare",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 37,
+          "end": 47,
+          "value": "healthcare",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "play episode two of the intern",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "episode two",
+          "entity": "podcast_descriptor"
+        },
+        {
+          "start": 20,
+          "end": 30,
+          "value": "the intern",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "skip forward",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "skip",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "can you play the next episode please",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 17,
+          "end": 29,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    }
+  ]
+}

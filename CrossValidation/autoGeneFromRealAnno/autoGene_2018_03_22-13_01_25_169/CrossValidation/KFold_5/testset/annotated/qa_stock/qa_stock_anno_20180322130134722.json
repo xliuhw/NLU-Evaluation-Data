@@ -1,0 +1,249 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how much does the fb stock cost",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 18,
+          "end": 20,
+          "value": "fb",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to figure out the stock on microsoft",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 34,
+          "end": 43,
+          "value": "microsoft",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "stock prices of rolls royce",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 16,
+          "end": 27,
+          "value": "rolls royce",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "show me the stock prices of target today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 35,
+          "end": 40,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "facebook current stock rate",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "facebook",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is i. b. m.'s stock worth",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "i. b. m.",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how have megatel shares done last week",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "megatel",
+          "entity": "business_name"
+        },
+        {
+          "start": 29,
+          "end": 38,
+          "value": "last week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "show stock of goog",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "goog",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the change in best buy stick",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "what did apple stock close at yesterday",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "apple",
+          "entity": "business_name"
+        },
+        {
+          "start": 30,
+          "end": 39,
+          "value": "yesterday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how are my stocks doing today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 24,
+          "end": 29,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's the stock of apple",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the stock value of google",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 27,
+          "end": 33,
+          "value": "google",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "have bing's stocks dropped",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "bing",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "will it be good to buy nike stock today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 23,
+          "end": 27,
+          "value": "nike",
+          "entity": "business_name"
+        },
+        {
+          "start": 34,
+          "end": 39,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "stock up or down for walgreens",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 21,
+          "end": 30,
+          "value": "walgreens",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the price for marvel",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 22,
+          "end": 28,
+          "value": "marvel",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how's the stock for exxon mobil doing today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 20,
+          "end": 31,
+          "value": "exxon mobil",
+          "entity": "business_name"
+        },
+        {
+          "start": 38,
+          "end": 43,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the current stock rate of facebook",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 34,
+          "end": 42,
+          "value": "facebook",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

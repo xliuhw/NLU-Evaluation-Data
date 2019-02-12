@@ -1,0 +1,316 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "order pizza for delivery",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 16,
+          "end": 24,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "call pizza hut and order a large pan pizza with ham and mushrooms",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "pizza hut",
+          "entity": "business_name"
+        },
+        {
+          "start": 33,
+          "end": 65,
+          "value": "pan pizza with ham and mushrooms",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "takeaway noodles one pack",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 9,
+          "end": 16,
+          "value": "noodles",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "open takeout menus",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "please call the golden fork and tell them to deliver one portion of the fish risotto",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 12,
+          "end": 27,
+          "value": "the golden fork",
+          "entity": "business_name"
+        },
+        {
+          "start": 45,
+          "end": 52,
+          "value": "deliver",
+          "entity": "order_type"
+        },
+        {
+          "start": 72,
+          "end": 84,
+          "value": "fish risotto",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "order me a cheese burger from tommy's burgers",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 11,
+          "end": 24,
+          "value": "cheese burger",
+          "entity": "food_type"
+        },
+        {
+          "start": 30,
+          "end": 45,
+          "value": "tommy's burgers",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "call eastwind and order lomaine to go",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 13,
+          "value": "eastwind",
+          "entity": "business_name"
+        },
+        {
+          "start": 24,
+          "end": 31,
+          "value": "lomaine",
+          "entity": "food_type"
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "value": "to go",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "i would like to order takeaway",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "i am in need of some pizza what's the closest place that delivers",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 57,
+          "end": 65,
+          "value": "delivers",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "order two hamburgers for me",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 10,
+          "end": 20,
+          "value": "hamburgers",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "please put in an order from red thai fpr this evening",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 28,
+          "end": 40,
+          "value": "red thai fpr",
+          "entity": "business_name"
+        },
+        {
+          "start": 41,
+          "end": 53,
+          "value": "this evening",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "order pizza",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "pizza",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "place a takeaway order for a cheeseburger and fries from burger king",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 29,
+          "end": 51,
+          "value": "cheeseburger and fries",
+          "entity": "food_type"
+        },
+        {
+          "start": 57,
+          "end": 68,
+          "value": "burger king",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "closest chipotle",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "chipotle",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "call peking garden",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "peking garden",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "order chinese for delivery",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 18,
+          "end": 26,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "order from dominos",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "dominos",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "place order for usual burritto at chipolte",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "burritto",
+          "entity": "food_type"
+        },
+        {
+          "start": 34,
+          "end": 42,
+          "value": "chipolte",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "food order from grubhub",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "grubhub",
+          "entity": "app_name"
+        }
+      ]
+    }
+  ]
+}

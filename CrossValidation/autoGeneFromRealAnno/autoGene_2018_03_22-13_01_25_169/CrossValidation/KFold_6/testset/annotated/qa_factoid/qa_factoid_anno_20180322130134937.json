@@ -1,0 +1,203 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is the population of florida",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 26,
+          "end": 33,
+          "value": "florida",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how old is christie brinkley",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 28,
+          "value": "christie brinkley",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how many species of bees are there in the united states",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 38,
+          "end": 55,
+          "value": "the united states",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when was frank sinatra born",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 9,
+          "end": 22,
+          "value": "frank sinatra",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how old is barack obaba",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 11,
+          "end": 23,
+          "value": "barack obaba",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what did kim kardashian wear to london fashion week",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 9,
+          "end": 23,
+          "value": "kim kardashian",
+          "entity": "person"
+        },
+        {
+          "start": 32,
+          "end": 38,
+          "value": "london",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "Show geographic location of pyramids",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 28,
+          "end": 36,
+          "value": "pyramids",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when was Dolly parton born",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 9,
+          "end": 21,
+          "value": "Dolly parton",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "where is russia located",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "russia",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "which are well reviewed movies by emma watson",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 34,
+          "end": 45,
+          "value": "emma watson",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "where do the rocky mountains start",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 9,
+          "end": 28,
+          "value": "the rocky mountains",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how many songs did michael jackson write",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 19,
+          "end": 34,
+          "value": "michael jackson",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "for how many years was abraham lincoln president of united states",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "how many kilograms is two hundred and ten pounds",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "could you please confirm if leonardo is married",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 28,
+          "end": 36,
+          "value": "leonardo",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how many bones does a human body have",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "largest animal",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "longest river in the world",
+      "intent": "qa_factoid",
+      "entities": []
+    },
+    {
+      "text": "find twitter handle of tom cruise",
+      "intent": "qa_factoid",
+      "entities": [
+        {
+          "start": 23,
+          "end": 33,
+          "value": "tom cruise",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

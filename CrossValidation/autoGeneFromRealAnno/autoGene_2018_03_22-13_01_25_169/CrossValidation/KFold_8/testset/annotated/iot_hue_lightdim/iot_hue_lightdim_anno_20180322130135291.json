@@ -1,0 +1,92 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "lower hallway lights",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "hallway",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "reduce the intensity of lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower lights in my room",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 19,
+          "end": 23,
+          "value": "room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "i would love a less bright up room",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "minimize the light power",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "lower the lights please",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "give me low lighting in the kitchen",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 28,
+          "end": 35,
+          "value": "kitchen",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "lower brightness of lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "color of light should be dimmed bright",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "turn down the lights in the living room",
+      "intent": "iot_hue_lightdim",
+      "entities": [
+        {
+          "start": 28,
+          "end": 39,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "down the light power",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    },
+    {
+      "text": "minimize the lights",
+      "intent": "iot_hue_lightdim",
+      "entities": []
+    }
+  ]
+}

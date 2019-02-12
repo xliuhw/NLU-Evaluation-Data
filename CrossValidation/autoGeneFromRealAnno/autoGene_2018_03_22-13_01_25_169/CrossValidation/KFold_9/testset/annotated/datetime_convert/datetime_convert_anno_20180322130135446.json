@@ -1,0 +1,154 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is the time difference between central and eastern",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 36,
+          "end": 43,
+          "value": "central",
+          "entity": "time_zone"
+        },
+        {
+          "start": 48,
+          "end": 55,
+          "value": "eastern",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "what is the time difference between eastern and pacific",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 36,
+          "end": 43,
+          "value": "eastern",
+          "entity": "time_zone"
+        },
+        {
+          "start": 48,
+          "end": 55,
+          "value": "pacific",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "time zone between india and us",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "india",
+          "entity": "place_name"
+        },
+        {
+          "start": 28,
+          "end": 30,
+          "value": "us",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "the time difference between lagos and new york is what",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "lagos",
+          "entity": "place_name"
+        },
+        {
+          "start": 38,
+          "end": 46,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "convert eastern time to western time",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "eastern",
+          "entity": "time_zone"
+        },
+        {
+          "start": 24,
+          "end": 31,
+          "value": "western",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "eight am manila time is what in eastern time",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "eight am",
+          "entity": "time"
+        },
+        {
+          "start": 9,
+          "end": 15,
+          "value": "manila",
+          "entity": "place_name"
+        },
+        {
+          "start": 32,
+          "end": 39,
+          "value": "eastern",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "if i call mike in california at six pm what will his time be",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "mike",
+          "entity": "person"
+        },
+        {
+          "start": 18,
+          "end": 28,
+          "value": "california",
+          "entity": "place_name"
+        },
+        {
+          "start": 32,
+          "end": 38,
+          "value": "six pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "what's the time difference between here and queensland",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 44,
+          "end": 54,
+          "value": "queensland",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

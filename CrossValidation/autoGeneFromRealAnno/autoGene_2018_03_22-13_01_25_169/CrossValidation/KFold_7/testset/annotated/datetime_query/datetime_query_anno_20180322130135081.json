@@ -1,0 +1,230 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "twenty ninth march comes on what day",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 18,
+          "value": "twenty ninth march",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what date is today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "whats today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 6,
+          "end": 11,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please provide current time in india",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 36,
+          "value": "india",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please tell me the current date",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 31,
+          "value": "date",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "is there christmas on twenty second",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "christmas",
+          "entity": "event_name"
+        },
+        {
+          "start": 22,
+          "end": 35,
+          "value": "twenty second",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the current date today",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "give me the time in london",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "london",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the date is currently",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "todays a lovely day what the date",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "todays",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me today's date",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is the current central time",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "central",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "how many days are in this month",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 31,
+          "value": "this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "today is which date",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is today march sixth",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 20,
+          "value": "march sixth",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what time is it in karachi right now",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 26,
+          "value": "karachi",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please alert me to the time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what time is it in singapore",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 28,
+          "value": "singapore",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what date is the third friday of this month",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 29,
+          "value": "friday",
+          "entity": "date"
+        },
+        {
+          "start": 33,
+          "end": 43,
+          "value": "this month",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

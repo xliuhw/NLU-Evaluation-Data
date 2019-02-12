@@ -1,0 +1,253 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "it looks sunny and clear today is that true",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 24,
+          "value": "sunny and clear",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what degree is it outside",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "degree",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "what is the weather like in grand rapids mi",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 43,
+          "value": "grand rapids mi",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how does it feel outside",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "what is the temperature",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 23,
+          "value": "temperature",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "what's the weather forecast for today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 37,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "i need to know current weather in new york city",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 42,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the weather today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is the weather bad in new york right now",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 18,
+          "value": "bad",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 22,
+          "end": 30,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how is it outside today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please tell me the chances of rain this week for zip code twenty nine thousand nine hundred and seventy eight",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 34,
+          "value": "rain",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 35,
+          "end": 44,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what will be the highest temperature this week",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 36,
+          "value": "highest temperature",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 37,
+          "end": 46,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "open the weather app",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "how soon can we expect rain",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 27,
+          "value": "rain",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "it seems cold",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "cold",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "is today a sunscreen day",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 8,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "value": "sunscreen",
+          "entity": "weather_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "how is it outside",
+      "intent": "weather_query",
+      "entities": []
+    },
+    {
+      "text": "do i need a sweater today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 19,
+          "value": "sweater",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 20,
+          "end": 25,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i need a jacket today",
+      "intent": "weather_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "jacket",
+          "entity": "weather_descriptor"
+        },
+        {
+          "start": 19,
+          "end": 24,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

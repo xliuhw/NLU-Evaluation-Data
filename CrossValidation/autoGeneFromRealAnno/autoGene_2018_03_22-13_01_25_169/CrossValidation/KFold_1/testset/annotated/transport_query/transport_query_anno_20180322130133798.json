@@ -1,0 +1,266 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "where can i book a train ticket to oregon",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 41,
+          "value": "oregon",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "navigation search",
+      "intent": "transport_query",
+      "entities": []
+    },
+    {
+      "text": "what time does the train leave philadelphia",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 31,
+          "end": 43,
+          "value": "philadelphia",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please let me know the time of train northern rail",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 36,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 37,
+          "end": 50,
+          "value": "northern rail",
+          "entity": "transport_name"
+        }
+      ]
+    },
+    {
+      "text": "directions please",
+      "intent": "transport_query",
+      "entities": []
+    },
+    {
+      "text": "how far away is the nearest rest stop",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 37,
+          "value": "rest stop",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what are the train times for today",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 18,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how much long until northern rail arrives at kings cross station",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 33,
+          "value": "northern rail",
+          "entity": "transport_name"
+        },
+        {
+          "start": 45,
+          "end": 64,
+          "value": "kings cross station",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show me the train schedules to the metropolitan opera house",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 35,
+          "end": 59,
+          "value": "metropolitan opera house",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "get route for los angles from here",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 24,
+          "value": "los angles",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "direction to local train station",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 32,
+          "value": "train station",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the train schedule to denver",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "train",
+          "entity": "transport_type"
+        },
+        {
+          "start": 30,
+          "end": 36,
+          "value": "denver",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how long does it take to get from here to chicago by train",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 42,
+          "end": 49,
+          "value": "chicago",
+          "entity": "place_name"
+        },
+        {
+          "start": 53,
+          "end": 58,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "when i should leave to office",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 29,
+          "value": "office",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "when is the train coming",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "how much time is a train to there",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "find nearest train station",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 26,
+          "value": "train station",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "train leaving",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "train",
+          "entity": "transport_type"
+        }
+      ]
+    },
+    {
+      "text": "get me to the nearest train station",
+      "intent": "transport_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 35,
+          "value": "train station",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play the previous podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 9,
+          "end": 25,
+          "value": "previous podcast",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "please play the newest podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "podcast next episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 8,
+          "end": 20,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play rohan sharma podcast for me",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "rohan sharma",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "play favorited podcasts on fishing",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "play the newest morning show podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 16,
+          "end": 28,
+          "value": "morning show",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to hear yesterday's podcast from my favorite channel",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 15,
+          "end": 24,
+          "value": "yesterday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "resume series podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 7,
+          "end": 21,
+          "value": "series podcast",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "start playing podcast about books",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "books",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play the next episode of a podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 9,
+          "end": 21,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play the seventh episode of the morning after",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 28,
+          "end": 45,
+          "value": "the morning after",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "will you please play the next episode of podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "play my video game news podcast starting where i left off",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 8,
+          "end": 23,
+          "value": "video game news",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "play last reason podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "last reason",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "move to next section",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "move",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "forward to four twenty",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "forward",
+          "entity": "player_setting"
+        },
+        {
+          "start": 11,
+          "end": 22,
+          "value": "four twenty",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "start my favourite podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "play the next podcast episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 9,
+          "end": 29,
+          "value": "next podcast episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "will you please play a podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what's on my schedule this week",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 31,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "are there any events schedule for this week",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 43,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "show me my reminders",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "My weekly plan",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "show up the events for me today",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what are my plans for today",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "pawel prepare the meeting with john",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 25,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "when is my next appointment with dr smith",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 27,
+          "value": "appointment",
+          "entity": "event_name"
+        },
+        {
+          "start": 33,
+          "end": 41,
+          "value": "dr smith",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "within the past three months how many meetings did i have with mr richards",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 28,
+          "value": "past three months",
+          "entity": "time"
+        },
+        {
+          "start": 38,
+          "end": 46,
+          "value": "meetings",
+          "entity": "event_name"
+        },
+        {
+          "start": 63,
+          "end": 74,
+          "value": "mr richards",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "meetings from twenty to twenty five june",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "meetings",
+          "entity": "event_name"
+        },
+        {
+          "start": 14,
+          "end": 40,
+          "value": "twenty to twenty five june",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "whats my schedule today",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "show todays reminders",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "todays",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "make a list of all the halloween events going around in new york",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 32,
+          "value": "halloween",
+          "entity": "event_name"
+        },
+        {
+          "start": 56,
+          "end": 64,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is happening this weekend",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 30,
+          "value": "this weekend",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "first week of march meetings",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 19,
+          "value": "first week of march",
+          "entity": "time"
+        },
+        {
+          "start": 20,
+          "end": 28,
+          "value": "meetings",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "are there any events on my calendar for this week",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 40,
+          "end": 49,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please tell me what day this event reminder is set for",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "please show today meting with clients",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 30,
+          "end": 37,
+          "value": "clients",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "do i have any pending reminder",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "can you pull up the latest time so i won't be late for my appointment",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 58,
+          "end": 69,
+          "value": "appointment",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "what do i have next to do",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "do i have a date for tonight",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "tell me if there are any events from three to five",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 37,
+          "end": 50,
+          "value": "three to five",
+          "entity": "time"
+        }
+      ]
+    }
+  ]
+}

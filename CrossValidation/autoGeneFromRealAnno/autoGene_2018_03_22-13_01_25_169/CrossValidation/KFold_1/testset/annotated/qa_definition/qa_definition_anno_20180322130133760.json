@@ -1,0 +1,211 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please define forensic",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 14,
+          "end": 22,
+          "value": "forensic",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "tell about the origin of the word evolution",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 34,
+          "end": 43,
+          "value": "evolution",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what's the definition of diverse",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 25,
+          "end": 32,
+          "value": "diverse",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is love",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "love",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what is a trebuchet",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 10,
+          "end": 19,
+          "value": "trebuchet",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what do you know about the statue of liberty",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 23,
+          "end": 44,
+          "value": "the statue of liberty",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "google definition for me",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "Define economics",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 16,
+          "value": "economics",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does h2o stand for",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "meaning of word",
+      "intent": "qa_definition",
+      "entities": []
+    },
+    {
+      "text": "please tell me the definition of home",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 33,
+          "end": 37,
+          "value": "home",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "how would you define a car",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 23,
+          "end": 26,
+          "value": "car",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "look up animal and give me the definition",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "animal",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "describe a rotor",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "rotor",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "define the moon for me",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 15,
+          "value": "the moon",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "define flabbergasted",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 20,
+          "value": "flabbergasted",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "find the meaning of promise",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "promise",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "define rumplestiltskin",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 7,
+          "end": 22,
+          "value": "rumplestiltskin",
+          "entity": "definition_word"
+        }
+      ]
+    },
+    {
+      "text": "what does a grapefruit look like",
+      "intent": "qa_definition",
+      "entities": [
+        {
+          "start": 12,
+          "end": 22,
+          "value": "grapefruit",
+          "entity": "definition_word"
+        }
+      ]
+    }
+  ]
+}

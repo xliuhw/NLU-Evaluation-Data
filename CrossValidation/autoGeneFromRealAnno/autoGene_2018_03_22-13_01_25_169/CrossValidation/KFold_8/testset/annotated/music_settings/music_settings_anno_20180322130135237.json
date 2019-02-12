@@ -1,0 +1,105 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please go to settings of the music player and make the equalizer in the flat sound mode",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 29,
+          "end": 41,
+          "value": "music player",
+          "entity": "device_type"
+        },
+        {
+          "start": 55,
+          "end": 64,
+          "value": "equalizer",
+          "entity": "device_type"
+        },
+        {
+          "start": 72,
+          "end": 87,
+          "value": "flat sound mode",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "please don't shuffle songs in music player just playing continuously",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 30,
+          "end": 42,
+          "value": "music player",
+          "entity": "device_type"
+        },
+        {
+          "start": 48,
+          "end": 68,
+          "value": "playing continuously",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "put the playlist on shuffle",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "shuffle",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "repeat the last song again",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        },
+        {
+          "start": 7,
+          "end": 20,
+          "value": "the last song",
+          "entity": "music_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "music change",
+      "intent": "music_settings",
+      "entities": []
+    },
+    {
+      "text": "please skip two songs",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "skip",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "repeat the song playing now",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    }
+  ]
+}

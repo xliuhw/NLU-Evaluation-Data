@@ -1,0 +1,82 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play a movie i'll like",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what time will a movie be shown tomorrow",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 32,
+          "end": 40,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what new movies available today",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "suggest a good genre movie that came out recently",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "please recommend a movie",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what is the highest rated movie this week",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 32,
+          "end": 41,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "recommend a movie for me",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "do you recommend any movies that are currently playing in me area",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what is the highest rated movie now out",
+      "intent": "recommendation_movies",
+      "entities": []
+    },
+    {
+      "text": "what is the best movie to watch this weekend",
+      "intent": "recommendation_movies",
+      "entities": [
+        {
+          "start": 32,
+          "end": 44,
+          "value": "this weekend",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

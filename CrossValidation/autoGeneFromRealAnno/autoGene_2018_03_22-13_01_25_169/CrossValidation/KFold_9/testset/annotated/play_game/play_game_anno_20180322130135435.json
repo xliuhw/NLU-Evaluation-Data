@@ -1,0 +1,190 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i want to play rock paper scissors let's play",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 15,
+          "end": 34,
+          "value": "rock paper scissors",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play never have i ever",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 28,
+          "value": "never have i ever",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "can you find animal crossing",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 13,
+          "end": 28,
+          "value": "animal crossing",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "i would like to play tetris",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 21,
+          "end": 27,
+          "value": "tetris",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "start spider",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 6,
+          "end": 12,
+          "value": "spider",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "puzzles and games app",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "please open snooker game i would like to play with you",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 12,
+          "end": 19,
+          "value": "snooker",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "how about playing a game of guess the word i'm thinking of",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 28,
+          "end": 58,
+          "value": "guess the word i'm thinking of",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play keno",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "keno",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play games",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "do you want to play",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "play scabble with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "scabble",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play for me the game candy crush",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 21,
+          "end": 32,
+          "value": "candy crush",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "angry bird play",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 0,
+          "end": 10,
+          "value": "angry bird",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "turn on console",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "console",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "give a hand to this game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "let's play a game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "i want to play blackjack",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 15,
+          "end": 24,
+          "value": "blackjack",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "games",
+      "intent": "play_game",
+      "entities": []
+    }
+  ]
+}

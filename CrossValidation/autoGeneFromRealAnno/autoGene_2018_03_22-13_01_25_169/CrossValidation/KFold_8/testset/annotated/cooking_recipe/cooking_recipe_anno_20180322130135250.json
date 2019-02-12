@@ -1,0 +1,210 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how do i bake a potato",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "potato",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "show me a video on cooking fried chicken",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "video",
+          "entity": "media_type"
+        },
+        {
+          "start": 27,
+          "end": 40,
+          "value": "fried chicken",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "find a recipe for chicken alfredo",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 18,
+          "end": 33,
+          "value": "chicken alfredo",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "show the method to prepare icecream",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 27,
+          "end": 35,
+          "value": "icecream",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "quick meals",
+      "intent": "cooking_recipe",
+      "entities": []
+    },
+    {
+      "text": "i need a recipe that is from ingredients on my shopping list",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 47,
+          "end": 55,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "instructions to make a meal",
+      "intent": "cooking_recipe",
+      "entities": []
+    },
+    {
+      "text": "how long should i cook a steak to be medium",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 25,
+          "end": 30,
+          "value": "steak",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the recipe for apple pie",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 23,
+          "end": 32,
+          "value": "apple pie",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "how to cook this food",
+      "intent": "cooking_recipe",
+      "entities": []
+    },
+    {
+      "text": "get recipe for apple pie",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 15,
+          "end": 24,
+          "value": "apple pie",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "let me know the recipe for preparing pasta",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 37,
+          "end": 42,
+          "value": "pasta",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "i need a recipe for spaghetti",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "spaghetti",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "what's the recipe for fried chicken",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 22,
+          "end": 35,
+          "value": "fried chicken",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "find the right amount of cinnamon for the garam masala",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 42,
+          "end": 54,
+          "value": "garam masala",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "freezing",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "freezing",
+          "entity": "cooking_type"
+        }
+      ]
+    },
+    {
+      "text": "how do i make meal",
+      "intent": "cooking_recipe",
+      "entities": []
+    },
+    {
+      "text": "tell me the recipe to cook pav bhaji",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 27,
+          "end": 36,
+          "value": "pav bhaji",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "can you prepare a cheese sandwich",
+      "intent": "cooking_recipe",
+      "entities": [
+        {
+          "start": 18,
+          "end": 33,
+          "value": "cheese sandwich",
+          "entity": "food_type"
+        }
+      ]
+    }
+  ]
+}

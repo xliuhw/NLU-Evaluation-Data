@@ -1,0 +1,196 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "start up league of legends for me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 9,
+          "end": 26,
+          "value": "league of legends",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "we are going to play poker together",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "poker",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "can you take a role of enemy in the game of coc",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 44,
+          "end": 47,
+          "value": "coc",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "run game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "open parcheese game for you and i",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 19,
+          "value": "parcheese game",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's roll the dice",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 6,
+          "end": 19,
+          "value": "roll the dice",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "launch game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "can you do name that tune",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 25,
+          "value": "name that tune",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play the latest games",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "start up bejeweled",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 9,
+          "end": 18,
+          "value": "bejeweled",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play our favourite football match on tv",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 25,
+          "end": 39,
+          "value": "football match",
+          "entity": "game_name"
+        },
+        {
+          "start": 43,
+          "end": 45,
+          "value": "tv",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "play this game with me",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "find game",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "list the games you can play with me",
+      "intent": "play_game",
+      "entities": []
+    },
+    {
+      "text": "can you play monopoly with me",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 13,
+          "end": 21,
+          "value": "monopoly",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "play flappy bird",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "flappy bird",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "i need to play sims",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 15,
+          "end": 19,
+          "value": "sims",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "turn on flappy bird",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 8,
+          "end": 19,
+          "value": "flappy bird",
+          "entity": "game_name"
+        }
+      ]
+    },
+    {
+      "text": "let's play space invaders",
+      "intent": "play_game",
+      "entities": [
+        {
+          "start": 11,
+          "end": 25,
+          "value": "space invaders",
+          "entity": "game_name"
+        }
+      ]
+    }
+  ]
+}

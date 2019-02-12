@@ -1,0 +1,278 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "does it offer pick up",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 21,
+          "value": "pick up",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "does peking garden deliver",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "peking garden",
+          "entity": "business_name"
+        },
+        {
+          "start": 19,
+          "end": 26,
+          "value": "deliver",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "what is the status of last take away order",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 36,
+          "value": "take away",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "can i get delivery from dominos",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "delivery",
+          "entity": "order_type"
+        },
+        {
+          "start": 24,
+          "end": 31,
+          "value": "dominos",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "when is my food going to be here",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "i want some curry to go any recommendations",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 12,
+          "end": 17,
+          "value": "curry",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "does the restaurant have delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 19,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 25,
+          "end": 33,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "will the pizza be here soon",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "pizza",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "is fongs dine in only",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 8,
+          "value": "fongs",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "does panda garden deliver",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "panda garden",
+          "entity": "business_name"
+        },
+        {
+          "start": 18,
+          "end": 25,
+          "value": "deliver",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does the restaurant have carryout",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 19,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 25,
+          "end": 33,
+          "value": "carryout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "whats with my dinner order",
+      "intent": "takeaway_query",
+      "entities": []
+    },
+    {
+      "text": "status for the pizza delivery from pizza hut",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 21,
+          "end": 29,
+          "value": "delivery",
+          "entity": "order_type"
+        },
+        {
+          "start": 35,
+          "end": 44,
+          "value": "pizza hut",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "do they have takeout",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 20,
+          "value": "takeout",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "please could you tell me if george's geek restaurant can i order takeaway from there",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 41,
+          "value": "george's geek",
+          "entity": "business_name"
+        },
+        {
+          "start": 42,
+          "end": 52,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 65,
+          "end": 73,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "where can i order takeout",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 25,
+          "value": "takeout",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does shibaru sushi deliver",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "shibaru sushi",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "does pizza hut have delivery",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 14,
+          "value": "pizza hut",
+          "entity": "business_name"
+        },
+        {
+          "start": 20,
+          "end": 28,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "does chinese deliver",
+      "intent": "takeaway_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "chinese",
+          "entity": "food_type"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play the program where i left off yesterday",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 34,
+          "end": 43,
+          "value": "yesterday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "play book",
+      "intent": "play_audiobook",
+      "entities": []
+    },
+    {
+      "text": "i want to play the audiobook good grief",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 19,
+          "end": 28,
+          "value": "audiobook",
+          "entity": "media_type"
+        },
+        {
+          "start": 29,
+          "end": 39,
+          "value": "good grief",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "begin again book swan",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 11,
+          "value": "begin again",
+          "entity": "player_setting"
+        },
+        {
+          "start": 17,
+          "end": 21,
+          "value": "swan",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "keep playing war and peace",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "keep playing",
+          "entity": "player_setting"
+        },
+        {
+          "start": 13,
+          "end": 26,
+          "value": "war and peace",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "please play this playback on audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 29,
+          "end": 38,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "start playing the hobbit",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 13,
+          "value": "start playing",
+          "entity": "player_setting"
+        },
+        {
+          "start": 14,
+          "end": 24,
+          "value": "the hobbit",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "resume audio book history of rome",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "resume",
+          "entity": "player_setting"
+        },
+        {
+          "start": 18,
+          "end": 33,
+          "value": "history of rome",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "get me resume of best seller audio book this month",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 29,
+          "end": 39,
+          "value": "audio book",
+          "entity": "media_type"
+        },
+        {
+          "start": 40,
+          "end": 50,
+          "value": "this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "play me harry potter from the place i last stopped listening on",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 8,
+          "end": 20,
+          "value": "harry potter",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "resume playing the current audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 14,
+          "value": "resume playing",
+          "entity": "player_setting"
+        },
+        {
+          "start": 27,
+          "end": 36,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to hear the book written by the mother of the shooter at columbine",
+      "intent": "play_audiobook",
+      "entities": []
+    },
+    {
+      "text": "play wuthering heights from where i left off",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 22,
+          "value": "wuthering heights",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "i would like to start this new audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "start",
+          "entity": "player_setting"
+        },
+        {
+          "start": 31,
+          "end": 40,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "playback tom clancy splinter cell",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "playback",
+          "entity": "player_setting"
+        },
+        {
+          "start": 9,
+          "end": 19,
+          "value": "tom clancy",
+          "entity": "audiobook_author"
+        },
+        {
+          "start": 20,
+          "end": 33,
+          "value": "splinter cell",
+          "entity": "audiobook_name"
+        }
+      ]
+    },
+    {
+      "text": "open davinci code audiobook",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "davinci code",
+          "entity": "audiobook_name"
+        },
+        {
+          "start": 18,
+          "end": 27,
+          "value": "audiobook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "can you pause the audio",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "pause",
+          "entity": "player_setting"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "value": "audio",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "please open audible app and resume play",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 12,
+          "end": 19,
+          "value": "audible",
+          "entity": "app_name"
+        },
+        {
+          "start": 28,
+          "end": 39,
+          "value": "resume play",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "start dune from where i left off",
+      "intent": "play_audiobook",
+      "entities": [
+        {
+          "start": 0,
+          "end": 5,
+          "value": "start",
+          "entity": "player_setting"
+        },
+        {
+          "start": 6,
+          "end": 10,
+          "value": "dune",
+          "entity": "audiobook_name"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is the time difference between pacific and central",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 36,
+          "end": 43,
+          "value": "pacific",
+          "entity": "time_zone"
+        },
+        {
+          "start": 48,
+          "end": 55,
+          "value": "central",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "convert twenty one thirty from gtm four to g. m. t. four thirty",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 8,
+          "end": 25,
+          "value": "twenty one thirty",
+          "entity": "time"
+        },
+        {
+          "start": 31,
+          "end": 39,
+          "value": "gtm four",
+          "entity": "time_zone"
+        },
+        {
+          "start": 43,
+          "end": 63,
+          "value": "g. m. t. four thirty",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "convert eight thirty from gtm four to g. m. t. five thirty",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 8,
+          "end": 20,
+          "value": "eight thirty",
+          "entity": "time"
+        },
+        {
+          "start": 26,
+          "end": 34,
+          "value": "gtm four",
+          "entity": "time_zone"
+        },
+        {
+          "start": 38,
+          "end": 58,
+          "value": "g. m. t. five thirty",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "if it is six am here what time is it in tokyo",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 9,
+          "end": 15,
+          "value": "six am",
+          "entity": "time"
+        },
+        {
+          "start": 40,
+          "end": 45,
+          "value": "tokyo",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "if it's ten pm in california what time is it in alabama",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "ten pm",
+          "entity": "time"
+        },
+        {
+          "start": 18,
+          "end": 28,
+          "value": "california",
+          "entity": "place_name"
+        },
+        {
+          "start": 48,
+          "end": 55,
+          "value": "alabama",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "convert current time from ist to est",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 26,
+          "end": 29,
+          "value": "ist",
+          "entity": "time_zone"
+        },
+        {
+          "start": 33,
+          "end": 36,
+          "value": "est",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "what is the time in india when the time in us is twelve pm",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "india",
+          "entity": "place_name"
+        },
+        {
+          "start": 43,
+          "end": 45,
+          "value": "us",
+          "entity": "place_name"
+        },
+        {
+          "start": 49,
+          "end": 58,
+          "value": "twelve pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "what is the time difference between india and ivory coast",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 36,
+          "end": 41,
+          "value": "india",
+          "entity": "place_name"
+        },
+        {
+          "start": 46,
+          "end": 57,
+          "value": "ivory coast",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

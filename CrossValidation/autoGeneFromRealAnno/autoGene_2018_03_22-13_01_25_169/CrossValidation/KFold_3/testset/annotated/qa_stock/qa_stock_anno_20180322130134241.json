@@ -1,0 +1,218 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "give me today's market trends for panasonic",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 34,
+          "end": 43,
+          "value": "panasonic",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what are the chances of the stock market closing below the two hundred moving average in the next fourteen days",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 93,
+          "end": 111,
+          "value": "next fourteen days",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "give me the stock price of apple",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "when does iphone stock usually drop",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "give me the stock price for tommy hilfiger",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 28,
+          "end": 42,
+          "value": "tommy hilfiger",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the opening stock price of apple",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 35,
+          "end": 40,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how much is starbuck's stock these days",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "starbuck",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me the price of google stock",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 29,
+          "end": 35,
+          "value": "google",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the latest on stock market",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 21,
+          "end": 33,
+          "value": "stock market",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "what happened to the dow jones today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 31,
+          "end": 36,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "give me the stock price of intel",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "intel",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "notify me of the latest news on the stock market",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 36,
+          "end": 48,
+          "value": "stock market",
+          "entity": "news_topic"
+        }
+      ]
+    },
+    {
+      "text": "tell me summary forecast microsoft stock forecast to thirty days ahead",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 25,
+          "end": 34,
+          "value": "microsoft",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the stock price of sensex right now",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 27,
+          "end": 33,
+          "value": "sensex",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the stock rate of hyundai",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 26,
+          "end": 33,
+          "value": "hyundai",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "amazon stock price",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "amazon",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "is the stocks which i have invested are increasing",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "show stock value of goog",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 20,
+          "end": 24,
+          "value": "goog",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "whats the dow jones at today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 23,
+          "end": 28,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

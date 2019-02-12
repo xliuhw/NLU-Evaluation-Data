@@ -1,0 +1,105 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "turn off the socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 13,
+          "end": 19,
+          "value": "socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "please turn off the wemo plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 20,
+          "end": 36,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off smart socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 9,
+          "end": 21,
+          "value": "smart socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off the wemo plug socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 13,
+          "end": 29,
+          "value": "wemo plug socket",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "can you please turn off my wemo plug",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 27,
+          "end": 36,
+          "value": "wemo plug",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "outlet off",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "outlet",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off sockets",
+      "intent": "iot_wemo_off",
+      "entities": []
+    },
+    {
+      "text": "turn the wemo off",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "wemo",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off my wemo socket",
+      "intent": "iot_wemo_off",
+      "entities": [
+        {
+          "start": 12,
+          "end": 23,
+          "value": "wemo socket",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

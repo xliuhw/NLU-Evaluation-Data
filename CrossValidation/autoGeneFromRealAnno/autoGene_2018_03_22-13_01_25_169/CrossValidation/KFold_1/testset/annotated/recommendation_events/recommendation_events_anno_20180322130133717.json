@@ -1,0 +1,276 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what events are coming up",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "let me see cultural events for this weekend in palermo neighborhood",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 31,
+          "end": 43,
+          "value": "this weekend",
+          "entity": "date"
+        },
+        {
+          "start": 47,
+          "end": 67,
+          "value": "palermo neighborhood",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what are the concerts happening nearby",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 13,
+          "end": 21,
+          "value": "concerts",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "is there any type of festival going on in town this weekend",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "festival",
+          "entity": "event_name"
+        },
+        {
+          "start": 42,
+          "end": 46,
+          "value": "town",
+          "entity": "place_name"
+        },
+        {
+          "start": 47,
+          "end": 59,
+          "value": "this weekend",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "show me painting exhibition in bay area",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 8,
+          "end": 27,
+          "value": "painting exhibition",
+          "entity": "event_name"
+        },
+        {
+          "start": 31,
+          "end": 39,
+          "value": "bay area",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "are there any fun things to do in seattle this weekend",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 34,
+          "end": 41,
+          "value": "seattle",
+          "entity": "place_name"
+        },
+        {
+          "start": 42,
+          "end": 54,
+          "value": "this weekend",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's going on",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "recommend an event happening in my area",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what events are happening this weekend in my area",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 26,
+          "end": 38,
+          "value": "this weekend",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's happening at the library this month",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "library",
+          "entity": "place_name"
+        },
+        {
+          "start": 32,
+          "end": 42,
+          "value": "this month",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is playing at the local theater right now",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 23,
+          "end": 36,
+          "value": "local theater",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what do they have going on for festivals downtown",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 31,
+          "end": 40,
+          "value": "festivals",
+          "entity": "event_name"
+        },
+        {
+          "start": 41,
+          "end": 49,
+          "value": "downtown",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "could you list out the information on book fairs in washington dc for next week",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 38,
+          "end": 48,
+          "value": "book fairs",
+          "entity": "event_name"
+        },
+        {
+          "start": 52,
+          "end": 65,
+          "value": "washington dc",
+          "entity": "place_name"
+        },
+        {
+          "start": 70,
+          "end": 79,
+          "value": "next week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "are there any events going on downtown tonight",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 30,
+          "end": 38,
+          "value": "downtown",
+          "entity": "place_name"
+        },
+        {
+          "start": 39,
+          "end": 46,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "when is the yearly cultural event coming up",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what's happening around town",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 17,
+          "end": 28,
+          "value": "around town",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "What event do you suggest for me tonight",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 33,
+          "end": 40,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "what's happening in town tonight",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 20,
+          "end": 24,
+          "value": "town",
+          "entity": "place_name"
+        },
+        {
+          "start": 25,
+          "end": 32,
+          "value": "tonight",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "give me the list of circus shows going on in the city right now",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 20,
+          "end": 26,
+          "value": "circus",
+          "entity": "event_name"
+        },
+        {
+          "start": 49,
+          "end": 53,
+          "value": "city",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

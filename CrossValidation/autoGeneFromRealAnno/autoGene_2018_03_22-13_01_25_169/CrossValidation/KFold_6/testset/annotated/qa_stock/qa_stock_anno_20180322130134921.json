@@ -1,0 +1,202 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is the stock price of nike today",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 27,
+          "end": 31,
+          "value": "nike",
+          "entity": "business_name"
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "did apple stocks go up or down",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 4,
+          "end": 9,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me the latest stock of pepsi",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "pepsi",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what are the stock prices",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "please find out the share price of i. b. m. in nasdaq",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 35,
+          "end": 43,
+          "value": "i. b. m.",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "how much would it cost to buy a share of target",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "what's the closing price of apple",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 28,
+          "end": 33,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what are the current stock prices for google",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 21,
+          "end": 33,
+          "value": "stock prices",
+          "entity": "news_topic"
+        },
+        {
+          "start": 38,
+          "end": 44,
+          "value": "google",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please tell me when i can become rich if i invested in dow stocks today and what will be the return after five years",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "what is apple's current stock price",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "apple",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me lexmark's current stock price",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "lexmark",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "show me share price of tata",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 23,
+          "end": 27,
+          "value": "tata",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "where is dell standing in stock market right now",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "stock market",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "how much does stock cost in walmart",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 28,
+          "end": 35,
+          "value": "walmart",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can you find and tell me the prices of facebook stock",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 39,
+          "end": 47,
+          "value": "facebook",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please tell me what is the stock price of dew in ny market",
+      "intent": "qa_stock",
+      "entities": []
+    },
+    {
+      "text": "is warren buffet is investing in my listed stocks",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 3,
+          "end": 16,
+          "value": "warren buffet",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "how much is amazon stock",
+      "intent": "qa_stock",
+      "entities": [
+        {
+          "start": 12,
+          "end": 18,
+          "value": "amazon",
+          "entity": "business_name"
+        }
+      ]
+    }
+  ]
+}

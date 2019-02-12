@@ -1,0 +1,181 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "open note pad",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 5,
+          "end": 13,
+          "value": "note pad",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "what is included in the tour's list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 28,
+          "value": "tour",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "tell me about the list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "speak all items for to day",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "read my grocery list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what is on the list for today",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 29,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "read my lists to me",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "tell me what is on my grocery list for this week",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "grocery",
+          "entity": "list_name"
+        },
+        {
+          "start": 39,
+          "end": 48,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how many events on my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what are the items on my list",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "put on the screen the lists i have available",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 17,
+          "value": "screen",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "List all the lists on this device",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what's on my list to do today",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 29,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "whats on my list for the time being",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "my party list",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 3,
+          "end": 8,
+          "value": "party",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "do i have anything lists made for christmas shopping",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 52,
+          "value": "christmas shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "what is on my to do list today",
+      "intent": "lists_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "to do",
+          "entity": "list_name"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "tell me what lists i currently have",
+      "intent": "lists_query",
+      "entities": []
+    },
+    {
+      "text": "what are all my lists please",
+      "intent": "lists_query",
+      "entities": []
+    }
+  ]
+}

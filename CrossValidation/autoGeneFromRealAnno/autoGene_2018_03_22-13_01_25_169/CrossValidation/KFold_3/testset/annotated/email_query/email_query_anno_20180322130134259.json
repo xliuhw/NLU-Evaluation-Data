@@ -1,0 +1,176 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "check all the new them emails and mark them star",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "can you check to see if i have any recent email alerts",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "tell me my latest email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "what is the email i got from my girlfriend",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 42,
+          "value": "girlfriend",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "when did dave matthews email me about the contract",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 22,
+          "value": "dave matthews",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "look at my email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "have i received any mail in the last hour",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 41,
+          "value": "last hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "do i have any new emails from my dad",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 36,
+          "value": "dad",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "what was the name of my last email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "compile information on the data breach",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "tell me about new emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "check for all emails from tom brady",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 35,
+          "value": "tom brady",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "update my inbox please",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "how many emails do i have from work today",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 41,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how many emails have i got since yesterday",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 33,
+          "end": 42,
+          "value": "yesterday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "any new emails after five pm",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "five pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "is there anything new in my email folder",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "did paul email me recently",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "paul",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "do i have any new emails from sarah",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 35,
+          "value": "sarah",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

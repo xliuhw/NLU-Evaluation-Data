@@ -1,0 +1,183 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "current date please",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what time is it on the west coast",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 33,
+          "value": "west coast",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "how me the time now in boston",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 23,
+          "end": 29,
+          "value": "boston",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "date and time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what time is it in a city",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "a city",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i want the time for another city outside us",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 43,
+          "value": "another city outside us",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "hello what time it is now",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "ten past seven",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 14,
+          "value": "ten past seven",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "give me the time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what is the current time in california",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 38,
+          "value": "california",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show me the current time",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "can you give me the time in this time zone",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 42,
+          "value": "this time zone",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "do you know what day it is",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "tell me the time now",
+      "intent": "datetime_query",
+      "entities": []
+    },
+    {
+      "text": "what is the time in milwaukee",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "milwaukee",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please show me today's date",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what's the time in new york",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the current time in london",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 34,
+          "value": "london",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what time is it in london",
+      "intent": "datetime_query",
+      "entities": [
+        {
+          "start": 19,
+          "end": 25,
+          "value": "london",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

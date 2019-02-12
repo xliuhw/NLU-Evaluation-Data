@@ -1,0 +1,215 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "who's birthdays are today on facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 6,
+          "end": 15,
+          "value": "birthdays",
+          "entity": "event_name"
+        },
+        {
+          "start": 20,
+          "end": 25,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 29,
+          "end": 37,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me what's going on with facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 37,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "is there anything important happening on social media",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "instagram",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 9,
+          "value": "instagram",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "read to me the last messages in my feed",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "has john replied to my facebook post",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "john",
+          "entity": "person"
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "do i have new likes",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "what trending on twitter",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "check my last post on facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what's hot social media topics",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "give me my facebook update every three hours",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 27,
+          "end": 44,
+          "value": "every three hours",
+          "entity": "general_frequency"
+        }
+      ]
+    },
+    {
+      "text": "please check my facebook account",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "are there any new snapchats",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 27,
+          "value": "snapchats",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "did mark post anything new on facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "mark",
+          "entity": "person"
+        },
+        {
+          "start": 30,
+          "end": 38,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "please check the news on social media",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 37,
+          "value": "social media",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "show me latest notifications",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "how many people are following me on twitter now",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 43,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "latest instagram posts",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 16,
+          "value": "instagram",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

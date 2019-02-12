@@ -1,0 +1,283 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "play chopin",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "chopin",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play only songs by the beatles please",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 23,
+          "end": 30,
+          "value": "beatles",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to listen to classical music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "classical",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "please play the song joy to the world",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 21,
+          "end": 37,
+          "value": "joy to the world",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play purple haze",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "purple haze",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play song aces high",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 10,
+          "end": 19,
+          "value": "aces high",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "please play the early franks sinatra stuff i have",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 22,
+          "end": 42,
+          "value": "franks sinatra stuff",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "i'd love to hear any song that i've given five stars by serge gainsbourg",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 42,
+          "end": 52,
+          "value": "five stars",
+          "entity": "music_descriptor"
+        },
+        {
+          "start": 56,
+          "end": 72,
+          "value": "serge gainsbourg",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play song over the rainbow",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 10,
+          "end": 26,
+          "value": "over the rainbow",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "jazz could be choice for me",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "jazz",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play what i am by edie brickel",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "i am",
+          "entity": "song_name"
+        },
+        {
+          "start": 18,
+          "end": 30,
+          "value": "edie brickel",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play r and b",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "r and b",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "go to youtube and play me the best wedding songs collection",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 6,
+          "end": 13,
+          "value": "youtube",
+          "entity": "media_type"
+        },
+        {
+          "start": 30,
+          "end": 48,
+          "value": "best wedding songs",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "play music from where you left off",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "would you play some music please",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "please play workout playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 12,
+          "end": 28,
+          "value": "workout playlist",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "play maroon five playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "maroon five",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play the song get happy by ella fitzgeral",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 14,
+          "end": 23,
+          "value": "get happy",
+          "entity": "song_name"
+        },
+        {
+          "start": 27,
+          "end": 41,
+          "value": "ella fitzgeral",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play closer music track",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "closer",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play my morning playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 8,
+          "end": 24,
+          "value": "morning playlist",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "skip to the next song",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "play jingle bells",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "jingle bells",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "make my collection mostly pop with a good bit of psychedelia",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 26,
+          "end": 29,
+          "value": "pop",
+          "entity": "music_genre"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "show me all the events happening in milan",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 36,
+          "end": 41,
+          "value": "milan",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what are some local events",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "can you tell me some fun things to do in kentucky",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 41,
+          "end": 49,
+          "value": "kentucky",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is there anything to do tonight",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "searching for any special holidays for us country",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 18,
+          "end": 34,
+          "value": "special holidays",
+          "entity": "event_name"
+        },
+        {
+          "start": 39,
+          "end": 49,
+          "value": "us country",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is happening in the area",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "whats happening around my town",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 26,
+          "end": 30,
+          "value": "town",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "inform about latest scheduled events near my location",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what are the events conducted in new york",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 33,
+          "end": 41,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "show todays events in new york",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "todays",
+          "entity": "date"
+        },
+        {
+          "start": 22,
+          "end": 30,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what events are scheduled for this weekend in me area",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 30,
+          "end": 42,
+          "value": "this weekend",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is there a sporting event tomorrow in chicago",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 11,
+          "end": 25,
+          "value": "sporting event",
+          "entity": "event_name"
+        },
+        {
+          "start": 26,
+          "end": 34,
+          "value": "tomorrow",
+          "entity": "date"
+        },
+        {
+          "start": 38,
+          "end": 45,
+          "value": "chicago",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is there anything happening nearby",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "what is happening in delhi today",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 21,
+          "end": 26,
+          "value": "delhi",
+          "entity": "place_name"
+        },
+        {
+          "start": 27,
+          "end": 32,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what can i do in berlin",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 17,
+          "end": 23,
+          "value": "berlin",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what are all the event in area",
+      "intent": "recommendation_events",
+      "entities": []
+    },
+    {
+      "text": "tell me about activities in my area this weekend",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 36,
+          "end": 48,
+          "value": "this weekend",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what baseball games are scheduled for this week in tulsa",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 5,
+          "end": 19,
+          "value": "baseball games",
+          "entity": "event_name"
+        },
+        {
+          "start": 38,
+          "end": 47,
+          "value": "this week",
+          "entity": "date"
+        },
+        {
+          "start": 51,
+          "end": 56,
+          "value": "tulsa",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "where is the food festival tonight",
+      "intent": "recommendation_events",
+      "entities": [
+        {
+          "start": 13,
+          "end": 26,
+          "value": "food festival",
+          "entity": "event_name"
+        },
+        {
+          "start": 27,
+          "end": 34,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    }
+  ]
+}

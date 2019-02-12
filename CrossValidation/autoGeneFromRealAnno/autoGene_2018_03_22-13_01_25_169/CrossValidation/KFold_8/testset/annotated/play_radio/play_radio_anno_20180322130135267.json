@@ -1,0 +1,224 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "turn on pdr am",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "pdr am",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "i'd like to listen to ninety nine point five",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 22,
+          "end": 44,
+          "value": "ninety nine point five",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "let's have the radio on",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "can you find the the preacher joe show on gospel radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 42,
+          "end": 54,
+          "value": "gospel radio",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play radio station",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "radio station",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "ally please play pandora radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "pandora",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "put the news on bbc",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 16,
+          "end": 19,
+          "value": "bbc",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "please find the radio station currently playing howard stern",
+      "intent": "play_radio",
+      "entities": []
+    },
+    {
+      "text": "go to the station fm ninety six point five",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 18,
+          "end": 42,
+          "value": "fm ninety six point five",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "lets hear wgrr one hundred and three point five",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 10,
+          "end": 47,
+          "value": "wgrr one hundred and three point five",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play radio disney",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 17,
+          "value": "radio disney",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "i want you to go to hot one hundred and five on the radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 20,
+          "end": 44,
+          "value": "hot one hundred and five",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play tunes",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "tunes",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "on the radio it is time for good music",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 33,
+          "end": 38,
+          "value": "music",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "radio one thousand and twenty seven",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 6,
+          "end": 35,
+          "value": "one thousand and twenty seven",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play the breakfast club",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 9,
+          "end": 23,
+          "value": "breakfast club",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play netflix on my ps four",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 12,
+          "value": "netflix",
+          "entity": "app_name"
+        },
+        {
+          "start": 19,
+          "end": 26,
+          "value": "ps four",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "play power one oh two point three",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 33,
+          "value": "power one oh two point three",
+          "entity": "radio_name"
+        }
+      ]
+    },
+    {
+      "text": "play station gx in the radio",
+      "intent": "play_radio",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "station gx",
+          "entity": "radio_name"
+        }
+      ]
+    }
+  ]
+}

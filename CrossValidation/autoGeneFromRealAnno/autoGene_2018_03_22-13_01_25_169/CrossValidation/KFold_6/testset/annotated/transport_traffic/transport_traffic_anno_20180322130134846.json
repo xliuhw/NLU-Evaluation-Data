@@ -1,0 +1,162 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "traffic status please",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "road traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "are there any roadblocks",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "is there any construction on route sixty six",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 29,
+          "end": 44,
+          "value": "route sixty six",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "fast road to get home",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how is the traffic presently near central park road",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 34,
+          "end": 51,
+          "value": "central park road",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "traffic congestion issues",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "current traffic conditions",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "are there any delays in traffic today",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 32,
+          "end": 37,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "give me the update on traffic at new york",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 33,
+          "end": 41,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how is the traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "let me know about current traffic in carmen drive",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 37,
+          "end": 49,
+          "value": "carmen drive",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the latest traffic report for miami",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 38,
+          "end": 43,
+          "value": "miami",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what does the traffic look like headed to la",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 42,
+          "end": 44,
+          "value": "la",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how congested is the traffic on my way to work",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how long will it take to drive to long beach",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 34,
+          "end": 44,
+          "value": "long beach",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how is traffic over the donner summit now",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "is there traffic right now in maiden lane",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 30,
+          "end": 41,
+          "value": "maiden lane",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how's are the roads looking right now",
+      "intent": "transport_traffic",
+      "entities": []
+    }
+  ]
+}

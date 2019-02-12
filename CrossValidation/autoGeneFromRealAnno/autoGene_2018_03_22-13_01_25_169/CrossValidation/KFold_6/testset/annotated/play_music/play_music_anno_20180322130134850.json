@@ -1,0 +1,223 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "could you play you don't bring me flowers",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 15,
+          "end": 41,
+          "value": "you don't bring me flowers",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "i want to dance to the tune of raghu dixit",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 31,
+          "end": 42,
+          "value": "raghu dixit",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "please play some jazz music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 17,
+          "end": 27,
+          "value": "jazz music",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "please play songs i've purchased and favorited",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "i'dl like to hear any classical except for bach or schubert",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 22,
+          "end": 31,
+          "value": "classical",
+          "entity": "music_genre"
+        },
+        {
+          "start": 43,
+          "end": 47,
+          "value": "bach",
+          "entity": "artist_name"
+        },
+        {
+          "start": 51,
+          "end": 59,
+          "value": "schubert",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "play my motivational playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 8,
+          "end": 29,
+          "value": "motivational playlist",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "let me hear some bluegrass music",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 17,
+          "end": 26,
+          "value": "bluegrass",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play new songs by barenaked ladies",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 18,
+          "end": 34,
+          "value": "barenaked ladies",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "start my jazz playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "jazz",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play music from good playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 16,
+          "end": 29,
+          "value": "good playlist",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "can you play rfi",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 13,
+          "end": 16,
+          "value": "rfi",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "play foke",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "foke",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "play music true love",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 11,
+          "end": 20,
+          "value": "true love",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play the electronic playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 9,
+          "end": 19,
+          "value": "electronic",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "play a party music list",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "party",
+          "entity": "music_genre"
+        }
+      ]
+    },
+    {
+      "text": "initiate the music on the electronic playlist",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 26,
+          "end": 36,
+          "value": "electronic",
+          "entity": "playlist_name"
+        }
+      ]
+    },
+    {
+      "text": "repeat this list in random order",
+      "intent": "play_music",
+      "entities": []
+    },
+    {
+      "text": "i want to listen to electric slide",
+      "intent": "play_music",
+      "entities": [
+        {
+          "start": 20,
+          "end": 34,
+          "value": "electric slide",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "play random music",
+      "intent": "play_music",
+      "entities": []
+    }
+  ]
+}

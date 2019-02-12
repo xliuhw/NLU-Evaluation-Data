@@ -1,0 +1,275 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i want to see the previous episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 18,
+          "end": 34,
+          "value": "previous episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "move forward to the next episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 20,
+          "end": 32,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "please start joe rogan podcast please",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 13,
+          "end": 22,
+          "value": "joe rogan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please check episode number thirty nine",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 13,
+          "end": 39,
+          "value": "episode number thirty nine",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "search for podcasts that cover men's issues",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "podcasts",
+          "entity": "media_type"
+        },
+        {
+          "start": 31,
+          "end": 43,
+          "value": "men's issues",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "can you forward an episode in the podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "forward",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "play episode ten in the podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "play heavyweight podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 5,
+          "end": 16,
+          "value": "heavyweight",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "skip to the next podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 12,
+          "end": 24,
+          "value": "next podcast",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "go to the third episode of this podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "please start my podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "i would like to listen to this mornings mike and mike podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 31,
+          "end": 39,
+          "value": "mornings",
+          "entity": "time"
+        },
+        {
+          "start": 40,
+          "end": 44,
+          "value": "mike",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "rewind to four twelve",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "rewind",
+          "entity": "player_setting"
+        },
+        {
+          "start": 10,
+          "end": 21,
+          "value": "four twelve",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "play a podcast about latest yoga videos",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 28,
+          "end": 39,
+          "value": "yoga videos",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "favourite podcast",
+      "intent": "play_podcasts",
+      "entities": []
+    },
+    {
+      "text": "i want to see the next podcast available",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 18,
+          "end": 30,
+          "value": "next podcast",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "start playing ringcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 14,
+          "end": 22,
+          "value": "ringcast",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "i am ready to hear the next episode of podcast",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 23,
+          "end": 35,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "can you pull up the dave ramsey podcast that aired on monday",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "pull up",
+          "entity": "player_setting"
+        },
+        {
+          "start": 20,
+          "end": 31,
+          "value": "dave ramsey",
+          "entity": "person"
+        },
+        {
+          "start": 54,
+          "end": 60,
+          "value": "monday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "play the next episode of this series",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 9,
+          "end": 21,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play next doctor who episode",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 10,
+          "end": 20,
+          "value": "doctor who",
+          "entity": "podcast_name"
+        }
+      ]
+    },
+    {
+      "text": "next episode in the podcast please",
+      "intent": "play_podcasts",
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "next episode",
+          "entity": "podcast_descriptor"
+        }
+      ]
+    },
+    {
+      "text": "play podcast one",
+      "intent": "play_podcasts",
+      "entities": []
+    }
+  ]
+}

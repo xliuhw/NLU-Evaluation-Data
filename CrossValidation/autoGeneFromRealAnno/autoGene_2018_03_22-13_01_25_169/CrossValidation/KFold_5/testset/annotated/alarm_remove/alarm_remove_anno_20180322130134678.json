@@ -1,0 +1,132 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "remove number three alarm of list",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "cancel wake up calls for this week",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "wake up",
+          "entity": "alarm_type"
+        },
+        {
+          "start": 25,
+          "end": 34,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please remove the the alarm which i set",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "Get rid of my current alarms",
+      "intent": "alarm_remove",
+      "entities": []
+    },
+    {
+      "text": "please remove the alarm that is set for weekdays at nine",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 40,
+          "end": 48,
+          "value": "weekdays",
+          "entity": "date"
+        },
+        {
+          "start": 52,
+          "end": 56,
+          "value": "nine",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "disable the alarm at ten am",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 21,
+          "end": 27,
+          "value": "ten am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remove tuesday alarm of nine am",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "tuesday",
+          "entity": "date"
+        },
+        {
+          "start": 24,
+          "end": 31,
+          "value": "nine am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "get rid of my eight am alarm",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 14,
+          "end": 22,
+          "value": "eight am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "clear my nine am alarms",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "nine am",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "remove alarm of six am on tuesday",
+      "intent": "alarm_remove",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "six am",
+          "entity": "time"
+        },
+        {
+          "start": 26,
+          "end": 33,
+          "value": "tuesday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "turn off all of my alarms",
+      "intent": "alarm_remove",
+      "entities": []
+    }
+  ]
+}

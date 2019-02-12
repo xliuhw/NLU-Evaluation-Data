@@ -1,0 +1,135 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i need you to convert nine am cst to est time",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "nine am",
+          "entity": "time"
+        },
+        {
+          "start": 30,
+          "end": 33,
+          "value": "cst",
+          "entity": "place_name"
+        },
+        {
+          "start": 37,
+          "end": 40,
+          "value": "est",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "given it is four thirty five pm in london what time is it in melbourne",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 12,
+          "end": 31,
+          "value": "four thirty five pm",
+          "entity": "time"
+        },
+        {
+          "start": 35,
+          "end": 41,
+          "value": "london",
+          "entity": "place_name"
+        },
+        {
+          "start": 61,
+          "end": 70,
+          "value": "melbourne",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the time difference between my location and hong kong",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 52,
+          "end": 61,
+          "value": "hong kong",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "convert eight am manila time to new york time",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "eight am",
+          "entity": "time"
+        },
+        {
+          "start": 17,
+          "end": 23,
+          "value": "manila",
+          "entity": "place_name"
+        },
+        {
+          "start": 32,
+          "end": 40,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "set the time zone to g. m. t.",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "g. m. t.",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "what is the time at singapore when our time is five pm",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 20,
+          "end": 29,
+          "value": "singapore",
+          "entity": "place_name"
+        },
+        {
+          "start": 47,
+          "end": 54,
+          "value": "five pm",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "convert time zone to ist",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 21,
+          "end": 24,
+          "value": "ist",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "convert time zone",
+      "intent": "datetime_convert",
+      "entities": []
+    }
+  ]
+}

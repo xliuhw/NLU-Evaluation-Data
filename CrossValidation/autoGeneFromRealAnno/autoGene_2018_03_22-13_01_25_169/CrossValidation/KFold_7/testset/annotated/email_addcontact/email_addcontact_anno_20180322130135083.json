@@ -1,0 +1,85 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "please add smurfette@gmail dot com to my email contacts",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 34,
+          "value": "smurfette@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "add email to contacts",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add dale@gmail dot com to my contacts",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 22,
+          "value": "dale@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "please add smithjoe@email dot com to the contact information for joe smith",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 33,
+          "value": "smithjoe@email dot com",
+          "entity": "email_address"
+        },
+        {
+          "start": 65,
+          "end": 74,
+          "value": "joe smith",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "add this email to a new contact",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "make this email a new contact",
+      "intent": "email_addcontact",
+      "entities": []
+    },
+    {
+      "text": "add john@gmail dot com to contacts",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 22,
+          "value": "john@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    },
+    {
+      "text": "add sam@gmail dot com to my contacts list",
+      "intent": "email_addcontact",
+      "entities": [
+        {
+          "start": 4,
+          "end": 21,
+          "value": "sam@gmail dot com",
+          "entity": "email_address"
+        }
+      ]
+    }
+  ]
+}

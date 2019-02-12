@@ -1,0 +1,196 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "delete the famous actors list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 24,
+          "value": "famous actors",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete my to do list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "clear all from my iphone",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "throw away my to do list please",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 14,
+          "end": 19,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove mike stein from contacts list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 17,
+          "value": "mike stein",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "trash file one",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove that event from list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "find list and remove apple",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete the list please",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "erase item please from my list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "erase the chore list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "chore",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete this from list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove chores from my to do list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete shopping from my list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "please delete the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "go to the list and remove item",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete butterfly clips from my wish list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 31,
+          "end": 40,
+          "value": "wish list",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "i don't need the shopping list delete it",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "get rid of item on the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete the last line",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove pepper from my grocery list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove pencil from stationary",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 19,
+          "end": 29,
+          "value": "stationary",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "delete the grocery list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    }
+  ]
+}

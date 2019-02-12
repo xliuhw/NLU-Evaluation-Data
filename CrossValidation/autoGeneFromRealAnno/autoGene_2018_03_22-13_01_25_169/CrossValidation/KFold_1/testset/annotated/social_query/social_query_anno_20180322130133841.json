@@ -1,0 +1,240 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "who is doing facebook live right now",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 26,
+          "value": "facebook live",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "tell me what's going on snap chat",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 33,
+          "value": "snap chat",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what's the most popular story on my facebook newsfeed",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 44,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "how many notifications do i have on facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 44,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "please check the trending topics on twitter",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 43,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "read me new post on my feed",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "get me updates from kenny's facebook from the weekend",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 20,
+          "end": 25,
+          "value": "kenny",
+          "entity": "person"
+        },
+        {
+          "start": 28,
+          "end": 36,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "value": "weekend",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "did anyone get engaged or give birth among my online friends",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 15,
+          "end": 36,
+          "value": "engaged or give birth",
+          "entity": "event_name"
+        },
+        {
+          "start": 46,
+          "end": 60,
+          "value": "online friends",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "did anyone like my photo i just posted",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "show me the posts of my friends in the last hour",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "friends",
+          "entity": "relation"
+        },
+        {
+          "start": 39,
+          "end": 48,
+          "value": "last hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "may i know what is trending in social media",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 31,
+          "end": 43,
+          "value": "social media",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "find updates from vicki's facebook from mardi gras day",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "vicki",
+          "entity": "person"
+        },
+        {
+          "start": 26,
+          "end": 34,
+          "value": "facebook",
+          "entity": "media_type"
+        },
+        {
+          "start": 40,
+          "end": 54,
+          "value": "mardi gras day",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "open social media account",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "hi what is happening in twitter today",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 24,
+          "end": 31,
+          "value": "twitter",
+          "entity": "media_type"
+        },
+        {
+          "start": 32,
+          "end": 37,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "did anyone message me on facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "take me to the most popular post",
+      "intent": "social_query",
+      "entities": []
+    },
+    {
+      "text": "are there any interesting stuff happened today in my twitter",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 41,
+          "end": 46,
+          "value": "today",
+          "entity": "date"
+        },
+        {
+          "start": 53,
+          "end": 60,
+          "value": "twitter",
+          "entity": "media_type"
+        }
+      ]
+    },
+    {
+      "text": "what the highest likes on facebook",
+      "intent": "social_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 34,
+          "value": "facebook",
+          "entity": "media_type"
+        }
+      ]
+    }
+  ]
+}

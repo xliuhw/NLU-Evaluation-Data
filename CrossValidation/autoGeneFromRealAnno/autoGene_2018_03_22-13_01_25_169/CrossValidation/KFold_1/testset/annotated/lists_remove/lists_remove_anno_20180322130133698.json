@@ -1,0 +1,127 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "can you remove this item from the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete last entry",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove books from list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "please remove my list of favorite albums",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 25,
+          "end": 40,
+          "value": "favorite albums",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please delete what i just typed",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "take bread out from the shopping list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 24,
+          "end": 32,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "change that off the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove the list of apps which started with letter a",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove this from the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "get rid of peas",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove item three from the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "take grocery buying off of the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "i don't have enough money to buy the nintendo switch right now can you please remove it on my amazon wishlist",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "i want to remove apples from list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "please remove this item from the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete item",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove item four",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "get rid of mike stein from contacts list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 21,
+          "value": "mike stein",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "delete my grocery list in my notes",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 10,
+          "end": 17,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    }
+  ]
+}

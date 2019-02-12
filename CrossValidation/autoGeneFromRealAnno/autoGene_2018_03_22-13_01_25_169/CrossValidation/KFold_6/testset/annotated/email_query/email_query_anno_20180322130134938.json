@@ -1,0 +1,176 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "check all new emails in my inbox",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 32,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "any incoming emails in the last five minutes",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 44,
+          "value": "last five minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "read me new emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "any new emails for me",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "what is the email sent by this contact read",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "hey do i have any emails from bob about the bulldog",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 33,
+          "value": "bob",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "did my mom send me an email",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 7,
+          "end": 10,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "read me new messages from name",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "do i have a new email from eric",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 31,
+          "value": "eric",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "any important notifications",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "check email client",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "please check email from my boss",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 31,
+          "value": "boss",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "let me know of any incoming emails for the last hour please",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 43,
+          "end": 52,
+          "value": "last hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "have i received any emails from my father",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 41,
+          "value": "my father",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "new messages",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "what is the latest email from zita",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 34,
+          "value": "zita",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "are there any new emails from robert jones",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 42,
+          "value": "robert jones",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "is there any new mail for me",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "beep when i get an email from john",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 30,
+          "end": 34,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

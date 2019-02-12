@@ -1,0 +1,207 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how is the traffic on the i fifteen in las vegas today",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 22,
+          "end": 35,
+          "value": "the i fifteen",
+          "entity": "place_name"
+        },
+        {
+          "start": 39,
+          "end": 48,
+          "value": "las vegas",
+          "entity": "place_name"
+        },
+        {
+          "start": 49,
+          "end": 54,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is my eta to the office if i leave in thirty minutes",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 43,
+          "end": 57,
+          "value": "thirty minutes",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "what about the new york city traffic",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "length of traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how is the traffic in san francisco over the bay bridge",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 22,
+          "end": 35,
+          "value": "san francisco",
+          "entity": "place_name"
+        },
+        {
+          "start": 45,
+          "end": 55,
+          "value": "bay bridge",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how heavy is traffic now in denver",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 28,
+          "end": 34,
+          "value": "denver",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "which place has more traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what is the current traffic in washington town",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 31,
+          "end": 46,
+          "value": "washington town",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "few traffic roads",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "traffic",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what does i seventy five look like",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 12,
+          "end": 24,
+          "value": "seventy five",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "are the streets congested right now",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how was the traffic now",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "is there more traffic in canal street",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 25,
+          "end": 37,
+          "value": "canal street",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "in jaipur traffic level is high",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 3,
+          "end": 9,
+          "value": "jaipur",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "are there any backups on route eighty today",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 25,
+          "end": 37,
+          "value": "route eighty",
+          "entity": "place_name"
+        },
+        {
+          "start": 38,
+          "end": 43,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "is the road clear in florida",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "florida",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is there bad traffic on the highway right now",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 28,
+          "end": 35,
+          "value": "highway",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "whats the traffic density in",
+      "intent": "transport_traffic",
+      "entities": []
+    }
+  ]
+}

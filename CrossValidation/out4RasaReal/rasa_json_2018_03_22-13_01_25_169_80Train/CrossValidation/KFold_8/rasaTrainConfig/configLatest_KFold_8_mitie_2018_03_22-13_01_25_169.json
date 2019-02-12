@@ -1,0 +1,9 @@
+{
+"project": "FinalNormMainV1",
+"fixed_model_name": "model_KFold_8_mitie_2018_03_22-13_01_25_169",
+"pipeline":"mitie",
+"num_threads": 8,
+"mitie_file": "./MITIE-models/english/total_word_feature_extractor.dat",
+"path" : "./trained_models",
+"data": "./preprocessResults/out4RasaReal/rasa_json_2018_03_22-13_01_25_169_80Train/CrossValidation/KFold_8/merged/RasaNlu_Merged_KFold_8_2018_03_22-13_01_25_169.json"
+}

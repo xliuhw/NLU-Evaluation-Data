@@ -1,0 +1,291 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "find jhonny's address",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 11,
+          "value": "jhonny",
+          "entity": "person"
+        },
+        {
+          "start": 14,
+          "end": 21,
+          "value": "address",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "give me contact mail id",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "mail id",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "what is job title of jan medvesek",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 17,
+          "value": "job title",
+          "entity": "personal_info"
+        },
+        {
+          "start": 21,
+          "end": 33,
+          "value": "jan medvesek",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "show john's contact information",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "john",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is john smith's home phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 18,
+          "value": "john smith",
+          "entity": "person"
+        },
+        {
+          "start": 21,
+          "end": 38,
+          "value": "home phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "may you please pull up information about a contact",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "mary's contact number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 0,
+          "end": 4,
+          "value": "mary",
+          "entity": "person"
+        },
+        {
+          "start": 7,
+          "end": 21,
+          "value": "contact number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "tell me the landline number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 12,
+          "end": 27,
+          "value": "landline number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "did i receive a message from kevin",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 29,
+          "end": 34,
+          "value": "kevin",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please let me know the what raj's status update in facebook",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 28,
+          "end": 31,
+          "value": "raj",
+          "entity": "person"
+        },
+        {
+          "start": 34,
+          "end": 47,
+          "value": "status update",
+          "entity": "personal_info"
+        },
+        {
+          "start": 51,
+          "end": 59,
+          "value": "facebook",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "what's rene phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "rene",
+          "entity": "person"
+        },
+        {
+          "start": 12,
+          "end": 24,
+          "value": "phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "do you have the mailing address for the electric company",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 40,
+          "end": 56,
+          "value": "electric company",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "what is tom's phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 11,
+          "value": "tom",
+          "entity": "person"
+        },
+        {
+          "start": 14,
+          "end": 26,
+          "value": "phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "olly i need to call my mom will you check her work number for me",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 23,
+          "end": 26,
+          "value": "mom",
+          "entity": "relation"
+        },
+        {
+          "start": 46,
+          "end": 57,
+          "value": "work number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "what's the address for alex",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "address",
+          "entity": "personal_info"
+        },
+        {
+          "start": 23,
+          "end": 27,
+          "value": "alex",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what information do you have on file in my information about bill",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 61,
+          "end": 65,
+          "value": "bill",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "link me to jeff's email",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "jeff",
+          "entity": "person"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "value": "email",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "what is john doe's address",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "john doe",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "send a text to alice",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 15,
+          "end": 20,
+          "value": "alice",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

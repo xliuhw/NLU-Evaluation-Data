@@ -1,0 +1,208 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "switch off light",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "turn lights off in bedroom",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 19,
+          "end": 26,
+          "value": "bedroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "can you turn my bedroom lights off",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "bedroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "kindly switch off the light in the drawing hall",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 35,
+          "end": 47,
+          "value": "drawing hall",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "close the light",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "please turn off the light",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "turn off the light in the bathroom",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 26,
+          "end": 34,
+          "value": "bathroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "time to sleep",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "turn the lights off in the bedroom",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 27,
+          "end": 34,
+          "value": "bedroom",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "can you make the lights go out",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "switch off the light on the left",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 15,
+          "end": 32,
+          "value": "light on the left",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn off bedroom lights in ten seconds",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "bedroom",
+          "entity": "house_place"
+        },
+        {
+          "start": 24,
+          "end": 38,
+          "value": "in ten seconds",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "could you turn off light",
+      "intent": "iot_hue_lightoff",
+      "entities": []
+    },
+    {
+      "text": "please turn off the lamp",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 20,
+          "end": 24,
+          "value": "lamp",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "light off living room",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 10,
+          "end": 21,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "bed room two lights off",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 0,
+          "end": 12,
+          "value": "bed room two",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "turn off smart lamp in den",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 9,
+          "end": 19,
+          "value": "smart lamp",
+          "entity": "device_type"
+        },
+        {
+          "start": 23,
+          "end": 26,
+          "value": "den",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "please turn off kitchen light",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "kitchen",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "all lights has to be turned off during the day",
+      "intent": "iot_hue_lightoff",
+      "entities": [
+        {
+          "start": 0,
+          "end": 10,
+          "value": "all lights",
+          "entity": "device_type"
+        },
+        {
+          "start": 32,
+          "end": 46,
+          "value": "during the day",
+          "entity": "time"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "are there any accidents on the four hundred and five",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 31,
+          "end": 52,
+          "value": "four hundred and five",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the traffic situation from kamycka to dejvicka",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 34,
+          "end": 41,
+          "value": "kamycka",
+          "entity": "place_name"
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "value": "dejvicka",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can i make back home without a traffic jam",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the traffic on eighty today",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 22,
+          "end": 28,
+          "value": "eighty",
+          "entity": "place_name"
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how bad is the traffic on sunset boulevard",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 26,
+          "end": 42,
+          "value": "sunset boulevard",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "i would like to know the traffic condition",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what is the traffic condition of florida",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 33,
+          "end": 40,
+          "value": "florida",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "traffic please",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "how is the traffic on harvard",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 22,
+          "end": 29,
+          "value": "harvard",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how long will it take to get home",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "what is the condition of traffic from work to home",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 46,
+          "end": 50,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is there any traffic downtown right now",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "downtown",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how is the traffic around city center",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 26,
+          "end": 37,
+          "value": "city center",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the traffic this morning",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 25,
+          "end": 32,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "tell me about city traffic",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 14,
+          "end": 18,
+          "value": "city",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "how is the traffic in broadway street",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "broadway",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "please check the traffic to the home",
+      "intent": "transport_traffic",
+      "entities": [
+        {
+          "start": 32,
+          "end": 36,
+          "value": "home",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "is the road a free way or a toll road",
+      "intent": "transport_traffic",
+      "entities": []
+    },
+    {
+      "text": "are there any traffic delays",
+      "intent": "transport_traffic",
+      "entities": []
+    }
+  ]
+}

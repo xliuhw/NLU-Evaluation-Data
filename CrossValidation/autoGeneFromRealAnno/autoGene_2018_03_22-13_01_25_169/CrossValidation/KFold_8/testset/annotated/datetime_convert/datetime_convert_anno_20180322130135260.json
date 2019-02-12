@@ -1,0 +1,128 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "i need the time zone from london england instead of central time zone",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 26,
+          "end": 40,
+          "value": "london england",
+          "entity": "time_zone"
+        },
+        {
+          "start": 52,
+          "end": 59,
+          "value": "central",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "if i was in the eastern time zone what time would it be",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 16,
+          "end": 23,
+          "value": "eastern",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "what is the time difference between here and there",
+      "intent": "datetime_convert",
+      "entities": []
+    },
+    {
+      "text": "convert one oh two from gtm four thirty to g. m. t. one thirty",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 8,
+          "end": 18,
+          "value": "one oh two",
+          "entity": "time"
+        },
+        {
+          "start": 24,
+          "end": 39,
+          "value": "gtm four thirty",
+          "entity": "time_zone"
+        },
+        {
+          "start": 43,
+          "end": 62,
+          "value": "g. m. t. one thirty",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "what is the time difference between eastern and pacific time zones",
+      "intent": "datetime_convert",
+      "entities": []
+    },
+    {
+      "text": "when it is nine in the east what time is it in the west",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 11,
+          "end": 15,
+          "value": "nine",
+          "entity": "time"
+        },
+        {
+          "start": 23,
+          "end": 27,
+          "value": "east",
+          "entity": "time_zone"
+        },
+        {
+          "start": 51,
+          "end": 55,
+          "value": "west",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "convert current time from g. m. t. to est",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 26,
+          "end": 34,
+          "value": "g. m. t.",
+          "entity": "time_zone"
+        },
+        {
+          "start": 38,
+          "end": 41,
+          "value": "est",
+          "entity": "time_zone"
+        }
+      ]
+    },
+    {
+      "text": "convert usa time in to indian time",
+      "intent": "datetime_convert",
+      "entities": [
+        {
+          "start": 8,
+          "end": 11,
+          "value": "usa",
+          "entity": "place_name"
+        },
+        {
+          "start": 23,
+          "end": 29,
+          "value": "indian",
+          "entity": "place_name"
+        }
+      ]
+    }
+  ]
+}

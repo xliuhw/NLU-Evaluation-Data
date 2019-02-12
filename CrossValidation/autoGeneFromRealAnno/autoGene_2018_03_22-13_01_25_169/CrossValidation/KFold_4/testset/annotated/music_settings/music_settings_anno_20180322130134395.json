@@ -1,0 +1,100 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "shuffle music by aaron carter",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 7,
+          "value": "shuffle",
+          "entity": "player_setting"
+        },
+        {
+          "start": 17,
+          "end": 29,
+          "value": "aaron carter",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "repeat the last song",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        },
+        {
+          "start": 11,
+          "end": 20,
+          "value": "last song",
+          "entity": "song_name"
+        }
+      ]
+    },
+    {
+      "text": "turn on repeat",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "please repeat the current song is being played",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 7,
+          "end": 13,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "could you please create a pandora channel for adele",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 46,
+          "end": 51,
+          "value": "adele",
+          "entity": "artist_name"
+        }
+      ]
+    },
+    {
+      "text": "change song",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 11,
+          "value": "change song",
+          "entity": "player_setting"
+        }
+      ]
+    },
+    {
+      "text": "repeat this song three times",
+      "intent": "music_settings",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "repeat",
+          "entity": "player_setting"
+        }
+      ]
+    }
+  ]
+}

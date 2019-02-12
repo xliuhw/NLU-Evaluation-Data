@@ -1,0 +1,196 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "add chives to my shopping list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 17,
+          "end": 25,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add this one also",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "add ketchup to the list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "i need to create a new to do list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 23,
+          "end": 28,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "bring up a new shopping list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 15,
+          "end": 23,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add eggs to my grocery list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "generate fresh list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "add shopping to my to do list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 19,
+          "end": 24,
+          "value": "to do",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please make a list of thing i have to shop tomorrow",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 22,
+          "end": 42,
+          "value": "thing i have to shop",
+          "entity": "list_name"
+        },
+        {
+          "start": 43,
+          "end": 51,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "add eggs to the list",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "add mop to hardware store list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 11,
+          "end": 30,
+          "value": "hardware store list",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "make a grocery list please",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 7,
+          "end": 14,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "start a new shopping list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please update my grocery list with one gallon of two percent milk",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "create a new list for me please",
+      "intent": "lists_createoradd",
+      "entities": []
+    },
+    {
+      "text": "add wash jeans to laundry list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 18,
+          "end": 25,
+          "value": "laundry",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add toothpaste to my shopping list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 21,
+          "end": 29,
+          "value": "shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "add eggs to my grocery's shopping list",
+      "intent": "lists_createoradd",
+      "entities": [
+        {
+          "start": 15,
+          "end": 33,
+          "value": "grocery's shopping",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "produce a new register",
+      "intent": "lists_createoradd",
+      "entities": []
+    }
+  ]
+}

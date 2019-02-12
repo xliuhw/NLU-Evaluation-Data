@@ -1,0 +1,195 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "read email",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "please check if i got any emails from mom",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 38,
+          "end": 41,
+          "value": "mom",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "do i have any new entries in my inbox",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 37,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "check mails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "how is my inbox looking at the moment",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 10,
+          "end": 15,
+          "value": "inbox",
+          "entity": "email_folder"
+        }
+      ]
+    },
+    {
+      "text": "jane doe emails",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 0,
+          "end": 8,
+          "value": "jane doe",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "read me the last email from stefan and oil change",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 34,
+          "value": "stefan",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "all new mail",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "inform me of my new emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "check emails for last hour",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 26,
+          "value": "last hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "show me my emails from the past hour",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 36,
+          "value": "past hour",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "please check my gmail for new mail",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "scan my inbox for any new emails from robert",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "inbox",
+          "entity": "email_folder"
+        },
+        {
+          "start": 38,
+          "end": 44,
+          "value": "robert",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "did linda connors reply to any of my emails this morning",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 17,
+          "value": "linda connors",
+          "entity": "person"
+        },
+        {
+          "start": 49,
+          "end": 56,
+          "value": "morning",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "how many emails today",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 16,
+          "end": 21,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "did mike send me an email",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 4,
+          "end": 8,
+          "value": "mike",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "have i gotten any new emails",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "check email for otp sent by my bank",
+      "intent": "email_query",
+      "entities": []
+    },
+    {
+      "text": "did i get any replies from jan",
+      "intent": "email_query",
+      "entities": [
+        {
+          "start": 27,
+          "end": 30,
+          "value": "jan",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "begin vacuuming",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 6,
+          "end": 15,
+          "value": "vacuuming",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "activate the roomba",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 13,
+          "end": 19,
+          "value": "roomba",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn cleaner robot on",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 5,
+          "end": 18,
+          "value": "cleaner robot",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "can you turn on the vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 20,
+          "end": 34,
+          "value": "vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "start my robot vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 9,
+          "end": 29,
+          "value": "robot vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "start robot cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 6,
+          "end": 19,
+          "value": "robot cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "initiate the robot vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 13,
+          "end": 33,
+          "value": "robot vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "start the robot vacuum cleaner now",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 10,
+          "end": 30,
+          "value": "robot vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "clean the flat",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "flat",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "switch on robot vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 10,
+          "end": 30,
+          "value": "robot vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "use vacuum cleaner in the hall",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 4,
+          "end": 18,
+          "value": "vacuum cleaner",
+          "entity": "device_type"
+        },
+        {
+          "start": 26,
+          "end": 30,
+          "value": "hall",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "make my iroomba clean the living room",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "iroomba",
+          "entity": "device_type"
+        },
+        {
+          "start": 26,
+          "end": 37,
+          "value": "living room",
+          "entity": "house_place"
+        }
+      ]
+    },
+    {
+      "text": "turn on the robot vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 12,
+          "end": 32,
+          "value": "robot vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "start cleaning floors",
+      "intent": "iot_cleaning",
+      "entities": []
+    },
+    {
+      "text": "start robot vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 6,
+          "end": 26,
+          "value": "robot vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "start the vacuum cleaner",
+      "intent": "iot_cleaning",
+      "entities": [
+        {
+          "start": 10,
+          "end": 24,
+          "value": "vacuum cleaner",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}

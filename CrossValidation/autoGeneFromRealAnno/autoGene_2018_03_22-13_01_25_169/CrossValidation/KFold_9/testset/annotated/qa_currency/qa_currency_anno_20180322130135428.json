@@ -1,0 +1,301 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "how much yens per u. s. d. today",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "yens",
+          "entity": "currency_name"
+        },
+        {
+          "start": 18,
+          "end": 26,
+          "value": "u. s. d.",
+          "entity": "currency_name"
+        },
+        {
+          "start": 27,
+          "end": 32,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "current forex rates",
+      "intent": "qa_currency",
+      "entities": []
+    },
+    {
+      "text": "how much is the dollar verus the pound",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 16,
+          "end": 22,
+          "value": "dollar",
+          "entity": "currency_name"
+        },
+        {
+          "start": 33,
+          "end": 38,
+          "value": "pound",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "dollar rate of philippiness peso",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 0,
+          "end": 6,
+          "value": "dollar",
+          "entity": "currency_name"
+        },
+        {
+          "start": 15,
+          "end": 32,
+          "value": "philippiness peso",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "find me the exchange rate between dollars and bitcoin",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 34,
+          "end": 41,
+          "value": "dollars",
+          "entity": "currency_name"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "value": "bitcoin",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "currency exchange",
+      "intent": "qa_currency",
+      "entities": []
+    },
+    {
+      "text": "what is a peso worth in dollars",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 10,
+          "end": 14,
+          "value": "peso",
+          "entity": "currency_name"
+        },
+        {
+          "start": 24,
+          "end": 31,
+          "value": "dollars",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "look up the exchange rate between dollars and bitcoin",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 34,
+          "end": 41,
+          "value": "dollars",
+          "entity": "currency_name"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "value": "bitcoin",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how many bots are in a dollar",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 23,
+          "end": 29,
+          "value": "dollar",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "if i have twenty dollars how many francs is that",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 17,
+          "end": 24,
+          "value": "dollars",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how many american dollars are in a euro",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 9,
+          "end": 25,
+          "value": "american dollars",
+          "entity": "currency_name"
+        },
+        {
+          "start": 35,
+          "end": 39,
+          "value": "euro",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "siri what is dollars in yen",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 13,
+          "end": 20,
+          "value": "dollars",
+          "entity": "currency_name"
+        },
+        {
+          "start": 24,
+          "end": 27,
+          "value": "yen",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "show exchange rate of u. s. d. and inr",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 22,
+          "end": 30,
+          "value": "u. s. d.",
+          "entity": "currency_name"
+        },
+        {
+          "start": 35,
+          "end": 38,
+          "value": "inr",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how many pesos to an american dollar",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 9,
+          "end": 14,
+          "value": "pesos",
+          "entity": "currency_name"
+        },
+        {
+          "start": 21,
+          "end": 36,
+          "value": "american dollar",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "current currency rate",
+      "intent": "qa_currency",
+      "entities": []
+    },
+    {
+      "text": "what's euro u. s. d. right now",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "euro",
+          "entity": "currency_name"
+        },
+        {
+          "start": 12,
+          "end": 20,
+          "value": "u. s. d.",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the current value of yen in american money",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 29,
+          "end": 32,
+          "value": "yen",
+          "entity": "currency_name"
+        },
+        {
+          "start": 36,
+          "end": 44,
+          "value": "american",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "what is the us dollar euro exchange rate",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 12,
+          "end": 21,
+          "value": "us dollar",
+          "entity": "currency_name"
+        },
+        {
+          "start": 22,
+          "end": 26,
+          "value": "euro",
+          "entity": "currency_name"
+        }
+      ]
+    },
+    {
+      "text": "how much is twenty two usd in euros",
+      "intent": "qa_currency",
+      "entities": [
+        {
+          "start": 23,
+          "end": 26,
+          "value": "usd",
+          "entity": "currency_name"
+        },
+        {
+          "start": 30,
+          "end": 35,
+          "value": "euros",
+          "entity": "currency_name"
+        }
+      ]
+    }
+  ]
+}

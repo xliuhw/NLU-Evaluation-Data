@@ -1,0 +1,187 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "remove the grocery list from my active lists",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "grocery",
+          "entity": "list_name"
+        },
+        {
+          "start": 32,
+          "end": 44,
+          "value": "active lists",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "please remove tricep pulldown from my workout list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 38,
+          "end": 50,
+          "value": "workout list",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "we're out of paint so take bathroom painting off the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "scratch that one from the list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove eric name",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "eric",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "remove the sms recipient which have initials s",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete mike stein from contacts list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 17,
+          "value": "mike stein",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "remove milk from my grocery list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "grocery",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "eliminate the list kickball but make sure the contacts remain",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "kickball",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove the list please",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete that item",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove cart list",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 7,
+          "end": 11,
+          "value": "cart",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "remove item three",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "clear my activities list for today",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 9,
+          "end": 19,
+          "value": "activities",
+          "entity": "list_name"
+        },
+        {
+          "start": 29,
+          "end": 34,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "delete this item",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "clear this list",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "remove a list please",
+      "intent": "lists_remove",
+      "entities": []
+    },
+    {
+      "text": "delete sherlock holmes from library",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 28,
+          "end": 35,
+          "value": "library",
+          "entity": "list_name"
+        }
+      ]
+    },
+    {
+      "text": "i want you to delete my shopping list from last month",
+      "intent": "lists_remove",
+      "entities": [
+        {
+          "start": 24,
+          "end": 32,
+          "value": "shopping",
+          "entity": "list_name"
+        },
+        {
+          "start": 43,
+          "end": 53,
+          "value": "last month",
+          "entity": "date"
+        }
+      ]
+    }
+  ]
+}

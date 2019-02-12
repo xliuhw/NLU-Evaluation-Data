@@ -1,0 +1,242 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "whats the best place to eat near here",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 15,
+          "end": 27,
+          "value": "place to eat",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "whats around",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "show shops around second street",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 10,
+          "value": "shops",
+          "entity": "business_type"
+        },
+        {
+          "start": 18,
+          "end": 31,
+          "value": "second street",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what's the best chicken place near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 16,
+          "end": 29,
+          "value": "chicken place",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where is the best pizza on sixth street",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 27,
+          "end": 39,
+          "value": "sixth street",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "find a shop that sells beer",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 23,
+          "end": 27,
+          "value": "beer",
+          "entity": "drink_type"
+        }
+      ]
+    },
+    {
+      "text": "what stores have clearance",
+      "intent": "recommendation_locations",
+      "entities": []
+    },
+    {
+      "text": "please look up local restaurants that are open now",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 21,
+          "end": 32,
+          "value": "restaurants",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what pubs are close to me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 5,
+          "end": 9,
+          "value": "pubs",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "what is a good lave to eat near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 15,
+          "end": 26,
+          "value": "lave to eat",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "i need to know where to get chicken wings in benton ar",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 28,
+          "end": 41,
+          "value": "chicken wings",
+          "entity": "food_type"
+        },
+        {
+          "start": 45,
+          "end": 54,
+          "value": "benton ar",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "can you find me a furniture store near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 18,
+          "end": 33,
+          "value": "furniture store",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "list of the nearby restaurant",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 19,
+          "end": 29,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "whats a good place to eat around midtown new york",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 33,
+          "end": 49,
+          "value": "midtown new york",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "are there any shopping centers nearby",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 14,
+          "end": 30,
+          "value": "shopping centers",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "where is a good wine bar near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 16,
+          "end": 24,
+          "value": "wine bar",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "i want to find some chinese food what is near me",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 20,
+          "end": 27,
+          "value": "chinese",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "where is a theatre in my area",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 11,
+          "end": 18,
+          "value": "theatre",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "recommend a local steak restaurant",
+      "intent": "recommendation_locations",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "steak",
+          "entity": "food_type"
+        },
+        {
+          "start": 24,
+          "end": 34,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    }
+  ]
+}

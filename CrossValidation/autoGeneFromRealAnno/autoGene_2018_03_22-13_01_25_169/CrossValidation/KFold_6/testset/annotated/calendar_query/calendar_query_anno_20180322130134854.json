@@ -1,0 +1,267 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what do i have scheduled on july seventh",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 28,
+          "end": 40,
+          "value": "july seventh",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "am i busy on Wednesday evening",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 22,
+          "value": "Wednesday",
+          "entity": "date"
+        },
+        {
+          "start": 23,
+          "end": 30,
+          "value": "evening",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "what events do i have scheduled today",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 37,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "what is on the agenda for today",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 26,
+          "end": 31,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "when the meeting start",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "on my calendar are there any birthdays",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 38,
+          "value": "birthdays",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "am i free on sunday day",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 13,
+          "end": 19,
+          "value": "sunday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i have any get togethers this week",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 14,
+          "end": 27,
+          "value": "get togethers",
+          "entity": "event_name"
+        },
+        {
+          "start": 28,
+          "end": 37,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "please tell me the main points of my two hundred meeting from this afternoon",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 37,
+          "end": 48,
+          "value": "two hundred",
+          "entity": "time"
+        },
+        {
+          "start": 49,
+          "end": 56,
+          "value": "meeting",
+          "entity": "event_name"
+        },
+        {
+          "start": 62,
+          "end": 76,
+          "value": "this afternoon",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me the next scheduled event",
+      "intent": "calendar_query",
+      "entities": []
+    },
+    {
+      "text": "anything interesting happening next friday",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 36,
+          "end": 42,
+          "value": "friday",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "how many calories did i burn between three and five today",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 37,
+          "end": 51,
+          "value": "three and five",
+          "entity": "time"
+        },
+        {
+          "start": 52,
+          "end": 57,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "can you tell me what's on the schedule for tomorrow",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 43,
+          "end": 51,
+          "value": "tomorrow",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do i have any thing going on at five",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 32,
+          "end": 36,
+          "value": "five",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "what's coming up this week",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 17,
+          "end": 26,
+          "value": "this week",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "do the knicks have a game at home tonight",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 29,
+          "end": 33,
+          "value": "home",
+          "entity": "place_name"
+        },
+        {
+          "start": 34,
+          "end": 41,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "do i have free time next tuesday to schedule a meeting",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 25,
+          "end": 32,
+          "value": "tuesday",
+          "entity": "date"
+        },
+        {
+          "start": 47,
+          "end": 54,
+          "value": "meeting",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "how many things do i have planned tonight",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 34,
+          "end": 41,
+          "value": "tonight",
+          "entity": "timeofday"
+        }
+      ]
+    },
+    {
+      "text": "hey please provide information about events by the end of the day",
+      "intent": "calendar_query",
+      "entities": [
+        {
+          "start": 44,
+          "end": 65,
+          "value": "by the end of the day",
+          "entity": "time"
+        }
+      ]
+    }
+  ]
+}

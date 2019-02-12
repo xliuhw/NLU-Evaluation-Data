@@ -1,0 +1,278 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "what is john's phone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 12,
+          "value": "john",
+          "entity": "person"
+        },
+        {
+          "start": 15,
+          "end": 27,
+          "value": "phone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "do i have the address for the apple store in my contacts",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 14,
+          "end": 21,
+          "value": "address",
+          "entity": "personal_info"
+        },
+        {
+          "start": 30,
+          "end": 41,
+          "value": "apple store",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "give me petey's telephone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 13,
+          "value": "petey",
+          "entity": "person"
+        },
+        {
+          "start": 16,
+          "end": 32,
+          "value": "telephone number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "who is the contact that last called me",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "how many of my contacts live or work in detroit",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 40,
+          "end": 47,
+          "value": "detroit",
+          "entity": "place_name"
+        }
+      ]
+    },
+    {
+      "text": "what's his number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 17,
+          "value": "number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "what's jesse's birthday",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 7,
+          "end": 12,
+          "value": "jesse",
+          "entity": "person"
+        },
+        {
+          "start": 15,
+          "end": 23,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "find me my dad's email address",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 11,
+          "end": 14,
+          "value": "dad",
+          "entity": "relation"
+        }
+      ]
+    },
+    {
+      "text": "what is a work phone number of emilia",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 10,
+          "end": 27,
+          "value": "work phone number",
+          "entity": "personal_info"
+        },
+        {
+          "start": 31,
+          "end": 37,
+          "value": "emilia",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "please give me details of allen from my contact",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 15,
+          "end": 22,
+          "value": "details",
+          "entity": "personal_info"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "value": "allen",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "do i have a number for jerry",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 23,
+          "end": 28,
+          "value": "jerry",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "what is mary s.'s birthday",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 15,
+          "value": "mary s.",
+          "entity": "person"
+        },
+        {
+          "start": 18,
+          "end": 26,
+          "value": "birthday",
+          "entity": "event_name"
+        }
+      ]
+    },
+    {
+      "text": "how do i dial sarah",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 9,
+          "end": 13,
+          "value": "dial",
+          "entity": "personal_info"
+        },
+        {
+          "start": 14,
+          "end": 19,
+          "value": "sarah",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "show me my contacts",
+      "intent": "email_querycontact",
+      "entities": []
+    },
+    {
+      "text": "can you pull up jeff",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 16,
+          "end": 20,
+          "value": "jeff",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "tell me about mary s.",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 14,
+          "end": 21,
+          "value": "mary s.",
+          "entity": "person"
+        }
+      ]
+    },
+    {
+      "text": "show ana number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 5,
+          "end": 8,
+          "value": "ana",
+          "entity": "person"
+        },
+        {
+          "start": 9,
+          "end": 15,
+          "value": "number",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "what is frieda's home address",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 14,
+          "value": "frieda",
+          "entity": "person"
+        },
+        {
+          "start": 17,
+          "end": 29,
+          "value": "home address",
+          "entity": "personal_info"
+        }
+      ]
+    },
+    {
+      "text": "what is mary smith's telephone number",
+      "intent": "email_querycontact",
+      "entities": [
+        {
+          "start": 8,
+          "end": 18,
+          "value": "mary smith",
+          "entity": "person"
+        }
+      ]
+    }
+  ]
+}

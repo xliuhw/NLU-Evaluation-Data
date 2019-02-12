@@ -1,0 +1,387 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "order two cheeseburgers from wings n. ale on university drive",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 10,
+          "end": 23,
+          "value": "cheeseburgers",
+          "entity": "food_type"
+        },
+        {
+          "start": 29,
+          "end": 41,
+          "value": "wings n. ale",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "order me some chinese food",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 14,
+          "end": 21,
+          "value": "chinese",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "show me delivery near me",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "order me the fish risotto from the golden fork",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 13,
+          "end": 25,
+          "value": "fish risotto",
+          "entity": "food_type"
+        },
+        {
+          "start": 31,
+          "end": 46,
+          "value": "the golden fork",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can i order take out food at this time",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 12,
+          "end": 20,
+          "value": "take out",
+          "entity": "order_type"
+        },
+        {
+          "start": 29,
+          "end": 38,
+          "value": "this time",
+          "entity": "time"
+        }
+      ]
+    },
+    {
+      "text": "place a take out order at olive garden",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "take out",
+          "entity": "order_type"
+        },
+        {
+          "start": 26,
+          "end": 38,
+          "value": "olive garden",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "please order some sushi for dinner",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 18,
+          "end": 23,
+          "value": "sushi",
+          "entity": "food_type"
+        },
+        {
+          "start": 28,
+          "end": 34,
+          "value": "dinner",
+          "entity": "meal_type"
+        }
+      ]
+    },
+    {
+      "text": "i'm in the mood to order takeaway",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 25,
+          "end": 33,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "search for pizza nearby",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 11,
+          "end": 16,
+          "value": "pizza",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "order a double bacon cheeseburger with bacon an white american cheese",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 15,
+          "end": 33,
+          "value": "bacon cheeseburger",
+          "entity": "food_type"
+        },
+        {
+          "start": 39,
+          "end": 44,
+          "value": "bacon",
+          "entity": "food_type"
+        },
+        {
+          "start": 54,
+          "end": 69,
+          "value": "american cheese",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "call the nearest pizza place that offers buffalo pizza",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 17,
+          "end": 28,
+          "value": "pizza place",
+          "entity": "business_type"
+        },
+        {
+          "start": 41,
+          "end": 54,
+          "value": "buffalo pizza",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "find restaurant order food name",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 5,
+          "end": 15,
+          "value": "restaurant",
+          "entity": "business_type"
+        }
+      ]
+    },
+    {
+      "text": "schedule a delivery from food at the nearby takeaway diner",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 11,
+          "end": 19,
+          "value": "delivery",
+          "entity": "order_type"
+        },
+        {
+          "start": 44,
+          "end": 52,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 53,
+          "end": 58,
+          "value": "diner",
+          "entity": "meal_type"
+        }
+      ]
+    },
+    {
+      "text": "order a takeaway sandwich and soup from the italian's",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 8,
+          "end": 16,
+          "value": "takeaway",
+          "entity": "order_type"
+        },
+        {
+          "start": 17,
+          "end": 25,
+          "value": "sandwich",
+          "entity": "food_type"
+        },
+        {
+          "start": 30,
+          "end": 34,
+          "value": "soup",
+          "entity": "food_type"
+        },
+        {
+          "start": 44,
+          "end": 51,
+          "value": "italian",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "can you please order some food for me",
+      "intent": "takeaway_order",
+      "entities": []
+    },
+    {
+      "text": "order a large pepperoni pizza from dominos to go",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 14,
+          "end": 29,
+          "value": "pepperoni pizza",
+          "entity": "order_type"
+        },
+        {
+          "start": 35,
+          "end": 42,
+          "value": "dominos",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "give me the best pizza deals offered today",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 17,
+          "end": 22,
+          "value": "pizza",
+          "entity": "food_type"
+        },
+        {
+          "start": 37,
+          "end": 42,
+          "value": "today",
+          "entity": "date"
+        }
+      ]
+    },
+    {
+      "text": "hey order me some take out from jason's deli",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 32,
+          "end": 44,
+          "value": "jason's deli",
+          "entity": "business_name"
+        }
+      ]
+    },
+    {
+      "text": "hey call the nearest chinese restaurant for a takeaway",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 21,
+          "end": 28,
+          "value": "chinese",
+          "entity": "food_type"
+        },
+        {
+          "start": 29,
+          "end": 39,
+          "value": "restaurant",
+          "entity": "business_type"
+        },
+        {
+          "start": 46,
+          "end": 54,
+          "value": "takeaway",
+          "entity": "order_type"
+        }
+      ]
+    },
+    {
+      "text": "open the grubhub app so i can order take out",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 9,
+          "end": 16,
+          "value": "grubhub",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "can you order me some pizza",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 22,
+          "end": 27,
+          "value": "pizza",
+          "entity": "food_type"
+        }
+      ]
+    },
+    {
+      "text": "order some fried chicken from church's chicken via grubhub",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 11,
+          "end": 24,
+          "value": "fried chicken",
+          "entity": "food_type"
+        },
+        {
+          "start": 30,
+          "end": 46,
+          "value": "church's chicken",
+          "entity": "business_name"
+        },
+        {
+          "start": 51,
+          "end": 58,
+          "value": "grubhub",
+          "entity": "app_name"
+        }
+      ]
+    },
+    {
+      "text": "free home delivery",
+      "intent": "takeaway_order",
+      "entities": [
+        {
+          "start": 10,
+          "end": 18,
+          "value": "delivery",
+          "entity": "order_type"
+        }
+      ]
+    }
+  ]
+}

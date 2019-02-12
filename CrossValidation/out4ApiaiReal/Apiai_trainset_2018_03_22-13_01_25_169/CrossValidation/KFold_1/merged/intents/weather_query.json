@@ -1,0 +1,3688 @@
+{
+  "userSays": [
+    {
+      "id": "5192063c-6b97-4aa5-88fa-1109f41de9a4",
+      "data": [
+        {
+          "text": "give me the weather for "
+        },
+        {
+          "text": "merced",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "three pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "65d68381-a7d0-40d7-85c5-788ae3e6f950",
+      "data": [
+        {
+          "text": "weather "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6943af02-8bd2-4b37-85b4-b8c9e016cdf7",
+      "data": [
+        {
+          "text": "find weather report"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ebe9a677-106b-446f-b686-1c7be3913311",
+      "data": [
+        {
+          "text": "i will need a "
+        },
+        {
+          "text": "scarf",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "afternoon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        },
+        {
+          "text": " to overcome sunlight"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f99ddbf9-367b-4ff8-87d5-860b598540b5",
+      "data": [
+        {
+          "text": "should i wear a "
+        },
+        {
+          "text": "hat",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "61318f8d-5e68-4744-8786-c6db95ee8eeb",
+      "data": [
+        {
+          "text": "what should i wear is it "
+        },
+        {
+          "text": "cold",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " outside"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f9cb240d-1ca1-4f9a-a330-a89fa425b8d4",
+      "data": [
+        {
+          "text": "is it going to "
+        },
+        {
+          "text": "snow",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7c17c2af-c34c-4b1e-b057-a23e4acaa38d",
+      "data": [
+        {
+          "text": "tell me what was the "
+        },
+        {
+          "text": "temperature",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "our city",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "twelve pm",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c0aa00eb-bcba-49c1-aeba-14c470fcd5e7",
+      "data": [
+        {
+          "text": "tell me about "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s weather"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d860a381-31fe-4984-8e22-4cbc970cc0c5",
+      "data": [
+        {
+          "text": "what will be the weather on "
+        },
+        {
+          "text": "monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "50841788-524b-440d-a889-c5d025b3cbe9",
+      "data": [
+        {
+          "text": "how's the weather "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4e40abe4-2f7f-4277-84c2-2a4a4334953c",
+      "data": [
+        {
+          "text": "weather forecast for "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "90801605-66d9-4dd8-af7d-27f3cda76ccc",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s weather in "
+        },
+        {
+          "text": "springfield",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0ddbb62b-8040-42c2-b940-5c32a433eb3e",
+      "data": [
+        {
+          "text": "is it going to be "
+        },
+        {
+          "text": "cloudy",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " or "
+        },
+        {
+          "text": "sunny",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "bangalore",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "37da16e1-caac-44da-9992-f176d5a2696f",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "temperature",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this hour",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "46f878e0-5886-45b1-9d69-949f38485f22",
+      "data": [
+        {
+          "text": "tell me the weather for "
+        },
+        {
+          "text": "new york city",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "74ad32eb-1e56-4985-9899-e0b69ab20233",
+      "data": [
+        {
+          "text": "i dont want to carry an "
+        },
+        {
+          "text": "umbrella",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " will we have "
+        },
+        {
+          "text": "rain",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0301fe7f-e8de-4ee8-a982-4bd3f3cfd474",
+      "data": [
+        {
+          "text": "what will the weather be like on "
+        },
+        {
+          "text": "saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "79af2e87-4a72-436f-aada-91cda8e2bece",
+      "data": [
+        {
+          "text": "is the "
+        },
+        {
+          "text": "sun gonna shine",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "devon",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this weekend",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "73d82ba2-3160-4d25-a279-6b75eaa664b9",
+      "data": [
+        {
+          "text": "is it "
+        },
+        {
+          "text": "snowing",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "california",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "326d1979-9619-4e1b-8ca8-75ed60c1411a",
+      "data": [
+        {
+          "text": "any signs of "
+        },
+        {
+          "text": "rain",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "71bcf8fe-3285-48fe-a7ac-0e7a7f6ca14f",
+      "data": [
+        {
+          "text": "is it a "
+        },
+        {
+          "text": "soft evening",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tonight",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "799463a7-d420-4c1d-ba45-3b546b1ae9fc",
+      "data": [
+        {
+          "text": "how hot is it outside "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "78d6001f-86f1-4a1b-8cb6-a12124d454a9",
+      "data": [
+        {
+          "text": "status of weather"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7864e725-0037-47d9-a27f-a8f298a6e551",
+      "data": [
+        {
+          "text": "what will be the "
+        },
+        {
+          "text": "temperature",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "miami florida",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ed895a17-eac4-410e-bbe5-2a72e69d52d8",
+      "data": [
+        {
+          "text": "will there be "
+        },
+        {
+          "text": "snow",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "93287786-6dd0-4fc8-afac-464346e5dc9a",
+      "data": [
+        {
+          "text": "what is weather "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5506925a-c884-4086-8116-7566b1e05b31",
+      "data": [
+        {
+          "text": "how much "
+        },
+        {
+          "text": "snow",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " has fallen in "
+        },
+        {
+          "text": "maine",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " since "
+        },
+        {
+          "text": "yesterday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "47d7471c-81b1-4c43-89bf-6b8856925de1",
+      "data": [
+        {
+          "text": "how "
+        },
+        {
+          "text": "hot",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " is it in "
+        },
+        {
+          "text": "quebec",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4f2f9d35-0895-486c-b01f-e83539612d5b",
+      "data": [
+        {
+          "text": "is it going to "
+        },
+        {
+          "text": "rain",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "san diego",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "03ee16c0-32f3-470e-9ee4-96429a9da5b7",
+      "data": [
+        {
+          "text": "is it going to "
+        },
+        {
+          "text": "rain",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in the "
+        },
+        {
+          "text": "next few days",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "tucson",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aabb6275-ff9b-4d8f-832e-fcbcac9dfe82",
+      "data": [
+        {
+          "text": "is it going to "
+        },
+        {
+          "text": "rain",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "seattle",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "15b87b37-cec3-4f75-8c70-cc81c27f27e2",
+      "data": [
+        {
+          "text": "will it get "
+        },
+        {
+          "text": "warmer",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " here "
+        },
+        {
+          "text": "next week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "185205c6-6591-44ad-b1c2-29f420555f1b",
+      "data": [
+        {
+          "text": "how me the "
+        },
+        {
+          "text": "highest",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " weather "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6109c00f-4181-433f-a01b-687fc0db426c",
+      "data": [
+        {
+          "text": "let me know the weather for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c509da7b-101e-4a59-be51-6b652b73f5b7",
+      "data": [
+        {
+          "text": "weather in "
+        },
+        {
+          "text": "chicago",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b5ab7b1a-3616-40af-8277-0ca6effffd1a",
+      "data": [
+        {
+          "text": "whether it would be "
+        },
+        {
+          "text": "sunny",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "califonia",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e89ebf7a-db14-451a-8539-7a0a1da6b960",
+      "data": [
+        {
+          "text": "will it be "
+        },
+        {
+          "text": "rainy",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff1e432b-c601-4cf5-aed0-d6caf6494c57",
+      "data": [
+        {
+          "text": "what's the "
+        },
+        {
+          "text": "temperature",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "df89d057-afc4-41da-a041-8d524dfbb02d",
+      "data": [
+        {
+          "text": "what will be the weather update for "
+        },
+        {
+          "text": "monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "noon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8d536f1c-47e4-4146-bf5d-e92da00c8c39",
+      "data": [
+        {
+          "text": "do i need "
+        },
+        {
+          "text": "pants",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "07bc0239-c10d-42c8-ac80-a240c9c100fe",
+      "data": [
+        {
+          "text": "do i need a "
+        },
+        {
+          "text": "rain coat",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "61948db3-a52f-448f-8fd2-e20f29599813",
+      "data": [
+        {
+          "text": "weather forecast please"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "52b09681-c853-4816-b119-6028b54d8ec0",
+      "data": [
+        {
+          "text": "check the weather app to see if"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0abb8ee2-7a73-48ef-abce-2bc74a267e5a",
+      "data": [
+        {
+          "text": "weather for the "
+        },
+        {
+          "text": "next week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "23b433a9-34e4-4226-883f-4fd9c3c59bb6",
+      "data": [
+        {
+          "text": "how's the weather like in "
+        },
+        {
+          "text": "beijing",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f73939d9-4824-4cb9-b79a-270b2a0bdb42",
+      "data": [
+        {
+          "text": "what is the weather for the "
+        },
+        {
+          "text": "school week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bfbac24e-123e-4d6d-ab19-fb671fdcfaac",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "sunny",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "oslo",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2613b95a-bba9-4fa1-bc61-904518a26bee",
+      "data": [
+        {
+          "text": "Is it going to be "
+        },
+        {
+          "text": "windy",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "Saturday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "denver",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "30f4be92-e867-4fe8-b396-940534777131",
+      "data": [
+        {
+          "text": "will i need an "
+        },
+        {
+          "text": "umbrella",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8b425b1a-0446-468f-8541-93493d8c52c0",
+      "data": [
+        {
+          "text": "when is the next time it will "
+        },
+        {
+          "text": "rain",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3b100f7e-55e3-41c9-9f71-22e37307dc75",
+      "data": [
+        {
+          "text": "what's the weather "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "519c7fd1-f13b-46ac-81ec-55118dbcb9c6",
+      "data": [
+        {
+          "text": "whats the weather like right now in "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "67cb4eb8-5a62-4fc9-bc6d-86a76f1ea626",
+      "data": [
+        {
+          "text": "what is the current weather conditions in "
+        },
+        {
+          "text": "chicago illinois",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "753fdffb-bc9a-43bf-8e5c-90db222a76df",
+      "data": [
+        {
+          "text": "get "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s weather report"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1b9f7222-0dac-4cf0-9d1e-4ed45387bb14",
+      "data": [
+        {
+          "text": "is it currently "
+        },
+        {
+          "text": "raining",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6100f721-a297-49d6-8fce-e246f197bb2c",
+      "data": [
+        {
+          "text": "will the weather be "
+        },
+        {
+          "text": "bad",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "Sunday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3cf9b9ae-5296-44fe-b1a3-dead01e94991",
+      "data": [
+        {
+          "text": "it looks "
+        },
+        {
+          "text": "sunny and clear",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is that true"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "44e227c0-a5f2-401e-9314-161d9d7b2495",
+      "data": [
+        {
+          "text": "what "
+        },
+        {
+          "text": "degree",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " is it outside"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "579f3457-6490-411b-be34-c3e9160736b8",
+      "data": [
+        {
+          "text": "what is the weather like in "
+        },
+        {
+          "text": "grand rapids mi",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aa80ceba-193b-4da5-8f48-5eb9fe03d8b4",
+      "data": [
+        {
+          "text": "how does it feel outside"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1dcb0f29-d10e-4575-94f2-9845f175c850",
+      "data": [
+        {
+          "text": "what is the "
+        },
+        {
+          "text": "temperature",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "800c091b-8c53-4841-875f-afcfb55887ce",
+      "data": [
+        {
+          "text": "what's the weather forecast for "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c9afec67-551a-45fe-aace-43f40657c5a8",
+      "data": [
+        {
+          "text": "i need to know current weather in "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " city"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d4a0d305-1390-4ec1-923d-bd04ba7612ff",
+      "data": [
+        {
+          "text": "what is the weather "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bf458071-aaf3-4fa4-945a-b94f17965a98",
+      "data": [
+        {
+          "text": "is the weather "
+        },
+        {
+          "text": "bad",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "new york",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "48b7417d-e35a-4388-8fc2-ecdb9e90c9e3",
+      "data": [
+        {
+          "text": "how is it outside "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c3e1bcaf-ceb2-469e-9703-afb64ae2cc09",
+      "data": [
+        {
+          "text": "please tell me the chances of "
+        },
+        {
+          "text": "rain",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " for zip code twenty nine thousand nine hundred and seventy eight"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a4f84f86-8ed3-4cc8-ac6e-2678121728db",
+      "data": [
+        {
+          "text": "what will be the "
+        },
+        {
+          "text": "highest temperature",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "163b195e-ea22-4952-a74f-dc936a54a752",
+      "data": [
+        {
+          "text": "open the weather app"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b7c07aec-d18a-4e59-bdfa-60b6fd87e014",
+      "data": [
+        {
+          "text": "how soon can we expect "
+        },
+        {
+          "text": "rain",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "01433454-f09d-4606-802d-3fa897c18d15",
+      "data": [
+        {
+          "text": "it seems "
+        },
+        {
+          "text": "cold",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "292b9863-db3d-4190-96e6-16038f3e2207",
+      "data": [
+        {
+          "text": "is "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " a "
+        },
+        {
+          "text": "sunscreen",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " day"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3dc5c92e-a546-47bc-a4bb-3af41d1a52cc",
+      "data": [
+        {
+          "text": "how is it outside"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b9fea272-0980-4a96-a660-42b6188187b1",
+      "data": [
+        {
+          "text": "do i need a "
+        },
+        {
+          "text": "sweater",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3508b1a1-7b26-4f64-9bb5-6b35d68590ee",
+      "data": [
+        {
+          "text": "do i need a "
+        },
+        {
+          "text": "jacket",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "77f6a615-a313-4677-beb3-015f6e5b840c",
+      "data": [
+        {
+          "text": "what's it like outside"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "61cdd307-66cc-488b-89b8-ba84d13d6e73",
+      "data": [
+        {
+          "text": "is it going to "
+        },
+        {
+          "text": "rain",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " later"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ba524cef-af8f-4cda-980d-1d0ceedf286e",
+      "data": [
+        {
+          "text": "what is the weather going to be like on "
+        },
+        {
+          "text": "march twentieth two thousand and seventeen",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d14962ec-d548-4ecf-8790-ea0e09a9d119",
+      "data": [
+        {
+          "text": "it is "
+        },
+        {
+          "text": "cloudy",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "02b5a284-ef7b-419a-a432-92680d2a8ccb",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "home town",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " weather"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "7185380b-ab67-44eb-b136-269e4f3b6d96",
+      "data": [
+        {
+          "text": "check and see what will be the weather condition in "
+        },
+        {
+          "text": "new jersey",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " at "
+        },
+        {
+          "text": "eight am",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b759e16f-256d-4942-8362-2d2297d54033",
+      "data": [
+        {
+          "text": "how many degrees is it in "
+        },
+        {
+          "text": "orange tx",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " right now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d4c1dbd5-01a6-4c3c-87f3-e67bc7bc8335",
+      "data": [
+        {
+          "text": "on "
+        },
+        {
+          "text": "Tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " what is the weather supposed to be"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4da3fec7-92a3-4308-bfb0-8cbe1b23f546",
+      "data": [
+        {
+          "text": "what will the weather be "
+        },
+        {
+          "text": "next week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b0bb1ecf-09e5-4d88-ad22-9810aa79bbf7",
+      "data": [
+        {
+          "text": "what is the weather forecast for "
+        },
+        {
+          "text": "chicago",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6882f548-c095-4ad0-a833-b37d44ba80bf",
+      "data": [
+        {
+          "text": "is it "
+        },
+        {
+          "text": "snowing",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "seattle",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "11bb90b2-008a-4b52-a8a9-3534cabddaa3",
+      "data": [
+        {
+          "text": "is it "
+        },
+        {
+          "text": "raining",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "614647b9-e8cd-465d-aa89-120acd37a23c",
+      "data": [
+        {
+          "text": "am i going to need a "
+        },
+        {
+          "text": "jacket",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9a3045ab-a731-4e6b-8578-073281c8fc1b",
+      "data": [
+        {
+          "text": "how is the weather likely to be "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1566e272-181e-44dd-9421-de83ce962b1f",
+      "data": [
+        {
+          "text": "is it "
+        },
+        {
+          "text": "sunny",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "gonbad",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5424e8fc-426e-4b98-9cc9-15d51a930f97",
+      "data": [
+        {
+          "text": "what is the weather in "
+        },
+        {
+          "text": "utah",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff9feede-872f-4f52-912c-121097d4cdd7",
+      "data": [
+        {
+          "text": "what's the weather in "
+        },
+        {
+          "text": "toronto",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0a50b88b-dc94-495a-8607-ed5d71ca73dc",
+      "data": [
+        {
+          "text": ""
+        },
+        {
+          "text": "home town",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " weather"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ff1f2b0f-b681-43b7-b53c-ae41efedb37c",
+      "data": [
+        {
+          "text": "shall i change my car tyres to "
+        },
+        {
+          "text": "snow tyres",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " soon"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1a4ff488-7ad4-41dc-ae44-6bc8b82d5653",
+      "data": [
+        {
+          "text": "what is the forecast"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ea50d108-4ec7-44f8-95b2-64400dc1dd86",
+      "data": [
+        {
+          "text": "what is the weather like outside"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "718d3976-21d5-4011-b0ce-9ae6589da76a",
+      "data": [
+        {
+          "text": "what will the weather be for the "
+        },
+        {
+          "text": "next week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e1ec7233-43d3-4b81-8a72-8ba609d8a2cc",
+      "data": [
+        {
+          "text": "what a "
+        },
+        {
+          "text": "sunny",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " day"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3b9f8389-e71b-46de-aaa2-503345dc370d",
+      "data": [
+        {
+          "text": "how is the weather down in "
+        },
+        {
+          "text": "orange tx",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "47188127-7a99-446f-b13b-7a9c6230c471",
+      "data": [
+        {
+          "text": "should i take an "
+        },
+        {
+          "text": "umbrella",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4308554f-42be-44f7-ac15-30f2a14fe211",
+      "data": [
+        {
+          "text": "what is the current "
+        },
+        {
+          "text": "temperature",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " outside"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ce02c06b-3ff2-4a29-89fd-be8ab4f800e9",
+      "data": [
+        {
+          "text": "will it be "
+        },
+        {
+          "text": "raining",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "thursday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "32166fa6-6473-42f8-acab-59372808966b",
+      "data": [
+        {
+          "text": "is it going to be "
+        },
+        {
+          "text": "nice",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c48ebf65-7a7f-40f4-876f-1ce2da7769f9",
+      "data": [
+        {
+          "text": "i am need my "
+        },
+        {
+          "text": "hat",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a4f91a57-d49a-4779-9f7e-add81b00e47e",
+      "data": [
+        {
+          "text": "what is the forecast for the "
+        },
+        {
+          "text": "week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8cdd338a-fdf7-4704-bd79-8139fcb98839",
+      "data": [
+        {
+          "text": "whats the weather like"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e208069f-bc99-41aa-9b02-fd2ed1161f77",
+      "data": [
+        {
+          "text": "weather report of the "
+        },
+        {
+          "text": "week",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f8efb5ef-56d1-49c7-88c7-534d5125f18c",
+      "data": [
+        {
+          "text": "is it going to "
+        },
+        {
+          "text": "snow",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cacca93b-6259-4d10-81d2-9b26cdda3c65",
+      "data": [
+        {
+          "text": "what are the "
+        },
+        {
+          "text": "estimated temperatures",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this afternoon",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d65d89fa-c636-4566-b44f-1217b6468f03",
+      "data": [
+        {
+          "text": "how's weather "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a1960459-c3b8-4feb-8a9b-b6fe0d69831a",
+      "data": [
+        {
+          "text": "do i need to wear a "
+        },
+        {
+          "text": "coat",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "137cd38d-c3f7-49e2-953c-cd62f0f1149b",
+      "data": [
+        {
+          "text": "whats the "
+        },
+        {
+          "text": "average temperature",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "mangalore",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ad377023-d6ec-4bac-94d3-1bf132cac5a6",
+      "data": [
+        {
+          "text": "is "
+        },
+        {
+          "text": "mysore",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " going to be "
+        },
+        {
+          "text": "very hot and humid",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " whats the weather status"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "16500593-2355-4cd5-a240-53eddd1f9fb0",
+      "data": [
+        {
+          "text": "show me "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s forecast"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "76d3bedb-4a35-47c0-a3ce-22dc4a58e3e2",
+      "data": [
+        {
+          "text": "do i need to carry "
+        },
+        {
+          "text": "umbrella",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " for "
+        },
+        {
+          "text": "evening",
+          "alias": "timeofday",
+          "meta": "@timeofday",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "24144cf3-0525-400d-9a7a-f81fe13173e0",
+      "data": [
+        {
+          "text": "is it colder than "
+        },
+        {
+          "text": "yesterday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "efc65f50-a632-432f-abd3-f266f816e780",
+      "data": [
+        {
+          "text": "weather like"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "4b52b3d6-19c4-454a-89c2-09a3a3310530",
+      "data": [
+        {
+          "text": "will there be "
+        },
+        {
+          "text": "snow",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "10b2f585-f816-4b7e-82ff-51714a9896c8",
+      "data": [
+        {
+          "text": "will i be able to get away with "
+        },
+        {
+          "text": "shorts",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "75ef928e-6e8f-460d-b9bd-39dad9063247",
+      "data": [
+        {
+          "text": "is there any chances of "
+        },
+        {
+          "text": "rain",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "29d3446b-c01e-4c8e-ae43-308842257af7",
+      "data": [
+        {
+          "text": "do i need "
+        },
+        {
+          "text": "boots",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d1f9d6e1-cc9f-4e81-8d6d-9521f0f86f67",
+      "data": [
+        {
+          "text": "has the weather changed for "
+        },
+        {
+          "text": "wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " at all"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f39ea038-628e-4758-9042-ad9d1c8a8fc1",
+      "data": [
+        {
+          "text": "what's the current "
+        },
+        {
+          "text": "temperature",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " outside"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a4fa8227-70d8-4181-8deb-1e5dbe551522",
+      "data": [
+        {
+          "text": "weather in "
+        },
+        {
+          "text": "home town",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ed150b1-208b-47c0-a10e-f1f3be078125",
+      "data": [
+        {
+          "text": "what will the weather be like "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "dd2cf79a-1ce0-419b-8078-deb7be3eaf87",
+      "data": [
+        {
+          "text": "what is the weather for "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c065d666-b93c-4435-b16a-49440eb583e5",
+      "data": [
+        {
+          "text": "current weather forecast"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "33b780ef-cf31-4e70-8e30-949b0f8db28f",
+      "data": [
+        {
+          "text": "what is "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": "'s weather forecast"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "79098437-a0b7-4448-b8a6-81071c059d39",
+      "data": [
+        {
+          "text": "how is weather on such and such day"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "241f622b-2beb-4f81-a9ea-5ea7365a5490",
+      "data": [
+        {
+          "text": "am i going to "
+        },
+        {
+          "text": "swim or work",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "eee04fec-f326-488e-b2aa-34eecc503cde",
+      "data": [
+        {
+          "text": "what is the weather update for "
+        },
+        {
+          "text": "tuesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "55067516-eda0-43c6-be1d-ebfad1786d64",
+      "data": [
+        {
+          "text": "is it going to be "
+        },
+        {
+          "text": "cloudy",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "london",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " during the "
+        },
+        {
+          "text": "weekend",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "0c8ce407-ebab-444b-8b80-9d609c6415fc",
+      "data": [
+        {
+          "text": "is it going to "
+        },
+        {
+          "text": "rain",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "monday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2ff9a998-495d-4618-8cc1-074407cce647",
+      "data": [
+        {
+          "text": "do i need to take an "
+        },
+        {
+          "text": "umbrella",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e9d3e22b-f7f3-4ceb-91a7-bbc521cb6dcd",
+      "data": [
+        {
+          "text": "will it be "
+        },
+        {
+          "text": "nice",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " at the "
+        },
+        {
+          "text": "beach",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6b8d844f-2972-415e-ada2-83a7e19e8a54",
+      "data": [
+        {
+          "text": "what was the weather for the "
+        },
+        {
+          "text": "week",
+          "alias": "time",
+          "meta": "@time",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "8cf53f31-ff2f-42c0-9265-2a1ad4ad2e7a",
+      "data": [
+        {
+          "text": "whats the weather now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e89a147c-c57d-4078-8a12-9969a96aafa9",
+      "data": [
+        {
+          "text": "tell me the weather for "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aa6368e0-2791-4fcf-bdec-806e66ba60f9",
+      "data": [
+        {
+          "text": "please show me the local weather"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "63783dab-9740-446c-a897-68a7893cb3ae",
+      "data": [
+        {
+          "text": "how was the weather "
+        },
+        {
+          "text": "this week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1becf001-ea27-4cee-86e4-540116d5fd61",
+      "data": [
+        {
+          "text": "is there any "
+        },
+        {
+          "text": "rains",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " predicted for "
+        },
+        {
+          "text": "bangalore",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "c45b9872-8d1f-4db6-9d7f-dbca69048791",
+      "data": [
+        {
+          "text": "tell me about the current weather"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d61c44ae-70d8-4f99-9427-8ed5fc1a2bc4",
+      "data": [
+        {
+          "text": "tell me the "
+        },
+        {
+          "text": "temperature",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "pheonix",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "92bb85ab-c5cd-4d4e-9445-d31384b31c49",
+      "data": [
+        {
+          "text": "i want the complete weather details of "
+        },
+        {
+          "text": "seventh march",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b91314f2-bb7d-4d18-9a09-3c3aef4450c3",
+      "data": [
+        {
+          "text": "how "
+        },
+        {
+          "text": "cold",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "617a3393-21bd-481b-9885-aa2b3cb2b106",
+      "data": [
+        {
+          "text": "do i need a "
+        },
+        {
+          "text": "light or heavy jacket",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "036a076b-7a60-4ce5-acf1-838adaeb5bc6",
+      "data": [
+        {
+          "text": "should i take my "
+        },
+        {
+          "text": "raincoat",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " with me now"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e2b3a68c-6d18-4dd4-9d51-081d34761be0",
+      "data": [
+        {
+          "text": "should i bring an umbrella "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ecfb1505-c8f3-4358-82ea-fa951ae401c8",
+      "data": [
+        {
+          "text": "please confirm the weather for the "
+        },
+        {
+          "text": "thirteenth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " of "
+        },
+        {
+          "text": "this month",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5f0d3902-6ffa-4659-8a8d-a117c73df59c",
+      "data": [
+        {
+          "text": "what will be the highest "
+        },
+        {
+          "text": "temperature",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " in "
+        },
+        {
+          "text": "coming week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ccfa1aa9-bba9-465c-a2a8-845b985a30f6",
+      "data": [
+        {
+          "text": "what will the weather be like in "
+        },
+        {
+          "text": "austin",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "march sixteenth",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cda8400f-0aca-49dc-a573-b5a107bff643",
+      "data": [
+        {
+          "text": "what's the weather supposed to be like on "
+        },
+        {
+          "text": "wednesday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "fa975d68-3010-42b3-9c45-1fc14099130d",
+      "data": [
+        {
+          "text": "how is "
+        },
+        {
+          "text": "this weeks",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " weather"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5aae0322-d177-4664-a07f-83e873c93941",
+      "data": [
+        {
+          "text": "will the "
+        },
+        {
+          "text": "temperature",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " be in the "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "05edd891-c398-4a1c-b7b9-498f93f99853",
+      "data": [
+        {
+          "text": "what is the current weather in "
+        },
+        {
+          "text": "denver",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6cb78786-0106-4127-a1a0-a03199c1f153",
+      "data": [
+        {
+          "text": "how warm is it in "
+        },
+        {
+          "text": "columbus ohio",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "37dc7cbf-fa62-4bba-910b-5f141b971116",
+      "data": [
+        {
+          "text": "it is very "
+        },
+        {
+          "text": "hot",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " is not it"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a771ad99-d92d-4579-9381-16cd4acb545f",
+      "data": [
+        {
+          "text": "will i need an "
+        },
+        {
+          "text": "umbrella",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "today",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d1490e69-583a-47c0-9949-b2f301a2a095",
+      "data": [
+        {
+          "text": "its "
+        },
+        {
+          "text": "cold",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " outside"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d7c6698c-3a67-43b1-bde3-a04d7a549a83",
+      "data": [
+        {
+          "text": "will I need a "
+        },
+        {
+          "text": "raincoat",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " when I go to "
+        },
+        {
+          "text": "glasgow",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        },
+        {
+          "text": " on "
+        },
+        {
+          "text": "sunday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "bd6cdabc-076c-4812-a36b-e8a0ddb88cf2",
+      "data": [
+        {
+          "text": "how "
+        },
+        {
+          "text": "cold",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " is it outside"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b936d9ab-e980-485b-a06a-78089932a7b6",
+      "data": [
+        {
+          "text": "will it "
+        },
+        {
+          "text": "rain",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "9d67eb79-cf83-485d-bcbf-717cc08c6d84",
+      "data": [
+        {
+          "text": "tell me weather forecast"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "accf697c-689d-45f8-97ad-d40c7fded539",
+      "data": [
+        {
+          "text": "can i go outing without any "
+        },
+        {
+          "text": "raincoat",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1a04e790-392e-4f58-b46e-5f3900975922",
+      "data": [
+        {
+          "text": "give me the "
+        },
+        {
+          "text": "weekly",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        },
+        {
+          "text": " weather near me"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "113b71b1-6048-412e-9863-dd1ed0d578bd",
+      "data": [
+        {
+          "text": "will i need "
+        },
+        {
+          "text": "sunblock",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "this weekend",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "ca32b791-a6f9-4f91-b036-d5a5eac4706a",
+      "data": [
+        {
+          "text": "is it supposed to "
+        },
+        {
+          "text": "rain",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "tomorrow",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a68fa5e7-9d92-4f4a-9508-c6ff17452164",
+      "data": [
+        {
+          "text": "tell me the current weather for "
+        },
+        {
+          "text": "danville il",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d6b5b9c7-c975-4d24-9bec-c78803b8b2b1",
+      "data": [
+        {
+          "text": "how is the weather of this place"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "b18a2de3-7268-40dc-8397-9565d870f808",
+      "data": [
+        {
+          "text": "how "
+        },
+        {
+          "text": "hot",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " is it in "
+        },
+        {
+          "text": "miami",
+          "alias": "place_name",
+          "meta": "@place_name",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "a685a7c0-2191-40d1-a086-9cc25a4c3ffc",
+      "data": [
+        {
+          "text": "will it "
+        },
+        {
+          "text": "snow",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "next week",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "e35f323a-37b7-4ddf-a408-220ee64d1652",
+      "data": [
+        {
+          "text": "am i gonna need "
+        },
+        {
+          "text": "rain boots",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "19382bd3-f23e-4c4d-9dab-72b93139764d",
+      "data": [
+        {
+          "text": "should i bring "
+        },
+        {
+          "text": "warm clothes",
+          "alias": "weather_descriptor",
+          "meta": "@weather_descriptor",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d086367a-75a1-48e8-b8fe-ffea3754fc2b",
+      "data": [
+        {
+          "text": "what is the weather this "
+        },
+        {
+          "text": "friday",
+          "alias": "date",
+          "meta": "@date",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "0cea249a-a804-4638-b64c-8ab23d606338",
+  "name": "weather_query",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "dataType": "@date",
+          "name": "date",
+          "value": "$date"
+        },
+        {
+          "dataType": "@place_name",
+          "name": "place_name",
+          "value": "$place_name"
+        },
+        {
+          "dataType": "@time",
+          "name": "time",
+          "value": "$time"
+        },
+        {
+          "dataType": "@timeofday",
+          "name": "timeofday",
+          "value": "$timeofday"
+        },
+        {
+          "dataType": "@weather_descriptor",
+          "name": "weather_descriptor",
+          "value": "$weather_descriptor"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": []
+        }
+      ]
+    }
+  ],
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

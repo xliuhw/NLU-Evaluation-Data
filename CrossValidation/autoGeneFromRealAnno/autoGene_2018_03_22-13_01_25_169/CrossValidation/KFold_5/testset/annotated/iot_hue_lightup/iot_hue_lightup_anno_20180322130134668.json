@@ -1,0 +1,102 @@
+{
+  "test_data_annotation": [
+    {
+      "text": "a little brighter thanks",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "i need the lights raised can you do that",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "increase the light a little",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 19,
+          "end": 27,
+          "value": "a little",
+          "entity": "change_amount"
+        }
+      ]
+    },
+    {
+      "text": "brighten up the lighting",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "brighten the lamp next to the sofa",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 13,
+          "end": 34,
+          "value": "lamp next to the sofa",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn up the lights please",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "please turn the lights up",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "increase the light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "add light",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "i can't see turn up the lights",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "lights brighter",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "please put all the lights",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 11,
+          "end": 25,
+          "value": "all the lights",
+          "entity": "device_type"
+        }
+      ]
+    },
+    {
+      "text": "turn up the brightness",
+      "intent": "iot_hue_lightup",
+      "entities": []
+    },
+    {
+      "text": "raise the lamp's light",
+      "intent": "iot_hue_lightup",
+      "entities": [
+        {
+          "start": 10,
+          "end": 22,
+          "value": "lamp's light",
+          "entity": "device_type"
+        }
+      ]
+    }
+  ]
+}
