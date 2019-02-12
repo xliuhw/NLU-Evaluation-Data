@@ -1,6 +1,24 @@
 # README
 This project contains natural languageg data for human-robot interaction in home domain which we collected and annotated for evaluating NLU Services/platforms.
 
+If you use the data and publish the results please let us know and cite our [IWSDS 2019 paper](https://iwsds2019.unikore.it/program/):
+
+
+```
+@InProceedings{XLiu.EtAl:2019:IWSDS,
+  author    = {Xingkun Liu, Arash Eshghi, Pawel Swietojanski and Verena Rieser},
+  title     = {Benchmarking Natural Language Understanding Services for building Conversational Agents},
+  booktitle = {Proceedings of the Tenth International Workshop on Spoken Dialogue Systems Technology (IWSDS)},
+  month     = {April},
+  year      = {2019},
+  address   = {Ortigia, Siracusa (SR), Italy},
+  publisher = {Springer},
+  pages     = {xxx--xxx},
+  url       = {http://www.xx.xx/xx/}
+}
+
+```
+
 ## License
 All data are released under the CC BY-SA 3.0 license.
 ## Content
