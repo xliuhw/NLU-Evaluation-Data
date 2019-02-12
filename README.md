@@ -20,10 +20,9 @@ The other four subdirectories (out4ApiaiReal, out4LuisReal, out4RasaReal and out
 
 
 ## Scripts for the Data Preparation and Evaluation
-Java and Python [Here](https://github.com/xliuhw/NLU-Evaluation-Scripts)
+Java for preparing the data and Python scripts for querying the Services/Platforms are [Here](https://github.com/xliuhw/NLU-Evaluation-Scripts)
 
 ## Contact
-Please contact xxx, if you have any questions
+Please contact x.liu@hw.ac.uk, if you have any questions
 
-**This is bold text**
-*This text is italicized*
+
