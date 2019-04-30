@@ -37,8 +37,7 @@ It contains
    "answer" contains the original user answers.<br/>
    "answer_normalised" were normalised from "answer".<br/> 
    "notes" was used for the annotators. They put some notes there if they have changed anything.<br/>
-   "status" was used for annotation and post processing. The utterance will be ignored by the post<br/>
-       processing scripts if the column content starts with 'IRR_'.<br/>
+   "status" was used for annotation and post processing. The utterance will be ignored by the post processing scripts if the column content starts with 'IRR_'.<br/>
    "answer_annotation" contains the annotated results, it will be used for generating the train/test<br/>
     datasets, along with "scenario", "intent" and "status".<br/>
 
