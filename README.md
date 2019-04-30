@@ -5,7 +5,7 @@ If you use the data and publish the results please let us know and cite our [IWS
 
 
 ```
-@InProceedings{XLiu.EtAl:2019:IWSDS,
+@InProceedings{XLiu.etal:IWSDS2019,
   author    = {Xingkun Liu, Arash Eshghi, Pawel Swietojanski and Verena Rieser},
   title     = {Benchmarking Natural Language Understanding Services for building Conversational Agents},
   booktitle = {Proceedings of the Tenth International Workshop on Spoken Dialogue Systems Technology (IWSDS)},
@@ -29,6 +29,8 @@ It contains
 2. AnnotatedData (25716 Lines): annotated for Intents and Entities, organized in csv format.
 
 3. The 10-fold cross-validation we used (here for reference only)
+
+  ### NB: The CSV file uses Semicolon(;) as the field/column delimiter! It may mess up with the data if using Colon(,).
 
 CrossValidation contains the generated data for different NLU services we used for our evaluations which are uploaded here for reference only as they can be generated from the annotated csv data using our scripts. NB: the script will shuffle the data each time when runing the script, so the generated data may not be exact the same each time.
 
