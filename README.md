@@ -28,9 +28,24 @@ It contains
 
 2. AnnotatedData (25716 Lines): annotated for Intents and Entities, organized in csv format.
 
+   The annotated csv file has following columns:
+   userid	answerid	scenario	intent	status	answer_annotation	notes	suggested_entities
+   answer_normalised	answer	question
+
+   Most of them come from the original data collection, we keep them here for monitoring of
+   the afterwards processing. 
+
+   "answer" contains the original user answers.
+   "answer_normalised" were normalised from "answer". 
+   "notes" was used for the annotators. They put some notes there if they have changed anything.
+   "status" was used for annotation and post processing. The utterance will be ignored by the post
+       processing scripts if the column content starts with 'IRR_'
+   "answer_annotation" contains the annotated results, it will be used for generating the train/test
+    datasets, along with "scenario", "intent" and "status"
+
 3. The 10-fold cross-validation we used (here for reference only)
 
-  ### NB: The CSV file uses Semicolon(;) as the field/column delimiter! It may mess up with the data if using Colon(,).
+  #### NB: The CSV file uses Semicolon(;) as the field/column delimiter! It may mess up with the data if using Colon(,).
 
 CrossValidation contains the generated data for different NLU services we used for our evaluations which are uploaded here for reference only as they can be generated from the annotated csv data using our scripts. NB: the script will shuffle the data each time when runing the script, so the generated data may not be exact the same each time.
 
