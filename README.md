@@ -29,8 +29,7 @@ It contains
 2. AnnotatedData (25716 Lines): annotated for Intents and Entities, organized in csv format.
 
    The annotated csv file has following columns:
-   userid, answerid, scenario, intent, status, answer_annotation, notes, suggested_entities<br/>
-   answer_normalised, answer, question<br/>
+   userid, answerid, scenario, intent, status, answer_annotation, notes, suggested_entities,    answer_normalised, answer, question<br/>
 
    Most of them come from the original data collection, we keep them here for monitoring of
    the afterwards processing. 
@@ -39,9 +38,9 @@ It contains
    "answer_normalised" were normalised from "answer".<br/> 
    "notes" was used for the annotators. They put some notes there if they have changed anything.<br/>
    "status" was used for annotation and post processing. The utterance will be ignored by the post<br/>
-       processing scripts if the column content starts with 'IRR_'<br/>
+       processing scripts if the column content starts with 'IRR_'.<br/>
    "answer_annotation" contains the annotated results, it will be used for generating the train/test<br/>
-    datasets, along with "scenario", "intent" and "status"<br/>
+    datasets, along with "scenario", "intent" and "status".<br/>
 
 3. The 10-fold cross-validation we used (here for reference only)
 
