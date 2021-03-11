@@ -28,25 +28,25 @@ It contains
 
 2. AnnotatedData (25716 Lines): annotated for Intents and Entities, organized in csv format.
 
-   The annotated csv file has following columns:
-   userid, answerid, scenario, intent, status, answer_annotation, notes, suggested_entities,    answer_normalised, answer, question<br/>
+    The annotated csv file has following columns:
+    userid, answerid, scenario, intent, status, answer_annotation, notes, suggested_entities,    answer_normalised, answer, question<br/>
 
-   Most of them come from the original data collection, we keep them here for monitoring of
-   the afterwards processing. 
+    Most of them come from the original data collection, we keep them here for monitoring of
+    the afterwards processing. 
 
-   "answer" contains the original user answers.<br/>
-   "answer_normalised" were normalised from "answer".<br/> 
-   "notes" was used for the annotators. They put some notes there if they have changed anything.<br/>
-   "status" was used for annotation and post processing. The utterance will be ignored by the post processing scripts if the column content starts with 'IRR_'.<br/>
-   "answer_annotation" contains the annotated results, it will be used for generating the train/test datasets, along with "scenario", "intent" and "status".<br/>
+    "answer" contains the original user answers.<br/>
+    "answer_normalised" were normalised from "answer".<br/> 
+    "notes" was used for the annotators. They put some notes there if they have changed anything.<br/>
+    "status" was used for annotation and post processing. The utterance will be ignored by the post processing scripts if the column content starts with 'IRR_'.<br/>
+    "answer_annotation" contains the annotated results, it will be used for generating the train/test datasets, along with "scenario", "intent" and "status".<br/>
 
 3. The 10-fold cross-validation we used (here for reference only)
 
 4. The Annotation Guidelines
 
-The uploaded annotation guidelines were used when we did the dataset annotations. They were based on our dataset originally designed and collected in the CSV format. Our processing scripts were also based on the same CSV format.
+    The uploaded annotation guidelines were used when we did the dataset annotations. They were based on our dataset originally designed and collected in the CSV format. Our processing scripts were also based on the same CSV format.
 
-You could use ( or convert them to) different formats as you like, e.g. the Markdown format.
+    You could use ( or convert them to) different formats as you like, e.g. the Markdown format.
 
 
   #### NB: The CSV file uses Semicolon(;) as the field/column delimiter! It may mess up with the data if using Colon(,).
