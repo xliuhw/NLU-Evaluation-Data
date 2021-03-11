@@ -42,6 +42,13 @@ It contains
 
 3. The 10-fold cross-validation we used (here for reference only)
 
+4. The Annotation Guidelines
+
+The uploaded annotation guidelines were used when we did the dataset annotations. They were based on our dataset originally designed and collected in the CSV format. Our processing scripts were also based on the same CSV format.
+
+You could use ( or convert them to) different formats as you like, e.g. the Markdown format.
+
+
   #### NB: The CSV file uses Semicolon(;) as the field/column delimiter! It may mess up with the data if using Colon(,).
 
 CrossValidation contains the generated data for different NLU services we used for our evaluations which are uploaded here for reference only as they can be generated from the annotated csv data using our scripts. NB: the script will shuffle the data each time when runing the script, so the generated data may not be exact the same each time.
