@@ -20,7 +20,11 @@ If you use the data and publish the results please let us know and cite our [IWS
 ```
 
 ## License
-All data are released under the CC BY-SA 3.0 license.
+All data are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You should have received a copy of the license along with this dataset. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+
+
 ## Content
 It contains
 
