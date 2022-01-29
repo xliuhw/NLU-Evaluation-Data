@@ -1,5 +1,5 @@
 # README
-This project contains natural languageg data for human-robot interaction in home domain which we collected and annotated for evaluating NLU Services/platforms.
+This project contains natural language data for human-robot interaction in home domain which we collected and annotated for evaluating NLU Services/platforms.
 
 If you use the data and publish the results please let us know and cite our [IWSDS 2019 paper](https://iwsds2019.unikore.it/program/):
 #### (It is also available at [arXiv](https://arxiv.org/abs/1903.05566).)
